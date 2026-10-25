@@ -2,3 +2,7 @@
 __pycache__/
 
 renders/motion/frames/
+
+renders/quality_preview/frames/
+
+renders/quality_preview/worker.log

@@ -1,0 +1,15 @@
+{
+  "fingerprint": "6f6ed020e33b9b86e5f6d3bba6e8c95be1e526c19c0387b349694a203e8a3ba1",
+  "width": 960,
+  "height": 540,
+  "fps": 24,
+  "duration_seconds": 3,
+  "expected_frames": 72,
+  "max_samples": 24,
+  "adaptive_min_samples": 8,
+  "adaptive_threshold": 0.05,
+  "completed": 72,
+  "status": "frames_complete",
+  "loop_validated": false,
+  "elapsed_seconds": 1684.9
+}

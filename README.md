@@ -69,3 +69,14 @@ The crops add no detail beyond the full-room render. No audio or seamless
 loop is included. Raw preview frames are ignored by Git; they can be regenerated.
 Do not rebuild the still scene after motion setup without rerunning
 `scripts/setup_motion.py`. Download the whole branch to retain sequence assets.
+
+## Smoother quality preview
+
+The completed quality review uses genuine 24 fps, 960 × 540 and adaptive Cycles sampling
+up to 24 samples, with denoising. See [quality preview workflow](docs/quality-preview.md).
+The preceding 12 fps clips remain available under `renders/motion/`.
+
+Quality review files: `renders/quality_preview/full_room.mp4`,
+`renders/quality_preview/fire_crop.mp4` and `renders/quality_preview/window_crop.mp4`.
+Each is three seconds at 24 fps; full room is 960 × 540. Validation is recorded
+in `renders/quality_preview/qa.json`. The earlier 12 fps study is preserved.

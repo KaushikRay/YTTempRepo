@@ -137,3 +137,14 @@ with no audio. Decode/frame-count checks passed and fire/window regions change.
 Sampled frames inspected; full user playback review is pending. Not a seamless
 loop or final photoreal animation. Blender's Python worker stalled after
 render completion during cleanup; it was terminated after output validation.
+
+## Smoother quality preview
+
+Preserved approved camera and motion. Rendered all 72 timeline frames at true
+24 fps, 960 × 540, adaptive sampling up to 24 with OIDN and persistent data.
+Render loop finished in 28 min 5 sec. Worker cleanup stalled afterward and was
+terminated by the supervisor, with -15 recorded. Full-room, fire crop and
+window crop MP4s passed complete decoding and 3 sec / 72-frame / 24 fps checks.
+Sampled first/mid/end frames inspected. No frame interpolation, no audio,
+no long video and no seamless-loop claim. Source art and fire matte limitations
+remain; this is a rendering quality pass. Playback review is the next gate.
