@@ -109,3 +109,15 @@ All rejected procedural hearth gas envelopes removed. Real-fire download and
 integration remain blocked by environment network access; draft additions
 saved, user review/save/publish required. Current fire is logs/embers only.
 The room remains less richly dressed and less photoreal than the reference.
+
+## Downloaded fire asset still
+
+Retrieved 1920 × 1080 CC BY 3.0 fireplace footage from Wikimedia Commons;
+BlenderKit/JangaFX hosts remained unavailable during lookup. Retained original
+clip, raw source metadata, licence, attribution and checksum under assets/fire.
+Selected frame at 2 sec; temporal median matte removes stationary source wall.
+Packed the keyed still and credits into the Blender file. Rejected earlier
+colour-key render with red background speckles. Final room and hearth close-up
+completed and inspected. Low-brightness wisps are partly trimmed; the integration
+remains a review composite. Original movie retained, but animation is not yet
+integrated or loop-tested. No native VDB/3D simulation is used for these flames.

@@ -1,5 +1,8 @@
 # Rustic tavern / reference stonework review
 
+Historical iteration note: the Commons fire asset has since been downloaded
+and integrated for a still. See `real-fire-integration.md` for current status.
+
 ## Observed in the supplied reference
 
 The side wall and chimney contain grey-brown, roughly dressed stone in

@@ -1,74 +1,55 @@
-# Gothic storm lounge — first composition study
+# Rustic Gothic tavern — Blender development scene
 
-Reference recovered from commit `51e4ad4`, saved in `reference/original.png`.
+Current scene: `storm_lounge.blend` (generated with Blender 4.3.2).
+Reference: `reference/original.png`, recovered from repository commit 51e4ad4.
 
-## Build and render
+The current hearth uses a keyed frame from actual 1920 × 1080 fireplace
+footage, not the rejected procedural flames. The frame is packed into the
+Blender file, with attribution embedded as a text block. **CC BY 3.0 credits
+are required when distributing the result.** See `assets/fire/CREDITS.txt`.
 
-Blender 4.3.2, no external assets or Python packages required:
+## Review images
 
-```sh
-blender -b -t 5 --python scripts/build_scene.py
-```
+- `renders/composition.png`: current room with downloaded fire footage.
+- `renders/real_fire_detail.png`: current hearth close-up.
+- `renders/tavern_study.png`: earlier rustic room before real fire integration.
+- `renders/masonry_detail.png`: masonry close-up.
+- `renders/candle_detail.png`: candle close-up from the earlier lounge iteration.
 
-This rebuilds `storm_lounge.blend` and renders `renders/composition.png`.
-Open the blend file in Blender and use the saved camera (Numpad 0).
-The current preview renders at 1280 × 720 with Cycles, 192 samples and an indirect-light clamp. This Blender build lacks OpenImageDenoise.
+## Rebuild
 
-## Scope of this iteration
-
-A procedural composition study (second visual pass): stone hall, paired pointed leaded windows,
-oculus, large right-hand fireplace, leather seating, table, candles, books,
-rugs, exterior cottages and trees. Fire shapes, hearth illumination, candle
-shapes and tree sway have preliminary animation over a six-second timeline.
-
-This is not the finished photoreal scene or an approved animation. Materials
-are procedural placeholders. Rain is static streak geometry in this still;
-glass runoff, physically credible flame animation, detailed upholstery,
-reference-quality vegetation, smoke, lightning variations, and seamless loop
-validation remain to be developed. No audio is included.
-
-Next: compare the still against the reference, correct architecture and camera,
-then replace prominent placeholder surfaces and assets before animation tests.
-
-The build automatically runs `scripts/refine_scene.py` to add staggered masonry,
-nested window mouldings, chimney detail, a draped blanket, finer interior
-foliage and flame ribbons, and revised camera/table placement.
-
-## Current surface/storm pass
-
-The builder also executes `scripts/detail_scene.py`. A quick diagnostic is
-the default (640 × 360, 48 samples). For the larger review still:
+Blender 4.3.2 and FFmpeg are used. Retained source material and licence metadata
+are under `assets/fire/`. To reproduce the processed still if needed:
 
 ```sh
-LOUNGE_PREVIEW_PERCENT=100 LOUNGE_SAMPLES=160 blender -b -t 5 --python scripts/build_scene.py
+/workspace/tools/fire-venv/bin/python scripts/prepare_fire_asset.py
 ```
 
-Both commands overwrite the same scene and preview; Blender retains its
-usual `.blend1` backup. The current scene includes provisional linear falling
-rain, not yet an approved seamless loop. Glass and distant landscape are
-procedural approximations. No external scanned assets have been downloaded.
+Build the scene without a render:
 
-## Fire and candle revision
+```sh
+LOUNGE_SKIP_RENDER=1 LOUNGE_PREVIEW_PERCENT=100 LOUNGE_SAMPLES=128 \
+  blender -b -t 5 --python scripts/build_scene.py
+```
 
-The builder now also runs `scripts/fire_candle_pass.py`, replacing the flat
-hearth ribbons and oversized candle flames. See
-[fire investigation and validation](docs/fire-assets-and-validation.md) for
-asset access results, solver failures, the procedural fallback, and optional
-denoised rendering through the separate official Blender Python runtime.
-`renders/candle_detail.png` provides a separate candle review view.
+The system Blender lacks OpenImageDenoise. An isolated official bpy==4.5.3
+runtime (Python 3.11, numpy==1.26.4) renders clean review images without
+resaving/upgrading the Blender 4.3 scene:
 
-## Current tavern / rain study
+```sh
+OMP_NUM_THREADS=5 LOUNGE_SAMPLES=80 LOUNGE_PREVIEW_PERCENT=100 LOUNGE_FIRE_DETAIL=1 \
+  /workspace/tools/fire-venv/bin/python scripts/render_review.py
+```
 
-`scripts/tavern_pass.py` replaces the lounge dressing with rougher masonry,
-oak benches, casks and trestle furniture, and adds visible rain and rivulets.
-The rejected procedural hearth fire is removed. **Real-fire footage is still
-pending network access and licence verification.** The current hearth contains
-logs and embers, not the requested finished fire.
+Those paths describe this cloud workspace. On another machine, use a Python
+3.11 virtual environment with bpy==4.5.3 and numpy==1.26.4, or render in a
+Blender application build with denoising support.
 
-See [reference review and fire blocker](docs/tavern-reference-review.md).
-`renders/masonry_detail.png` is the current wall close-up. The candle close-up
-was rendered in the preceding lounge iteration.
+## Limitations
 
-For the tavern review views, run the build command above with
-`LOUNGE_SKIP_RENDER=1`, then run the optional isolated renderer with
-`LOUNGE_WALL_DETAIL=1`. This also generates the masonry view after the room.
+This remains a development scene, not a final photoreal match. The fire is a
+video-derived image card intended for the locked camera. Its original 30-second
+movie is retained, but animated fire integration and looping are not completed.
+Rain and candle motion are provisional and unvalidated. No audio is included.
+The animation, lighting integration and scene dressing still require refinement.
+See `docs/real-fire-integration.md` for source, processing and validation.

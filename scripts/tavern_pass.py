@@ -149,13 +149,14 @@ fire_path=os.path.join(ROOT,'assets','fire','fire.mp4');manifest_path=os.path.jo
 if os.path.isfile(fire_path) and os.path.isfile(manifest_path):
  with open(manifest_path) as f:meta=json.load(f)
  if not meta.get('commercial_use_verified') or not meta.get('source_url') or not meta.get('license_url'):raise RuntimeError('Real-fire asset requires verified source and commercial-use licence metadata')
- image=bpy.data.images.load(fire_path);image.source='MOVIE'
+ image=bpy.data.images.load(os.path.join(ROOT,'assets','fire','fire_still.png'));image.pack();bpy.data.texts.new('FIRE_ASSET_CREDITS.txt').write(meta['attribution'])
  mat=bpy.data.materials.new('Licensed filmed fire');mat.use_nodes=True;n=mat.node_tree.nodes;l=mat.node_tree.links;n.clear();out=n.new('ShaderNodeOutputMaterial');tex=n.new('ShaderNodeTexImage');tex.image=image;tex.image_user.use_auto_refresh=True;tex.image_user.use_cyclic=True;tex.image_user.frame_duration=int(meta['frame_count']);tex.image_user.frame_start=1;tex.image_user.frame_offset=0
- tr=n.new('ShaderNodeBsdfTransparent');em=n.new('ShaderNodeEmission');em.inputs['Strength'].default_value=2;l.new(tex.outputs['Color'],em.inputs['Color']);bw=n.new('ShaderNodeRGBToBW');l.new(tex.outputs['Color'],bw.inputs[0]);alpha=n.new('ShaderNodeMapRange');alpha.inputs['From Min'].default_value=.015;alpha.inputs['From Max'].default_value=.25;l.new(bw.outputs[0],alpha.inputs[0]);mix=n.new('ShaderNodeMixShader');l.new(alpha.outputs[0],mix.inputs[0]);l.new(tr.outputs[0],mix.inputs[1]);l.new(em.outputs[0],mix.inputs[2]);l.new(mix.outputs[0],out.inputs[0])
- verts=[(4.7,2.05,.4),(4.7,4.55,.4),(4.7,4.55,2.5),(4.7,2.05,2.5)];me=bpy.data.meshes.new('Filmed fire integration card');me.from_pydata(verts,[],[(0,1,2,3)]);uvmap=me.uv_layers.new()
+ tr=n.new('ShaderNodeBsdfTransparent');em=n.new('ShaderNodeEmission');em.inputs['Strength'].default_value=1.5;l.new(tex.outputs['Color'],em.inputs['Color']);mix=n.new('ShaderNodeMixShader');l.new(tex.outputs['Alpha'],mix.inputs[0]);l.new(tr.outputs[0],mix.inputs[1]);l.new(em.outputs[0],mix.inputs[2]);l.new(mix.outputs[0],out.inputs[0])
+ verts=[(4.7,1.85,.32),(4.7,4.75,.32),(4.7,4.75,1.95125),(4.7,1.85,1.95125)];me=bpy.data.meshes.new('Filmed fire integration card');me.from_pydata(verts,[],[(0,1,2,3)]);uvmap=me.uv_layers.new()
  for loop,uv in zip(uvmap.data,[(0,0),(1,0),(1,1),(0,1)]):loop.uv=uv
  me.materials.append(mat);ob=bpy.data.objects.new('Real-fire footage in hearth',me);bpy.context.collection.objects.link(ob)
- print('PROGRESS: real fire footage integrated',flush=True)
+ remove_prefixes(['Ember'])
+ print('PROGRESS: licensed photographic fire still integrated; animation source retained',flush=True)
 else:
  print('BLOCKED: real-fire footage not downloaded; hearth contains logs and embers only',flush=True)
 # Save the visible rain phase; warm room remains dark enough to read the window.

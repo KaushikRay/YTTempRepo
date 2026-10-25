@@ -1,0 +1,15 @@
+{
+  "source_url": "https://commons.wikimedia.org/wiki/File:Fantastic-fireplace-fire-chimney-hearth-_background_-_texture_-_motion_graphics_-_free_video_library.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fantastic-fireplace-fire-chimney-hearth-_background_-_texture_-_motion_graphics_-_free_video_library.webm",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "author": "free video library",
+  "commercial_use_verified": true,
+  "frame_count": 900,
+  "frame_rate": "30/1",
+  "still_frame_seconds": 2,
+  "integration_mode": "still_for_review",
+  "attribution": "Fire footage: \"Fantastic-fireplace-fire-chimney-hearth- background - texture - motion graphics - free video library\" by free video library, via Wikimedia Commons. Licence: CC BY 3.0, https://creativecommons.org/licenses/by/3.0/. Source: https://commons.wikimedia.org/wiki/File:Fantastic-fireplace-fire-chimney-hearth-_background_-_texture_-_motion_graphics_-_free_video_library.webm. Modified: selected a still frame and keyed out the red/dark background for integration into a Blender scene.",
+  "original_sha256": "0d8094ccd902b986c16d453d7167664536b51978607a2c737e76f0220ce6bea5",
+  "matte_method": "temporal median background subtraction, bright flame-core mask and median filtering"
+}
