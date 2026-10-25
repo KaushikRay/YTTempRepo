@@ -121,3 +121,19 @@ colour-key render with red background speckles. Final room and hearth close-up
 completed and inspected. Low-brightness wisps are partly trimmed; the integration
 remains a review composite. Original movie retained, but animation is not yet
 integrated or loop-tested. No native VDB/3D simulation is used for these flames.
+
+## Three-second motion study
+
+Prepared 72 keyed fire images at 1280 × 720 / 24 fps from licensed source
+seconds 2–5. Linked as a relative-path image sequence, with source brightness
+driving the hearth light. Added independent rain wrapping, sliding droplets,
+candle tilt/flicker and root-based exterior tree sway. Runtime checks passed
+for changing driver evaluations and distinct fire source images.
+
+Rendered 36 frames at 640 × 360 / 12 Cycles samples, sampled from the 24 fps
+scene at every other frame. Render loop completed in 313 seconds. Full-room
+MP4 plus magnified fire/window crops are each 3 seconds / 36 frames / 12 fps,
+with no audio. Decode/frame-count checks passed and fire/window regions change.
+Sampled frames inspected; full user playback review is pending. Not a seamless
+loop or final photoreal animation. Blender's Python worker stalled after
+render completion during cleanup; it was terminated after output validation.

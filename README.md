@@ -3,9 +3,10 @@
 Current scene: `storm_lounge.blend` (generated with Blender 4.3.2).
 Reference: `reference/original.png`, recovered from repository commit 51e4ad4.
 
-The current hearth uses a keyed frame from actual 1920 × 1080 fireplace
-footage, not the rejected procedural flames. The frame is packed into the
-Blender file, with attribution embedded as a text block. **CC BY 3.0 credits
+The current hearth uses a 72-frame keyed sequence from downloaded 1920 × 1080
+fireplace footage, not the rejected procedural flames. Keep assets/fire/sequence
+alongside the Blender file; the animated images are external relative-path
+assets. Attribution is embedded as a text block. **CC BY 3.0 credits
 are required when distributing the result.** See `assets/fire/CREDITS.txt`.
 
 ## Review images
@@ -48,8 +49,23 @@ Blender application build with denoising support.
 ## Limitations
 
 This remains a development scene, not a final photoreal match. The fire is a
-video-derived image card intended for the locked camera. Its original 30-second
-movie is retained, but animated fire integration and looping are not completed.
+video-derived image card intended for the locked camera. A three-second motion
+study is integrated; final smooth animation and seamless looping are not completed.
 Rain and candle motion are provisional and unvalidated. No audio is included.
 The animation, lighting integration and scene dressing still require refinement.
 See `docs/real-fire-integration.md` for source, processing and validation.
+
+## Current motion preview
+
+The scene now has a three-second 24 fps timeline. The review MP4 samples it
+at 12 fps / 640 × 360. See [motion workflow and limits](docs/motion-preview.md).
+
+- `renders/motion/full_room.mp4`: full-room motion study.
+- `renders/motion/fire_crop.mp4`: magnified crop of the fire.
+- `renders/motion/window_crop.mp4`: magnified crop of the window.
+- `renders/motion/qa.json`: duration, frame count and decode checks.
+
+The crops add no detail beyond the full-room render. No audio or seamless
+loop is included. Raw preview frames are ignored by Git; they can be regenerated.
+Do not rebuild the still scene after motion setup without rerunning
+`scripts/setup_motion.py`. Download the whole branch to retain sequence assets.

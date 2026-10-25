@@ -1,0 +1,10 @@
+{
+  "scene_fps": 24,
+  "scene_frames": 72,
+  "duration_seconds": 3,
+  "fire_sequence_frames": 72,
+  "rain_streaks": 945,
+  "animated_candle_flames": 33,
+  "exterior_tree_roots": 3,
+  "seamless_loop": false
+}
