@@ -83,3 +83,17 @@ tableware and ivy added. Remaining gaps: stone still too orderly, furnishings
 too sparse, flame rendering stylized, rain insufficiently visible, exterior
 sky too uniform for a heavy thunderstorm. No animation approved or rendered.
 Framing review is the next user-facing checkpoint; the full look is not ready.
+
+## Fire/candle review iteration
+
+Rebuilt candles with melted profiles, subsurface wax, dark wicks, thin drips,
+small warm volumetric flames and tiny blue bases. Added a 960 × 720 close-up.
+Removed the flat hearth ribbons. Fluid baking failed across the installed and
+isolated runtimes; see fire-assets-and-validation.md. Final fallback uses
+irregular tapered three-dimensional emitting volumes, not fluid simulation.
+Added stone relief and mineral variation. Denoised room render completed at
+1280 × 720 / 80 samples in 3 min 4 sec; candle view completed at 960 × 720 /
+96 samples in 2 min 36 sec. Both were inspected. Rejected earlier overexposed
+and box-shaped volume tests. Current hearth silhouette remains stylized and
+less complex than photographed fire. Candle/prop geometry also needs further
+art direction. Animation has not been rendered or loop-validated.

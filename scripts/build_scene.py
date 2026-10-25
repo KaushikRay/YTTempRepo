@@ -190,4 +190,6 @@ s=bpy.context.scene;s.render.engine='CYCLES';s.cycles.samples=64;s.cycles.use_de
 s.world.color=(.035,.035,.035);s.view_settings.view_transform='AgX';s.view_settings.look='AgX - Medium High Contrast';s.view_settings.exposure=.1
 exec(compile(open(os.path.join(ROOT,'scripts','refine_scene.py')).read(),'refine_scene.py','exec'))
 exec(compile(open(os.path.join(ROOT,'scripts','detail_scene.py')).read(),'detail_scene.py','exec'))
-s.render.filepath=os.path.join(ROOT,'renders','composition.png');bpy.ops.wm.save_as_mainfile(filepath=os.path.join(ROOT,'storm_lounge.blend'));bpy.ops.render.render(write_still=True)
+exec(compile(open(os.path.join(ROOT,'scripts','fire_candle_pass.py')).read(),'fire_candle_pass.py','exec'))
+s.render.filepath=os.path.join(ROOT,'renders','composition.png');bpy.ops.wm.save_as_mainfile(filepath=os.path.join(ROOT,'storm_lounge.blend'));
+if os.environ.get('LOUNGE_SKIP_RENDER')!='1':bpy.ops.render.render(write_still=True)

@@ -47,3 +47,12 @@ Both commands overwrite the same scene and preview; Blender retains its
 usual `.blend1` backup. The current scene includes provisional linear falling
 rain, not yet an approved seamless loop. Glass and distant landscape are
 procedural approximations. No external scanned assets have been downloaded.
+
+## Fire and candle revision
+
+The builder now also runs `scripts/fire_candle_pass.py`, replacing the flat
+hearth ribbons and oversized candle flames. See
+[fire investigation and validation](docs/fire-assets-and-validation.md) for
+asset access results, solver failures, the procedural fallback, and optional
+denoised rendering through the separate official Blender Python runtime.
+`renders/candle_detail.png` provides a separate candle review view.
