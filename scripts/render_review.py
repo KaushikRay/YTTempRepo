@@ -11,3 +11,8 @@ if os.environ.get('LOUNGE_DETAIL','0')=='1':
  from mathutils import Vector
  cam=s.camera;cam.location=(1.8,-4.65,1.55);cam.rotation_euler=(Vector((.65,-2.15,1.13))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.lens=65
  s.render.resolution_x=960;s.render.resolution_y=720;s.render.resolution_percentage=100;s.cycles.samples=96;s.render.filepath=os.path.join(ROOT,'renders','candle_detail.png');bpy.ops.render.render(write_still=True)
+
+if os.environ.get('LOUNGE_WALL_DETAIL','0')=='1':
+ from mathutils import Vector
+ cam=s.camera;cam.location=(-3.85,.4,2.55);cam.rotation_euler=(Vector((-5.85,2.8,2.65))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.lens=52
+ s.render.resolution_x=960;s.render.resolution_y=720;s.render.resolution_percentage=100;s.cycles.samples=64;s.render.filepath=os.path.join(ROOT,'renders','masonry_detail.png');bpy.ops.render.render(write_still=True)

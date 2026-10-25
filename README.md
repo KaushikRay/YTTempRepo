@@ -56,3 +56,19 @@ hearth ribbons and oversized candle flames. See
 asset access results, solver failures, the procedural fallback, and optional
 denoised rendering through the separate official Blender Python runtime.
 `renders/candle_detail.png` provides a separate candle review view.
+
+## Current tavern / rain study
+
+`scripts/tavern_pass.py` replaces the lounge dressing with rougher masonry,
+oak benches, casks and trestle furniture, and adds visible rain and rivulets.
+The rejected procedural hearth fire is removed. **Real-fire footage is still
+pending network access and licence verification.** The current hearth contains
+logs and embers, not the requested finished fire.
+
+See [reference review and fire blocker](docs/tavern-reference-review.md).
+`renders/masonry_detail.png` is the current wall close-up. The candle close-up
+was rendered in the preceding lounge iteration.
+
+For the tavern review views, run the build command above with
+`LOUNGE_SKIP_RENDER=1`, then run the optional isolated renderer with
+`LOUNGE_WALL_DETAIL=1`. This also generates the masonry view after the room.

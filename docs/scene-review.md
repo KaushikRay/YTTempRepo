@@ -97,3 +97,15 @@ Added stone relief and mineral variation. Denoised room render completed at
 and box-shaped volume tests. Current hearth silhouette remains stylized and
 less complex than photographed fire. Candle/prop geometry also needs further
 art direction. Animation has not been rendered or loop-validated.
+
+## Rustic tavern revision
+
+Compared masonry and dressing again against reference. Rebuilt wall courses
+with uneven block sizes, chamfered corners, nonplanar faces and shallower
+mortar; corrected inward-facing sidewall geometry. Replaced leather lounge
+seating with oak benches, casks, firewood, trestle furniture and cookware.
+Near-window rain and rivulets are now visible in the full-room still.
+All rejected procedural hearth gas envelopes removed. Real-fire download and
+integration remain blocked by environment network access; draft additions
+saved, user review/save/publish required. Current fire is logs/embers only.
+The room remains less richly dressed and less photoreal than the reference.
