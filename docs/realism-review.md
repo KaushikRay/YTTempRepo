@@ -1,5 +1,8 @@
 # Realism rebuild — reference review and asset-based still
 
+The current [lighting and exterior iteration](lighting-exterior-iteration.md)
+refines ivy shapes/attachment and adds detailed CC0 landscape assets.
+
 The latest [creeper and weather iteration](creeper-iteration.md) adds interior
 ivy and revises rain visibility. Scene and image paths are updated in place.
 

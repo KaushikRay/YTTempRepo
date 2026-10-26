@@ -83,6 +83,7 @@ s.view_settings.view_transform='AgX';s.view_settings.exposure=.45;s.render.resol
 # Historic construction/detail stage; uses the same existing scene and output paths.
 exec(compile((r/'scripts/historic_detail_pass.py').read_text(),str(r/'scripts/historic_detail_pass.py'),'exec'))
 exec(compile((r/'scripts/creeper_weather_pass.py').read_text(),str(r/'scripts/creeper_weather_pass.py'),'exec'))
+exec(compile((r/'scripts/lighting_exterior_pass.py').read_text(),str(r/'scripts/lighting_exterior_pass.py'),'exec'))
 # Textures travel in the scene; source models/maps are retained separately with CC0 provenance.
 bpy.data.orphans_purge(do_recursive=True)
 for image in bpy.data.images:

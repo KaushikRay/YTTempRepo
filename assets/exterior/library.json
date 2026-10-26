@@ -1,0 +1,22 @@
+[
+  {
+    "collection": "Exterior Fir C",
+    "source_dimensions_m": [
+      6.305939197540283,
+      5.9662370681762695,
+      14.520581245422363
+    ],
+    "normalized_height": 1,
+    "source": "assets/exterior/fir_tree_01_c/fir_tree_01_c.gltf"
+  },
+  {
+    "collection": "Exterior Shrub 02",
+    "source_dimensions_m": [
+      6.5727434158325195,
+      2.535989284515381,
+      2.5480732917785645
+    ],
+    "normalized_height": 1,
+    "source": "assets/exterior/shrub_02/shrub_02.gltf"
+  }
+]

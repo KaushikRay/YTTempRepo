@@ -1,5 +1,9 @@
 # Interior creeper and storm visibility iteration
 
+This records the previous creeper milestone. The current image is updated by
+the [lighting/exterior pass](lighting-exterior-iteration.md), which supersedes
+the leaf geometry, attachment method and counts reported below.
+
 ## Reference details
 
 The original image shows woody climbing growth on shaded stone piers, irregular

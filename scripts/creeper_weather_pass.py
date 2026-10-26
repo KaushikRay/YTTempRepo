@@ -5,6 +5,7 @@ Branches/curved leaf geometry are authored here; actual CC0 leaf photography
 supplies surface detail. Original photos and provenance stay in assets/creeper.
 """
 from mathutils import Quaternion
+from mathutils.bvhtree import BVHTree
 print('CREEPER PASS: attached branching ivy, leaf photography and storm layers',flush=True)
 rng=random.Random(729)
 plant_collection=bpy.data.collections.new('Interior creeper');s.collection.children.link(plant_collection)
@@ -12,40 +13,37 @@ stemmat=roughmat('Creeper corky living stems',(.055,.037,.019),38,.0011)
 petiolemat=roughmat('Creeper leaf petioles',(.045,.065,.019),26,.00015)
 leafmat=bpy.data.materials.new('Creeper CC0 photographed ivy leaf');leafmat.use_nodes=True
 n=leafmat.node_tree.nodes;l=leafmat.node_tree.links;p=n.get('Principled BSDF')
-photo=n.new('ShaderNodeTexImage');photo.image=bpy.data.images.load(str(r/'assets/creeper/ivy_leaf_2025.jpg'),check_existing=True)
+photo=n.new('ShaderNodeTexImage');photo.image=bpy.data.images.load(str(r/'assets/creeper/ivy_atlas.jpg'),check_existing=True)
 grade=n.new('ShaderNodeHueSaturation');grade.inputs['Saturation'].default_value=.82;grade.inputs['Value'].default_value=.7;l.new(photo.outputs['Color'],grade.inputs['Color'])
 objinfo=n.new('ShaderNodeObjectInfo');variation=n.new('ShaderNodeMapRange');variation.inputs['To Min'].default_value=.72;variation.inputs['To Max'].default_value=1.12;l.new(objinfo.outputs['Random'],variation.inputs[0])
 multiply=n.new('ShaderNodeMixRGB');multiply.blend_type='MULTIPLY';multiply.inputs[0].default_value=1;l.new(grade.outputs[0],multiply.inputs[1]);l.new(variation.outputs[0],multiply.inputs[2])
-green=n.new('ShaderNodeMixRGB');green.blend_type='MULTIPLY';green.inputs[0].default_value=1;green.inputs[2].default_value=(.52,.82,.36,1);l.new(multiply.outputs[0],green.inputs[1]);l.new(green.outputs[0],p.inputs['Base Color'])
+green=n.new('ShaderNodeMixRGB');green.blend_type='MULTIPLY';green.inputs[0].default_value=1;green.inputs[2].default_value=(.36,.58,.23,1);l.new(multiply.outputs[0],green.inputs[1]);l.new(green.outputs[0],p.inputs['Base Color'])
 p.inputs['Roughness'].default_value=.34;p.inputs['Specular IOR Level'].default_value=.3;p.inputs['Coat Weight'].default_value=.11;p.inputs['Coat Roughness'].default_value=.26;p.inputs['Subsurface Weight'].default_value=.055;p.inputs['Subsurface Scale'].default_value=.001
 bump=n.new('ShaderNodeBump');bump.inputs['Strength'].default_value=.18;bump.inputs['Distance'].default_value=.00025;l.new(photo.outputs['Color'],bump.inputs['Height']);l.new(bump.outputs[0],p.inputs['Normal'])
 trans=n.new('ShaderNodeBsdfTranslucent');l.new(green.outputs[0],trans.inputs['Color']);mix=n.new('ShaderNodeMixShader');mix.inputs[0].default_value=.12;l.new(p.outputs[0],mix.inputs[1]);l.new(trans.outputs[0],mix.inputs[2]);l.new(mix.outputs[0],n.get('Material Output').inputs['Surface'])
 
-# A lobed, cupped leaf with 4 radial rings. The photograph is UV sampled from
-# within its large central leaf; no background card or flat foliage cloud.
-outline=[(0,-.30),(-.25,-.47),(-.55,-.38),(-.49,-.04),(-.78,.13),(-.43,.42),(-.23,.32),(0,1),(.23,.32),(.43,.42),(.78,.13),(.49,-.04),(.55,-.38),(.25,-.47)]
-# Round the broad lobe edges; the coarse control polygon read as cut paper.
-control=[Vector(v) for v in outline];outline=[]
-for k,point in enumerate(control):
-    previous=control[(k-1)%len(control)];following=control[(k+1)%len(control)]
-    start=previous*.25+point*.75;end=point*.75+following*.25
-    for j in range(5):
-        t=j/5;q=start*(1-t)**2+point*2*t*(1-t)+end*t*t;outline.append(tuple(q))
+# Follow three photographed botanical outlines, not a generic star polygon.
+# Geometry and UVs use the same trace so veins remain aligned to each lobe.
+traces=json.loads((r/'assets/creeper/leaf-traces.json').read_text())
 leaf_meshes=[]
-for variant in range(5):
-    verts=[(0,0,.045)];uvs=[(.465,.64)];faces=[]
-    for ring in range(1,5):
-        t=ring/4
-        for k,(x,y) in enumerate(outline):
-            xx=x*t*(1+.035*math.sin(k*3+variant));yy=y*t
-            zz=.065*(1-t*t)+.12*t*t*math.sin(k*.8+variant)+.022*xx*xx
-            verts.append((xx,yy,zz));uvs.append((.465+xx*.225,.64+yy*.285))
+for specimen in traces['leaves']:
+ for variant in range(3):
+    centre=Vector(specimen['centre']);root=Vector(specimen['root']);outline=[Vector(v) for v in specimen['outline']];length=max((v-root).length for v in outline)
+    def surface(point):
+        q=(point-root)/length;x=q.x;y=-q.y
+        z=(.025+.008*variant)*x*x+.022*y*y+.012*math.sin(y*2.2+variant)*x
+        return (x,y,z)
+    verts=[surface(centre)];uvs=[(centre.x/1200,1-centre.y/1600)];faces=[]
+    for ring in range(1,6):
+        t=ring/5
+        for boundary in outline:
+            pt=centre.lerp(boundary,.985*t);verts.append(surface(pt));uvs.append((pt.x/1200,1-pt.y/1600))
     count=len(outline)
     for k in range(count):faces.append((0,1+k,1+(k+1)%count))
-    for ring in range(3):
+    for ring in range(4):
         for k in range(count):
             a0=1+ring*count+k;a1=1+ring*count+(k+1)%count;faces.append((a0,a1,a1+count,a0+count))
-    me=bpy.data.meshes.new('Creeper curved lobed leaf '+str(variant));me.from_pydata(verts,[],faces);me.materials.append(leafmat);uv=me.uv_layers.new()
+    me=bpy.data.meshes.new('Creeper traced '+specimen['name']+str(variant));me.from_pydata(verts,[],faces);me.materials.append(leafmat);uv=me.uv_layers.new()
     for lp in me.loops:uv.data[lp.index].uv=uvs[lp.vertex_index]
     for poly in me.polygons:poly.use_smooth=True
     leaf_meshes.append(me)
@@ -58,6 +56,22 @@ def tube(name,points,radius,mat):
     cu.materials.append(mat);ob=bpy.data.objects.new('Creeper '+name,cu);plant_collection.objects.link(ob);return ob
 
 leaf_count=0
+# Ray-project leaders and petioles to the actual architecture instead of the
+# former rounded approximation around piers and the mantel.
+bpy.context.view_layer.update();depsgraph=bpy.context.evaluated_depsgraph_get()
+support_prefixes=('Scan stone side wall','Scan stone back wall','Scan chimney face','Scan wall infill','Stone pier','Historic jointed window jamb','Fireplace carved jamb','Carved fireplace jamb blocks','Layered carved mantel','Oak mantel')
+support_vertices=[];support_faces=[]
+for support in bpy.data.objects:
+    if support.type=='MESH' and support.name.startswith(support_prefixes):
+        evaluated=support.evaluated_get(depsgraph);mesh=evaluated.to_mesh();base=len(support_vertices)
+        support_vertices.extend(evaluated.matrix_world@v.co for v in mesh.vertices)
+        support_faces.extend(tuple(base+i for i in face.vertices) for face in mesh.polygons)
+        evaluated.to_mesh_clear()
+support_bvh=BVHTree.FromPolygons(support_vertices,support_faces)
+def cling(origin,direction,offset,fallback):
+    hit= support_bvh.ray_cast(origin,direction,15)[0]
+    return hit-direction*offset if hit is not None else fallback
+
 def grow(label,origin,height,project,normal,tangent,branches):
     global leaf_count
     def axis(t):return origin+.18*math.sin(t*5.3)+.045*math.sin(t*19)
@@ -85,19 +99,14 @@ def grow(label,origin,height,project,normal,tangent,branches):
             leaf_count+=1
 
 def left_surface(u,z,offset):
-    pier=max(math.exp(-((u-p)/.36)**8) for p in [-3,1,5,8.5])
-    return Vector((-5.96+.62*pier+offset,u,z))
+    return cling(Vector((0,u,z)),Vector((-1,0,0)),offset,Vector((-5.96+offset,u,z)))
 grow('left foreground pier',1.05,6.0,left_surface,Vector((1,0,0)),Vector((0,1,0)),38)
 grow('left rear pier',5.05,6.5,left_surface,Vector((1,0,0)),Vector((0,1,0)),27)
-grow('window side',1.82,5.35,lambda u,z,o:Vector((max(1.25,u),8.90-o,z)),Vector((0,-1,0)),Vector((1,0,0)),29)
+grow('window side',1.82,5.35,lambda u,z,o:cling(Vector((max(1.29,u),4,z)),Vector((0,1,0)),o,Vector((max(1.29,u),8.90-o,z))),Vector((0,-1,0)),Vector((1,0,0)),29)
 # Outer cheek only, kept away from the hot firebox and open flames.
 def hearth_surface(u,z,offset):
-    if z<2.8:x=4.535
-    elif z<2.98:x=4.535-(z-2.8)/.18*.38
-    elif z<3.5:x=4.155
-    elif z<3.67:x=4.155+(z-3.5)/.17*.92
-    else:x=5.075
-    return Vector((x-offset,min(1.42,max(1.09,u)),z))
+    u=min(1.42,max(1.09,u))
+    return cling(Vector((0,u,z)),Vector((1,0,0)),offset,Vector((5.075-offset,u,z)))
 grow('hearth outer cheek',1.25,5.65,hearth_surface,Vector((-1,0,0)),Vector((0,1,0)),18)
 
 # Storm at the glass: a continuous population of fine streaks at several depths,

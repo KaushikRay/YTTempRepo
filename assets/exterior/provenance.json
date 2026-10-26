@@ -1,0 +1,167 @@
+{
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/fir_tree_01",
+  "authors": {
+    "Rob Tuytel": "photography",
+    "Rico Cilliers": "modeling"
+  },
+  "geometry": "Complete variant C accessor views extracted by HTTP Range; no decimation",
+  "original_buffer_bytes": 478462204,
+  "original_buffer_not_fully_downloaded": true,
+  "subset_buffer_bytes": 33249936,
+  "subset_buffer_sha256": "9c21b774c1f6470d393e420c40282bfdc210533224ca1a4b8a4d0b67d7874561",
+  "range_records": [
+    {
+      "original_view": 47,
+      "start": 445212268,
+      "length": 69000,
+      "sha256": "824834f88018c7646398ca092f7e8a678afaa514aff671a2423ab73455687d30"
+    },
+    {
+      "original_view": 48,
+      "start": 445281268,
+      "length": 69000,
+      "sha256": "4328d81b006186c4c7cd45e88f3719374c347b70d0f9417456acdb3d96803ef1"
+    },
+    {
+      "original_view": 49,
+      "start": 445350268,
+      "length": 23000,
+      "sha256": "ab03b7d10227264eaa457cd2647258808aa84db1b613aabb84abbfa5c9f4a9a3"
+    },
+    {
+      "original_view": 50,
+      "start": 445373268,
+      "length": 46000,
+      "sha256": "aa8616232eeed19bdd2e7ac8088c87562aea3e0fa826d20ccd298d8d5f22a5e3"
+    },
+    {
+      "original_view": 51,
+      "start": 445419268,
+      "length": 46000,
+      "sha256": "96d431b8fc135e1bb306b8aa21866a2e8b6a56612a51efd8715641fa1fba1e02"
+    },
+    {
+      "original_view": 52,
+      "start": 445465268,
+      "length": 57216,
+      "sha256": "ecf4f25b37f1a31d30f3f6c777dbd0b4e7bb5e0c59ddbb80b6460762d4481867"
+    },
+    {
+      "original_view": 53,
+      "start": 445522484,
+      "length": 7175808,
+      "sha256": "1739f35c31179ef73a6b0afb4a58fa1bb3693d14fc179bf121df72aab919cfd9"
+    },
+    {
+      "original_view": 54,
+      "start": 452698292,
+      "length": 7175808,
+      "sha256": "229991c97bc3ab893b799094b23e769186ac448582ac301b39a1381b5ddbda97"
+    },
+    {
+      "original_view": 55,
+      "start": 459874100,
+      "length": 2391936,
+      "sha256": "6496f760f4514765cf2e088e5230186c54a7b5bdfbeceede65a348d1f28ced82"
+    },
+    {
+      "original_view": 56,
+      "start": 462266036,
+      "length": 4783872,
+      "sha256": "6528357c052c46aced0c20eae0fbb1d04c734649ec917e5ef2b6cdfdcfbec9f2"
+    },
+    {
+      "original_view": 57,
+      "start": 467049908,
+      "length": 4783872,
+      "sha256": "c512975ffde3cfaf86bece27f51a3040fbee5c30b89c18164bf3e89d51885bd8"
+    },
+    {
+      "original_view": 58,
+      "start": 471833780,
+      "length": 5352888,
+      "sha256": "5897ec6ab83fb6cb0a0b0e8da3f4819eb52491a793ce96c78666ad1ebed127f0"
+    },
+    {
+      "original_view": 59,
+      "start": 477186668,
+      "length": 29028,
+      "sha256": "1035ded93a9b456a637bcb75746a434f1d1315395b8fde1c42f336605912ff01"
+    },
+    {
+      "original_view": 60,
+      "start": 477215696,
+      "length": 29028,
+      "sha256": "0b30500a2f00ec7ae5203c9ff50b7cde5408d59184a1ac17b9eb4b901eca43db"
+    },
+    {
+      "original_view": 61,
+      "start": 477244724,
+      "length": 9676,
+      "sha256": "25373c0a094d69c0dfb37e1a7065f118790163707d8d97f28aa154dd27314f04"
+    },
+    {
+      "original_view": 62,
+      "start": 477254400,
+      "length": 19352,
+      "sha256": "a35ba69ffa278f25388c703b0ac5033517f9284d12084fa110062401b72f4be5"
+    },
+    {
+      "original_view": 63,
+      "start": 477273752,
+      "length": 19352,
+      "sha256": "252c08639154fbf666fc18043d1bd9cf22a67c9e5c46d0adb666cc09643c0479"
+    },
+    {
+      "original_view": 64,
+      "start": 477293104,
+      "length": 21696,
+      "sha256": "efd0474a9d192eab603ff945deab725f010a0d811f4bcdaf7452c07ad64c3ca5"
+    },
+    {
+      "original_view": 65,
+      "start": 477314800,
+      "length": 289932,
+      "sha256": "57ad4213ee379b848ce0ddbefaf1c29b61df50fdb857ea8635c98a8b91fd83d6"
+    },
+    {
+      "original_view": 66,
+      "start": 477604732,
+      "length": 289932,
+      "sha256": "c3ce26d4b1acf46902020d4c96240065bc3bd3a68171e4684bfc8ea157eb1820"
+    },
+    {
+      "original_view": 67,
+      "start": 477894664,
+      "length": 96644,
+      "sha256": "47ef88b8f77d0ca228528e94ce19afe24294f654277d56f6c5697635c348eda4"
+    },
+    {
+      "original_view": 68,
+      "start": 477991308,
+      "length": 193288,
+      "sha256": "07c3cf7b8cd23215281743b1a750358e12e60c51d6e8f47af2aa05cd305ac029"
+    },
+    {
+      "original_view": 69,
+      "start": 478184596,
+      "length": 277608,
+      "sha256": "5d62da9026cddca74dc374098734436ea101a4f24110d7d040cf512c06f6f57a"
+    }
+  ],
+  "textures": "Provider MD5 checked",
+  "source_gltf": "Provider MD5 checked",
+  "additional_assets": [
+    {
+      "id": "shrub_02",
+      "source": "https://polyhaven.com/a/shrub_02",
+      "authors": {
+        "Rico Cilliers": "All"
+      },
+      "license": "CC0",
+      "resolution": "2K",
+      "files_verified": "Original provider MD5 manifests checked during download"
+    }
+  ]
+}

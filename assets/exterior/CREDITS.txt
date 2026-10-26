@@ -1,0 +1,11 @@
+Poly Haven CC0 assets:
+Fir Tree 01 — Rob Tuytel (photography), Rico Cilliers (modeling).
+https://polyhaven.com/a/fir_tree_01
+Shrub 02 — Rico Cilliers.
+https://polyhaven.com/a/shrub_02
+Licence: https://polyhaven.com/license
+
+The fir source was reduced to its complete C variant by extracting its
+accessor buffer views; no mesh decimation was applied. Original manifests,
+download/range checks and derived buffer SHA256 are retained in provenance.json.
+vegetation.blend holds normalized source collections with packed textures.

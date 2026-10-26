@@ -2,6 +2,11 @@
 
 ## Latest art revision: realism still
 
+The latest priority pass refines ivy from three photographed leaf outlines,
+projects stems onto the actual masonry, revises the lighting and adds detailed
+CC0 fir/shrub assets outside. See [lighting and exterior review](docs/lighting-exterior-iteration.md).
+Keep `assets/exterior/vegetation.blend` with the project; it is a linked library.
+
 The newest iteration adds interior climbing ivy on the piers, window-side wall
 and outer hearth masonry, plus more visible rain and exterior mist.
 See [creeper iteration and source notes](docs/creeper-iteration.md).

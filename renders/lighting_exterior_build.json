@@ -1,0 +1,9 @@
+{
+  "tree_instances": 2,
+  "shrub_groups": 1,
+  "source_library": "assets/exterior/vegetation.blend",
+  "source_licence": "CC0",
+  "leaf_atlas_variants": 3,
+  "lighting": "Warm practicals and broad, restrained window/hearth bounce",
+  "animated": false
+}

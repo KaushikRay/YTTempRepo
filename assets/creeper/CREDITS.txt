@@ -6,3 +6,5 @@ https://commons.wikimedia.org/wiki/File:Beginning_leaf_diphormism_in_Hedera_heli
 Licence: https://creativecommons.org/publicdomain/zero/1.0/
 Original metadata, download URLs and SHA256 hashes: provenance.json.
 The rendered plant uses custom branching and leaf geometry; it is not a downloaded scanned ivy model.
+The latest atlas is an EXIF-oriented version of ivy_growth.jpg. Three measured
+leaf outlines and matching photographic UVs are retained in leaf-traces.json.

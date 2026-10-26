@@ -1,5 +1,5 @@
 {
-  "used_packed_file_images": 42,
+  "used_packed_file_images": 51,
   "external_file_images": [
     "assets/realism/old_stone_wall_02/Diffuse.jpg",
     "assets/realism/rustic_stone_wall_02/Diffuse.jpg",
@@ -12,8 +12,15 @@
     "assets/realism/wood_table_worn/Rough.jpg"
   ],
   "missing_images": [],
-  "blend_bytes": 94511480,
-  "interior_creeper_leaves": 1566,
+  "linked_libraries": [
+    {
+      "file": "assets/exterior/vegetation.blend",
+      "sha256": "2c52be59c40442ef5110da99fc3c09c8274348b16648c513e6a5257213b21345"
+    }
+  ],
+  "exterior_collection_instances": 3,
+  "blend_bytes": 96337354,
+  "interior_creeper_leaves": 1550,
   "rooted_ivy_patches": 4,
   "camera_lens_mm": 22.0,
   "render_output": "//renders/realism_study.png"
