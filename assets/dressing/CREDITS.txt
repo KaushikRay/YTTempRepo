@@ -1,0 +1,8 @@
+Poly Haven CC0 assets: metal_jug, wooden_bowl_02, dry_branches_medium_01, food_apple_01, carved_wooden_plate
+https://polyhaven.com/license
+Asset pages: https://polyhaven.com/a/<asset-id>
+Original manifests retained; provider MD5 checked on download.
+
+Derived fire_rgb_24.mp4 is NOT CC0. It is a 24 fps excerpt of the existing
+CC BY 3.0 filmed fire source. Required source attribution is retained in
+assets/fire/CREDITS.txt; carry that credit when publishing the resulting video.

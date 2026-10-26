@@ -1,0 +1,8 @@
+{
+  "rain_objects": 2800,
+  "upper_band_count_min": 614,
+  "upper_band_count_max": 692,
+  "tested_timeline_frames": 144,
+  "cloth": "Static surface-fitted drape, not simulated",
+  "new_assets": "assets/dressing/CREDITS.txt"
+}

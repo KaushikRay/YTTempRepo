@@ -1,5 +1,13 @@
 # Rustic Gothic tavern — Blender development scene
 
+## Latest dressing and rain revision
+
+`renders/dressing_motion/still.png` and `renders/dressing_motion/preview.mp4`
+show the detailed dressing/fuel pass and independently recycling rain.
+The new scene is `dressing_motion.blend`; keep the full assets directory,
+including linked dressing and vegetation libraries. See [details and limits](docs/dressing-motion.md).
+
+
 ## Latest art revision: realism still
 
 The latest priority pass refines ivy from three photographed leaf outlines,

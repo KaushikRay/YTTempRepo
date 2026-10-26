@@ -1,0 +1,52 @@
+[
+  {
+    "collection": "metal_jug",
+    "source_dimensions_m": [
+      0.19682171940803528,
+      0.1954544335603714,
+      0.2875497341156006
+    ],
+    "normalized_height": 1,
+    "source": "assets/dressing/metal_jug/metal_jug.gltf"
+  },
+  {
+    "collection": "wooden_bowl_02",
+    "source_dimensions_m": [
+      0.13071346282958984,
+      0.12453967332839966,
+      0.07309794425964355
+    ],
+    "normalized_height": 1,
+    "source": "assets/dressing/wooden_bowl_02/wooden_bowl_02.gltf"
+  },
+  {
+    "collection": "dry_branches_medium_01",
+    "source_dimensions_m": [
+      1.0594861507415771,
+      1.2991528511047363,
+      0.3409852981567383
+    ],
+    "normalized_height": 1,
+    "source": "assets/dressing/dry_branches_medium_01/dry_branches_medium_01.gltf"
+  },
+  {
+    "collection": "food_apple_01",
+    "source_dimensions_m": [
+      0.09756118059158325,
+      0.09590171277523041,
+      0.08538994193077087
+    ],
+    "normalized_height": 1,
+    "source": "assets/dressing/food_apple_01/food_apple_01.gltf"
+  },
+  {
+    "collection": "carved_wooden_plate",
+    "source_dimensions_m": [
+      0.2718309164047241,
+      0.2687795162200928,
+      0.03811051696538925
+    ],
+    "normalized_height": 1,
+    "source": "assets/dressing/carved_wooden_plate/carved_wooden_plate.gltf"
+  }
+]

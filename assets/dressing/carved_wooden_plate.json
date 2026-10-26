@@ -1,0 +1,834 @@
+{
+  "Diffuse": {
+    "8k": {
+      "jpg": {
+        "size": 25679704,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_diff_8k.jpg",
+        "md5": "25a83c139a8146b74ce70e7ef81e1c67"
+      },
+      "png": {
+        "size": 203171165,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/carved_wooden_plate/carved_wooden_plate_diff_8k.png",
+        "md5": "486cc52b24206b9bd40401a68a1c8886"
+      },
+      "exr": {
+        "size": 58671961,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_diff_8k.exr",
+        "md5": "72fb2472e3649b230ee0c31b9915aae2"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 6594279,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_diff_4k.jpg",
+        "md5": "61322480534142c7261783dde4292d8f"
+      },
+      "png": {
+        "size": 55410492,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_plate/carved_wooden_plate_diff_4k.png",
+        "md5": "f10c3f3af9f6a967614cbbd12036dc0f"
+      },
+      "exr": {
+        "size": 11654681,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_diff_4k.exr",
+        "md5": "ef84cb4e46c56df7741302c776a694f0"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1766314,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_diff_2k.jpg",
+        "md5": "eadec5f52689f3382bc71da670fc2b8f"
+      },
+      "png": {
+        "size": 15570783,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_plate/carved_wooden_plate_diff_2k.png",
+        "md5": "61de48bc985ee190451030b232bad1c4"
+      },
+      "exr": {
+        "size": 2815908,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_diff_2k.exr",
+        "md5": "3fe847ea9251de714d84c9d5d98d4735"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 476516,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_diff_1k.jpg",
+        "md5": "f4c0f569c128db22906a209905cf3e90"
+      },
+      "png": {
+        "size": 4317770,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_plate/carved_wooden_plate_diff_1k.png",
+        "md5": "e3bce370e5fdca099c4ef24658c39e3b"
+      },
+      "exr": {
+        "size": 786279,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_diff_1k.exr",
+        "md5": "ac04939da7918774ad1b3e147a348d2d"
+      }
+    }
+  },
+  "nor_dx": {
+    "8k": {
+      "jpg": {
+        "size": 16255391,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_nor_dx_8k.jpg",
+        "md5": "0d221821a9f19d6b76a5ead68a7b0e6b"
+      },
+      "png": {
+        "size": 145685756,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/carved_wooden_plate/carved_wooden_plate_nor_dx_8k.png",
+        "md5": "2f53e3321f19231c2e6ae8737fb82849"
+      },
+      "exr": {
+        "size": 28410232,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_nor_dx_8k.exr",
+        "md5": "6f07e0a51faa8cdcb687da682398c841"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 5553187,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_nor_dx_4k.jpg",
+        "md5": "8a73ddd8e021a19a3aae5d8463639007"
+      },
+      "png": {
+        "size": 49780086,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_plate/carved_wooden_plate_nor_dx_4k.png",
+        "md5": "3e5e8624723963f1564c8476f1b70204"
+      },
+      "exr": {
+        "size": 10041535,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_nor_dx_4k.exr",
+        "md5": "29c7c246b3a8ea376bf2ba587d618621"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1863268,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_nor_dx_2k.jpg",
+        "md5": "b9c286c60fcd793db4526829daff0c5a"
+      },
+      "png": {
+        "size": 15076760,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_plate/carved_wooden_plate_nor_dx_2k.png",
+        "md5": "4713ed0cd6155ef22f1ffb0fdb8db749"
+      },
+      "exr": {
+        "size": 3653915,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_nor_dx_2k.exr",
+        "md5": "d2c114519a3ace1d823391e75b0cd9e4"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 583402,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_nor_dx_1k.jpg",
+        "md5": "e4356da8e3cc3410302a6440a7142b33"
+      },
+      "png": {
+        "size": 4299392,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_plate/carved_wooden_plate_nor_dx_1k.png",
+        "md5": "fa9e6c3b8f1be87258e589680111462c"
+      },
+      "exr": {
+        "size": 1247761,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_nor_dx_1k.exr",
+        "md5": "bc0dc8f10c77e0be31185c467eb03691"
+      }
+    }
+  },
+  "nor_gl": {
+    "8k": {
+      "jpg": {
+        "size": 16216387,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_nor_gl_8k.jpg",
+        "md5": "09a2e381dfae2f8d05e0cdf34ada40c1"
+      },
+      "png": {
+        "size": 146409958,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/carved_wooden_plate/carved_wooden_plate_nor_gl_8k.png",
+        "md5": "6352c67203673ffc81b90cf28fc6d318"
+      },
+      "exr": {
+        "size": 28407108,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_nor_gl_8k.exr",
+        "md5": "9012783481f417c3c153467982b5306f"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 5545708,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_nor_gl_4k.jpg",
+        "md5": "cf1f2b82eaab2a2fd1fb75d689f4ca39"
+      },
+      "png": {
+        "size": 49779215,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_plate/carved_wooden_plate_nor_gl_4k.png",
+        "md5": "91466ccee951b10a2f21055ae5b78f34"
+      },
+      "exr": {
+        "size": 10041872,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_nor_gl_4k.exr",
+        "md5": "b0d133df6835b8cd32a577bcb28b034f"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1859515,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_nor_gl_2k.jpg",
+        "md5": "45a39e088c4ae126349e78669b06d0ab"
+      },
+      "png": {
+        "size": 15077154,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_plate/carved_wooden_plate_nor_gl_2k.png",
+        "md5": "d6a7b9afd01aaff3e3710f1b0db3bb68"
+      },
+      "exr": {
+        "size": 3654041,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_nor_gl_2k.exr",
+        "md5": "8b43326c6210119f0ef26b740c6165d3"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 582309,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_nor_gl_1k.jpg",
+        "md5": "b492a0465ff80fc5aff3433991fdc554"
+      },
+      "png": {
+        "size": 4299920,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_plate/carved_wooden_plate_nor_gl_1k.png",
+        "md5": "c2c7d1f72d98369152c2e3a14292958f"
+      },
+      "exr": {
+        "size": 1248015,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_nor_gl_1k.exr",
+        "md5": "08b593347ec246510ff39f85dd764dd6"
+      }
+    }
+  },
+  "blend": {
+    "8k": {
+      "blend": {
+        "include": {
+          "textures/carved_wooden_plate_nor_gl_8k.exr": {
+            "size": 28407108,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_nor_gl_8k.exr",
+            "md5": "9012783481f417c3c153467982b5306f"
+          },
+          "textures/carved_wooden_plate_rough_8k.exr": {
+            "size": 19445877,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_rough_8k.exr",
+            "md5": "914c1f3d39d3bc0e695217af6b9bcd75"
+          },
+          "textures/carved_wooden_plate_diff_8k.jpg": {
+            "size": 25679704,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_diff_8k.jpg",
+            "md5": "25a83c139a8146b74ce70e7ef81e1c67"
+          }
+        },
+        "size": 169525,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/carved_wooden_plate/carved_wooden_plate_8k.blend",
+        "md5": "b9300c7189d9acc29496b713d9717cac"
+      }
+    },
+    "4k": {
+      "blend": {
+        "include": {
+          "textures/carved_wooden_plate_diff_4k.jpg": {
+            "size": 6594279,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_diff_4k.jpg",
+            "md5": "61322480534142c7261783dde4292d8f"
+          },
+          "textures/carved_wooden_plate_rough_4k.exr": {
+            "size": 8429674,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_rough_4k.exr",
+            "md5": "15b3c96ff903a93990d17a1fd116956a"
+          },
+          "textures/carved_wooden_plate_nor_gl_4k.exr": {
+            "size": 10041872,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_nor_gl_4k.exr",
+            "md5": "b0d133df6835b8cd32a577bcb28b034f"
+          }
+        },
+        "size": 169793,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/carved_wooden_plate/carved_wooden_plate_4k.blend",
+        "md5": "5ae5eddeab8f7040ff6bd9034db4866c"
+      }
+    },
+    "2k": {
+      "blend": {
+        "include": {
+          "textures/carved_wooden_plate_nor_gl_2k.exr": {
+            "size": 3654041,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_nor_gl_2k.exr",
+            "md5": "8b43326c6210119f0ef26b740c6165d3"
+          },
+          "textures/carved_wooden_plate_diff_2k.jpg": {
+            "size": 1766314,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_diff_2k.jpg",
+            "md5": "eadec5f52689f3382bc71da670fc2b8f"
+          },
+          "textures/carved_wooden_plate_rough_2k.exr": {
+            "size": 2718751,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_rough_2k.exr",
+            "md5": "97059fbbfea63c966b3a9f7cf3a55e7a"
+          }
+        },
+        "size": 165106,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/carved_wooden_plate/carved_wooden_plate_2k.blend",
+        "md5": "80298bead21c412c61071718480bf543"
+      }
+    },
+    "1k": {
+      "blend": {
+        "include": {
+          "textures/carved_wooden_plate_rough_1k.exr": {
+            "size": 787972,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_rough_1k.exr",
+            "md5": "de319117127c09e9f1bd57c83a674768"
+          },
+          "textures/carved_wooden_plate_diff_1k.jpg": {
+            "size": 476516,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_diff_1k.jpg",
+            "md5": "f4c0f569c128db22906a209905cf3e90"
+          },
+          "textures/carved_wooden_plate_nor_gl_1k.exr": {
+            "size": 1248015,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_nor_gl_1k.exr",
+            "md5": "08b593347ec246510ff39f85dd764dd6"
+          }
+        },
+        "size": 166797,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/carved_wooden_plate/carved_wooden_plate_1k.blend",
+        "md5": "184dbf04ddda80e4507f3ce229ac9a8b"
+      }
+    }
+  },
+  "gltf": {
+    "8k": {
+      "gltf": {
+        "include": {
+          "textures/carved_wooden_plate_nor_gl_8k.jpg": {
+            "size": 16216387,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_nor_gl_8k.jpg",
+            "md5": "09a2e381dfae2f8d05e0cdf34ada40c1"
+          },
+          "textures/carved_wooden_plate_arm_8k.jpg": {
+            "size": 21126997,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_arm_8k.jpg",
+            "md5": "064f8b171c9c0899de9ecdbf837a0a2e"
+          },
+          "carved_wooden_plate.bin": {
+            "size": 52160,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/carved_wooden_plate/carved_wooden_plate.bin",
+            "md5": "70499c8019359d859577d9f7eef46091"
+          },
+          "textures/carved_wooden_plate_diff_8k.jpg": {
+            "size": 25679704,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_diff_8k.jpg",
+            "md5": "25a83c139a8146b74ce70e7ef81e1c67"
+          }
+        },
+        "size": 2836,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/carved_wooden_plate/carved_wooden_plate_8k.gltf",
+        "md5": "ce35ab8357eb6f0bd651f309010fcba6"
+      }
+    },
+    "4k": {
+      "gltf": {
+        "include": {
+          "textures/carved_wooden_plate_diff_4k.jpg": {
+            "size": 6594279,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_diff_4k.jpg",
+            "md5": "61322480534142c7261783dde4292d8f"
+          },
+          "textures/carved_wooden_plate_arm_4k.jpg": {
+            "size": 5460332,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_arm_4k.jpg",
+            "md5": "e231fb56bb83b3db22e3bf10d4417cc8"
+          },
+          "textures/carved_wooden_plate_nor_gl_4k.jpg": {
+            "size": 5545708,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_nor_gl_4k.jpg",
+            "md5": "cf1f2b82eaab2a2fd1fb75d689f4ca39"
+          },
+          "carved_wooden_plate.bin": {
+            "size": 52160,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/carved_wooden_plate/carved_wooden_plate.bin",
+            "md5": "70499c8019359d859577d9f7eef46091"
+          }
+        },
+        "size": 2836,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/carved_wooden_plate/carved_wooden_plate_4k.gltf",
+        "md5": "14b5c4488a1c4d1bb80f8e99fd1ce5f0"
+      }
+    },
+    "2k": {
+      "gltf": {
+        "include": {
+          "textures/carved_wooden_plate_nor_gl_2k.jpg": {
+            "size": 1859515,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_nor_gl_2k.jpg",
+            "md5": "45a39e088c4ae126349e78669b06d0ab"
+          },
+          "textures/carved_wooden_plate_diff_2k.jpg": {
+            "size": 1766314,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_diff_2k.jpg",
+            "md5": "eadec5f52689f3382bc71da670fc2b8f"
+          },
+          "textures/carved_wooden_plate_arm_2k.jpg": {
+            "size": 1586665,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_arm_2k.jpg",
+            "md5": "3f34954ee9955ee7df165bf38432c075"
+          },
+          "carved_wooden_plate.bin": {
+            "size": 52160,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/carved_wooden_plate/carved_wooden_plate.bin",
+            "md5": "70499c8019359d859577d9f7eef46091"
+          }
+        },
+        "size": 2836,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/carved_wooden_plate/carved_wooden_plate_2k.gltf",
+        "md5": "cad726680f59f1e6f368a1ae594d5cfa"
+      }
+    },
+    "1k": {
+      "gltf": {
+        "include": {
+          "textures/carved_wooden_plate_diff_1k.jpg": {
+            "size": 476516,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_diff_1k.jpg",
+            "md5": "f4c0f569c128db22906a209905cf3e90"
+          },
+          "textures/carved_wooden_plate_arm_1k.jpg": {
+            "size": 450417,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_arm_1k.jpg",
+            "md5": "e9a523f6b0a9851b7b9e9855fa83f896"
+          },
+          "textures/carved_wooden_plate_nor_gl_1k.jpg": {
+            "size": 582309,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_nor_gl_1k.jpg",
+            "md5": "b492a0465ff80fc5aff3433991fdc554"
+          },
+          "carved_wooden_plate.bin": {
+            "size": 52160,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/carved_wooden_plate/carved_wooden_plate.bin",
+            "md5": "70499c8019359d859577d9f7eef46091"
+          }
+        },
+        "size": 2836,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/carved_wooden_plate/carved_wooden_plate_1k.gltf",
+        "md5": "c4866bc4fcdf070b992f9b35acf8d13e"
+      }
+    }
+  },
+  "usd": {
+    "8k": {
+      "usd": {
+        "include": {
+          "textures/carved_wooden_plate_nor_gl_8k.exr": {
+            "size": 28407108,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_nor_gl_8k.exr",
+            "md5": "9012783481f417c3c153467982b5306f"
+          },
+          "textures/carved_wooden_plate_rough_8k.exr": {
+            "size": 19445877,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_rough_8k.exr",
+            "md5": "914c1f3d39d3bc0e695217af6b9bcd75"
+          },
+          "textures/carved_wooden_plate_diff_8k.jpg": {
+            "size": 25679704,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_diff_8k.jpg",
+            "md5": "25a83c139a8146b74ce70e7ef81e1c67"
+          }
+        },
+        "size": 106725,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/carved_wooden_plate/carved_wooden_plate_8k.usdc",
+        "md5": "a24bcd1a164e3b80e20fbba5ad219754"
+      }
+    },
+    "4k": {
+      "usd": {
+        "include": {
+          "textures/carved_wooden_plate_diff_4k.jpg": {
+            "size": 6594279,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_diff_4k.jpg",
+            "md5": "61322480534142c7261783dde4292d8f"
+          },
+          "textures/carved_wooden_plate_rough_4k.exr": {
+            "size": 8429674,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_rough_4k.exr",
+            "md5": "15b3c96ff903a93990d17a1fd116956a"
+          },
+          "textures/carved_wooden_plate_nor_gl_4k.exr": {
+            "size": 10041872,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_nor_gl_4k.exr",
+            "md5": "b0d133df6835b8cd32a577bcb28b034f"
+          }
+        },
+        "size": 106725,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/carved_wooden_plate/carved_wooden_plate_4k.usdc",
+        "md5": "e021959e41fc3542e2da9c3f7c0fdef0"
+      }
+    },
+    "2k": {
+      "usd": {
+        "include": {
+          "textures/carved_wooden_plate_nor_gl_2k.exr": {
+            "size": 3654041,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_nor_gl_2k.exr",
+            "md5": "8b43326c6210119f0ef26b740c6165d3"
+          },
+          "textures/carved_wooden_plate_diff_2k.jpg": {
+            "size": 1766314,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_diff_2k.jpg",
+            "md5": "eadec5f52689f3382bc71da670fc2b8f"
+          },
+          "textures/carved_wooden_plate_rough_2k.exr": {
+            "size": 2718751,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_rough_2k.exr",
+            "md5": "97059fbbfea63c966b3a9f7cf3a55e7a"
+          }
+        },
+        "size": 106725,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/carved_wooden_plate/carved_wooden_plate_2k.usdc",
+        "md5": "0e64f712acfe6699c179b35e82bdc702"
+      }
+    },
+    "1k": {
+      "usd": {
+        "include": {
+          "textures/carved_wooden_plate_rough_1k.exr": {
+            "size": 787972,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_rough_1k.exr",
+            "md5": "de319117127c09e9f1bd57c83a674768"
+          },
+          "textures/carved_wooden_plate_diff_1k.jpg": {
+            "size": 476516,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_diff_1k.jpg",
+            "md5": "f4c0f569c128db22906a209905cf3e90"
+          },
+          "textures/carved_wooden_plate_nor_gl_1k.exr": {
+            "size": 1248015,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_nor_gl_1k.exr",
+            "md5": "08b593347ec246510ff39f85dd764dd6"
+          }
+        },
+        "size": 106725,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/carved_wooden_plate/carved_wooden_plate_1k.usdc",
+        "md5": "facc399c0b229ba1fb7cfad727bb71cf"
+      }
+    }
+  },
+  "arm": {
+    "8k": {
+      "jpg": {
+        "size": 21126997,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_arm_8k.jpg",
+        "md5": "064f8b171c9c0899de9ecdbf837a0a2e"
+      },
+      "png": {
+        "size": 42569773,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/carved_wooden_plate/carved_wooden_plate_arm_8k.png",
+        "md5": "9f915a4536c1f8c9eb985473942d39f2"
+      },
+      "exr": {
+        "size": 36506894,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_arm_8k.exr",
+        "md5": "f3b1607d7fb1c286abd9abdb597ba2a7"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 5460332,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_arm_4k.jpg",
+        "md5": "e231fb56bb83b3db22e3bf10d4417cc8"
+      },
+      "png": {
+        "size": 11183858,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_plate/carved_wooden_plate_arm_4k.png",
+        "md5": "b09a7a560fe9fb24dc2608cee30216da"
+      },
+      "exr": {
+        "size": 9108106,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_arm_4k.exr",
+        "md5": "fe4cb7f7a9a5f07bf3643004c2a8f5b7"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1586665,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_arm_2k.jpg",
+        "md5": "3f34954ee9955ee7df165bf38432c075"
+      },
+      "png": {
+        "size": 3061354,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_plate/carved_wooden_plate_arm_2k.png",
+        "md5": "96e075f8fe4293d91c3beae19e4733b2"
+      },
+      "exr": {
+        "size": 2775740,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_arm_2k.exr",
+        "md5": "d85d2d83ea47130fe95eca26f2dee8ed"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 450417,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_arm_1k.jpg",
+        "md5": "e9a523f6b0a9851b7b9e9855fa83f896"
+      },
+      "png": {
+        "size": 866507,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_plate/carved_wooden_plate_arm_1k.png",
+        "md5": "20470e6242652ee544759580bd4881bd"
+      },
+      "exr": {
+        "size": 833955,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_arm_1k.exr",
+        "md5": "364f2d92f7eed371326e3ada71f51e5e"
+      }
+    }
+  },
+  "fbx": {
+    "8k": {
+      "fbx": {
+        "include": {
+          "textures/carved_wooden_plate_nor_gl_8k.exr": {
+            "size": 28407108,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_nor_gl_8k.exr",
+            "md5": "9012783481f417c3c153467982b5306f"
+          },
+          "textures/carved_wooden_plate_rough_8k.exr": {
+            "size": 19445877,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_rough_8k.exr",
+            "md5": "914c1f3d39d3bc0e695217af6b9bcd75"
+          },
+          "textures/carved_wooden_plate_diff_8k.jpg": {
+            "size": 25679704,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_diff_8k.jpg",
+            "md5": "25a83c139a8146b74ce70e7ef81e1c67"
+          }
+        },
+        "size": 87340,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/carved_wooden_plate/carved_wooden_plate_8k.fbx",
+        "md5": "8456861b21c052bb66fe6741bf25d356"
+      }
+    },
+    "4k": {
+      "fbx": {
+        "include": {
+          "textures/carved_wooden_plate_diff_4k.jpg": {
+            "size": 6594279,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_diff_4k.jpg",
+            "md5": "61322480534142c7261783dde4292d8f"
+          },
+          "textures/carved_wooden_plate_rough_4k.exr": {
+            "size": 8429674,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_rough_4k.exr",
+            "md5": "15b3c96ff903a93990d17a1fd116956a"
+          },
+          "textures/carved_wooden_plate_nor_gl_4k.exr": {
+            "size": 10041872,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_nor_gl_4k.exr",
+            "md5": "b0d133df6835b8cd32a577bcb28b034f"
+          }
+        },
+        "size": 87340,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/carved_wooden_plate/carved_wooden_plate_4k.fbx",
+        "md5": "65b8a91ce5f1198765169e711c084b10"
+      }
+    },
+    "2k": {
+      "fbx": {
+        "include": {
+          "textures/carved_wooden_plate_nor_gl_2k.exr": {
+            "size": 3654041,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_nor_gl_2k.exr",
+            "md5": "8b43326c6210119f0ef26b740c6165d3"
+          },
+          "textures/carved_wooden_plate_diff_2k.jpg": {
+            "size": 1766314,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_diff_2k.jpg",
+            "md5": "eadec5f52689f3382bc71da670fc2b8f"
+          },
+          "textures/carved_wooden_plate_rough_2k.exr": {
+            "size": 2718751,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_rough_2k.exr",
+            "md5": "97059fbbfea63c966b3a9f7cf3a55e7a"
+          }
+        },
+        "size": 87340,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/carved_wooden_plate/carved_wooden_plate_2k.fbx",
+        "md5": "e10b05a0b51e31fcc13876fb1db01331"
+      }
+    },
+    "1k": {
+      "fbx": {
+        "include": {
+          "textures/carved_wooden_plate_rough_1k.exr": {
+            "size": 787972,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_rough_1k.exr",
+            "md5": "de319117127c09e9f1bd57c83a674768"
+          },
+          "textures/carved_wooden_plate_diff_1k.jpg": {
+            "size": 476516,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_diff_1k.jpg",
+            "md5": "f4c0f569c128db22906a209905cf3e90"
+          },
+          "textures/carved_wooden_plate_nor_gl_1k.exr": {
+            "size": 1248015,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_nor_gl_1k.exr",
+            "md5": "08b593347ec246510ff39f85dd764dd6"
+          }
+        },
+        "size": 87340,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/carved_wooden_plate/carved_wooden_plate_1k.fbx",
+        "md5": "f093c89bc5abf934801618d9d4dcf2db"
+      }
+    }
+  },
+  "AO": {
+    "8k": {
+      "jpg": {
+        "size": 18692865,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_ao_8k.jpg",
+        "md5": "b7fb26954ff8c888b432e9090777e810"
+      },
+      "png": {
+        "size": 28145078,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/carved_wooden_plate/carved_wooden_plate_ao_8k.png",
+        "md5": "a73b9b50ab1e0b851bd1770a01ef400a"
+      },
+      "exr": {
+        "size": 28843976,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_ao_8k.exr",
+        "md5": "8c7c76634ede129b2236e569b41246d0"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 3875455,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_ao_4k.jpg",
+        "md5": "e7347bb121a835a1f7e36d1e21d38326"
+      },
+      "png": {
+        "size": 10251999,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_plate/carved_wooden_plate_ao_4k.png",
+        "md5": "6f1a8ac296e07dfce53d2cdf56837967"
+      },
+      "exr": {
+        "size": 7895308,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_ao_4k.exr",
+        "md5": "d7f99d168fd43452f2b8c3e60b503641"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 938605,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_ao_2k.jpg",
+        "md5": "2d83cdfbee716762aa289ae278796c46"
+      },
+      "png": {
+        "size": 3474894,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_plate/carved_wooden_plate_ao_2k.png",
+        "md5": "4b8089a5e70778e22fbd01e629a38d23"
+      },
+      "exr": {
+        "size": 2397059,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_ao_2k.exr",
+        "md5": "ff74dd3739dd12e118b2e714e41e8618"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 264052,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_ao_1k.jpg",
+        "md5": "314e210bb8632ac931ecd91cd5c213ee"
+      },
+      "png": {
+        "size": 1148310,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_plate/carved_wooden_plate_ao_1k.png",
+        "md5": "6fef74b487fabc318c212affe279636c"
+      },
+      "exr": {
+        "size": 703413,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_ao_1k.exr",
+        "md5": "5cfa6beb664b55c3b014047419c93bf6"
+      }
+    }
+  },
+  "Rough": {
+    "8k": {
+      "jpg": {
+        "size": 14044951,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/carved_wooden_plate/carved_wooden_plate_rough_8k.jpg",
+        "md5": "abffb39e6706bc2a0fc61ca89c40f319"
+      },
+      "png": {
+        "size": 17202276,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/carved_wooden_plate/carved_wooden_plate_rough_8k.png",
+        "md5": "7920c381f155e740a3e9e384199ceb30"
+      },
+      "exr": {
+        "size": 19445877,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/carved_wooden_plate/carved_wooden_plate_rough_8k.exr",
+        "md5": "914c1f3d39d3bc0e695217af6b9bcd75"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 4591148,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_plate/carved_wooden_plate_rough_4k.jpg",
+        "md5": "61f40e53503350d68fc0aa56d10f410f"
+      },
+      "png": {
+        "size": 11458535,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_plate/carved_wooden_plate_rough_4k.png",
+        "md5": "5349d239dc082714df6214a6689683b0"
+      },
+      "exr": {
+        "size": 8429674,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_plate/carved_wooden_plate_rough_4k.exr",
+        "md5": "15b3c96ff903a93990d17a1fd116956a"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1384844,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_plate/carved_wooden_plate_rough_2k.jpg",
+        "md5": "fa0960b10874b370f555b8039055db05"
+      },
+      "png": {
+        "size": 4574569,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_plate/carved_wooden_plate_rough_2k.png",
+        "md5": "15938e1fe362c39e08afc5cda41021c9"
+      },
+      "exr": {
+        "size": 2718751,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_plate/carved_wooden_plate_rough_2k.exr",
+        "md5": "97059fbbfea63c966b3a9f7cf3a55e7a"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 387520,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_rough_1k.jpg",
+        "md5": "f465a273d967799e0f1103933cb6b7ce"
+      },
+      "png": {
+        "size": 1441189,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_plate/carved_wooden_plate_rough_1k.png",
+        "md5": "40ed9400d2e41200e023618354a3ee81"
+      },
+      "exr": {
+        "size": 787972,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_plate/carved_wooden_plate_rough_1k.exr",
+        "md5": "de319117127c09e9f1bd57c83a674768"
+      }
+    }
+  }
+}

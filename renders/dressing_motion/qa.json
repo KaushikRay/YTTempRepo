@@ -1,0 +1,73 @@
+{
+  "fuel_evaluated_geometry_bounds": [
+    {
+      "name": "Grounded charred fuel 0",
+      "min": [
+        4.65500020980835,
+        2.1000001430511475,
+        0.29999998211860657
+      ],
+      "max": [
+        5.304999828338623,
+        3.700000047683716,
+        0.5799999833106995
+      ]
+    },
+    {
+      "name": "Grounded charred fuel 1",
+      "min": [
+        4.785000324249268,
+        2.8000001907348633,
+        0.29999998211860657
+      ],
+      "max": [
+        5.434999942779541,
+        4.400000095367432,
+        0.5799999833106995
+      ]
+    }
+  ],
+  "missing_files": [],
+  "linked_libraries": [
+    "assets/dressing/dressing.blend",
+    "assets/exterior/vegetation.blend"
+  ],
+  "rendered_frames": 48,
+  "fps": 24,
+  "duration_seconds": 2,
+  "upper_window_actual_driver_checks": [
+    {
+      "frame": 1,
+      "upper_rectangular_aperture_population": 607
+    },
+    {
+      "frame": 12,
+      "upper_rectangular_aperture_population": 587
+    },
+    {
+      "frame": 24,
+      "upper_rectangular_aperture_population": 548
+    },
+    {
+      "frame": 36,
+      "upper_rectangular_aperture_population": 601
+    },
+    {
+      "frame": 48,
+      "upper_rectangular_aperture_population": 586
+    },
+    {
+      "frame": 96,
+      "upper_rectangular_aperture_population": 588
+    },
+    {
+      "frame": 144,
+      "upper_rectangular_aperture_population": 580
+    }
+  ],
+  "source_storm_and_realism_scenes_preserved": true,
+  "seamless_loop": false,
+  "audio": false,
+  "photorealism_target_reached": false,
+  "preview_sha256": "714d40d8fbecb0ae5040762f4b4f5c3c24b92412d56c16b7d178ca1cd82f95d1"
+}
