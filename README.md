@@ -2,9 +2,14 @@
 
 ## Latest art revision: realism still
 
+The latest pass uses historic photographs of Gainsborough and Penshurst for
+window/hearth construction, plus rough CC0 stone and worn leather seating.
+See [historic study, sources and artistic departures](docs/historic-study.md).
+
 `renders/realism_study.png` is a new asset-based still, compared with
 `renders/realism_before.png`. `realism_study.blend` contains the revised art
-with packed image textures (Blender 4.5.3). The earlier animation is preserved.
+with most textures packed (Blender 4.5.3). Keep the assets directory beside it;
+the large stone/wood maps use relative paths. The earlier animation is preserved.
 This is an unfinished realism study, not a final photoreal scene or a new video.
 See [realism review](docs/realism-review.md) and `assets/realism/provenance.json`.
 

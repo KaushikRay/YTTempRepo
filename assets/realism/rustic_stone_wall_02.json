@@ -1,0 +1,1052 @@
+{
+  "Diffuse": {
+    "8k": {
+      "jpg": {
+        "size": 36159366,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_diff_8k.jpg",
+        "md5": "9124d6eee6b8a6db2f0ee6cad410ff2e"
+      },
+      "png": {
+        "size": 383342401,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_diff_8k.png",
+        "md5": "c2d382e5fab2e3bf9a20cfdc6bc3fceb"
+      },
+      "exr": {
+        "size": 51838841,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_diff_8k.exr",
+        "md5": "434f5eac7334fe495480916c590a1cf0"
+      }
+    },
+    "16k": {
+      "jpg": {
+        "size": 106741099,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_diff_16k.jpg",
+        "md5": "893a0c3e10990a8f3f1d411adcc78f91"
+      },
+      "png": {
+        "size": 1511761691,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_diff_16k.png",
+        "md5": "91efff72b3194eba1823c40f9cc4fcfe"
+      },
+      "exr": {
+        "size": 151789677,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_diff_16k.exr",
+        "md5": "a9e58936946235b0dae549d2a7394a43"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 10668695,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_diff_4k.jpg",
+        "md5": "4a07c1791c773ea1be8bc4eddf2ac310"
+      },
+      "png": {
+        "size": 98503388,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_diff_4k.png",
+        "md5": "0bb39d2f424ded70c8f6e76473327345"
+      },
+      "exr": {
+        "size": 15923797,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_diff_4k.exr",
+        "md5": "daeaf05fbdb061e2d82538e6582cb098"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2946775,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_diff_2k.jpg",
+        "md5": "b2459f26bf75da47d7b828044049d3cd"
+      },
+      "png": {
+        "size": 25043834,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_diff_2k.png",
+        "md5": "8cb6634cb6bf4f0cb4af2f60060e1da8"
+      },
+      "exr": {
+        "size": 4698670,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_diff_2k.exr",
+        "md5": "8a8868e6692ce049c21e238320e5cdea"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 794327,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_diff_1k.jpg",
+        "md5": "9ca81a5ea589ea55a547bccc43c9df85"
+      },
+      "png": {
+        "size": 6341739,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_diff_1k.png",
+        "md5": "1f0a0c5d444b654d890378ec9e050fe1"
+      },
+      "exr": {
+        "size": 1369016,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_diff_1k.exr",
+        "md5": "6abd09a67f0220cf9702a41cdfbf2d13"
+      }
+    }
+  },
+  "nor_dx": {
+    "8k": {
+      "jpg": {
+        "size": 65272334,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_8k.jpg",
+        "md5": "b40f1250d85ac2be1a25eb9d48b0f7b7"
+      },
+      "png": {
+        "size": 415217744,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_8k.png",
+        "md5": "eca6f439cbc505cf51ca615f85541b60"
+      },
+      "exr": {
+        "size": 132340949,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_8k.exr",
+        "md5": "b3d735b9430a56ddc8f934716ac82169"
+      }
+    },
+    "16k": {
+      "jpg": {
+        "size": 214747957,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_16k.jpg",
+        "md5": "4158413255cf69edbfabf955d3b88642"
+      },
+      "png": {
+        "size": 1538520223,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_16k.png",
+        "md5": "f930238fd558c591abd6631ffca5ceda"
+      },
+      "exr": {
+        "size": 417858145,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_16k.exr",
+        "md5": "2071505aa83765376367d8e85dd7705a"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 17689114,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_4k.jpg",
+        "md5": "98405982e1fcd5478e15c241dc4ee17c"
+      },
+      "png": {
+        "size": 105862396,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_4k.png",
+        "md5": "9133d3744cb965072822706f86569115"
+      },
+      "exr": {
+        "size": 36455708,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_4k.exr",
+        "md5": "55c3cc8a5c15d1a167d527381dfb11de"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 4581750,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_2k.jpg",
+        "md5": "eb3474c6e61b45dfbdb4721c896b7845"
+      },
+      "png": {
+        "size": 26613002,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_2k.png",
+        "md5": "8f2b627bb2772ef2a6e0a27c35006f40"
+      },
+      "exr": {
+        "size": 9443619,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_2k.exr",
+        "md5": "0275375b341401e68084a135a183471f"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 1190070,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_1k.jpg",
+        "md5": "d84dfab1007be4dfa4158471a4cba263"
+      },
+      "png": {
+        "size": 6707576,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_1k.png",
+        "md5": "3f7c4c814ec559b8a98078c5113546de"
+      },
+      "exr": {
+        "size": 2476938,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_dx_1k.exr",
+        "md5": "93fb83e6d2ddceac4261a215450efad7"
+      }
+    }
+  },
+  "nor_gl": {
+    "8k": {
+      "jpg": {
+        "size": 65302894,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_8k.jpg",
+        "md5": "e3b6fe3dca0bf81c626b30f6d5d9869a"
+      },
+      "png": {
+        "size": 415222894,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_8k.png",
+        "md5": "0739192094fb93b6c4bab765a49d7f44"
+      },
+      "exr": {
+        "size": 132524057,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_8k.exr",
+        "md5": "caddb7a9bf444544cd65c7e3b4dc8a08"
+      }
+    },
+    "16k": {
+      "jpg": {
+        "size": 214854886,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_16k.jpg",
+        "md5": "81b65d67fd6eaedf63addedc86689a0d"
+      },
+      "png": {
+        "size": 1643290516,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_16k.png",
+        "md5": "4c6b5bb32ae7060c7384b4b77ff488dc"
+      },
+      "exr": {
+        "size": 418696109,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_16k.exr",
+        "md5": "7ea811d1c04f6dfc5631cf032500879b"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 17689429,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_4k.jpg",
+        "md5": "f105cc73f1d0fa7929a75f4bd49b49fa"
+      },
+      "png": {
+        "size": 105864125,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_4k.png",
+        "md5": "7c0c070b3357458e05ff4d7134b81755"
+      },
+      "exr": {
+        "size": 36491177,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_4k.exr",
+        "md5": "d996074b91ef7f55b81fd29387fd292b"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 4582694,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_2k.jpg",
+        "md5": "96aa0239100b00082b64f952d53819dd"
+      },
+      "png": {
+        "size": 26613130,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_2k.png",
+        "md5": "8abbc89048c64b2cd22009b6835ff79a"
+      },
+      "exr": {
+        "size": 9443277,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_2k.exr",
+        "md5": "3430b92d2d85bbde9333a14c50551db6"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 1191033,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_1k.jpg",
+        "md5": "9612e01f923facfdd420fd7b811269b0"
+      },
+      "png": {
+        "size": 6707884,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_1k.png",
+        "md5": "9980aaf5bf313d6b18fef1f590d731b9"
+      },
+      "exr": {
+        "size": 2473131,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_1k.exr",
+        "md5": "ef4ac5fd4540afaa03fe0a930f931a04"
+      }
+    }
+  },
+  "blend": {
+    "8k": {
+      "blend": {
+        "include": {
+          "textures/rustic_stone_wall_02_disp_8k.png": {
+            "size": 83879339,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_disp_8k.png",
+            "md5": "68c2d9e1770eb6a316584c22028ebe1c"
+          },
+          "textures/rustic_stone_wall_02_rough_8k.exr": {
+            "size": 51957820,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_rough_8k.exr",
+            "md5": "92fd1674fdb0bb226f9de34f2e6f6bdf"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_8k.exr": {
+            "size": 132524057,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_8k.exr",
+            "md5": "caddb7a9bf444544cd65c7e3b4dc8a08"
+          },
+          "textures/rustic_stone_wall_02_diff_8k.jpg": {
+            "size": 36159366,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_diff_8k.jpg",
+            "md5": "9124d6eee6b8a6db2f0ee6cad410ff2e"
+          }
+        },
+        "size": 235271,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/rustic_stone_wall_02/rustic_stone_wall_02_8k.blend",
+        "md5": "eb630c5ab25c47b8744addd6406f59f5"
+      }
+    },
+    "16k": {
+      "blend": {
+        "include": {
+          "textures/rustic_stone_wall_02_diff_16k.jpg": {
+            "size": 106741099,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_diff_16k.jpg",
+            "md5": "893a0c3e10990a8f3f1d411adcc78f91"
+          },
+          "textures/rustic_stone_wall_02_disp_16k.png": {
+            "size": 292124236,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_disp_16k.png",
+            "md5": "cdd79a2418169865b7a7a6a1bfafbb23"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_16k.exr": {
+            "size": 418696109,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_16k.exr",
+            "md5": "7ea811d1c04f6dfc5631cf032500879b"
+          },
+          "textures/rustic_stone_wall_02_rough_16k.exr": {
+            "size": 196572966,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_rough_16k.exr",
+            "md5": "d86975a95c5e2155b247fd37673e054f"
+          }
+        },
+        "size": 235845,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/16k/rustic_stone_wall_02/rustic_stone_wall_02_16k.blend",
+        "md5": "8ceed1a89dee55d3e2acadde86aa8735"
+      }
+    },
+    "4k": {
+      "blend": {
+        "include": {
+          "textures/rustic_stone_wall_02_nor_gl_4k.exr": {
+            "size": 36491177,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_4k.exr",
+            "md5": "d996074b91ef7f55b81fd29387fd292b"
+          },
+          "textures/rustic_stone_wall_02_rough_4k.exr": {
+            "size": 14034151,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_rough_4k.exr",
+            "md5": "e6e8080c19d09605a20e8ed0758fc825"
+          },
+          "textures/rustic_stone_wall_02_diff_4k.jpg": {
+            "size": 10668695,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_diff_4k.jpg",
+            "md5": "4a07c1791c773ea1be8bc4eddf2ac310"
+          },
+          "textures/rustic_stone_wall_02_disp_4k.png": {
+            "size": 23477639,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_disp_4k.png",
+            "md5": "18c9cbd05e4a3818f37989010599e693"
+          }
+        },
+        "size": 230661,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/rustic_stone_wall_02/rustic_stone_wall_02_4k.blend",
+        "md5": "dd0a9fbb937f2a9c795476e2e0ca0551"
+      }
+    },
+    "2k": {
+      "blend": {
+        "include": {
+          "textures/rustic_stone_wall_02_diff_2k.jpg": {
+            "size": 2946775,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_diff_2k.jpg",
+            "md5": "b2459f26bf75da47d7b828044049d3cd"
+          },
+          "textures/rustic_stone_wall_02_disp_2k.png": {
+            "size": 6277688,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_disp_2k.png",
+            "md5": "f5976f9f7a083e4fcf4a9c1e35f1be9a"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_2k.exr": {
+            "size": 9443277,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_2k.exr",
+            "md5": "3430b92d2d85bbde9333a14c50551db6"
+          },
+          "textures/rustic_stone_wall_02_rough_2k.exr": {
+            "size": 3775997,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_rough_2k.exr",
+            "md5": "563fd3d84d0f61652a4c57a8af562edb"
+          }
+        },
+        "size": 230156,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/rustic_stone_wall_02/rustic_stone_wall_02_2k.blend",
+        "md5": "0b786f83dca975b16e90e14f7c292289"
+      }
+    },
+    "1k": {
+      "blend": {
+        "include": {
+          "textures/rustic_stone_wall_02_diff_1k.jpg": {
+            "size": 794327,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_diff_1k.jpg",
+            "md5": "9ca81a5ea589ea55a547bccc43c9df85"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_1k.exr": {
+            "size": 2473131,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_1k.exr",
+            "md5": "ef4ac5fd4540afaa03fe0a930f931a04"
+          },
+          "textures/rustic_stone_wall_02_disp_1k.png": {
+            "size": 1653006,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_disp_1k.png",
+            "md5": "bd6a4902ac04f8e71e67cb4f9e4cf0b7"
+          },
+          "textures/rustic_stone_wall_02_rough_1k.exr": {
+            "size": 992390,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_rough_1k.exr",
+            "md5": "8d1de29da129cf098726f345ddd47ada"
+          }
+        },
+        "size": 236568,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/rustic_stone_wall_02/rustic_stone_wall_02_1k.blend",
+        "md5": "c9c0eb6358c45978a94393a9da7a6761"
+      }
+    }
+  },
+  "gltf": {
+    "8k": {
+      "gltf": {
+        "include": {
+          "textures/rustic_stone_wall_02_nor_gl_8k.jpg": {
+            "size": 65302894,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_8k.jpg",
+            "md5": "e3b6fe3dca0bf81c626b30f6d5d9869a"
+          },
+          "textures/rustic_stone_wall_02_diff_8k.jpg": {
+            "size": 36159366,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_diff_8k.jpg",
+            "md5": "9124d6eee6b8a6db2f0ee6cad410ff2e"
+          },
+          "rustic_stone_wall_02.bin": {
+            "size": 2370292,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rustic_stone_wall_02/rustic_stone_wall_02.bin",
+            "md5": "1f9c97862019dfee964c7711db45a8a6"
+          },
+          "textures/rustic_stone_wall_02_arm_8k.jpg": {
+            "size": 30918965,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_arm_8k.jpg",
+            "md5": "d7141ab1d7fd0534d04cc32c2cccc833"
+          }
+        },
+        "size": 2846,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rustic_stone_wall_02/rustic_stone_wall_02_8k.gltf",
+        "md5": "577cee4bd0b2321cea0cc65f513b2e2e"
+      }
+    },
+    "16k": {
+      "gltf": {
+        "include": {
+          "textures/rustic_stone_wall_02_diff_16k.jpg": {
+            "size": 106741099,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_diff_16k.jpg",
+            "md5": "893a0c3e10990a8f3f1d411adcc78f91"
+          },
+          "textures/rustic_stone_wall_02_arm_16k.jpg": {
+            "size": 125121996,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_arm_16k.jpg",
+            "md5": "946a3262318917c1c5c79cd8cea3d39c"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_16k.jpg": {
+            "size": 214854886,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_16k.jpg",
+            "md5": "81b65d67fd6eaedf63addedc86689a0d"
+          },
+          "rustic_stone_wall_02.bin": {
+            "size": 2370292,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rustic_stone_wall_02/rustic_stone_wall_02.bin",
+            "md5": "1f9c97862019dfee964c7711db45a8a6"
+          }
+        },
+        "size": 2849,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/16k/rustic_stone_wall_02/rustic_stone_wall_02_16k.gltf",
+        "md5": "9fe3670bc0630a62e09158a77e983da8"
+      }
+    },
+    "4k": {
+      "gltf": {
+        "include": {
+          "textures/rustic_stone_wall_02_nor_gl_4k.jpg": {
+            "size": 17689429,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_4k.jpg",
+            "md5": "f105cc73f1d0fa7929a75f4bd49b49fa"
+          },
+          "textures/rustic_stone_wall_02_diff_4k.jpg": {
+            "size": 10668695,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_diff_4k.jpg",
+            "md5": "4a07c1791c773ea1be8bc4eddf2ac310"
+          },
+          "rustic_stone_wall_02.bin": {
+            "size": 2370292,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rustic_stone_wall_02/rustic_stone_wall_02.bin",
+            "md5": "1f9c97862019dfee964c7711db45a8a6"
+          },
+          "textures/rustic_stone_wall_02_arm_4k.jpg": {
+            "size": 8578124,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_arm_4k.jpg",
+            "md5": "d4db00c007782223b56a9ddd890c7779"
+          }
+        },
+        "size": 2846,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/rustic_stone_wall_02/rustic_stone_wall_02_4k.gltf",
+        "md5": "fa10a5d074b5785ab9f0bd651127081b"
+      }
+    },
+    "2k": {
+      "gltf": {
+        "include": {
+          "textures/rustic_stone_wall_02_diff_2k.jpg": {
+            "size": 2946775,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_diff_2k.jpg",
+            "md5": "b2459f26bf75da47d7b828044049d3cd"
+          },
+          "textures/rustic_stone_wall_02_arm_2k.jpg": {
+            "size": 2448349,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_arm_2k.jpg",
+            "md5": "31c0d4f6bf090448b92c793eff26e9af"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_2k.jpg": {
+            "size": 4582694,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_2k.jpg",
+            "md5": "96aa0239100b00082b64f952d53819dd"
+          },
+          "rustic_stone_wall_02.bin": {
+            "size": 2370292,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rustic_stone_wall_02/rustic_stone_wall_02.bin",
+            "md5": "1f9c97862019dfee964c7711db45a8a6"
+          }
+        },
+        "size": 2846,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/rustic_stone_wall_02/rustic_stone_wall_02_2k.gltf",
+        "md5": "043e916b2d813623da5a1743d3fe66f6"
+      }
+    },
+    "1k": {
+      "gltf": {
+        "include": {
+          "textures/rustic_stone_wall_02_nor_gl_1k.jpg": {
+            "size": 1191033,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_1k.jpg",
+            "md5": "9612e01f923facfdd420fd7b811269b0"
+          },
+          "textures/rustic_stone_wall_02_diff_1k.jpg": {
+            "size": 794327,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_diff_1k.jpg",
+            "md5": "9ca81a5ea589ea55a547bccc43c9df85"
+          },
+          "textures/rustic_stone_wall_02_arm_1k.jpg": {
+            "size": 697745,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_arm_1k.jpg",
+            "md5": "1c23adca55ff4f342ae63c3c3af8605a"
+          },
+          "rustic_stone_wall_02.bin": {
+            "size": 2370292,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/rustic_stone_wall_02/rustic_stone_wall_02.bin",
+            "md5": "1f9c97862019dfee964c7711db45a8a6"
+          }
+        },
+        "size": 2846,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/rustic_stone_wall_02/rustic_stone_wall_02_1k.gltf",
+        "md5": "1e10f09efb91d274be01195a80a8d903"
+      }
+    }
+  },
+  "arm": {
+    "8k": {
+      "jpg": {
+        "size": 30918965,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_arm_8k.jpg",
+        "md5": "d7141ab1d7fd0534d04cc32c2cccc833"
+      },
+      "png": {
+        "size": 180952933,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_arm_8k.png",
+        "md5": "138719ad27c8afa24a2d5304c16181c4"
+      },
+      "exr": {
+        "size": 55100878,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_arm_8k.exr",
+        "md5": "e668cba820957581bbcf40164bc0fe24"
+      }
+    },
+    "16k": {
+      "jpg": {
+        "size": 125121996,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_arm_16k.jpg",
+        "md5": "946a3262318917c1c5c79cd8cea3d39c"
+      },
+      "png": {
+        "size": 645685999,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_arm_16k.png",
+        "md5": "16efc69cdbb5dc6e5b6661aaf1bacbeb"
+      },
+      "exr": {
+        "size": 218567977,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_arm_16k.exr",
+        "md5": "1982fd5d5375f6cc200563eccdd3be8b"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 8578124,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_arm_4k.jpg",
+        "md5": "d4db00c007782223b56a9ddd890c7779"
+      },
+      "png": {
+        "size": 52903461,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_arm_4k.png",
+        "md5": "278146c6730481b7ad4c70408781409f"
+      },
+      "exr": {
+        "size": 15499567,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_arm_4k.exr",
+        "md5": "883ca9285ccca1811c8c9afb76005c66"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2448349,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_arm_2k.jpg",
+        "md5": "31c0d4f6bf090448b92c793eff26e9af"
+      },
+      "png": {
+        "size": 14886063,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_arm_2k.png",
+        "md5": "a3f641624a44ea9e209e3b1d6b1150a2"
+      },
+      "exr": {
+        "size": 4628458,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_arm_2k.exr",
+        "md5": "244bbf70a2318e2e7c96a98b09f728b7"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 697745,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_arm_1k.jpg",
+        "md5": "1c23adca55ff4f342ae63c3c3af8605a"
+      },
+      "png": {
+        "size": 4063079,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_arm_1k.png",
+        "md5": "b47aee10d90c66ecb57bb5221bfecc04"
+      },
+      "exr": {
+        "size": 1385845,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_arm_1k.exr",
+        "md5": "1b4007dff653288344918a831fc8f932"
+      }
+    }
+  },
+  "AO": {
+    "8k": {
+      "jpg": {
+        "size": 34457597,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_ao_8k.jpg",
+        "md5": "2cfe693d5083a48ce38e63e355f5caf0"
+      },
+      "png": {
+        "size": 46052235,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_ao_8k.png",
+        "md5": "77d7744badd0bd814e9bafd65031b879"
+      },
+      "exr": {
+        "size": 44839297,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_ao_8k.exr",
+        "md5": "07f9afc1aaa5b3a24e12609e3060a48f"
+      }
+    },
+    "16k": {
+      "jpg": {
+        "size": 150264560,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_ao_16k.jpg",
+        "md5": "97d80febe63fed3f0aca24171bed9d35"
+      },
+      "png": {
+        "size": 143178805,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_ao_16k.png",
+        "md5": "d9a3141491253b351dfec1257b001850"
+      },
+      "exr": {
+        "size": 127469900,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_ao_16k.exr",
+        "md5": "bcb9586c7706a31e8307f86ac27f5100"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 8727528,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_ao_4k.jpg",
+        "md5": "dba80a31fb51185151c1b7e24fc511e9"
+      },
+      "png": {
+        "size": 17315572,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_ao_4k.png",
+        "md5": "5cf4a53d34d4e06030bf0b0bac317f7a"
+      },
+      "exr": {
+        "size": 14749039,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_ao_4k.exr",
+        "md5": "1bd6fd503415aa6244b617aa05075358"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2387333,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_ao_2k.jpg",
+        "md5": "be42a1a1120547f46d94e015aac70b10"
+      },
+      "png": {
+        "size": 5532459,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_ao_2k.png",
+        "md5": "c353862598a713a52d3ea79d2176844f"
+      },
+      "exr": {
+        "size": 4289899,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_ao_2k.exr",
+        "md5": "8c4ab5175b88642beddac0089baf5c49"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 688437,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_ao_1k.jpg",
+        "md5": "3eeca4be016d8684be4851fb88723726"
+      },
+      "png": {
+        "size": 1693934,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_ao_1k.png",
+        "md5": "c5ebc49bbf88e4040caf170d94e2bc4e"
+      },
+      "exr": {
+        "size": 1129771,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_ao_1k.exr",
+        "md5": "386e5d54979ee519baf8b8c7e90416e8"
+      }
+    }
+  },
+  "Displacement": {
+    "8k": {
+      "jpg": {
+        "size": 9011277,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_disp_8k.jpg",
+        "md5": "aa3a557e1ccd367d3dc79a52b76eced5"
+      },
+      "png": {
+        "size": 83879339,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_disp_8k.png",
+        "md5": "68c2d9e1770eb6a316584c22028ebe1c"
+      },
+      "exr": {
+        "size": 27840861,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_disp_8k.exr",
+        "md5": "24c47822d558c05d6f53a31168c96421"
+      }
+    },
+    "16k": {
+      "jpg": {
+        "size": 25366984,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_disp_16k.jpg",
+        "md5": "6974bb0c71ceb52b28925bcbccf0e675"
+      },
+      "png": {
+        "size": 292124236,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_disp_16k.png",
+        "md5": "cdd79a2418169865b7a7a6a1bfafbb23"
+      },
+      "exr": {
+        "size": 81418257,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_disp_16k.exr",
+        "md5": "867df98260b00d3ec4436bac42402e78"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 3079889,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_disp_4k.jpg",
+        "md5": "744aea7f2fd3540a39a530fd13912a4b"
+      },
+      "png": {
+        "size": 23477639,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_disp_4k.png",
+        "md5": "18c9cbd05e4a3818f37989010599e693"
+      },
+      "exr": {
+        "size": 9101891,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_disp_4k.exr",
+        "md5": "74e1679d672eb3c3fea3f93cf5aa161c"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1042295,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_disp_2k.jpg",
+        "md5": "6e63ece5c6e79012355da1e4e5232085"
+      },
+      "png": {
+        "size": 6277688,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_disp_2k.png",
+        "md5": "f5976f9f7a083e4fcf4a9c1e35f1be9a"
+      },
+      "exr": {
+        "size": 2868049,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_disp_2k.exr",
+        "md5": "00b1cb12c57012104adf5cc9af648855"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 356509,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_disp_1k.jpg",
+        "md5": "bce106708b717cceb89a9c7652e2b5ed"
+      },
+      "png": {
+        "size": 1653006,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_disp_1k.png",
+        "md5": "bd6a4902ac04f8e71e67cb4f9e4cf0b7"
+      },
+      "exr": {
+        "size": 880819,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_disp_1k.exr",
+        "md5": "6c6788548d0362c3629606e686af198b"
+      }
+    }
+  },
+  "Rough": {
+    "8k": {
+      "jpg": {
+        "size": 21475896,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_rough_8k.jpg",
+        "md5": "b019030b418466078a9baf1e7ef700a1"
+      },
+      "png": {
+        "size": 106044374,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_rough_8k.png",
+        "md5": "c0464e92af1d57b99055f3133199d5d5"
+      },
+      "exr": {
+        "size": 51957820,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_rough_8k.exr",
+        "md5": "92fd1674fdb0bb226f9de34f2e6f6bdf"
+      }
+    },
+    "16k": {
+      "jpg": {
+        "size": 78557526,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_rough_16k.jpg",
+        "md5": "3f91d5bf3e9ea7c79a455179cbc4172c"
+      },
+      "png": {
+        "size": 421512803,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_rough_16k.png",
+        "md5": "9db2e181713ba826bf122c2a124cf7c7"
+      },
+      "exr": {
+        "size": 196572966,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_rough_16k.exr",
+        "md5": "d86975a95c5e2155b247fd37673e054f"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 6355635,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_rough_4k.jpg",
+        "md5": "3cc7e38f012f09dbf1072ec8508a1967"
+      },
+      "png": {
+        "size": 27186197,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_rough_4k.png",
+        "md5": "e8bbec827a719bbb309fe0df9744be97"
+      },
+      "exr": {
+        "size": 14034151,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_rough_4k.exr",
+        "md5": "e6e8080c19d09605a20e8ed0758fc825"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1839689,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_rough_2k.jpg",
+        "md5": "b65abfd84aa29032a27fa4d7c5fa95c8"
+      },
+      "png": {
+        "size": 6947488,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_rough_2k.png",
+        "md5": "03ff45cb45592b7b08637cf10caf22d2"
+      },
+      "exr": {
+        "size": 3775997,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_rough_2k.exr",
+        "md5": "563fd3d84d0f61652a4c57a8af562edb"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 517126,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_rough_1k.jpg",
+        "md5": "d5fad1c25c7bc87dd697d8491e43f9fc"
+      },
+      "png": {
+        "size": 1769263,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_rough_1k.png",
+        "md5": "7a531577a03af92ce655a96305145794"
+      },
+      "exr": {
+        "size": 992390,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_rough_1k.exr",
+        "md5": "8d1de29da129cf098726f345ddd47ada"
+      }
+    }
+  },
+  "mtlx": {
+    "8k": {
+      "mtlx": {
+        "include": {
+          "textures/rustic_stone_wall_02_disp_8k.png": {
+            "size": 83879339,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/rustic_stone_wall_02/rustic_stone_wall_02_disp_8k.png",
+            "md5": "68c2d9e1770eb6a316584c22028ebe1c"
+          },
+          "textures/rustic_stone_wall_02_rough_8k.exr": {
+            "size": 51957820,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_rough_8k.exr",
+            "md5": "92fd1674fdb0bb226f9de34f2e6f6bdf"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_8k.exr": {
+            "size": 132524057,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_8k.exr",
+            "md5": "caddb7a9bf444544cd65c7e3b4dc8a08"
+          },
+          "textures/rustic_stone_wall_02_diff_8k.jpg": {
+            "size": 36159366,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/rustic_stone_wall_02/rustic_stone_wall_02_diff_8k.jpg",
+            "md5": "9124d6eee6b8a6db2f0ee6cad410ff2e"
+          }
+        },
+        "size": 4807,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/8k/rustic_stone_wall_02/rustic_stone_wall_02_8k.mtlx",
+        "md5": "1d74f5747f7493b0293a2cfc2944dacb"
+      }
+    },
+    "16k": {
+      "mtlx": {
+        "include": {
+          "textures/rustic_stone_wall_02_diff_16k.jpg": {
+            "size": 106741099,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/rustic_stone_wall_02/rustic_stone_wall_02_diff_16k.jpg",
+            "md5": "893a0c3e10990a8f3f1d411adcc78f91"
+          },
+          "textures/rustic_stone_wall_02_disp_16k.png": {
+            "size": 292124236,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/rustic_stone_wall_02/rustic_stone_wall_02_disp_16k.png",
+            "md5": "cdd79a2418169865b7a7a6a1bfafbb23"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_16k.exr": {
+            "size": 418696109,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_16k.exr",
+            "md5": "7ea811d1c04f6dfc5631cf032500879b"
+          },
+          "textures/rustic_stone_wall_02_rough_16k.exr": {
+            "size": 196572966,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/rustic_stone_wall_02/rustic_stone_wall_02_rough_16k.exr",
+            "md5": "d86975a95c5e2155b247fd37673e054f"
+          }
+        },
+        "size": 4811,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/16k/rustic_stone_wall_02/rustic_stone_wall_02_16k.mtlx",
+        "md5": "50b7ed1cce0817ffdf70a9e4f8a4e567"
+      }
+    },
+    "4k": {
+      "mtlx": {
+        "include": {
+          "textures/rustic_stone_wall_02_nor_gl_4k.exr": {
+            "size": 36491177,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_4k.exr",
+            "md5": "d996074b91ef7f55b81fd29387fd292b"
+          },
+          "textures/rustic_stone_wall_02_rough_4k.exr": {
+            "size": 14034151,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/rustic_stone_wall_02/rustic_stone_wall_02_rough_4k.exr",
+            "md5": "e6e8080c19d09605a20e8ed0758fc825"
+          },
+          "textures/rustic_stone_wall_02_diff_4k.jpg": {
+            "size": 10668695,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/rustic_stone_wall_02/rustic_stone_wall_02_diff_4k.jpg",
+            "md5": "4a07c1791c773ea1be8bc4eddf2ac310"
+          },
+          "textures/rustic_stone_wall_02_disp_4k.png": {
+            "size": 23477639,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/rustic_stone_wall_02/rustic_stone_wall_02_disp_4k.png",
+            "md5": "18c9cbd05e4a3818f37989010599e693"
+          }
+        },
+        "size": 4807,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/4k/rustic_stone_wall_02/rustic_stone_wall_02_4k.mtlx",
+        "md5": "b3ddb262d333bd127c222279907a51ae"
+      }
+    },
+    "2k": {
+      "mtlx": {
+        "include": {
+          "textures/rustic_stone_wall_02_diff_2k.jpg": {
+            "size": 2946775,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rustic_stone_wall_02/rustic_stone_wall_02_diff_2k.jpg",
+            "md5": "b2459f26bf75da47d7b828044049d3cd"
+          },
+          "textures/rustic_stone_wall_02_disp_2k.png": {
+            "size": 6277688,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rustic_stone_wall_02/rustic_stone_wall_02_disp_2k.png",
+            "md5": "f5976f9f7a083e4fcf4a9c1e35f1be9a"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_2k.exr": {
+            "size": 9443277,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_2k.exr",
+            "md5": "3430b92d2d85bbde9333a14c50551db6"
+          },
+          "textures/rustic_stone_wall_02_rough_2k.exr": {
+            "size": 3775997,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rustic_stone_wall_02/rustic_stone_wall_02_rough_2k.exr",
+            "md5": "563fd3d84d0f61652a4c57a8af562edb"
+          }
+        },
+        "size": 4807,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/2k/rustic_stone_wall_02/rustic_stone_wall_02_2k.mtlx",
+        "md5": "1c1d639761a045fe65c262d827ff9b04"
+      }
+    },
+    "1k": {
+      "mtlx": {
+        "include": {
+          "textures/rustic_stone_wall_02_diff_1k.jpg": {
+            "size": 794327,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rustic_stone_wall_02/rustic_stone_wall_02_diff_1k.jpg",
+            "md5": "9ca81a5ea589ea55a547bccc43c9df85"
+          },
+          "textures/rustic_stone_wall_02_nor_gl_1k.exr": {
+            "size": 2473131,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_nor_gl_1k.exr",
+            "md5": "ef4ac5fd4540afaa03fe0a930f931a04"
+          },
+          "textures/rustic_stone_wall_02_disp_1k.png": {
+            "size": 1653006,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rustic_stone_wall_02/rustic_stone_wall_02_disp_1k.png",
+            "md5": "bd6a4902ac04f8e71e67cb4f9e4cf0b7"
+          },
+          "textures/rustic_stone_wall_02_rough_1k.exr": {
+            "size": 992390,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/rustic_stone_wall_02/rustic_stone_wall_02_rough_1k.exr",
+            "md5": "8d1de29da129cf098726f345ddd47ada"
+          }
+        },
+        "size": 4807,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/1k/rustic_stone_wall_02/rustic_stone_wall_02_1k.mtlx",
+        "md5": "de7452d7c0c2396f9c2028e8ad64bab8"
+      }
+    }
+  }
+}

@@ -4,3 +4,9 @@ Individual assets: https://polyhaven.com/a/<asset-id>
 Downloaded files checked against provider MD5 manifests; original manifests retained.
 
 Additional CC0 source IDs: monastery_stone_floor, jug_01, brass_candleholders, fabric_pattern_05 (colour variant col_01). Decorative book set catalogue was inspected but not imported.
+
+Historic interior pass CC0 source IDs: old_stone_wall_02, rustic_stone_wall_02,
+wicker_basket_01, wooden_stool_01, wooden_bowl_01, sofa_03 (4K PBR textures).
+Sofa 03 by Fran Calvente is a Victorian furniture asset, used as an explicit
+comfort/mood concession rather than represented as medieval furniture.
+https://polyhaven.com/a/sofa_03

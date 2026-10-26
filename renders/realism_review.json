@@ -1,16 +1,51 @@
 {
   "width": 1280,
   "height": 720,
-  "cycles_samples": 64,
+  "cycles_samples": 96,
   "denoising": "OpenImageDenoise",
   "old_motion_scene_preserved": true,
   "new_scene": "realism_study.blend",
   "new_animation_rendered": false,
   "realism_target_reached": false,
-  "reference_review": "docs/realism-review.md",
+  "reference_review": "docs/historic-study.md",
+  "scene_check": {
+    "used_packed_file_images": 41,
+    "external_file_images": [
+      "assets/realism/old_stone_wall_02/Diffuse.jpg",
+      "assets/realism/rustic_stone_wall_02/Diffuse.jpg",
+      "assets/realism/wood_table_worn/Diffuse.jpg",
+      "assets/realism/old_stone_wall_02/nor_gl.jpg",
+      "assets/realism/rustic_stone_wall_02/nor_gl.jpg",
+      "assets/realism/wood_table_worn/nor_gl.jpg",
+      "assets/realism/old_stone_wall_02/Rough.jpg",
+      "assets/realism/rustic_stone_wall_02/Rough.jpg",
+      "assets/realism/wood_table_worn/Rough.jpg"
+    ],
+    "missing_images": [],
+    "blend_bytes": 90594079,
+    "camera_lens_mm": 22.0,
+    "window_arch_blocks": 36,
+    "fireback_bricks": 154,
+    "render_output": "//renders/realism_study.png"
+  },
   "runtime": {
     "render_completed": true,
     "worker_returncode": -15,
     "stopped_during_cleanup": true
+  },
+  "visual_review": {
+    "improved": [
+      "Jointed deep window stonework",
+      "More irregular stone surface pattern",
+      "Detailed worn leather foreground seating",
+      "Fuller filmed fire and visible burning fuel"
+    ],
+    "remaining_gaps": [
+      "Rain remains too subtle to communicate a heavy storm",
+      "Village is a simple silhouette and needs believable vegetation and depth",
+      "Foreground styling and lighting remain less natural and layered than reference",
+      "Filmed fire is a fixed camera card and still needs better integration",
+      "Furniture is a mixture of periods rather than a documentary medieval tavern"
+    ]
   }
 }

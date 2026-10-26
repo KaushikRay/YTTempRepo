@@ -1,0 +1,51 @@
+{
+  "type": 2,
+  "tags": [
+    "wood",
+    "prop",
+    "furniture",
+    "vintage",
+    "gothic",
+    "chair",
+    "couch",
+    "victorian",
+    "decorative"
+  ],
+  "date_published": 1585605600,
+  "name": "Sofa 01",
+  "old_id": 33,
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4101,
+  "texel_density": 1881.557650237209,
+  "dimensions": [
+    1571.4675784111023,
+    658.0145359039307,
+    796.515051391907
+  ],
+  "files_hash": "06d253c13e53259a35bd5291b921bf959c4a025a",
+  "description": "Free 4K vintage Victorian wooden sofa - decorative gothic-style upholstered couch with carved frame, elegant seating prop for period interiors.",
+  "category_id": "a995f351-c031-54f6-b317-dc5928df17a3",
+  "category": "Furniture/Seating/Sofas & Couches",
+  "attributes": {
+    "condition": [
+      "worn"
+    ],
+    "material": [
+      "wood",
+      "fabric"
+    ]
+  },
+  "img_version": "4f8a0e72",
+  "download_count": 50476,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/Sofa_01.png?width=256&height=256&format=webp&v=4f8a0e72"
+}

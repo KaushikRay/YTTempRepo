@@ -1,5 +1,6 @@
 *.blend1
 __pycache__/
+renders/realism_worker.log
 
 renders/motion/frames/
 

@@ -1,5 +1,10 @@
 # Realism rebuild — reference review and asset-based still
 
+The current revision also includes the [historic construction study](historic-study.md):
+deep jointed window surrounds, irregular mortar-filled masonry, a dark brick
+hearth, revised fire integration and a scanned leather sofa. The image and
+scene paths below are updated in place. The original critique remains useful.
+
 ## Why the previous video reads as CGI
 
 Direct comparison of reference/original.png and the rendered video frames
@@ -74,10 +79,11 @@ scripts/prepare_realism_fire.py. No new video is claimed in this pass.
 
 ## Final still check
 
-The review still is 1280 × 720, 64 Cycles samples with OIDN. It was inspected
+The current review still is 1280 × 720, 96 Cycles samples with OIDN. It was inspected
 at full resolution after correcting the camera aim and foreground chair.
-The source models and image maps are loaded; file textures are packed in
-realism_study.blend (Blender 4.5.3 LTS). A known cleanup stall was stopped
+The source models and image maps are loaded; most file textures are packed in
+realism_study.blend (Blender 4.5.3 LTS). Large stone/wood maps remain relative
+external assets; keep assets/ beside the Blender file. A known cleanup stall was stopped
 only after render completion, recorded in realism_runtime.json.
 
 The old storm motion scene remains byte-identical to the previous delivered

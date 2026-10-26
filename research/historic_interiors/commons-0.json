@@ -1,0 +1,755 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 7,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "95179600": {
+        "pageid": 95179600,
+        "ns": 6,
+        "title": "File:Evenings at Haddon Hall (IA eveningsathaddon00calarich).pdf",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 28935499,
+            "width": 962,
+            "height": 1464,
+            "pagecount": 536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Evenings_at_Haddon_Hall_%28IA_eveningsathaddon00calarich%29.pdf/page1-960px-Evenings_at_Haddon_Hall_%28IA_eveningsathaddon00calarich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1948,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Evenings_at_Haddon_Hall_%28IA_eveningsathaddon00calarich%29.pdf/page1-960px-Evenings_at_Haddon_Hall_%28IA_eveningsathaddon00calarich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1948
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Evenings_at_Haddon_Hall_%28IA_eveningsathaddon00calarich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Evenings_at_Haddon_Hall_(IA_eveningsathaddon00calarich).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95179600",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-10-18 08:49:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nEvenings at Haddon Hall</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by F\u00e6|Books without Wikidata item|California Digital Library",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<dl><dd>Calabrella, E. C. de, Baroness</dd>\n<dd>Cattermole, George, 1800-1868</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects:</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/eveningsathaddon00calarich\" class=\"extiw\" title=\"iarchive:eveningsathaddon00calarich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: eveningsathaddon00calarich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/eveningsathaddon00calarich/eveningsathaddon00calarich.pdf\">https://archive.org/download/eveningsathaddon00calarich/eveningsathaddon00calarich.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "98071397": {
+        "pageid": 98071397,
+        "ns": 6,
+        "title": "File:Haddon Hall (IA cu31924031417078).pdf",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4250111,
+            "width": 931,
+            "height": 1200,
+            "pagecount": 80,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Haddon_Hall_%28IA_cu31924031417078%29.pdf/page1-500px-Haddon_Hall_%28IA_cu31924031417078%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1650,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Haddon_Hall_%28IA_cu31924031417078%29.pdf/page1-500px-Haddon_Hall_%28IA_cu31924031417078%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1650
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Haddon_Hall_%28IA_cu31924031417078%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haddon_Hall_(IA_cu31924031417078).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98071397",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-26 01:42:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nHaddon Hall</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Haddon Hall|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by F\u00e6|Books without Wikidata item|Scans from Cornell University Library|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<dl><dd>Jewitt, Llewellynn Frederick William, 1816-1886</dd>\n<dd>Hall, S. C. (Samuel Carter), 1800-1889. Haddon Hall</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>Cover title: Illustrated guide to Haddon Hall</dd>\n<dd>An 1871 edition is by S. C. Hall and L. Carter</dd></dl>\n<br>Subjects: Vernon family; Manners family; Haddon Hall (England)</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/cu31924031417078\" class=\"extiw\" title=\"iarchive:cu31924031417078\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924031417078</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924031417078/cu31924031417078.pdf\">https://archive.org/download/cu31924031417078/cu31924031417078.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "95361239": {
+        "pageid": 95361239,
+        "ns": 6,
+        "title": "File:Haddon Hall (IA haddonhall00jewiiala).pdf",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5897101,
+            "width": 879,
+            "height": 1150,
+            "pagecount": 80,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Haddon_Hall_%28IA_haddonhall00jewiiala%29.pdf/page1-500px-Haddon_Hall_%28IA_haddonhall00jewiiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1675,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Haddon_Hall_%28IA_haddonhall00jewiiala%29.pdf/page1-500px-Haddon_Hall_%28IA_haddonhall00jewiiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1675
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Haddon_Hall_%28IA_haddonhall00jewiiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haddon_Hall_(IA_haddonhall00jewiiala).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95361239",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-10-23 13:10:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nHaddon Hall</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Haddon Hall|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by F\u00e6|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<dl><dd>Jewitt, Llewellynn Frederick William, 1816-1886</dd>\n<dd>Hall, S. C. (Samuel Carter), 1800-1889</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects: Vernon family; Manners family; Haddon Hall (Nether Haddon, Derbyshire)</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/haddonhall00jewiiala\" class=\"extiw\" title=\"iarchive:haddonhall00jewiiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: haddonhall00jewiiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/haddonhall00jewiiala/haddonhall00jewiiala.pdf\">https://archive.org/download/haddonhall00jewiiala/haddonhall00jewiiala.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "112833374": {
+        "pageid": 112833374,
+        "ns": 6,
+        "title": "File:Haddon Hall - Lower Courtyard (15190340021).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3711088,
+            "width": 4288,
+            "height": 3216,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg/1280px-Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg/3840px-Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg/1280px-Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg/3840px-Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Haddon_Hall_-_Lower_Courtyard_%2815190340021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Haddon_Hall_-_Lower_Courtyard_(15190340021).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112833374",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-11-26 08:27:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Haddon Hall - Lower Courtyard (15190340021)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (53\u00b0 N, 2\u00b0 W)|Lower Courtyard, Haddon Hall",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.193893",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.650149",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Arriving at Haddon Hall - in the Lower Courtyard.\n</p><p>Haddon Hall is Grade I listed.\n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.britishlistedbuildings.co.uk/en-81025-haddon-hall-nether-haddon-derbyshire\">http://www.britishlistedbuildings.co.uk/en-81025-haddon-hall-nether-haddon-derbyshire</a>\" rel=\"noreferrer nofollow\"&gt;Haddon Hall, Nether Haddon&lt;/a&gt;\n</p>\n<pre>   SK 26 NW PARISH OF NETHER HADDON HADDON ROAD\n   2/28 (North Side)\n   29.9.51 Haddon Hall\n   GV I\n</pre>\n<p><br>\n</p>\n<pre>   Large double courtyard, fortified manor house. Seat of the Dukes of Rutland\n   and built by the Vernon family. Fragments of C12 work but mainly of two periods\n   with the upper courtyard built mainly in the second quarter of Cl4 and the lower\n   courtyard built mostly in C15, but also with major refashionings and alterations\n   of C16 and C17 and a major restoration between 1920 and 1930, supervised by Mr\n   Leonard Stanhope, the Clerk of Works. Limestone and gritstone rubble and ashlar\n   gritstone with gritstone dressings and quoins. Leaded roof, mostly hidden by\n   embattled parapets with ridgeback copings, roofs and parapets mostly C20.\n   Numerous stone ridge and side wall stacks, mostly C20, some with crenellated tops,\n   plus massive late C15 external stacks to west side of Great Hall and, possibly\n   C14, corbelled out stone stacks to north walls. Two storeys with four storey\n   north-west gatetower, and three storey eastern Peveril Tower and north-east\n   lodgings to upper courtyard. Double courtyard plan on sloping site with upper\n   courtyard to north-east and lower courtyard to south-west. Upper courtyard has\n   Peveril's Tower, the original entrance, and the state bedroom to east range, Long\n   Gallery to south and the present Duke's apartments to north, whilst the lower\n   courtyard has the continuation of the private apartments and the north-west entrance\n   tower to north, offices and lodgings to west and the Chapel and the Earl's Bedroom\n   to south, between the two courtyards the Great Hall and its service rooms.\n   North elevation has late C15 entrance tower to west with C14 kitchen range to east\n   and beyond the Duke's apartments, mostly C17 but much restored. Entrance tower\n   has steps up to moulded, shallow pointed arch with hoodmould and double studded\n   oak doors. To west a slit window and beyond an ornate ashlar, stepped buttress with\n   relief carving to upper part. Above door a blank plaque with hoodmould and 3-light\n   cavetto moulded mullion window with pointed lights and incised spandrels, set in\n   ovolo moulded recess with hoodmould. Above again similar plaque, but decorated with\n   upturned acorns, and similar 3-light window. Similar blank plaque and window over\n   with large coat of arms immediately above, breaking through the moulded stringcourse\n   with gargoyles,on to the parapets. Beyond the C14 stacks to east, a Cl7 wing with\n   range of recessed and chamfered mullion windows. Attached to west corner of tower\n   an embattled ashlar wall with four-centred arched doorcase with hoodmould, under\n   large coat of arms of the 'Kings of the Peak', which has to either side a carved\n   frieze of the Vernons family shields. West side of tower has polygonal staircase\n   turret to south corner, corbelled out at first floor level.\n   Garden front to south of limestone and gritstone rubble with gritstone quoins and\n   continuous moulded sill bands to first floor windows and continuous moulded eaves\n   stringcourse. Four bay, early C17, section to east with advanced square, two\n   storey bay flanked by canted, two storey, bay windows with another window to east,\n   and attached to west a five bay C16 section, much refashioned in C17, with the Chapel\n   beyond to west. Eastern section has a range of recessed and ovolo moulded, double\n   transomed windows to Long Gallery at first floor level with recessed and chamfered\n   windows below. Lower section attached to west with two storey canted bay window\n   with large carved crest on parapets, beyond. To west again three, first floor,\n   oriel windows, each with recessed and ovolo moulded mullion and transomed windows,\n   central oriel with double angled sides. To extreme west, the Chapel, set at a\n   different angle, with Perp 5-light east window, two flat headed Perp chancel windows,\n   C13 lancets in the south aisle and C15 cusped clerestorey windows. To opposite\n   side of the Chapel in the lower courtyard stands a C15 octagonal bell turret with\n   cusped Y-tracery arches to all sides at the top. Attached to east end of the Chapel\n   the remains of C14 timber walling, now mainly enveloped in the late C16 rebuilding\n   of the Earl's Bedroom which has mullion and transomed canted bay windows at first\n   floor level. Great Hall to east range of the lower courtyard has C14, 2-light,\n   low transomed, windows with central quatrefoil over cusped lights, to either side\n   of late C15 external stack. To north C15 three storey porch and to south projecting\n   parlour wing.\n   Interior - the Chapel has two bay arcades of double chamfered pointed arches,\n   that to north on C15 capital and polygonal column, that to south on mutilated\n   late C12 scalloped capital and column. Fine 'grisailles' wall paintings to nave\n   and early C17 oak pews and furnishings, inscribed 'GM 1624'. C15 stained glass\n   to east, north and south windows, east one inscribed 'Ornate pro animabus Riccardi\n   Vernon et Benedicte uxoris eius qui fecerunt anno dni 1472'. Below east window\n   a C14 Nottingham alabaster reredos, introduced in C20. C12 plain circular font\n   with C17 cover of double curved scrolls meeting at central knob and 1894 marble\n   tomb to Robert Manners, with figure of dead boy to top and coats of arms and heads\n   of family to sides, to south side of nave. Opposite a C15 stoop on octagonal stem\n   with crenellated top. Great Hall has C15 timber screens passage with cusped\n   panelling and gallery over, also arched braced roof dated 1923, C16 panelled lobby\n   to south through to parlour and C16 panelling to the walls; large cavetto moulded\n   fireplace to west and four,four-centred arched doorcases to north of screens\n   passage, eastern one opens on to the staircase up to the gallery, whilst the other\n   three lead to the kitchen, pantry and buttery, all have original oak studded doors.\n   C14 kitchen has two massive segmental fireplaces, impressive C17 oak kitchen\n   furniture and C16 chamfered cross beam roof supported near centre by braced wooden\n   pier. Bakehouse beyond to east with breadovens and dough troughs, with slaughter\n   house beyond again to east. Parlour to south of the Great Hall has its original\n   cl500 painted ceiling, and panelling throughout,dated 1545, with carved frieze\n   next to ceiling. Above is the Earl's Bedroom, refashioned in C17, when plasterwork\n   frieze and ceiling, and panelling inserted. Beyond this room to west another\n   apartment with the remains of C14 timber walling still visible. Long Gallery\n   and State Bedroom to east, both C17. Long Gallery has classically inspired\n   panelling, hugh windows and plasterwork ceiling. State Bedroom beyond, has fireplace\n   with elborate plaster overmantle similar to those at Hardwick. Sources see\n   Country Life CVI (1949) December 23, pp 1884, 'Haddon Hall' by Christopher Hussey,\n   The Royal Archaeological Institute Journal Vol 118, 'Haddon Hall and Bolsover\n   Castle', pg 188 by P A Faulkner and the National Ancient Monument Review Vol I\n   'The reinstatement of Haddon Hall' by John Swarbrick pg 135.\n</pre>\n<p><br>\n</p>\n<pre>   Listing NGR: SK2348566368\n</pre>\n<p><br>\nThis text is a legacy record and has not been updated since the building was originally listed. Details of the building may have changed in the intervening time. You should not rely on this listing as an accurate description of the building.\n</p><p>Source: English Heritage\n</p>\nListed building text is \u00a9 Crown Copyright. Reproduced under licence.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-30 12:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ell-r-brown/15190340021/\">Haddon Hall - Lower Courtyard</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39415781@N06\">Elliott Brown</a> from Birmingham, United Kingdom",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "112644461": {
+        "pageid": 112644461,
+        "ns": 6,
+        "title": "File:Joseph Nash - The Long Gallery, Haddon Hall, Derbyshire - B1975.3.1242 - Yale Center for British Art.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 547909,
+            "width": 1920,
+            "height": 1380,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Joseph_Nash_-_The_Long_Gallery%2C_Haddon_Hall%2C_Derbyshire_-_B1975.3.1242_-_Yale_Center_for_British_Art.jpg/1280px-Joseph_Nash_-_The_Long_Gallery%2C_Haddon_Hall%2C_Derbyshire_-_B1975.3.1242_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 920,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/43/Joseph_Nash_-_The_Long_Gallery%2C_Haddon_Hall%2C_Derbyshire_-_B1975.3.1242_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Joseph_Nash_-_The_Long_Gallery%2C_Haddon_Hall%2C_Derbyshire_-_B1975.3.1242_-_Yale_Center_for_British_Art.jpg/1280px-Joseph_Nash_-_The_Long_Gallery%2C_Haddon_Hall%2C_Derbyshire_-_B1975.3.1242_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 920,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/43/Joseph_Nash_-_The_Long_Gallery%2C_Haddon_Hall%2C_Derbyshire_-_B1975.3.1242_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Joseph_Nash_-_The_Long_Gallery%2C_Haddon_Hall%2C_Derbyshire_-_B1975.3.1242_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Joseph_Nash_-_The_Long_Gallery,_Haddon_Hall,_Derbyshire_-_B1975.3.1242_-_Yale_Center_for_British_Art.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112644461",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-11-19 20:04:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>The Long Gallery, Haddon Hall, Derbyshire\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106859477#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"The Long Gallery, Haddon Hall, Derbyshire\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106859477#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"The Long Gallery, Haddon Hall, Derbyshire\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106859477#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Joseph Nash|Artworks with Wikidata item|Artworks with known accession number|Artworks with accession number from Wikidata|Artworks with Wikidata item missing genre|Watercolor paintings of England|Artworks digital representation of 2D work|Long galleries|Haddon Hall in art|Watercolor paintings in the Yale Center for British Art|1830s watercolor paintings of building interiors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Joseph_Nash\" class=\"extiw\" title=\"w:en:Joseph Nash\"><span title=\"British artist (1809-1878)\">Joseph Nash</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1839\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106859477#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collections.britishart.yale.edu/catalog/tms:11157\">Yale Center for British Art</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "112833371": {
+        "pageid": 112833371,
+        "ns": 6,
+        "title": "File:The gardens at Haddon Hall (15015978610).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3784141,
+            "width": 4288,
+            "height": 3216,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_gardens_at_Haddon_Hall_%2815015978610%29.jpg/1280px-The_gardens_at_Haddon_Hall_%2815015978610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_gardens_at_Haddon_Hall_%2815015978610%29.jpg/3840px-The_gardens_at_Haddon_Hall_%2815015978610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_gardens_at_Haddon_Hall_%2815015978610%29.jpg/1280px-The_gardens_at_Haddon_Hall_%2815015978610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_gardens_at_Haddon_Hall_%2815015978610%29.jpg/3840px-The_gardens_at_Haddon_Hall_%2815015978610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_gardens_at_Haddon_Hall_%2815015978610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_gardens_at_Haddon_Hall_(15015978610).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112833371",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-11-26 08:27:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "The gardens at Haddon Hall (15015978610)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (53\u00b0 N, 2\u00b0 W)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.193899",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.649055",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>The gardens at Haddon Hall.\n</p><p>On a hill so multiple layers going down towards the river!\n</p><p>Although you can see the river, the gate to it is padlocked shut!\n</p><p><br>\nView of the hall from the garden at the back!\n</p><p><br>\nHaddon Hall is Grade I listed.\n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.britishlistedbuildings.co.uk/en-81025-haddon-hall-nether-haddon-derbyshire\">http://www.britishlistedbuildings.co.uk/en-81025-haddon-hall-nether-haddon-derbyshire</a>\" rel=\"noreferrer nofollow\"&gt;Haddon Hall, Nether Haddon&lt;/a&gt;\n</p>\n<pre>   SK 26 NW PARISH OF NETHER HADDON HADDON ROAD\n   2/28 (North Side)\n   29.9.51 Haddon Hall\n   GV I\n</pre>\n<p><br>\n</p>\n<pre>   Large double courtyard, fortified manor house. Seat of the Dukes of Rutland\n   and built by the Vernon family. Fragments of C12 work but mainly of two periods\n   with the upper courtyard built mainly in the second quarter of Cl4 and the lower\n   courtyard built mostly in C15, but also with major refashionings and alterations\n   of C16 and C17 and a major restoration between 1920 and 1930, supervised by Mr\n   Leonard Stanhope, the Clerk of Works. Limestone and gritstone rubble and ashlar\n   gritstone with gritstone dressings and quoins. Leaded roof, mostly hidden by\n   embattled parapets with ridgeback copings, roofs and parapets mostly C20.\n   Numerous stone ridge and side wall stacks, mostly C20, some with crenellated tops,\n   plus massive late C15 external stacks to west side of Great Hall and, possibly\n   C14, corbelled out stone stacks to north walls. Two storeys with four storey\n   north-west gatetower, and three storey eastern Peveril Tower and north-east\n   lodgings to upper courtyard. Double courtyard plan on sloping site with upper\n   courtyard to north-east and lower courtyard to south-west. Upper courtyard has\n   Peveril's Tower, the original entrance, and the state bedroom to east range, Long\n   Gallery to south and the present Duke's apartments to north, whilst the lower\n   courtyard has the continuation of the private apartments and the north-west entrance\n   tower to north, offices and lodgings to west and the Chapel and the Earl's Bedroom\n   to south, between the two courtyards the Great Hall and its service rooms.\n   North elevation has late C15 entrance tower to west with C14 kitchen range to east\n   and beyond the Duke's apartments, mostly C17 but much restored. Entrance tower\n   has steps up to moulded, shallow pointed arch with hoodmould and double studded\n   oak doors. To west a slit window and beyond an ornate ashlar, stepped buttress with\n   relief carving to upper part. Above door a blank plaque with hoodmould and 3-light\n   cavetto moulded mullion window with pointed lights and incised spandrels, set in\n   ovolo moulded recess with hoodmould. Above again similar plaque, but decorated with\n   upturned acorns, and similar 3-light window. Similar blank plaque and window over\n   with large coat of arms immediately above, breaking through the moulded stringcourse\n   with gargoyles,on to the parapets. Beyond the C14 stacks to east, a Cl7 wing with\n   range of recessed and chamfered mullion windows. Attached to west corner of tower\n   an embattled ashlar wall with four-centred arched doorcase with hoodmould, under\n   large coat of arms of the 'Kings of the Peak', which has to either side a carved\n   frieze of the Vernons family shields. West side of tower has polygonal staircase\n   turret to south corner, corbelled out at first floor level.\n   Garden front to south of limestone and gritstone rubble with gritstone quoins and\n   continuous moulded sill bands to first floor windows and continuous moulded eaves\n   stringcourse. Four bay, early C17, section to east with advanced square, two\n   storey bay flanked by canted, two storey, bay windows with another window to east,\n   and attached to west a five bay C16 section, much refashioned in C17, with the Chapel\n   beyond to west. Eastern section has a range of recessed and ovolo moulded, double\n   transomed windows to Long Gallery at first floor level with recessed and chamfered\n   windows below. Lower section attached to west with two storey canted bay window\n   with large carved crest on parapets, beyond. To west again three, first floor,\n   oriel windows, each with recessed and ovolo moulded mullion and transomed windows,\n   central oriel with double angled sides. To extreme west, the Chapel, set at a\n   different angle, with Perp 5-light east window, two flat headed Perp chancel windows,\n   C13 lancets in the south aisle and C15 cusped clerestorey windows. To opposite\n   side of the Chapel in the lower courtyard stands a C15 octagonal bell turret with\n   cusped Y-tracery arches to all sides at the top. Attached to east end of the Chapel\n   the remains of C14 timber walling, now mainly enveloped in the late C16 rebuilding\n   of the Earl's Bedroom which has mullion and transomed canted bay windows at first\n   floor level. Great Hall to east range of the lower courtyard has C14, 2-light,\n   low transomed, windows with central quatrefoil over cusped lights, to either side\n   of late C15 external stack. To north C15 three storey porch and to south projecting\n   parlour wing.\n   Interior - the Chapel has two bay arcades of double chamfered pointed arches,\n   that to north on C15 capital and polygonal column, that to south on mutilated\n   late C12 scalloped capital and column. Fine 'grisailles' wall paintings to nave\n   and early C17 oak pews and furnishings, inscribed 'GM 1624'. C15 stained glass\n   to east, north and south windows, east one inscribed 'Ornate pro animabus Riccardi\n   Vernon et Benedicte uxoris eius qui fecerunt anno dni 1472'. Below east window\n   a C14 Nottingham alabaster reredos, introduced in C20. C12 plain circular font\n   with C17 cover of double curved scrolls meeting at central knob and 1894 marble\n   tomb to Robert Manners, with figure of dead boy to top and coats of arms and heads\n   of family to sides, to south side of nave. Opposite a C15 stoop on octagonal stem\n   with crenellated top. Great Hall has C15 timber screens passage with cusped\n   panelling and gallery over, also arched braced roof dated 1923, C16 panelled lobby\n   to south through to parlour and C16 panelling to the walls; large cavetto moulded\n   fireplace to west and four,four-centred arched doorcases to north of screens\n   passage, eastern one opens on to the staircase up to the gallery, whilst the other\n   three lead to the kitchen, pantry and buttery, all have original oak studded doors.\n   C14 kitchen has two massive segmental fireplaces, impressive C17 oak kitchen\n   furniture and C16 chamfered cross beam roof supported near centre by braced wooden\n   pier. Bakehouse beyond to east with breadovens and dough troughs, with slaughter\n   house beyond again to east. Parlour to south of the Great Hall has its original\n   cl500 painted ceiling, and panelling throughout,dated 1545, with carved frieze\n   next to ceiling. Above is the Earl's Bedroom, refashioned in C17, when plasterwork\n   frieze and ceiling, and panelling inserted. Beyond this room to west another\n   apartment with the remains of C14 timber walling still visible. Long Gallery\n   and State Bedroom to east, both C17. Long Gallery has classically inspired\n   panelling, hugh windows and plasterwork ceiling. State Bedroom beyond, has fireplace\n   with elborate plaster overmantle similar to those at Hardwick. Sources see\n   Country Life CVI (1949) December 23, pp 1884, 'Haddon Hall' by Christopher Hussey,\n   The Royal Archaeological Institute Journal Vol 118, 'Haddon Hall and Bolsover\n   Castle', pg 188 by P A Faulkner and the National Ancient Monument Review Vol I\n   'The reinstatement of Haddon Hall' by John Swarbrick pg 135.\n</pre>\n<p><br>\n</p>\n<pre>   Listing NGR: SK2348566368\n</pre>\n<p><br>\nThis text is a legacy record and has not been updated since the building was originally listed. Details of the building may have changed in the intervening time. You should not rely on this listing as an accurate description of the building.\n</p><p>Source: English Heritage\n</p>\nListed building text is \u00a9 Crown Copyright. Reproduced under licence.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-30 12:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ell-r-brown/15015978610/\">The gardens at Haddon Hall</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39415781@N06\">Elliott Brown</a> from Birmingham, United Kingdom",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "112833375": {
+        "pageid": 112833375,
+        "ns": 6,
+        "title": "File:The gardens at Haddon Hall (15016074948).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3803074,
+            "width": 4288,
+            "height": 3216,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_gardens_at_Haddon_Hall_%2815016074948%29.jpg/1280px-The_gardens_at_Haddon_Hall_%2815016074948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_gardens_at_Haddon_Hall_%2815016074948%29.jpg/3840px-The_gardens_at_Haddon_Hall_%2815016074948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_gardens_at_Haddon_Hall_%2815016074948%29.jpg/1280px-The_gardens_at_Haddon_Hall_%2815016074948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_gardens_at_Haddon_Hall_%2815016074948%29.jpg/3840px-The_gardens_at_Haddon_Hall_%2815016074948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_gardens_at_Haddon_Hall_%2815016074948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_gardens_at_Haddon_Hall_(15016074948).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112833375",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-11-26 08:27:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "The gardens at Haddon Hall (15016074948)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Winter Garden, Haddon Hall|Files with coordinates missing SDC location of creation (53\u00b0 N, 2\u00b0 W)|Dorothy Vernon's Door & Steps",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.193899",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.649055",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>The gardens at Haddon Hall.\n</p><p>On a hill so multiple layers going down towards the river!\n</p><p>Although you can see the river, the gate to it is padlocked shut!\n</p><p><br>\nView of the hall from the garden at the back!\n</p><p><br>\nHaddon Hall is Grade I listed.\n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.britishlistedbuildings.co.uk/en-81025-haddon-hall-nether-haddon-derbyshire\">http://www.britishlistedbuildings.co.uk/en-81025-haddon-hall-nether-haddon-derbyshire</a>\" rel=\"noreferrer nofollow\"&gt;Haddon Hall, Nether Haddon&lt;/a&gt;\n</p>\n<pre>   SK 26 NW PARISH OF NETHER HADDON HADDON ROAD\n   2/28 (North Side)\n   29.9.51 Haddon Hall\n   GV I\n</pre>\n<p><br>\n</p>\n<pre>   Large double courtyard, fortified manor house. Seat of the Dukes of Rutland\n   and built by the Vernon family. Fragments of C12 work but mainly of two periods\n   with the upper courtyard built mainly in the second quarter of Cl4 and the lower\n   courtyard built mostly in C15, but also with major refashionings and alterations\n   of C16 and C17 and a major restoration between 1920 and 1930, supervised by Mr\n   Leonard Stanhope, the Clerk of Works. Limestone and gritstone rubble and ashlar\n   gritstone with gritstone dressings and quoins. Leaded roof, mostly hidden by\n   embattled parapets with ridgeback copings, roofs and parapets mostly C20.\n   Numerous stone ridge and side wall stacks, mostly C20, some with crenellated tops,\n   plus massive late C15 external stacks to west side of Great Hall and, possibly\n   C14, corbelled out stone stacks to north walls. Two storeys with four storey\n   north-west gatetower, and three storey eastern Peveril Tower and north-east\n   lodgings to upper courtyard. Double courtyard plan on sloping site with upper\n   courtyard to north-east and lower courtyard to south-west. Upper courtyard has\n   Peveril's Tower, the original entrance, and the state bedroom to east range, Long\n   Gallery to south and the present Duke's apartments to north, whilst the lower\n   courtyard has the continuation of the private apartments and the north-west entrance\n   tower to north, offices and lodgings to west and the Chapel and the Earl's Bedroom\n   to south, between the two courtyards the Great Hall and its service rooms.\n   North elevation has late C15 entrance tower to west with C14 kitchen range to east\n   and beyond the Duke's apartments, mostly C17 but much restored. Entrance tower\n   has steps up to moulded, shallow pointed arch with hoodmould and double studded\n   oak doors. To west a slit window and beyond an ornate ashlar, stepped buttress with\n   relief carving to upper part. Above door a blank plaque with hoodmould and 3-light\n   cavetto moulded mullion window with pointed lights and incised spandrels, set in\n   ovolo moulded recess with hoodmould. Above again similar plaque, but decorated with\n   upturned acorns, and similar 3-light window. Similar blank plaque and window over\n   with large coat of arms immediately above, breaking through the moulded stringcourse\n   with gargoyles,on to the parapets. Beyond the C14 stacks to east, a Cl7 wing with\n   range of recessed and chamfered mullion windows. Attached to west corner of tower\n   an embattled ashlar wall with four-centred arched doorcase with hoodmould, under\n   large coat of arms of the 'Kings of the Peak', which has to either side a carved\n   frieze of the Vernons family shields. West side of tower has polygonal staircase\n   turret to south corner, corbelled out at first floor level.\n   Garden front to south of limestone and gritstone rubble with gritstone quoins and\n   continuous moulded sill bands to first floor windows and continuous moulded eaves\n   stringcourse. Four bay, early C17, section to east with advanced square, two\n   storey bay flanked by canted, two storey, bay windows with another window to east,\n   and attached to west a five bay C16 section, much refashioned in C17, with the Chapel\n   beyond to west. Eastern section has a range of recessed and ovolo moulded, double\n   transomed windows to Long Gallery at first floor level with recessed and chamfered\n   windows below. Lower section attached to west with two storey canted bay window\n   with large carved crest on parapets, beyond. To west again three, first floor,\n   oriel windows, each with recessed and ovolo moulded mullion and transomed windows,\n   central oriel with double angled sides. To extreme west, the Chapel, set at a\n   different angle, with Perp 5-light east window, two flat headed Perp chancel windows,\n   C13 lancets in the south aisle and C15 cusped clerestorey windows. To opposite\n   side of the Chapel in the lower courtyard stands a C15 octagonal bell turret with\n   cusped Y-tracery arches to all sides at the top. Attached to east end of the Chapel\n   the remains of C14 timber walling, now mainly enveloped in the late C16 rebuilding\n   of the Earl's Bedroom which has mullion and transomed canted bay windows at first\n   floor level. Great Hall to east range of the lower courtyard has C14, 2-light,\n   low transomed, windows with central quatrefoil over cusped lights, to either side\n   of late C15 external stack. To north C15 three storey porch and to south projecting\n   parlour wing.\n   Interior - the Chapel has two bay arcades of double chamfered pointed arches,\n   that to north on C15 capital and polygonal column, that to south on mutilated\n   late C12 scalloped capital and column. Fine 'grisailles' wall paintings to nave\n   and early C17 oak pews and furnishings, inscribed 'GM 1624'. C15 stained glass\n   to east, north and south windows, east one inscribed 'Ornate pro animabus Riccardi\n   Vernon et Benedicte uxoris eius qui fecerunt anno dni 1472'. Below east window\n   a C14 Nottingham alabaster reredos, introduced in C20. C12 plain circular font\n   with C17 cover of double curved scrolls meeting at central knob and 1894 marble\n   tomb to Robert Manners, with figure of dead boy to top and coats of arms and heads\n   of family to sides, to south side of nave. Opposite a C15 stoop on octagonal stem\n   with crenellated top. Great Hall has C15 timber screens passage with cusped\n   panelling and gallery over, also arched braced roof dated 1923, C16 panelled lobby\n   to south through to parlour and C16 panelling to the walls; large cavetto moulded\n   fireplace to west and four,four-centred arched doorcases to north of screens\n   passage, eastern one opens on to the staircase up to the gallery, whilst the other\n   three lead to the kitchen, pantry and buttery, all have original oak studded doors.\n   C14 kitchen has two massive segmental fireplaces, impressive C17 oak kitchen\n   furniture and C16 chamfered cross beam roof supported near centre by braced wooden\n   pier. Bakehouse beyond to east with breadovens and dough troughs, with slaughter\n   house beyond again to east. Parlour to south of the Great Hall has its original\n   cl500 painted ceiling, and panelling throughout,dated 1545, with carved frieze\n   next to ceiling. Above is the Earl's Bedroom, refashioned in C17, when plasterwork\n   frieze and ceiling, and panelling inserted. Beyond this room to west another\n   apartment with the remains of C14 timber walling still visible. Long Gallery\n   and State Bedroom to east, both C17. Long Gallery has classically inspired\n   panelling, hugh windows and plasterwork ceiling. State Bedroom beyond, has fireplace\n   with elborate plaster overmantle similar to those at Hardwick. Sources see\n   Country Life CVI (1949) December 23, pp 1884, 'Haddon Hall' by Christopher Hussey,\n   The Royal Archaeological Institute Journal Vol 118, 'Haddon Hall and Bolsover\n   Castle', pg 188 by P A Faulkner and the National Ancient Monument Review Vol I\n   'The reinstatement of Haddon Hall' by John Swarbrick pg 135.\n</pre>\n<p><br>\n</p>\n<pre>   Listing NGR: SK2348566368\n</pre>\n<p><br>\nThis text is a legacy record and has not been updated since the building was originally listed. Details of the building may have changed in the intervening time. You should not rely on this listing as an accurate description of the building.\n</p><p>Source: English Heritage\n</p>\nListed building text is \u00a9 Crown Copyright. Reproduced under licence.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-30 12:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ell-r-brown/15016074948/\">The gardens at Haddon Hall</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39415781@N06\">Elliott Brown</a> from Birmingham, United Kingdom",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

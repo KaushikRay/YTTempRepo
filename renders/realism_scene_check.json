@@ -1,0 +1,20 @@
+{
+  "used_packed_file_images": 41,
+  "external_file_images": [
+    "assets/realism/old_stone_wall_02/Diffuse.jpg",
+    "assets/realism/rustic_stone_wall_02/Diffuse.jpg",
+    "assets/realism/wood_table_worn/Diffuse.jpg",
+    "assets/realism/old_stone_wall_02/nor_gl.jpg",
+    "assets/realism/rustic_stone_wall_02/nor_gl.jpg",
+    "assets/realism/wood_table_worn/nor_gl.jpg",
+    "assets/realism/old_stone_wall_02/Rough.jpg",
+    "assets/realism/rustic_stone_wall_02/Rough.jpg",
+    "assets/realism/wood_table_worn/Rough.jpg"
+  ],
+  "missing_images": [],
+  "blend_bytes": 90594079,
+  "camera_lens_mm": 22.0,
+  "window_arch_blocks": 36,
+  "fireback_bricks": 154,
+  "render_output": "//renders/realism_study.png"
+}

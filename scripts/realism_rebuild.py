@@ -80,10 +80,20 @@ d=bpy.data.lights.new('Scanned candle practical','POINT');d.energy=4;d.color=(1,
 fire=bpy.data.objects['Hearth firelight'];fire.data.animation_data_clear();fire.data.energy=650;fire.data.shadow_soft_size=.7
 cam=s.camera;cam.location=(-1.25,-5.2,1.65);cam.rotation_euler=(Vector((.3,4.9,1.65))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.lens=22
 s.view_settings.view_transform='AgX';s.view_settings.exposure=.45;s.render.resolution_x=1280;s.render.resolution_y=720;s.render.resolution_percentage=int(os.environ.get('REALISM_PERCENT','50'));s.cycles.samples=int(os.environ.get('REALISM_SAMPLES','48'));s.cycles.use_denoising=True;s.cycles.denoiser='OPENIMAGEDENOISE';s.render.threads_mode='FIXED';s.render.threads=5;s.render.use_persistent_data=False
+# Historic construction/detail stage; uses the same existing scene and output paths.
+exec(compile((r/'scripts/historic_detail_pass.py').read_text(),str(r/'scripts/historic_detail_pass.py'),'exec'))
 # Textures travel in the scene; source models/maps are retained separately with CC0 provenance.
+bpy.data.orphans_purge(do_recursive=True)
 for image in bpy.data.images:
  if image.source=='FILE' and image.filepath and not image.packed_file:
   try:image.pack()
   except RuntimeError:pass
+# These larger, unmodified PBR maps remain relative assets to keep the Blender
+# file within GitHub's single-file size limit. Download the branch with assets.
+for image in bpy.data.images:
+ if image.source=='FILE' and any('/'+part+'/' in image.filepath for part in ['old_stone_wall_02','rustic_stone_wall_02','wood_table_worn']):
+  original=Path(bpy.path.abspath(image.filepath));assert original.is_file(),str(original)
+  if image.packed_file:image.unpack(method='REMOVE')
+  image.filepath='//'+str(original.relative_to(r))
 bpy.data.texts.new('REALISM_ASSET_CREDITS.txt').write((a/'CREDITS.txt').read_text())
-bpy.ops.wm.save_as_mainfile(filepath=str(r/'realism_study.blend'),compress=True);s.render.filepath=str(r/'renders/realism_study.png');print('REALISM PREVIEW RENDER START',flush=True);bpy.ops.render.render(write_still=True);print('REALISM PREVIEW COMPLETE',flush=True)
+s.render.filepath='//renders/realism_study.png';bpy.ops.wm.save_as_mainfile(filepath=str(r/'realism_study.blend'),compress=True);print('REALISM PREVIEW RENDER START',flush=True);bpy.ops.render.render(write_still=True);print('REALISM PREVIEW COMPLETE',flush=True)

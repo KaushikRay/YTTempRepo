@@ -1,0 +1,32 @@
+[
+  {
+    "name": "google",
+    "url": "https://www.google.com/search?q=historic+medieval+hall+interior+Haddon+Hall+great+hall+fireplace+furniture+oak+benches",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "haddon",
+    "url": "https://www.haddonhall.co.uk/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "wealden",
+    "url": "https://www.wealddown.co.uk/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "nationaltrust",
+    "url": "https://www.nationaltrust.org.uk/visit/kent/bodiam-castle",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "wiki_hall",
+    "url": "https://en.wikipedia.org/wiki/Great_hall",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "wiki_inglenook",
+    "url": "https://en.wikipedia.org/wiki/Inglenook",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

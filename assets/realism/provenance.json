@@ -79,17 +79,80 @@
       "source_url": "https://polyhaven.com/a/fabric_pattern_05",
       "licence": "CC0",
       "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "old_stone_wall_02",
+      "name": "Old Stone Wall 02",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "source_url": "https://polyhaven.com/a/old_stone_wall_02",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "rustic_stone_wall_02",
+      "name": "Rustic Stone Wall 02",
+      "authors": {
+        "Amal Kumar": "All"
+      },
+      "source_url": "https://polyhaven.com/a/rustic_stone_wall_02",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "wicker_basket_01",
+      "name": "Wicker Basket 01",
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "source_url": "https://polyhaven.com/a/wicker_basket_01",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "wooden_stool_01",
+      "name": "Wooden Stool 01",
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "source_url": "https://polyhaven.com/a/wooden_stool_01",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "wooden_bowl_01",
+      "name": "Wooden Bowl 01",
+      "authors": {
+        "Oliver Harries": "All"
+      },
+      "source_url": "https://polyhaven.com/a/wooden_bowl_01",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "sofa_03",
+      "name": "Sofa 03",
+      "authors": {
+        "Fran Calvente": "All"
+      },
+      "source_url": "https://polyhaven.com/a/sofa_03",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
     }
   ],
   "file_verification": "Provider MD5 entries checked at download; original manifests retained.",
   "files_sha256": {
     "fire_soft_plate.png": "70745112209bef51ee28afaa59b20dbb613d1f8a9844615cc890fa91fe7018bc",
+    "fire_rgb_frame.png": "ad676b6964a0ed5d94c94060a63ed913013929800c6e17a8dbab532d73998e77",
     "wood_table_worn/nor_gl.jpg": "a90aaa321194fb41d6e44776c6ee88134e4be416051357a3c9e323cc447c4cf0",
     "wood_table_worn/Rough.jpg": "4263780c4b7737b8714eefcbda1b43c28f8e1e0ee2b797c125521cbe6e3889dd",
     "wood_table_worn/Diffuse.jpg": "165cdba449d56ea8e9675116622b95d7af372b7d7c47b8a98a03fcc630f1d51c",
     "wood_table_worn/Displacement.jpg": "6cd07277b91fcbe6567d72b1a86f581ae26765f810ffabe4a4d1451e22c3c901",
     "brass_candleholders/brass_candleholders.bin": "a2f406ea19e6e606ba6b618958cb496b2c18a41fa580409512afd6e644878d51",
     "brass_candleholders/brass_candleholders.gltf": "86b7fa1b3f7075c7646fcda17f622d302ff3d885d6ff18e1b1d3cf2bc9242133",
+    "wicker_basket_01/wicker_basket_01.gltf": "bd02a364acb48039355642f69349f63d0fe9c635a33b4a57c44e6e24d672cb35",
+    "wicker_basket_01/wicker_basket_01.bin": "8e96025ffcdc64a7e75d1aa980f2491b1219912a4554272cd1e192a966c399f8",
     "fabric_pattern_05/nor_gl.jpg": "3be0b006000145d8c879a381ac5937f6ab51bf7e4720f2ba7c11d3184aec7e15",
     "fabric_pattern_05/Rough.jpg": "3b2838c46227bf11e1c0d8da21703659d70676f56b848abff39c39ceac56f5f8",
     "fabric_pattern_05/Diffuse.jpg": "090e3b8a097153c66539616ff7e4eaabcbbd39104b7ad98d6e0ed436843aa23f",
@@ -99,16 +162,30 @@
     "stone_wall_05/Rough.jpg": "aead8f5c535fc22b1a3c46aa50679c43b37f279f7abce482115551b0f58a5b0e",
     "stone_wall_05/Diffuse.jpg": "d3680c5ef2657aead18f9bfab93994555b8f05de4f4fecba18194cbe3a116b87",
     "stone_wall_05/Displacement.jpg": "4ed5a0ffc1a6d8a943114ed6117e29ca6f72cc1cda031fb20e639c48fb2cefba",
+    "old_stone_wall_02/nor_gl.jpg": "1d48b89ad413e1f3b1fb3a5941d0b8fcbd896930aa289a6373013305d2814d66",
+    "old_stone_wall_02/Rough.jpg": "59cc58af7591ec1f9aa598277b6a7a9d23ef48d92be7c4260a90acbc5d86e871",
+    "old_stone_wall_02/Diffuse.jpg": "e0f2d3a63ab21a33a88dbc58cf53a165d5c908ab8c18caf3aef709f25a925c07",
+    "old_stone_wall_02/Displacement.jpg": "4f2aa6d35d82fadece6e32ed25be867a0d13831cfd57058d0b6c34bd08562cc3",
+    "rustic_stone_wall_02/nor_gl.jpg": "1b3b92ab6f07df7cc31148460a0360e11cecd1329c8c84ef20782a9ff1581ca2",
+    "rustic_stone_wall_02/Rough.jpg": "690647073a9eb1636a81a307785b6c22ee64813ecc1a528ff9fafb8a92b8f73e",
+    "rustic_stone_wall_02/Diffuse.jpg": "53def6dfefca9f0d8c1fbc004f83302f670e3a12bf9967bd855ac9b972c359cd",
+    "rustic_stone_wall_02/Displacement.jpg": "19548d0865ed84a3bfc0c1f33f4ddcb74257e1e815ee6a3e8af37c80c1c03ae2",
+    "wooden_stool_01/wooden_stool_01.gltf": "c422f2acd7a8635996651f1efdc795b3711b5245633b4fae7687d96e94155cbb",
+    "wooden_stool_01/wooden_stool_01.bin": "a9b21b8c75719057db549dfee5b8c1cc76edc2727367790fb9fc49963e34ae7a",
     "jug_01/jug_01.gltf": "4ac09cde8eae1f4f338430833f62eba5619b74eb8f9d0c72a292247fcdd9fc63",
     "jug_01/jug_01.bin": "2dd3772547ae41cc7beeaa5f002e741cfe2c014ed4717731c5076810154bedb9",
     "monastery_stone_floor/nor_gl.jpg": "8f3e131a9d6d9c3a95c872173393830f7c1de389cd60d4878b2211058d706d2c",
     "monastery_stone_floor/Rough.jpg": "61f87f8049b21153b6db25fdcd184c4297642ada2e31c07db03f6810c9f952c3",
     "monastery_stone_floor/Diffuse.jpg": "aa12137fff1728bbbfe98b30480e33a34cba3b5c096575702c1d66939214e14a",
     "monastery_stone_floor/Displacement.jpg": "164d97eb875ba7500f3d03f571d0187619cdd8ddfa2abad6851b04be83ff337e",
+    "sofa_03/sofa_03.bin": "e524350933d3d2a84c28f13bc042888a4768adeef88d630111015caede1c2e98",
+    "sofa_03/sofa_03.gltf": "44531e7b4076af91a126dec4b555cf7b53f935e3aa58b957a9a450da9a84b00e",
     "wine_barrel_01/wine_barrel_01.gltf": "cfff0c36ffde5ba24adf1ea499a7219a9369b870b7214d0bd1b554d758c279c9",
     "wine_barrel_01/wine_barrel_01.bin": "d827c31afed824b923ea9168462c93ab3ad3a88c4a68b155bd35efb1a02cbf00",
     "gothic_coffee_table/gothic_coffee_table.bin": "6f138d3da02e5d70b2cd0932b015d72a306b9f91acbbc8e6abdb2f4982eddb40",
     "gothic_coffee_table/gothic_coffee_table.gltf": "a17c9ccd67a8cf1c2454bf5c2ed9e237a0e533869e5f6a0fe459ae73c4a487d9",
+    "wooden_bowl_01/wooden_bowl_01.gltf": "9b2aadbd2aed3144cdbc30834052a8dd3536b3756a554cce99e9702c8adeb440",
+    "wooden_bowl_01/wooden_bowl_01.bin": "2659e19ea140aed29edca6761b6ee117e0a488ac14cd32c30fd0f1116f645761",
     "brass_candleholders/textures/brass_candleholders_01_arm_2k.jpg": "505fe318fe91e328d7a1549bcfd81fc2f1a205a49508e75bba40d5818f813983",
     "brass_candleholders/textures/brass_candleholders_flame_diff_2k.jpg": "03093bd57d2bc993df88b657e3b94fcbf6ace3fe497ce6adfe6696995222d0ad",
     "brass_candleholders/textures/brass_candleholders_03_arm_2k.jpg": "4c9c8833d85a912753167914039f2ffe95039e469058e6b92a97ed17fd73e3a8",
@@ -122,17 +199,29 @@
     "brass_candleholders/textures/brass_candleholders_03_nor_gl_2k.jpg": "b9bf98695e9d6f90d2425ed3c374dc3e16630ce14a0927f854a0c91bd05a9494",
     "brass_candleholders/textures/brass_candleholders_candles_diff_2k.jpg": "34c02390e4a811eac3b6f00b53ae020e97fbe2a2e7abec910579834195e91022",
     "brass_candleholders/textures/brass_candleholders_01_nor_gl_2k.jpg": "17a8ab08db17b8fc4a270d52aacc26efecc4546f3f7815ffa31d86d592d9c041",
+    "wicker_basket_01/textures/wicker_basket_01_diff_2k.jpg": "ffc48a6f829f36d6baf7461cbe8d0b71971893315840d93c0e50f3c8b95a9dce",
+    "wicker_basket_01/textures/wicker_basket_01_nor_gl_2k.jpg": "74eb1bd455ff66f6dd00abe26fa5ad9669a5b67217f394be981d9b04d3e9e774",
+    "wicker_basket_01/textures/wicker_basket_01_arm_2k.jpg": "b1932ee1cd909fde89d4cd73b69b33d9c62b9bebf10063a37133461164f9e672",
     "ArmChair_01/textures/Armchair_01_diff_2k.jpg": "d45d6f6328a924b5099deb7ed88023ab066128a376ee2d16f48149872cec47de",
     "ArmChair_01/textures/Armchair_01_nor_gl_2k.jpg": "0bce11bc21a3259e13429e65bedc1cf28d2a672fc6dde6dc86f45e8b8f8a9af4",
     "ArmChair_01/textures/Armchair_01_arm_2k.jpg": "9f5011595cfc5ba523ac385b0bf978c5e455dcf9f9fb6f53d4bfcb4159224e39",
+    "wooden_stool_01/textures/wooden_stool_01_nor_gl_2k.jpg": "42fe0492e7d4bafd9977949144560dfd97eae177636d1804d30c3389ff52a1d7",
+    "wooden_stool_01/textures/wooden_stool_01_diff_2k.jpg": "42eb354a7693df6e363d84de9c17adc579a8479ec6c5c258f37ecf738059cefa",
+    "wooden_stool_01/textures/wooden_stool_01_rough_2k.jpg": "5d0515bb149aedd20195a5751d2e6640911f7edd3f67b9d023a14c580ddafec6",
     "jug_01/textures/jug_01_diff_2k.jpg": "23582ddf55627f7920ce32edc14f465f67aa938d3fde0247f4564278c00211b1",
     "jug_01/textures/jug_01_arm_2k.jpg": "d6e7bbe6c0bb3c1fa2ba7d13d587bded40ef76275d19ad2c7b59076e271ba7d6",
     "jug_01/textures/jug_01_nor_gl_2k.jpg": "25cf8bcc5100126741496b42104eac50369016692892403826f8c9c804df6254",
+    "sofa_03/textures/sofa_03_diff_4k.jpg": "921c6930228d4f5cef8650fff89bbaec3b14affd8dce5786908f3a818af71fa9",
+    "sofa_03/textures/sofa_03_rough_4k.jpg": "5902dab97ab9fc8d7114f45623580bdef9f8baf9f192ffb8bff8f5a9e676a178",
+    "sofa_03/textures/sofa_03_nor_gl_4k.jpg": "6f859cdf6431371ea781df85c346321ca633eaa03b8027523d4c244cf6ca1601",
     "wine_barrel_01/textures/wine_barrel_01_diff_2k.jpg": "6a76da96d9bbe957fcab8021fc2710bf153eb98d22ff1439fa5093c7c90a7fdb",
     "wine_barrel_01/textures/wine_barrel_01_arm_2k.jpg": "a8902e757c8fe2a80a851bf419906da641fd3829f5f21e5c6cd13016ee13180b",
     "wine_barrel_01/textures/wine_barrel_01_nor_gl_2k.jpg": "a241d134de243f3f52e12e883eeeda881a4604d17486a94b7b994b33de08eacb",
     "gothic_coffee_table/textures/gothic_coffee_table_nor_gl_2k.jpg": "c6058ab8910b9462421dbfeb43851320e6d464df7b53f09eb78dc9b3cc4bb926",
     "gothic_coffee_table/textures/gothic_coffee_table_arm_2k.jpg": "cf160023fdc398f42efaebb0fad1ff42876792607d51d4264674da6eee33f7b2",
-    "gothic_coffee_table/textures/gothic_coffee_table_diff_2k.jpg": "9e6d3aad11e2898c165906777117c6d4bacc6b3817cc720e1064b63d4d88f596"
+    "gothic_coffee_table/textures/gothic_coffee_table_diff_2k.jpg": "9e6d3aad11e2898c165906777117c6d4bacc6b3817cc720e1064b63d4d88f596",
+    "wooden_bowl_01/textures/wooden_bowl_01_diff_2k.jpg": "2c9405291f6e23e5e376d2ceed2051f63f3a6e0c731de5add5ca6c6ec2a7dc7d",
+    "wooden_bowl_01/textures/wooden_bowl_01_nor_gl_2k.jpg": "6e464e49ab13675ef7eab45ad0b32fddf9a3425bf0df58f3a2156bf70be1d938",
+    "wooden_bowl_01/textures/wooden_bowl_01_arm_2k.jpg": "6527473aa358b5f8c73cae1a8e5d66b764c9971b3dc7ca569951a084ae2008d0"
   }
 }

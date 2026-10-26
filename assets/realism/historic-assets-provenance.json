@@ -1,0 +1,41 @@
+[
+  {
+    "asset": "rustic_stone_wall_02",
+    "source": "https://polyhaven.com/a/rustic_stone_wall_02",
+    "license": "CC0",
+    "verified": "Each downloaded file checked against original API MD5"
+  },
+  {
+    "asset": "old_stone_wall_02",
+    "source": "https://polyhaven.com/a/old_stone_wall_02",
+    "license": "CC0",
+    "verified": "Each downloaded file checked against original API MD5"
+  },
+  {
+    "asset": "wicker_basket_01",
+    "source": "https://polyhaven.com/a/wicker_basket_01",
+    "license": "CC0",
+    "verified": "Each downloaded file checked against original API MD5"
+  },
+  {
+    "asset": "wooden_stool_01",
+    "source": "https://polyhaven.com/a/wooden_stool_01",
+    "license": "CC0",
+    "verified": "Each downloaded file checked against original API MD5"
+  },
+  {
+    "asset": "wooden_bowl_01",
+    "source": "https://polyhaven.com/a/wooden_bowl_01",
+    "license": "CC0",
+    "verified": "Each downloaded file checked against original API MD5"
+  },
+  {
+    "asset": "sofa_03",
+    "source": "https://polyhaven.com/a/sofa_03",
+    "author": "Fran Calvente",
+    "license": "CC0",
+    "resolution": "4k",
+    "verified": "Downloaded files checked against provider MD5",
+    "dating": "Provider describes Victorian; artistic concession, not medieval furniture"
+  }
+]
