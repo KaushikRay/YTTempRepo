@@ -1,0 +1,706 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 8,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "97087585": {
+        "pageid": 97087585,
+        "ns": 6,
+        "title": "File:A white-paper garden (IA whitepapergarden00shafiala).pdf",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/A_white-paper_garden_%28IA_whitepapergarden00shafiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_white-paper_garden_(IA_whitepapergarden00shafiala).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97087585",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-28 09:47:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nA white-paper garden</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|California Digital Library",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nShafer, Sara Andrew, d. 1913</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects: Gardens</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/whitepapergarden00shafiala\" class=\"extiw\" title=\"iarchive:whitepapergarden00shafiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: whitepapergarden00shafiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/whitepapergarden00shafiala/whitepapergarden00shafiala.pdf\">https://archive.org/download/whitepapergarden00shafiala/whitepapergarden00shafiala.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64495224": {
+        "pageid": 64495224,
+        "ns": 6,
+        "title": "File:Border (France), 1800\u20131825 (CH 18424941).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Border_%28France%29%2C_1800%E2%80%931825_%28CH_18424941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Border_(France),_1800%E2%80%931825_(CH_18424941).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64495224",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-12-01 11:57:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Border (France), 1800\u20131825",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images uploaded by F\u00e6|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with known accession number|Template Unknown (artist)|CC-PD-Mark|Artworks of France in the Cooper\u2013Hewitt, Smithsonian Design Museum|Wallcoverings in the Cooper\u2013Hewitt, Smithsonian Design Museum|1800s wallpapers|Ivy leaf ornament|Border (wallpaper)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Naturalistically represented large, veined leaves, tendrils and contorted stems in grisaille-like beiges and white in continuous arrangement on background of bright deep blue flocking. Below, banding of horizontal beige and white lines, the banding, illusionistically shaded, appears in-the-round, with tiny snakes coiled about at regular intervals.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1800\u20131825",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collection.cooperhewitt.org/objects/18424941\">Catalog</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://images.collection.cooperhewitt.org/41054_f2ed42696b580b43_x.jpg\">Photo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "93408794": {
+        "pageid": 93408794,
+        "ns": 6,
+        "title": "File:Emma V. White Company, 1934 - Emma V. White. (IA CAT31344177).pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Emma_V._White_Company%2C_1934_-_Emma_V._White._%28IA_CAT31344177%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Emma_V._White_Company,_1934_-_Emma_V._White._(IA_CAT31344177).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93408794",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-22 15:53:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nEmma V. White Company, 1934 / Emma V. White.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nEmma V. White Company</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>32 pages\u00a0: 19 cm</dd>\n<dd>Cover title</dd></dl>\n<br>Subjects: Seed industry and trade Minnesota Minneapolis Catalogs; Flowers Seeds Catalogs; Vegetables Seeds Catalogs</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/CAT31344177\" class=\"extiw\" title=\"iarchive:CAT31344177\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT31344177</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT31344177/CAT31344177.pdf\">https://archive.org/download/CAT31344177/CAT31344177.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64658660": {
+        "pageid": 64658660,
+        "ns": 6,
+        "title": "File:Frieze (USA), 1890\u20131910 (CH 18498999).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Frieze_%28USA%29%2C_1890%E2%80%931910_%28CH_18498999%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Frieze_(USA),_1890%E2%80%931910_(CH_18498999).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64658660",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-12-07 10:53:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Frieze (USA), 1890\u20131910",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Images uploaded by F\u00e6|Artworks without Wikidata item|PD-Art (PD-old-70-expired)|Art Nouveau plants|Artworks with known accession number|Template Unknown (artist)|CC-PD-Mark|Artworks of the United States in the Cooper\u2013Hewitt, Smithsonian Design Museum|Art Nouveau wallpapers|Wallcoverings in the Cooper\u2013Hewitt, Smithsonian Design Museum|Ivies in Art Nouveau|1890s wallpapers|Ivy leaf ornament|Frieze (wallpaper)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Mix of Mission and Art Nouveau styles. Alternating large and small vertical rectangles topped with a abstracted bulbous shape surmounted by a small fleur-de-lis. Bottom portion contains swags which lead up into the rectangles. Above each swag are abstracted ivy leafs and below are acanthus inspired decorations. Background contains horizontal straitions. Printed in brown, white, and shades of green.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1890\u20131910",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collection.cooperhewitt.org/objects/18498999\">Catalog</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://images.collection.cooperhewitt.org/95938_0d02f9d987255126_x.jpg\">Photo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91549425": {
+        "pageid": 91549425,
+        "ns": 6,
+        "title": "File:Herbicide background information- vegetative management environmental statement (IA CAT79720674).pdf",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Herbicide_background_information-_vegetative_management_environmental_statement_%28IA_CAT79720674%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herbicide_background_information-_vegetative_management_environmental_statement_(IA_CAT79720674).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91549425",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-25 08:05:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nHerbicide background information: vegetative management environmental statement</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|Books with Wikidata item|FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by F\u00e6|Books with Wikidata item missing accession number|Artworks digital representation of unclassified work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnited States. Forest Service. Pacific Northwest Region</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>Cover title</dd>\n<dd>Loose-leaf</dd>\n<dd>1974-1975 on cover</dd>\n<dd>Includes bibliographies</dd></dl>\n<br>Subjects: Plants Effect of herbicides on; Forest reserves Oregon</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/CAT79720674\" class=\"extiw\" title=\"iarchive:CAT79720674\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT79720674</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT79720674/CAT79720674.pdf\">https://archive.org/download/CAT79720674/CAT79720674.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "31779473": {
+        "pageid": 31779473,
+        "ns": 6,
+        "title": "File:Ivy Leaf.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ivy_Leaf.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31779473",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-03-24 13:57:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Leaves on white background|Files with coordinates missing SDC location of creation|Close-up photographs of leaves|Hedera helix (leaves)|Taken with Samsung SGH-T989",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "39.622307",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-77.414938",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Picture of a leaf. Ivy leaf.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-03-20 11:28:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Clamatoboy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Clamatoboy (page does not exist)\">Derick Vollmer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151187565": {
+        "pageid": 151187565,
+        "ns": 6,
+        "title": "File:Ivy leaf Pelargonium geranium at Nuthurst West Sussex England 01.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ivy_leaf_Pelargonium_geranium_at_Nuthurst_West_Sussex_England_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_leaf_Pelargonium_geranium_at_Nuthurst_West_Sussex_England_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151187565",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-05 10:09:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy leaf Pelargonium geranium at Nuthurst West Sussex England 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gardens in West Sussex|Nuthurst|Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM|Self-published work|Summer in West Sussex|Flowers in West Sussex|Geraniaceae in the United Kingdom|Flora of West Sussex in July|Pink flowers in the United Kingdom|Red flowers in the United Kingdom|Geraniaceae in the Northern Hemisphere in July|Garden flowers|July 2024 in West Sussex|Planters in Essex|Acabashi photos: private gardens in Nuthurst|Pelargonium Ivy-leaved Group|Pink flowers on green background|Red flowers on green background|Pelargonium in England|Plants in West Sussex|Private gardens in West Sussex|Acabashi photos: flowers in West Sussex",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ivy leaf Pelargonium in <a href=\"https://en.wikipedia.org/wiki/Nuthurst\" class=\"extiw\" title=\"en:Nuthurst\">Nuthurst</a>, in <a href=\"https://en.wikipedia.org/wiki/West_Sussex\" class=\"extiw\" title=\"en:West Sussex\">West Sussex</a>, England.<br>Wikimedia (2024), makes it difficult to immediately view helpful categories to images related to this in a variety of ways; for these go to the very bottom of the page.<br>This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name number and/or time marking.<br><b>Camera</b>: <a href=\"https://en.wikipedia.org/wiki/Canon_EOS_6D_Mark_II\" class=\"extiw\" title=\"w:Canon EOS 6D Mark II\">Canon EOS 6D Mark II</a> with <a href=\"https://en.wikipedia.org/wiki/Canon_EF_24%E2%80%93105mm_lens\" class=\"extiw\" title=\"w:Canon EF 24\u2013105mm lens\">Canon EF 24-105mm F4L IS USM</a> lens.<br><b>Software</b>: <a href=\"https://en.wikipedia.org/wiki/Raw_image_format\" class=\"extiw\" title=\"en:Raw image format\">RAW file</a> lens-corrected, optimized and converted to JPEG with <a href=\"https://en.wikipedia.org/wiki/DxO_PhotoLab\" class=\"extiw\" title=\"en:DxO PhotoLab\">DxO PhotoLab 7 Elite</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-07-26 11:05:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "96207476": {
+        "pageid": 96207476,
+        "ns": 6,
+        "title": "File:The raven's leaf. Poems (IA reavensleafpoem00aeonrich).pdf",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_raven%27s_leaf._Poems_%28IA_reavensleafpoem00aeonrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_raven%27s_leaf._Poems_(IA_reavensleafpoem00aeonrich).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96207476",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-17 06:27:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nThe raven's leaf. Poems</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|California Digital Library",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nAeona, b. 1858</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects: California -- Imprints</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/reavensleafpoem00aeonrich\" class=\"extiw\" title=\"iarchive:reavensleafpoem00aeonrich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: reavensleafpoem00aeonrich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/reavensleafpoem00aeonrich/reavensleafpoem00aeonrich.pdf\">https://archive.org/download/reavensleafpoem00aeonrich/reavensleafpoem00aeonrich.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

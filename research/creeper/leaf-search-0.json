@@ -1,0 +1,675 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 8,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "93385554": {
+        "pageid": 93385554,
+        "ns": 6,
+        "title": "File:Barnes Brothers Nursery Co., Inc. (IA CAT31340157).pdf",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Barnes_Brothers_Nursery_Co.%2C_Inc._%28IA_CAT31340157%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Barnes_Brothers_Nursery_Co.,_Inc._(IA_CAT31340157).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93385554",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-29 08:59:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nBarnes Brothers Nursery Co., Inc.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|Barnes Brothers Nursery Company|Internet Archive (redundant cover page removed)|Henry G. Gilbert Nursery and Seed Trade Catalog Collection/1933u",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nBarnes Brothers Nursery Company</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>38, xi pages\u00a0; 21 cm</dd>\n<dd>Cover title</dd>\n<dd>Includes index</dd></dl>\n<br>Subjects: Fruit trees Seedlings Catalogs; Berries Seedlings Catalogs; Trees Seedlings Catalogs; Perennials Seedlings Catalogs; Flowering shrubs Seeds Catalogs; Nursery stock Connecticut Catalogs; Nurseries (Horticulture) Connecticut Catalogs</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/CAT31340157\" class=\"extiw\" title=\"iarchive:CAT31340157\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT31340157</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT31340157/CAT31340157.pdf\">https://archive.org/download/CAT31340157/CAT31340157.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91365038": {
+        "pageid": 91365038,
+        "ns": 6,
+        "title": "File:Beautify your yard (IA beautifyyouryard1913cona).pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Beautify_your_yard_%28IA_beautifyyouryard1913cona%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beautify_your_yard_(IA_beautifyyouryard1913cona).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91365038",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-28 22:59:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nBeautify your yard</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US expired|Books uploaded by F\u00e6|Books without Wikidata item|Beautify your yard (1913)|Internet Archive (redundant cover page removed)|Henry G. Gilbert Nursery and Seed Trade Catalog Collection/1913",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<dl><dd>Conard &amp; Jones Co. (West Grove, Pa.)</dd>\n<dd>Henry G. Gilbert Nursery and Seed Trade Catalog Collection</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Cover title\n</p>\n<br>Subjects: Nursery stock Catalogs; Plants, Ornamental Catalogs; Bulbs (Plants) Catalogs; Shrubs Catalogs; Lawn care industry; Turf management</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/beautifyyouryard1913cona\">https://archive.org/details/beautifyyouryard1913cona</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/beautifyyouryard1913cona/beautifyyouryard1913cona.pdf\">https://archive.org/download/beautifyyouryard1913cona/beautifyyouryard1913cona.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91396691": {
+        "pageid": 91396691,
+        "ns": 6,
+        "title": "File:Fall planting - Elliott Nursery Company ; J. Wilkinson Elliott, president. (IA CAT31300848).pdf",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Fall_planting_-_Elliott_Nursery_Company_%3B_J._Wilkinson_Elliott%2C_president._%28IA_CAT31300848%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fall_planting_-_Elliott_Nursery_Company_;_J._Wilkinson_Elliott,_president._(IA_CAT31300848).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91396691",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-29 10:14:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nFall planting / Elliott Nursery Company\u00a0; J. Wilkinson Elliott, president.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US expired|Books uploaded by F\u00e6|Books without Wikidata item|Internet Archive (redundant cover page removed)|Henry G. Gilbert Nursery and Seed Trade Catalog Collection/1918",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<dl><dd>J. Wilkinson Elliott (Firm)</dd>\n<dd>Elliott, J. Wilkinson</dd>\n<dd>Henry G. Gilbert Nursery and Seed Trade Catalog Collection</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>Caption title</dd>\n<dd>Includes index</dd></dl>\n<br>Subjects: Nursery stock Pennsylvania Pittsburgh Catalogs; Flowers Seeds Catalogs; Bulbs (Plants) Catalogs; Plants, Ornamental Catalogs; Shrubs Catalogs</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/CAT31300848\">https://archive.org/details/CAT31300848</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT31300848/CAT31300848.pdf\">https://archive.org/download/CAT31300848/CAT31300848.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "92208747": {
+        "pageid": 92208747,
+        "ns": 6,
+        "title": "File:Flower grower's guide (IA flowergrowersgui21898wrig).pdf",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flower_grower%27s_guide_%28IA_flowergrowersgui21898wrig%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flower_grower%27s_guide_(IA_flowergrowersgui21898wrig).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92208747",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-13 18:14:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nFlower grower's guide</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flower grower's guide|Scans from the Internet Archive/unverified|PD US expired|Files from the Biodiversity Heritage Library|Scans from the Internet Archive|Books published in London|Books uploaded by F\u00e6|Books without Wikidata item|Books from the Biodiversity Heritage Library|IA books harmonization|PD-US missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nWright, John</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>Includes index (d.6)</dd>\n<dd>Various imprints in vols.: J.S. Virtue and Company. H. Virtue and Company</dd>\n<dd>extracted picklist</dd></dl>\n<br>Subjects: Floriculture</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/flowergrowersgui21898wrig\" class=\"extiw\" title=\"iarchive:flowergrowersgui21898wrig\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: flowergrowersgui21898wrig</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/flowergrowersgui21898wrig/flowergrowersgui21898wrig.pdf\">https://archive.org/download/flowergrowersgui21898wrig/flowergrowersgui21898wrig.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "93417709": {
+        "pageid": 93417709,
+        "ns": 6,
+        "title": "File:The chemistry of essential oils and artificial perfumes - illustrated with engravings (IA b28059979).pdf",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/The_chemistry_of_essential_oils_and_artificial_perfumes_-_illustrated_with_engravings_%28IA_b28059979%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_chemistry_of_essential_oils_and_artificial_perfumes_-_illustrated_with_engravings_(IA_b28059979).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93417709",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-22 21:34:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nThe chemistry of essential oils and artificial perfumes\u00a0: illustrated with engravings</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by F\u00e6|Books without Wikidata item|Medical Heritage Library|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nParry, Ernest J. (Ernest John)</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Includes index\n</p>\n<br>Subjects: Oils, Volatile</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/b28059979\" class=\"extiw\" title=\"iarchive:b28059979\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b28059979</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/b28059979/b28059979.pdf\">https://archive.org/download/b28059979/b28059979.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">PDM</a> This work is available under the Creative Commons, Public Domain Mark",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99393023": {
+        "pageid": 99393023,
+        "ns": 6,
+        "title": "File:The classification of flowering plants (IA classificationof02rend).pdf",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/The_classification_of_flowering_plants_%28IA_classificationof02rend%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_classification_of_flowering_plants_(IA_classificationof02rend).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99393023",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-29 18:52:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nThe classification of flowering plants</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "The classification of flowering plants (1904)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|IA books harmonization|PD-US missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nRendle, A. B. (Alfred Barton), 1865-1938</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>I. Gymnosperms and monocetyledons.--II. dicotyledons</dd>\n<dd>With bibliographies</dd></dl>\n<br>Subjects: Plants</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/classificationof02rend\" class=\"extiw\" title=\"iarchive:classificationof02rend\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: classificationof02rend</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/classificationof02rend/classificationof02rend.pdf\">https://archive.org/download/classificationof02rend/classificationof02rend.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "92233465": {
+        "pageid": 92233465,
+        "ns": 6,
+        "title": "File:The ivy, a monograph; comprising the history, uses, characteristics, and affinities of the plant, and a descriptive list of all the garden ivies in cultivation (IA ivymonographcomp00hibb).pdf",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/The_ivy%2C_a_monograph%3B_comprising_the_history%2C_uses%2C_characteristics%2C_and_affinities_of_the_plant%2C_and_a_descriptive_list_of_all_the_garden_ivies_in_cultivation_%28IA_ivymonographcomp00hibb%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_ivy,_a_monograph;_comprising_the_history,_uses,_characteristics,_and_affinities_of_the_plant,_and_a_descriptive_list_of_all_the_garden_ivies_in_cultivation_(IA_ivymonographcomp00hibb).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92233465",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-14 11:19:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nThe ivy, a monograph; comprising the history, uses, characteristics, and affinities of the plant, and a descriptive list of all the garden ivies in cultivation</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Books about botany|Scans from the Internet Archive/unverified|PD US expired|Files from the Biodiversity Heritage Library|Scans from the Internet Archive|Books published in London|Books uploaded by F\u00e6|Books without Wikidata item|Books from the Biodiversity Heritage Library|Hedera in art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nHibberd, Shirley, 1825-1890</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>[7], 115 p</dd>\n<dd>Added coloured illustrated t.p</dd></dl>\n<br>Subjects: Ivy</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/ivymonographcomp00hibb\" class=\"extiw\" title=\"iarchive:ivymonographcomp00hibb\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: ivymonographcomp00hibb</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/ivymonographcomp00hibb/ivymonographcomp00hibb.pdf\">https://archive.org/download/ivymonographcomp00hibb/ivymonographcomp00hibb.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "96026828": {
+        "pageid": 96026828,
+        "ns": 6,
+        "title": "File:Zentralblatt f\u00fcr Zoologie, allgemeine und experimentelle Biologie (IA zentralblattfr1302leip).pdf",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Zentralblatt_f%C3%BCr_Zoologie%2C_allgemeine_und_experimentelle_Biologie_%28IA_zentralblattfr1302leip%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zentralblatt_f%C3%BCr_Zoologie,_allgemeine_und_experimentelle_Biologie_(IA_zentralblattfr1302leip).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96026828",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-11 22:22:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nZentralblatt f\u00fcr Zoologie, allgemeine und experimentelle Biologie</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|Books about zoology|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|Scans from MBLWHOI Library|1912 books from Leipzig|PD-US missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Title from cover\n</p>\n<br>Subjects: Zoology</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/zentralblattfr1302leip\" class=\"extiw\" title=\"iarchive:zentralblattfr1302leip\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: zentralblattfr1302leip</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/zentralblattfr1302leip/zentralblattfr1302leip.pdf\">https://archive.org/download/zentralblattfr1302leip/zentralblattfr1302leip.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

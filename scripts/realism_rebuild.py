@@ -82,6 +82,7 @@ cam=s.camera;cam.location=(-1.25,-5.2,1.65);cam.rotation_euler=(Vector((.3,4.9,1
 s.view_settings.view_transform='AgX';s.view_settings.exposure=.45;s.render.resolution_x=1280;s.render.resolution_y=720;s.render.resolution_percentage=int(os.environ.get('REALISM_PERCENT','50'));s.cycles.samples=int(os.environ.get('REALISM_SAMPLES','48'));s.cycles.use_denoising=True;s.cycles.denoiser='OPENIMAGEDENOISE';s.render.threads_mode='FIXED';s.render.threads=5;s.render.use_persistent_data=False
 # Historic construction/detail stage; uses the same existing scene and output paths.
 exec(compile((r/'scripts/historic_detail_pass.py').read_text(),str(r/'scripts/historic_detail_pass.py'),'exec'))
+exec(compile((r/'scripts/creeper_weather_pass.py').read_text(),str(r/'scripts/creeper_weather_pass.py'),'exec'))
 # Textures travel in the scene; source models/maps are retained separately with CC0 provenance.
 bpy.data.orphans_purge(do_recursive=True)
 for image in bpy.data.images:

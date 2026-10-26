@@ -1,0 +1,1481 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "141993299": {
+        "pageid": 141993299,
+        "ns": 6,
+        "title": "File:Beginning leaf diphormism in Hedera helix.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Beginning_leaf_diphormism_in_Hedera_helix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beginning_leaf_diphormism_in_Hedera_helix.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141993299",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-10 18:54:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Beginning leaf diphormism in Hedera helix",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hedera helix|CC-Zero|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Beginning leaf diphormism in Hedera helix, the newest leaves aren't deeply lobed.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-10 13:41:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zamioculas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zamioculas (page does not exist)\">Zamioculas</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "78656893": {
+        "pageid": 78656893,
+        "ns": 6,
+        "title": "File:Hedera helix 'Maple Leaf' kz01.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hedera_helix_%27Maple_Leaf%27_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_%27Maple_Leaf%27_kz01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78656893",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-05-03 15:10:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix 'Maple Leaf' kz01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hedera helix 'Maple Leaf'|Hedera in Wroc\u0142aw University Botanical Garden",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hedera helix 'Maple Leaf' in Wroc\u0142aw University Botanical Garden",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-20 12:52:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kenraiz\" title=\"User:Kenraiz\">Krzysztof Ziarnek, Kenraiz</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "78656892": {
+        "pageid": 78656892,
+        "ns": 6,
+        "title": "File:Hedera helix 'Maple Leaf' kz02.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hedera_helix_%27Maple_Leaf%27_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_%27Maple_Leaf%27_kz02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78656892",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-05-03 15:10:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix 'Maple Leaf' kz02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hedera helix 'Maple Leaf'|Hedera in Wroc\u0142aw University Botanical Garden",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hedera helix 'Maple Leaf' in Wroc\u0142aw University Botanical Garden",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-20 12:52:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kenraiz\" title=\"User:Kenraiz\">Krzysztof Ziarnek, Kenraiz</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "161078337": {
+        "pageid": 161078337,
+        "ns": 6,
+        "title": "File:Hedera helix (Ivy) leaf epidermis and stomata print 100x.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hedera_helix_%28Ivy%29_leaf_epidermis_and_stomata_print_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_(Ivy)_leaf_epidermis_and_stomata_print_100x.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=161078337",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-03 21:10:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix (Ivy) leaf epidermis and stomata print 100x",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Leaf epidermis and stomata prints|Hedera helix (leaves)|Microscopic images of Hedera|Microscopic images of Apiales leaves - epidermis with stomata",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Collected and slide prepared by Graham Bull at the Norris Museum\u2019s Men\u2019s Group, from the museum garden, St Ives, Cambridgeshire, UK; 100 x magnification; brightfield light microscopy; UV crystal gel leaf print; Focus stack. Slide photographed and uploaded with maker\u2019s permission.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-02-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChrisInMilton\" title=\"User:ChrisInMilton\">ChrisInMilton</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "31021536": {
+        "pageid": 31021536,
+        "ns": 6,
+        "title": "File:Hedera helix - adult leaf form and seeds.JPG",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hedera_helix_-_adult_leaf_form_and_seeds.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_-_adult_leaf_form_and_seeds.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31021536",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-02-06 20:08:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix - adult leaf form and seeds",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "West Kilbride|Self-published work|Images by Roger Griffith|Hedera helix (leaves)|Hedera helix (fruit)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hedera helix with adult form leaves and seed pods, West Kilbride, North Ayrshire, Scotland",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-01-29 03:57:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rosser1954\" title=\"User:Rosser1954\">Rosser1954</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "1191987": {
+        "pageid": 1191987,
+        "ns": 6,
+        "title": "File:Hedera helix Leaf Closeup 2084px.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Hedera_helix_Leaf_Closeup_2084px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_Leaf_Closeup_2084px.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1191987",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-09-20 12:10:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix Leaf Closeup 2084px",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon Coolpix 8700|License migration completed|Self-published work|Chanticleer Garden Photographs by Derek Ramsey|Files with coordinates missing SDC location of creation|Hedera helix (cultivars)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "40.030638",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-75.392877",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>A closeup picture a <span style=\"white-space:nowrap\"><i><a href=\"//commons.wikimedia.org/wiki/Hedera_helix\" title=\"Hedera helix\">Hedera helix</a></i> <small><sup><i><a href=\"https://en.wikipedia.org/wiki/Hedera_helix\" class=\"extiw\" title=\"en:Hedera helix\">en</a>   </i></sup></small></span> plant.  Photo taken at the <a href=\"https://en.wikipedia.org/wiki/Chanticleer_Garden\" class=\"extiw\" title=\"en:Chanticleer Garden\">Chanticleer Garden</a> where it was identified.<br style=\"clear:both\">\n</p>\n<table align=\"center\" style=\"width:80%; background-color:#f7f8ff; border:2px solid #8888aa; padding:5px;\">\n\n<tbody><tr>\n<td><table border=\"0\" width=\"100%\" style=\"background-color:#f7f8ff;\">\n<tbody><tr><td><div style=\"font-family:Comic Sans MS;\"><b>Camera and Exposure Details:</b><br><i>Camera: </i><a href=\"https://en.wikipedia.org/wiki/Nikon_Coolpix_8700\" class=\"extiw\" title=\"w:Nikon Coolpix 8700\">Nikon Coolpix 8700</a><br><i>Lens: </i>Nikon Zoom Nikkor ED 8.9-71.2mm 1:2.8-4.2<br><i>Exposure: </i>\n71.2mm (280mm in <a href=\"https://en.wikipedia.org/wiki/35mm\" class=\"extiw\" title=\"w:35mm\">35mm equivalent</a>) <a href=\"https://en.wikipedia.org/wiki/f-number\" class=\"extiw\" title=\"w:f-number\">f/4.2</a> @ 10/977 s.\u00a0(50 ISO)<br></div></td></tr><tr><td colspan=\"2\"></td></tr></tbody></table>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-09-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photo by and (c)2006 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>).  Location credit to the Chanticleer Garden.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "26134201": {
+        "pageid": 26134201,
+        "ns": 6,
+        "title": "File:Hedera helix leaf.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hedera_helix_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_leaf.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26134201",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-17 12:11:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix leaf",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with iPhone 5|Potted plants|Heart-shaped leaves|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "57.712500",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "11.919167",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A hedera helix leaf in the shape of a heart.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-05-12 19:19:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Maxronnersjo\" title=\"User:Maxronnersjo\">Max Ronnersj\u00f6</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "167960807": {
+        "pageid": 167960807,
+        "ns": 6,
+        "title": "File:Hedera helix leaf - 16 June 2025.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hedera_helix_leaf_-_16_June_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_leaf_-_16_June_2025.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=167960807",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-06-18 16:05:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix leaf - 16 June 2025",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Peak District|Taken with Canon EOS 100D|CC-Zero|Uploaded with Vicu\u00f1aUploader|Hedera helix in the United Kingdom|Images from Wiki Loves Earth missing SDC depicts|Files with coordinates missing SDC location of creation (53\u00b0 N, 2\u00b0 W)|Images from Wiki Loves Earth missing SDC location of creation|England photographs taken on 2025-06-16|June 2025 in Derbyshire|Images from Wiki Loves Earth 2025|Images from Wiki Loves Earth 2025 in the United Kingdom|Images from Wiki Loves Earth 2025 in England|Images from Wiki Loves Earth missing SDC source of file|Peak District photographs by Aethonatic|Photographs by Aethonatic in June 2025",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "53.217455",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.667500",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Hedera helix</i> leaf in the Peak District.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-06-16 14:19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Aethonatic\" title=\"User:Aethonatic\">Aethonatic</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "161078338": {
+        "pageid": 161078338,
+        "ns": 6,
+        "title": "File:Hedera helix variegata (Variegated Ivy) leaf epidermis and stomata print 100x.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hedera_helix_variegata_%28Variegated_Ivy%29_leaf_epidermis_and_stomata_print_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_variegata_(Variegated_Ivy)_leaf_epidermis_and_stomata_print_100x.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=161078338",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-03 21:10:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix variegata (Variegated Ivy) leaf epidermis and stomata print 100x",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Leaf epidermis and stomata prints|Hedera helix (leaves)|Microscopic images of Hedera|Microscopic images of Apiales leaves - epidermis with stomata",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Collected and slide prepared by Alan Barton at the Norris Museum\u2019s Men\u2019s Group, from the museum garden, St Ives, Cambridgeshire, UK; 100 x magnification; brightfield light microscopy; UV crystal gel leaf print; Focus stack. Slide photographed and uploaded with maker\u2019s permission.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-02-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChrisInMilton\" title=\"User:ChrisInMilton\">ChrisInMilton</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "156981745": {
+        "pageid": 156981745,
+        "ns": 6,
+        "title": "File:Hedera sp. Leaf epidermis print with stomata 400x.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hedera_sp._Leaf_epidermis_print_with_stomata_400x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_sp._Leaf_epidermis_print_with_stomata_400x.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156981745",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-12-21 20:07:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera sp. Leaf epidermis print with stomata 400x",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Leaf epidermis and stomata prints|Microscopic images of Hedera|Microscopic images of Apiales leaves - epidermis with stomata",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hedera sp. Leaf epidermis print with stomata 400x",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-04 17:34:26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChrisInMilton\" title=\"User:ChrisInMilton\">ChrisInMilton</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "157145601": {
+        "pageid": 157145601,
+        "ns": 6,
+        "title": "File:Hedera sp. leaf epidermis and stomata print 100x.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hedera_sp._leaf_epidermis_and_stomata_print_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_sp._leaf_epidermis_and_stomata_print_100x.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157145601",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-12-27 03:17:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera sp. leaf epidermis and stomata print 100x",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Leaf epidermis and stomata prints|Microscopic images of Hedera|Microscopic images of Apiales leaves - epidermis with stomata",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hedera sp. leaf epidermis and stomata print 100x",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-04 17:30:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChrisInMilton\" title=\"User:ChrisInMilton\">ChrisInMilton</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "81683204": {
+        "pageid": 81683204,
+        "ns": 6,
+        "title": "File:Ivy Leaf (Hedera helix). Immature leaf shape. Upper epidermis.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ivy_Leaf_%28Hedera_helix%29._Immature_leaf_shape._Upper_epidermis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_(Hedera_helix)._Immature_leaf_shape._Upper_epidermis.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81683204",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-08-28 19:31:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf (Hedera helix). Immature leaf shape. Upper epidermis",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Chapeltoun Estate|Self-published work|United Kingdom photographs taken on 2019-08-27|Images by Roger Griffith|Hedera helix (leaves)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ivy Leaf (Hedera helix). Immature leaf shape. Upper epidermis. Chapeltoun, North Ayrshire.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-08-27 17:04:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rosser1954\" title=\"User:Rosser1954\">Rosser1954</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "166826203": {
+        "pageid": 166826203,
+        "ns": 6,
+        "title": "File:Ivy yellow leaf (Hedera helix), Ponte de Sor, Portugal (approx. GPS location) julesvernex2.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ivy_yellow_leaf_%28Hedera_helix%29%2C_Ponte_de_Sor%2C_Portugal_%28approx._GPS_location%29_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_yellow_leaf_(Hedera_helix),_Ponte_de_Sor,_Portugal_(approx._GPS_location)_julesvernex2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=166826203",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-06-04 18:23:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy yellow leaf (Hedera helix), Ponte de Sor, Portugal (approx. GPS location) julesvernex2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony ILCE-7RM2|Hedera helix in Portugal|Uploaded with LrMediaWiki|Yellow leaves in Portugal|Files with coordinates missing SDC location of creation|Images by User:Julesvernex2|Samyang 135mm f2 ED UMC (EF-mount) images by Julesvernex2|Portugal images by Julesvernex2|PPL1 images by Julesvernex2|Macro images by Julesvernex2|Nature images by Julesvernex2|Taken with Samyang 135mm f/2.0 ED UMC|Nature of Ponte de Sor",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "39.246715",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-8.005574",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ivy yellow leaf (Hedera helix), Ponte de Sor, Portugal (approx. GPS location)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-06-10 18:02:51",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li>Own work</li>\n<li><a rel=\"nofollow\" class=\"external free\" href=\"https://julesvernex2.com\">https://julesvernex2.com</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Julesvernex2\" title=\"User:Julesvernex2\">Jules Verne Times Two</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<ul><li><b>In print media:</b>\n<dl><dd>On the picture/In the picture credits: <b>Photo: Jules Verne Times Two / julesvernex2.com / CC-BY-SA-4.0 / <a rel=\"nofollow\" class=\"external free\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">https://creativecommons.org/licenses/by-sa/4.0/deed.en</a></b></dd>\n<dd>If a mention in this form is not possible, please contact me <i>before a planned use</i>.</dd></dl></li>\n<li><b>In online media:</b>\n<dl><dd>On the picture/In the picture credits: <b>Photo: Jules Verne Times Two / julesvernex2.com / CC-BY-SA-4.0</b> (linked to: <a rel=\"nofollow\" class=\"external free\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">https://creativecommons.org/licenses/by-sa/4.0/deed.en</a>)</dd>\n<dd>If possible, please also link to: <b><a rel=\"nofollow\" class=\"external free\" href=\"http://julesvernex2.com\">http://julesvernex2.com</a></b></dd>\n<dd>A license notice by hovering over the image is not sufficient, as this is not displayed e.g. during mobile access. The license notice must always be visible.</dd></dl></li>\n<li><b>For fellow Wikimedia editors:</b>\n<dl><dd>Please do not overwrite this file.</dd>\n<dd>For derivative works, you can use the <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\"><span style=\"font-family:monospace,monospace;\">{{Derived from}}</span></a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\"><span style=\"font-family:monospace,monospace;\">{{Extracted from}}</span></a> templates.</dd>\n<dd>For improving the image, please contact us so that further editing can be done from the original raw file.</dd></dl></li></ul>\n<p><br>\n</p><p><br>\nPlease send an email to <i>verne@julesvernex2.com</i> if you:\n</p>\n<ul><li>require an address for sending a specimen copy,</li>\n<li>want to use the photo for a fee, i.e. not under the license specified,</li>\n<li>have further questions on license-compliant use.</li></ul>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52168032": {
+        "pageid": 52168032,
+        "ns": 6,
+        "title": "File:Reversed fleuron or hedera leaf.png",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Reversed_fleuron_or_hedera_leaf.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reversed_fleuron_or_hedera_leaf.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52168032",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-10 00:34:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Reversed fleuron or hedera leaf",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Aldus leaf|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A fleuron or hedera leaf pointing towards the right.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1877",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/coloquiosespiri00eslagoog#page/n18/mode/2up\">https://archive.org/stream/coloquiosespiri00eslagoog#page/n18/mode/2up</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52168031": {
+        "pageid": 52168031,
+        "ns": 6,
+        "title": "File:Rotated fleuron hedera leaf.png",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rotated_fleuron_hedera_leaf.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rotated_fleuron_hedera_leaf.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52168031",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-10 00:34:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rotated fleuron hedera leaf",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Aldus leaf|Typography of the 1800s|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A fleuron or hedera leaf pointing towards the left.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1877",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/coloquiosespiri00eslagoog#page/n18/mode/2up\">https://archive.org/stream/coloquiosespiri00eslagoog#page/n18/mode/2up</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52168033": {
+        "pageid": 52168033,
+        "ns": 6,
+        "title": "File:Simetric fleuron or hedera leaf.png",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Simetric_fleuron_or_hedera_leaf.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Simetric_fleuron_or_hedera_leaf.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52168033",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-10 00:34:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Simetric fleuron or hedera leaf",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Aldus leaf|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Two fleurons or hedera leafs pointing outwards.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1877",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/coloquiosespiri00eslagoog#page/n18/mode/2up\">https://archive.org/stream/coloquiosespiri00eslagoog#page/n18/mode/2up</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,5 +1,8 @@
 # Realism rebuild — reference review and asset-based still
 
+The latest [creeper and weather iteration](creeper-iteration.md) adds interior
+ivy and revises rain visibility. Scene and image paths are updated in place.
+
 The current revision also includes the [historic construction study](historic-study.md):
 deep jointed window surrounds, irregular mortar-filled masonry, a dark brick
 hearth, revised fire integration and a scanned leather sofa. The image and

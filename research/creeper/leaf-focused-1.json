@@ -1,0 +1,2754 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 30,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "58300945": {
+        "pageid": 58300945,
+        "ns": 6,
+        "title": "File:1910 - Ivy Leaf Hotel - Allentown PA.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1910_-_Ivy_Leaf_Hotel_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:1910_-_Ivy_Leaf_Hotel_-_Allentown_PA.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58300945",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-04-24 23:02:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1910 - Ivy Leaf Hotel - Allentown PA",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US expired|Template Unknown (artist)|Template Unknown (author)|1910s Photographs, Allentown, Pennsylvania|Ivy Leaf Hotel, Allentown, Pennsylvania",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ivy Leaf Hotel - Allentown PA",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1910",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Unknown photographer Self-scanned",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "158266914": {
+        "pageid": 158266914,
+        "ns": 6,
+        "title": "File:Camden Town Ivy Leaf Society.png",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Camden_Town_Ivy_Leaf_Society.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Camden_Town_Ivy_Leaf_Society.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158266914",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-20 12:46:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Camden Town Ivy Leaf Society",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-UK|Template Unknown (author)|Group photographs of children|Frances L. Boult|Ivy Leaf Society",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Camden Town branch of the Ivy Leaf Society established by Frances Boult",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1899-12-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.google.com/books/edition/Of_Victorians_and_Vegetarians/JbaKDwAAQBAJ\">https://www.google.com/books/edition/Of_Victorians_and_Vegetarians/JbaKDwAAQBAJ</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52642817": {
+        "pageid": 52642817,
+        "ns": 6,
+        "title": "File:Gravestone symbolism with ivy leaf border, St Columba's, Stewarton, East Ayrshire.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gravestone_symbolism_with_ivy_leaf_border%2C_St_Columba%27s%2C_Stewarton%2C_East_Ayrshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gravestone_symbolism_with_ivy_leaf_border,_St_Columba%27s,_Stewarton,_East_Ayrshire.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52642817",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-30 17:31:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gravestone symbolism with ivy leaf border, St Columba's, Stewarton, East Ayrshire",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Hedera on gravestones|Images by Roger Griffith|Ivy leaf ornament",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gravestone symbolism with a lily flower, St Columba's, Stewarton, East Ayrshire. Ivy represents evergreen or immortal memories of the person.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-26 12:28:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rosser1954\" title=\"User:Rosser1954\">Rosser1954</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "161078338": {
+        "pageid": 161078338,
+        "ns": 6,
+        "title": "File:Hedera helix variegata (Variegated Ivy) leaf epidermis and stomata print 100x.jpg",
+        "index": 29,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hedera_helix_variegata_%28Variegated_Ivy%29_leaf_epidermis_and_stomata_print_100x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hedera_helix_variegata_(Variegated_Ivy)_leaf_epidermis_and_stomata_print_100x.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=161078338",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-03 21:10:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hedera helix variegata (Variegated Ivy) leaf epidermis and stomata print 100x",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Leaf epidermis and stomata prints|Hedera helix (leaves)|Microscopic images of Hedera|Microscopic images of Apiales leaves - epidermis with stomata",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Collected and slide prepared by Alan Barton at the Norris Museum\u2019s Men\u2019s Group, from the museum garden, St Ives, Cambridgeshire, UK; 100 x magnification; brightfield light microscopy; UV crystal gel leaf print; Focus stack. Slide photographed and uploaded with maker\u2019s permission.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-02-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChrisInMilton\" title=\"User:ChrisInMilton\">ChrisInMilton</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "154719917": {
+        "pageid": 154719917,
+        "ns": 6,
+        "title": "File:Huntingfield, St. Mary's Church, Ivy leaf label stop - geograph.org.uk - 6928064.jpg",
+        "index": 26,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Huntingfield%2C_St._Mary%27s_Church%2C_Ivy_leaf_label_stop_-_geograph.org.uk_-_6928064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Huntingfield,_St._Mary%27s_Church,_Ivy_leaf_label_stop_-_geograph.org.uk_-_6928064.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154719917",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-10-31 13:01:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Huntingfield, St. Mary's Church, Ivy leaf label stop - geograph.org.uk - 6928064",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Geograph Britain and Ireland|St Mary the Virgin, Huntingfield",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.317135",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "1.426589",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Huntingfield, St. Mary's Church: Ivy leaf label stop\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Huntingfield,_St._Mary%27s_Church,_Ivy_leaf_label_stop_-_geograph.org.uk_-_6928064.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-08-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/6928064\">Geograph Britain and Ireland</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Huntingfield,_St._Mary%27s_Church,_Ivy_leaf_label_stop_-_geograph.org.uk_-_6928064.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/118660\">Michael Garlick</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Huntingfield,_St._Mary%27s_Church,_Ivy_leaf_label_stop_-_geograph.org.uk_-_6928064.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Huntingfield, St. Mary's Church: Ivy leaf label stop</i> by\u00a0Michael Garlick",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "146714909": {
+        "pageid": 146714909,
+        "ns": 6,
+        "title": "File:Ivy-Leaf Painter - LCS II-4 417a - Eros - draped youth - Benevento MdS 632 S.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ivy-Leaf_Painter_-_LCS_II-4_417a_-_Eros_-_draped_youth_-_Benevento_MdS_632_S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy-Leaf_Painter_-_LCS_II-4_417a_-_Eros_-_draped_youth_-_Benevento_MdS_632_S.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146714909",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-03-24 06:53:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy-Leaf Painter - LCS II-4 417a - Eros - draped youth - Benevento MdS 632 S",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Campanian red-figure pottery in the Museo del Sannio (Benevento)|Ivy-Leaf Painter (Campanian red-figure)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Campanian red figure bell-krater\n<p>- description A: Eros with cista seated on rocks\n- B: draped youth\n- production place: Campania\n- painter: Ivy-Leaf Painter\n- period / date: late classical, ca. 350-325 BC\n- material: pottery (clay)\n- height: 27.5 cm\t\n- findspot: Montesarchio / ancient Caudium, tomb 194 (or 794)\n- museum / inventory number: Benevento, Museo del Sannio 632 S\n- formerly in: Salerno, Soprintendenza\n- bibliography: Arthur Dale Trendall, The red-figured vases of Lucania, Campania and Sicily, Oxford 1967, book II (Campanian), part 4 (Cumae), first supplement 1970 and third supplement (1983), cat. 417a (and b: identical)\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-08-18 15:48:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "127153650": {
+        "pageid": 127153650,
+        "ns": 6,
+        "title": "File:Ivy Leaf, Rathdrum - geograph.org.uk - 4208459.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ivy_Leaf%2C_Rathdrum_-_geograph.org.uk_-_4208459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf,_Rathdrum_-_geograph.org.uk_-_4208459.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127153650",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-29 21:04:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf, Rathdrum - geograph.org.uk - 4208459",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Geograph Britain and Ireland|Streets in Rathdrum, County Wicklow",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.937193",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-6.228106",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ivy Leaf, Rathdrum\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ivy_Leaf,_Rathdrum_-_geograph.org.uk_-_4208459.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-10-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/4208459\">Geograph Britain and Ireland</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ivy_Leaf,_Rathdrum_-_geograph.org.uk_-_4208459.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/3462\">Oliver Dixon</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ivy_Leaf,_Rathdrum_-_geograph.org.uk_-_4208459.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Ivy Leaf, Rathdrum</i> by\u00a0Oliver Dixon",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "131449577": {
+        "pageid": 131449577,
+        "ns": 6,
+        "title": "File:Ivy Leaf.svg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ivy_Leaf.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131449577",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-05-02 20:33:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ivy leaves in heraldry|SVG coat of arms elements - leaves|Christie L. Ward",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Green ivy leaf in heraldic style",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-24",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.vikinganswerlady.com/Stars/Heraldry_SVG_Images/Plants.htm\">http://www.vikinganswerlady.com/Stars/Heraldry_SVG_Images/Plants.htm</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Christie L. Ward",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024854": {
+        "pageid": 151024854,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - Dionysos with maenad and satyrs - man leading horse - Firenze MAN 3771 - 01.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ivy_Leaf_Painter_-_Dionysos_with_maenad_and_satyrs_-_man_leading_horse_-_Firenze_MAN_3771_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_Dionysos_with_maenad_and_satyrs_-_man_leading_horse_-_Firenze_MAN_3771_-_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024854",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:48:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - Dionysos with maenad and satyrs - man leading horse - Firenze MAN 3771 - 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Etruscan pottery in the Museo archeologico nazionale (Florence)|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora\n<p>- description A: satyr, maenad, Dionysos with rhyton, satyr\n- B: draped bearded man leading horse\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- museum / inventory number: Firenze, Museo Archaeologico Nazionale 3771\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 43, cat. 40</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-09-01 13:05:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024857": {
+        "pageid": 151024857,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - Dionysos with maenad and satyrs - man leading horse - Firenze MAN 3771 - 02.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ivy_Leaf_Painter_-_Dionysos_with_maenad_and_satyrs_-_man_leading_horse_-_Firenze_MAN_3771_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_Dionysos_with_maenad_and_satyrs_-_man_leading_horse_-_Firenze_MAN_3771_-_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024857",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:48:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - Dionysos with maenad and satyrs - man leading horse - Firenze MAN 3771 - 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Etruscan pottery in the Museo archeologico nazionale (Florence)|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora\n<p>- description A: satyr, maenad, Dionysos with rhyton, satyr\n- B: draped bearded man leading horse\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- museum / inventory number: Firenze, Museo Archaeologico Nazionale 3771\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 43, cat. 40</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-09-01 13:26:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024855": {
+        "pageid": 151024855,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - Dionysos with maenad and satyrs - man leading horse - Firenze MAN 3771 - 03.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ivy_Leaf_Painter_-_Dionysos_with_maenad_and_satyrs_-_man_leading_horse_-_Firenze_MAN_3771_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_Dionysos_with_maenad_and_satyrs_-_man_leading_horse_-_Firenze_MAN_3771_-_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024855",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:48:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - Dionysos with maenad and satyrs - man leading horse - Firenze MAN 3771 - 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Etruscan pottery in the Museo archeologico nazionale (Florence)|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora\n<p>- description A: satyr, maenad, Dionysos with rhyton, satyr\n- B: draped bearded man leading horse\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- museum / inventory number: Firenze, Museo Archaeologico Nazionale 3771\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 43, cat. 40\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-04-05 13:27:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024955": {
+        "pageid": 151024955,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - Triton - Apollon and Dionysos - Berlin AS F 1676 - 01.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ivy_Leaf_Painter_-_Triton_-_Apollon_and_Dionysos_-_Berlin_AS_F_1676_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_Triton_-_Apollon_and_Dionysos_-_Berlin_AS_F_1676_-_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024955",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:53:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - Triton - Apollon and Dionysos - Berlin AS F 1676 - 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Triton|Self-published work|Etruscan pottery in the Altes Museum (Berlin)|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora\n<p>- description A: Triton holding fish, dolphin\n- B: Apollon and Dionysos seated opposite each other on stools, conversing\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- height: 42 cm\n- findspot: Vulci\n- museum / inventory number: Berlin, Altes Museum (Antikensammlung) F 1676\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 44, cat. 49\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-04-02 14:41:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024957": {
+        "pageid": 151024957,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - Triton - Apollon and Dionysos - Berlin AS F 1676 - 02.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ivy_Leaf_Painter_-_Triton_-_Apollon_and_Dionysos_-_Berlin_AS_F_1676_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_Triton_-_Apollon_and_Dionysos_-_Berlin_AS_F_1676_-_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024957",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:53:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - Triton - Apollon and Dionysos - Berlin AS F 1676 - 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Triton|Self-published work|Etruscan pottery in the Altes Museum (Berlin)|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora\n<p>- description A: Triton holding fish, dolphin\n- B: Apollon and Dionysos seated opposite each other on stools, conversing\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- height: 42 cm\n- findspot: Vulci\n- museum / inventory number: Berlin, Altes Museum (Antikensammlung) F 1676\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 44, cat. 49\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-10-04 15:08:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024680": {
+        "pageid": 151024680,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 01.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024680",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:42:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Etruscan pottery in Ny Carlsberg Glyptotek|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora with lid\n<p>- description A: sphinx\n- B: sphinx\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- height: 41.5 cm\n- findspot: unknown\n- museum / inventory number: K\u00f8benhavn, Ny Carlsberg Glyptotek H.I.N. 499\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 23\n- Marina Martelli (ed.), La ceramica degli etruschi. La pittura vascolare, Novara 1987, cat. 118\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-08-30 17:27:52",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024688": {
+        "pageid": 151024688,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 02.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024688",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:42:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Etruscan pottery in Ny Carlsberg Glyptotek|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora with lid\n<p>- description A: sphinx\n- B: sphinx\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- height: 41.5 cm\n- findspot: unknown\n- museum / inventory number: K\u00f8benhavn, Ny Carlsberg Glyptotek H.I.N. 499\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 23\n- Marina Martelli (ed.), La ceramica degli etruschi. La pittura vascolare, Novara 1987, cat. 118\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-03 15:17:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024681": {
+        "pageid": 151024681,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 03.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024681",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:42:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Etruscan pottery in Ny Carlsberg Glyptotek|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora with lid\n<p>- description A: sphinx\n- B: sphinx\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- height: 41.5 cm\n- findspot: unknown\n- museum / inventory number: K\u00f8benhavn, Ny Carlsberg Glyptotek H.I.N. 499\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 23\n- Marina Martelli (ed.), La ceramica degli etruschi. La pittura vascolare, Novara 1987, cat. 118\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-08-30 16:22:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024690": {
+        "pageid": 151024690,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 04.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024690",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:42:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Etruscan pottery in Ny Carlsberg Glyptotek|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora with lid\n<p>- description A: sphinx\n- B: sphinx\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- height: 41.5 cm\n- findspot: unknown\n- museum / inventory number: K\u00f8benhavn, Ny Carlsberg Glyptotek H.I.N. 499\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 23\n- Marina Martelli (ed.), La ceramica degli etruschi. La pittura vascolare, Novara 1987, cat. 118\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-09-03 15:25:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "151024689": {
+        "pageid": 151024689,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 05.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_sphinx_-_sphinx_-_K%C3%B8benhavn_NCG_HIN_499_-_05.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151024689",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-07-31 12:42:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - sphinx - sphinx - K\u00f8benhavn NCG HIN 499 - 05",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Etruscan pottery in Ny Carlsberg Glyptotek|Ivy Leaf Group",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black figure belly-amphora with lid\n<p>- description A: sphinx\n- B: sphinx\n- production place: Vulci\n- date: ca. 530 BC\n- painter / group: Ivy Leaf Painter (= Ivy Painter)\n- material: pottery (clay)\t\n- height: 41.5 cm\n- findspot: unknown\n- museum / inventory number: K\u00f8benhavn, Ny Carlsberg Glyptotek H.I.N. 499\n- bibliography: Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 23\n- Marina Martelli (ed.), La ceramica degli etruschi. La pittura vascolare, Novara 1987, cat. 118\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-08-30 17:27:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182062323": {
+        "pageid": 182062323,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 02.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182062323",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-19 05:23:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Ivy Leaf Group|Etruscan black-figure pottery in the Museo archeologico nazionale (Tarquinia)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black-figure neck-amphora with lid\n<p>- description A: grazing stag\n- B: boar\n- production place: Vulci \n- date: ca. 540-530/520 BC \n- painter / group: Ivy Leaf Painter\n- material: pottery (clay) \n- height: 34.9 cm\n- findspot: Tarquinia \n- museum / inventory number: Tarquinia, Museo Archaeologico Nazionale 632\n- bibliography: Birgitte Ginge, Ceramiche etrusche a figure nere, Materiali del Museo archeologico nazionale di Tarquinia 12, Roma 1987, cat. 6\n- Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 47\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-01-17 08:11:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182062321": {
+        "pageid": 182062321,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 03.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182062321",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-19 05:23:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Ivy Leaf Group|Etruscan black-figure pottery in the Museo archeologico nazionale (Tarquinia)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black-figure neck-amphora with lid\n<p>- description A: grazing stag\n- B: boar\n- production place: Vulci \n- date: ca. 540-530/520 BC \n- painter / group: Ivy Leaf Painter\n- material: pottery (clay) \n- height: 34.9 cm\n- findspot: Tarquinia \n- museum / inventory number: Tarquinia, Museo Archaeologico Nazionale 632\n- bibliography: Birgitte Ginge, Ceramiche etrusche a figure nere, Materiali del Museo archeologico nazionale di Tarquinia 12, Roma 1987, cat. 6\n- Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 47\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-01-16 14:48:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182062325": {
+        "pageid": 182062325,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 04.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182062325",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-19 05:23:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Ivy Leaf Group|Etruscan black-figure pottery in the Museo archeologico nazionale (Tarquinia)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black-figure neck-amphora with lid\n<p>- description A: grazing stag\n- B: boar\n- production place: Vulci \n- date: ca. 540-530/520 BC \n- painter / group: Ivy Leaf Painter\n- material: pottery (clay) \n- height: 34.9 cm\n- findspot: Tarquinia \n- museum / inventory number: Tarquinia, Museo Archaeologico Nazionale 632\n- bibliography: Birgitte Ginge, Ceramiche etrusche a figure nere, Materiali del Museo archeologico nazionale di Tarquinia 12, Roma 1987, cat. 6\n- Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 47\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-01-17 08:10:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182062326": {
+        "pageid": 182062326,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 05.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_05.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182062326",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-19 05:23:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 05",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Ivy Leaf Group|Etruscan black-figure pottery in the Museo archeologico nazionale (Tarquinia)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black-figure neck-amphora with lid\n<p>- description A: grazing stag\n- B: boar\n- production place: Vulci \n- date: ca. 540-530/520 BC \n- painter / group: Ivy Leaf Painter\n- material: pottery (clay) \n- height: 34.9 cm\n- findspot: Tarquinia \n- museum / inventory number: Tarquinia, Museo Archaeologico Nazionale 632\n- bibliography: Birgitte Ginge, Ceramiche etrusche a figure nere, Materiali del Museo archeologico nazionale di Tarquinia 12, Roma 1987, cat. 6\n- Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 47\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-08-22 17:47:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182062324": {
+        "pageid": 182062324,
+        "ns": 6,
+        "title": "File:Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 06.jpg",
+        "index": 30,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_Painter_-_stag_-_boar_-_Tarquinia_MAN_632_-_06.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182062324",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-19 05:23:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf Painter - stag - boar - Tarquinia MAN 632 - 06",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Ivy Leaf Group|Etruscan black-figure pottery in the Museo archeologico nazionale (Tarquinia)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Etruscan black-figure neck-amphora with lid\n<p>- description A: grazing stag\n- B: boar\n- production place: Vulci \n- date: ca. 540-530/520 BC \n- painter / group: Ivy Leaf Painter\n- material: pottery (clay) \n- height: 34.9 cm\n- findspot: Tarquinia \n- museum / inventory number: Tarquinia, Museo Archaeologico Nazionale 632\n- bibliography: Birgitte Ginge, Ceramiche etrusche a figure nere, Materiali del Museo archeologico nazionale di Tarquinia 12, Roma 1987, cat. 6\n- Anja Drukker, The Ivy Painter in Friesland, in: H. A. G. Brijder, A. A. Drukker, C. W. Drukker, Enthousiasmos. Essays on Greek and related pottery presented to J. M. Hemelrijk, Amsterdam 1986, 41, cat. 47\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational and scientific purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-01-16 14:50:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "155360315": {
+        "pageid": 155360315,
+        "ns": 6,
+        "title": "File:Ivy Leaf pub, Dartford - geograph.org.uk - 6985714.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ivy_Leaf_pub%2C_Dartford_-_geograph.org.uk_-_6985714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_Leaf_pub,_Dartford_-_geograph.org.uk_-_6985714.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155360315",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-19 15:20:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy Leaf pub, Dartford - geograph.org.uk - 6985714",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Borough of Dartford|Images from Geograph Britain and Ireland",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.440999",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "0.224062",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ivy Leaf pub, Dartford\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ivy_Leaf_pub,_Dartford_-_geograph.org.uk_-_6985714.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-10-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/6985714\">Geograph Britain and Ireland</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ivy_Leaf_pub,_Dartford_-_geograph.org.uk_-_6985714.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/44954\">Malc McDonald</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ivy_Leaf_pub,_Dartford_-_geograph.org.uk_-_6985714.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Ivy Leaf pub, Dartford</i> by\u00a0Malc McDonald",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "95753788": {
+        "pageid": 95753788,
+        "ns": 6,
+        "title": "File:Ivy leaf minimal illustration.png",
+        "index": 27,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ivy_leaf_minimal_illustration.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ivy_leaf_minimal_illustration.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95753788",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-02 21:59:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ivy leaf minimal illustration",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Drawings of leaves|Ivy leaf ornament",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A sketch of an ivy leaf.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-11-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Waywardwyrd&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Waywardwyrd (page does not exist)\">Waywardwyrd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153895252": {
+        "pageid": 153895252,
+        "ns": 6,
+        "title": "File:Maiden's blush moth on ivy leaf, Churchland Lane - geograph.org.uk - 6853236.jpg",
+        "index": 24,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Maiden%27s_blush_moth_on_ivy_leaf%2C_Churchland_Lane_-_geograph.org.uk_-_6853236.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Maiden%27s_blush_moth_on_ivy_leaf,_Churchland_Lane_-_geograph.org.uk_-_6853236.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153895252",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-10-14 00:59:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Maiden's blush moth on ivy leaf, Churchland Lane - geograph.org.uk - 6853236",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sedlescombe|Images from Geograph Britain and Ireland",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "50.944458",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "0.537962",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Maiden's blush moth on ivy leaf, Churchland Lane\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Maiden%27s_blush_moth_on_ivy_leaf,_Churchland_Lane_-_geograph.org.uk_-_6853236.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-05-26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/6853236\">Geograph Britain and Ireland</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Maiden%27s_blush_moth_on_ivy_leaf,_Churchland_Lane_-_geograph.org.uk_-_6853236.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/120958\">Patrick Roper</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Maiden%27s_blush_moth_on_ivy_leaf,_Churchland_Lane_-_geograph.org.uk_-_6853236.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<i>Maiden's blush moth on ivy leaf, Churchland Lane</i> by\u00a0Patrick Roper",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "62208216": {
+        "pageid": 62208216,
+        "ns": 6,
+        "title": "File:Monochrome ivy leaf (Unsplash).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Monochrome_ivy_leaf_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monochrome_ivy_leaf_(Unsplash).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62208216",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-09-05 18:03:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Monochrome ivy leaf (Unsplash)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Images uploaded by F\u00e6|Images from Unsplash|Images from Unsplash (review needed)|Unidentified Hedera",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rodion Kutsaev 2016-02-16",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-02-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://unsplash.com/photos/GE5f_k4MPc4\">https://unsplash.com/photos/GE5f_k4MPc4</a>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 31 July 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170731122958/https%3A//images.unsplash.com/photo-1455641139200-aebc8e447b8a\">Image</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>\n</p>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 13 November 2016 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161113210221/https%3A//unsplash.com/photos/GE5f_k4MPc4\">Gallery</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rodion Kutsaev <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@frostroomhead\">frostroomhead</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "66900576": {
+        "pageid": 66900576,
+        "ns": 6,
+        "title": "File:Poison Ivy Leaf Mite - Aculops rhois, Meadowood Farm SRMA, Mason Neck, Virginia (39272761732).jpg",
+        "index": 28,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Poison_Ivy_Leaf_Mite_-_Aculops_rhois%2C_Meadowood_Farm_SRMA%2C_Mason_Neck%2C_Virginia_%2839272761732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Poison_Ivy_Leaf_Mite_-_Aculops_rhois,_Meadowood_Farm_SRMA,_Mason_Neck,_Virginia_(39272761732).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66900576",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-02-28 15:50:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Poison Ivy Leaf Mite - Aculops rhois, Meadowood Farm SRMA, Mason Neck, Virginia (39272761732)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aculops rhois|Flickr images reviewed by FlickreviewR 2|Aculops galls|Animals of Meadowood Farm SRMA",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Poison Ivy Leaf Mite - Aculops rhois, Meadowood Farm SRMA, Mason Neck, Virginia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-07-29 15:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/52450054@N04/39272761732/\">Poison Ivy Leaf Mite - Aculops rhois, Meadowood Farm SRMA, Mason Neck, Virginia</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52450054@N04\">Judy Gallagher</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "124617695": {
+        "pageid": 124617695,
+        "ns": 6,
+        "title": "File:Tiny ivy leaf.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tiny_ivy_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tiny_ivy_leaf.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124617695",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-28 16:29:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tiny ivy leaf",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Unidentified Hedera",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "45.062259",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.662292",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tiny ivy leaf (Hedera), on a rock on the beach, Rovinj (Croatia).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-07-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Terragio67\" title=\"User:Terragio67\">Terragio67</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "75697546": {
+        "pageid": 75697546,
+        "ns": 6,
+        "title": "File:W. H. Power, touring production of The Ivy Leaf, play after Con T. Murphy, poster, ca. 1900.jpg",
+        "index": 25,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/W._H._Power%2C_touring_production_of_The_Ivy_Leaf%2C_play_after_Con_T._Murphy%2C_poster%2C_ca._1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:W._H._Power,_touring_production_of_The_Ivy_Leaf,_play_after_Con_T._Murphy,_poster,_ca._1900.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75697546",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-08 22:59:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "W. H. Power, touring production of The Ivy Leaf, play after Con T. Murphy, poster, ca. 1900",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Rescued from an Eagle's Nest|PD US expired|Template Unknown (author)|PD-US missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Poster for W. H. Power's, touring production of <i>The Ivy Leaf</i>, play after Con T. Murphy, ca. 1900. This Irish-American play was in the repertoire of American theaters from the 1880s to about 1904. The poster shows a scene from the 2nd act, which has been adapted for Edwin S. Porters film melodrama <i>Rescued From an Eagle's Nest</i>, Edison Studios, 1908",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1900-12-31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Uni Life: The free magazine for The University of Manchester<i>, Vol. 7, No. 6, p9, <a rel=\"nofollow\" class=\"external free\" href=\"https://documents.manchester.ac.uk/display.aspx?DocID=7408\">https://documents.manchester.ac.uk/display.aspx?DocID=7408</a></i>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

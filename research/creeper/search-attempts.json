@@ -1,0 +1,19 @@
+[
+  {
+    "source": "blenderkit",
+    "url": "https://www.blenderkit.com/api/v1/search/?query=ivy+asset_type:model+is_free:true&page_size=10",
+    "bytes": 167693,
+    "status": "retrieved"
+  },
+  {
+    "source": "ambientcg",
+    "url": "https://ambientcg.com/api/v2/full_json?type=Atlas&limit=100&include=downloadData",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "source": "polyhaven",
+    "url": "https://api.polyhaven.com/assets?t=models",
+    "bytes": 549429,
+    "status": "retrieved"
+  }
+]

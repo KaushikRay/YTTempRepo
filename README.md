@@ -2,6 +2,10 @@
 
 ## Latest art revision: realism still
 
+The newest iteration adds interior climbing ivy on the piers, window-side wall
+and outer hearth masonry, plus more visible rain and exterior mist.
+See [creeper iteration and source notes](docs/creeper-iteration.md).
+
 The latest pass uses historic photographs of Gainsborough and Penshurst for
 window/hearth construction, plus rough CC0 stone and worn leather seating.
 See [historic study, sources and artistic departures](docs/historic-study.md).

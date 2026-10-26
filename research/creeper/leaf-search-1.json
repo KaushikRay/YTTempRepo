@@ -1,0 +1,692 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 8,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "93429455": {
+        "pageid": 93429455,
+        "ns": 6,
+        "title": "File:1936 wholesale price list - Monrovia Nursery Company. (IA CAT31347860).pdf",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/1936_wholesale_price_list_-_Monrovia_Nursery_Company._%28IA_CAT31347860%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:1936_wholesale_price_list_-_Monrovia_Nursery_Company._(IA_CAT31347860).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93429455",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-23 07:05:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n1936 wholesale price list / Monrovia Nursery Company.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nMonrovia Nursery Co</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>10 leaves, 1 unnumbered leaf\u00a0: 36 cm</dd>\n<dd>Cover title</dd>\n<dd>\"Season 1935-1936.\"</dd>\n<dd>Includes index</dd></dl>\n<br>Subjects: Nursery stock Prices California Monrovia; Trees Seedlings Prices; Shrubs Prices</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/CAT31347860\" class=\"extiw\" title=\"iarchive:CAT31347860\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT31347860</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT31347860/CAT31347860.pdf\">https://archive.org/download/CAT31347860/CAT31347860.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "92659709": {
+        "pageid": 92659709,
+        "ns": 6,
+        "title": "File:A botanical guide to the environs of Cheltenham comprehending a classified arrangement of the indigenous flowers and ferns of the Cotteswold Hills and the Vale of Gloucester. With the habitats of the (IA b30376609).pdf",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/A_botanical_guide_to_the_environs_of_Cheltenham_comprehending_a_classified_arrangement_of_the_indigenous_flowers_and_ferns_of_the_Cotteswold_Hills_and_the_Vale_of_Gloucester._With_the_habitats_of_the_%28IA_b30376609%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_botanical_guide_to_the_environs_of_Cheltenham_comprehending_a_classified_arrangement_of_the_indigenous_flowers_and_ferns_of_the_Cotteswold_Hills_and_the_Vale_of_Gloucester._With_the_habitats_of_the_(IA_b30376609).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92659709",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-28 00:06:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nA botanical guide to the environs of Cheltenham; comprehending a classified arrangement of the indigenous flowers and ferns of the Cotteswold Hills and the Vale of Gloucester. With the habitats of the various plants</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|Medical Heritage Library|PD-old missing SDC copyright status|James Buckman",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nBuckman, James, 1816-1884</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>viii, 59 pages, 2 unnumbered leaves, 1 unnumbered leaf of plates\u00a0: (8vo)</dd>\n<dd>Cover title: Botany of the environs of Cheltenham</dd>\n<dd>1339 Pritzel</dd></dl>\n<br>Subjects: Botany; Botany; Cheltenham (England)</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/b30376609\" class=\"extiw\" title=\"iarchive:b30376609\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b30376609</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/b30376609/b30376609.pdf\">https://archive.org/download/b30376609/b30376609.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">PDM</a> This work is available under the Creative Commons, Public Domain Mark",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "92660613": {
+        "pageid": 92660613,
+        "ns": 6,
+        "title": "File:An account of the topography, climate, and present state of the town of Torquay (Devonshire), with reference, particularly, to its suitableness as a place of residence for invalids (IA b30379787).pdf",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/An_account_of_the_topography%2C_climate%2C_and_present_state_of_the_town_of_Torquay_%28Devonshire%29%2C_with_reference%2C_particularly%2C_to_its_suitableness_as_a_place_of_residence_for_invalids_%28IA_b30379787%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:An_account_of_the_topography,_climate,_and_present_state_of_the_town_of_Torquay_(Devonshire),_with_reference,_particularly,_to_its_suitableness_as_a_place_of_residence_for_invalids_(IA_b30379787).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92660613",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-28 01:22:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nAn account of the topography, climate, and present state of the town of Torquay (Devonshire), with reference, particularly, to its suitableness as a place of residence for invalids</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|Medical Heritage Library|Books published in Edinburgh|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nColdstream, John, 1806-1863</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>14 pages, 1 unnumbered bl. leaf\u00a0; (8vo)</dd>\n<dd>Reprinted from Edinb. med. surg. J., no. 117</dd></dl>\n<br>Subjects: Climatology; Geography</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/b30379787\" class=\"extiw\" title=\"iarchive:b30379787\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b30379787</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/b30379787/b30379787.pdf\">https://archive.org/download/b30379787/b30379787.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">PDM</a> This work is available under the Creative Commons, Public Domain Mark",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "42630356": {
+        "pageid": 42630356,
+        "ns": 6,
+        "title": "File:Fall 1966 (16141311369).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fall_1966_%2816141311369%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fall_1966_(16141311369).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42630356",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-08-25 06:33:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fall 1966 (16141311369)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photos uploaded from Flickr by F\u00e6 using a script|Flickr images reviewed by FlickreviewR|Files from the Biodiversity Heritage Library|Biodiversity Heritage Library maintenance missing collection|Fall 1966",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>for Fall Planting <br>\nHELLEBORUS (Christmas Rose) <br>\nThey grow best in rich soil and a shady <br>\nlocation. Attractive the year round. <br>\nNiger. 1 ft. Single while blooms flushed <br>\nwith pink on sturdy stems. December to <br>\nMarch. $1.50 each; 3 for $4.00. <br>\nOrientalis atrorubens. Crimson-purple <br>\nflowers on 12 to 15-inch stems. February <br>\nto April. $1.50 each; 3 for $4.00. <br>\nIBERIS (Hardy Candytuft) <br>\nDelightful little evergreen plants much <br>\nused in rock gardens. They make splendid <br>\nborder plants, furnishing closely packed, <br>\nwhite bloom in spring. <br>\nSempervirens. A fine plant with dark green <br>\nfoliage. White flowers. <br>\nSnowflake. Large, pure white flowers on <br>\ndwarf plants. Best for borders. <br>\nHARDY SUMMER PHLOX <br>\nHardy Phlox is the backbone of your gar- <br>\nden during the summer months when color <br>\nis so much needed. <br>\n6 Beautiful Summer Phlox <br>\nCount Zeppelin. White with red eye. <br>\nLilian. Cameo-pink with blue eye. <br>\nElizabeth Arden. Soft pink with red eye. <br>\nWhite Admiral. Pure white. <br>\nSir John Falstaff. Deep salmon-pink. <br>\nCharles Curtis (true). Deep red. <br>\nYour choice of above 6 varieties, <br>\nAny 3 for $2.25; any 6 for $4.25; <br>\nany 12 for $7.50; any 25 for $14.00 <br>\nPhlox Miss Lingard \u2014 the Favorite <br>\nEarly-blooming white Phlox. Nice foliage <br>\nand spectacular flower heads 2)4 to 3 ft. <br>\nhigh. 85c. each; 3 for $2.25; 6 for $4.25; <br>\n12 for $7.50. <br>\nSILVER MOUND ARTEMISIA <br>\nA handsome, compact, mound-like plant <br>\nabout 8 inches high and 12 to 15 inches across. <br>\nFern-like foliage of light, bright silvery gray. <br>\nVery pleasing in the rock garden or as an <br>\naccent plant, but most distinctive for edg- <br>\ning beds and walks. Prefers a warm, sunny, <br>\ndrv location. Hardy anywhere. 85c. each; <br>\n3 for $2.25; 6 for $4.25; 12 for $7.50. <br>\nHARDY GROUND. COVER PLANTS <br>\nA specially selected list of the better va- <br>\nrieties, from 2 to 2)-2-inch pots, well estab- <br>\nlished for safe transplanting. <br>\nSix at dozen rate\u00a0; 25 at 100 rate. Ten per- <br>\ncent off the hundred rate when 250 or more <br>\nof one variety are ordered. <br>\nPlanting of Phlox, Platycodon and Day- <br>\nlilies. <br>\nPlafycodons are available in blue at 75c. <br>\neach; 3 for $1.95. <br>\nAJUGA reptans <br>\n(Carpet Bugle) <br>\nEasy to grow in shade or sun. Lovely blue <br>\nflowers in April and May. <br>\nBronze Beauty. Glossy reddish bronze <br>\nfoliage. <br>\nSilver Beauty. Attractive white and green <br>\nvariegated foliage. <br>\nEither variety, $6.50 per doz.; $40.00 per 100 <br>\nEUONYMUS fortune! <br>\n(Wintercreeper) <br>\nFor sun or partial shade in average soil. <br>\nColorata (Purple Wintercreeper). Vigorous <br>\ngrower with evergreen leaves about an inch <br>\nlong, turning to purplish red all fall and <br>\nwinter. <br>\nAcutus (Procumbent Wintercreeper). This <br>\nis the best of the Euonymus for a fast- <br>\ngrowing ground coyer. Neat looking, with <br>\nleaves similar to Vinca minor \u2014 deep green <br>\nin summer, bronze-green in winter. <br>\nGracilis (Variegated Wintercreeper). A new <br>\nstrain found in Japan. A blend of white, <br>\npink, and cream-colored leaves. Can be <br>\nused as wall vine or ground cover. <br>\nMinimus (Baby Wintercreeper). A refined <br>\ntype, adaptable for ground-cover use. Can <br>\nbe pruned for formal effect when used in <br>\nsunny planters and as edging. <br>\nAll Euonymus, $6.50 per doz.; $40.00 per 100 <br>\nERICA <br>\n(Spring Heath; Winter Heather) <br>\nCarnea rosea. This is the finest variety of <br>\ncreeping habit, seldom over 6 inches high, <br>\nevergreen, and covered with dainty pink <br>\nflowers in very early spring. Sun or filtered <br>\nsunlight preferred. <br>\nCarnea Springwood White. Same as <br>\nabove, with white flowers. <br>\nEither variety, 3-in. pots, $1.00 each; <br>\n$10.00 per doz.; $75.00 per 100 <br>\nHEDERA Helix <br>\n(English Ivy) <br>\nNewer hardy selections with good deep <br>\ngreen foliage. <br>\nBerlin Ivy. A selection from Berlin, Ger- <br>\nmany. Large leaves with silver veins. <br>\nThorndale Ivy. A good all-round English <br>\nIvy. Vigorous grower. <br>\nWilson's Ivy. This has smaller leaf than <br>\nBerlin and Thorndale. Leaf color is slightly <br>\nlighter green, quite tolerant of winter sun <br>\nand wind. <br>\nAny of above three, $3.50 per doz.; <br>\n$25.00 per 100 <br>\nPACHYSANDRA <br>\n(Japanese Spurge) <br>\nA trailing plant, 6 to 8 inches high, forming <br>\na complete cover of bright, glossy green foli- <br>\nage and small spikes of flowers during May <br>\nand June. $3.50 per doz.; $25.00 per 100. <br>\nSEEDLING <br>\nSelect Jumbo Mixture. The <br>\nsame famous blend that we have <br>\nbeen selling for the past several <br>\nyears, with even more rare and <br>\nbeautiful colors added to pro- <br>\nduce the most gorgeous display <br>\nof immense flowers of rare form <br>\nand heavy substance. Set these <br>\nseedling plants out this fall and <br>\nenjoy them next spring and sum- <br>\nmer. Pansy plants are not mail- <br>\nable. 50 for $1.65; $3.10 per 100. <br>\nLate summer is the time to plant <br>\nperennial and biennial flower seeds. <br>\nSee our large selection. <br>\nSEDUM <br>\n(Stonecrop) <br>\nAlthough practically all varieties of Sedum <br>\nare adaptable for ground-cover use in one <br>\nway or another, the variety listed below is <br>\nhighly recommended. <br>\nSpurium (Dragon's Blood). Grows well in <br>\nsun or light shade, trailing nicely on the <br>\nground or crevices. Showy red flowers in <br>\nsummer. Foliage turns reddish bronze in <br>\nthe fall. Evergreen. SPECIAL 2J4-in. <br>\npots, $4.50 per doz.; $30.00 per 100. <br>\nVINCA minor <br>\nNewer Varieties (Myrtle) <br>\nBowles Variety. The foliage is broad and <br>\nrich glossy green, of strong texture. The <br>\nflowers are not only larger but are of a <br>\ndeeper rich blue color and are borne with <br>\nremarkable profusion. <br>\nCarroll White. As nice foliage as the Bowles <br>\nVariety, with large white flowers. <br>\nAlpine purpurea. Even faster growing than <br>\nthe above two varieties, with purplish red <br>\nAny of the above varieties, <br>\nNice potted plants, 6 for $2.00\u00a0; $3.50 per doz.\u00a0; <br>\n$25.00 per 100 <br>\n</p>\nSILVER MOUND ARTEMISIA",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1966",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/biodivlibrary/16141311369\">https://www.flickr.com/photos/biodivlibrary/16141311369</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "F.W. Bolgiano &amp; Co.; Henry G. Gilbert Nursery and Seed Trade Catalog Collection.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "93368919": {
+        "pageid": 93368919,
+        "ns": 6,
+        "title": "File:Original Barnes nursery, established 1890 - Barnes Bros. Nursery Company. (IA CAT31337471).pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Original_Barnes_nursery%2C_established_1890_-_Barnes_Bros._Nursery_Company._%28IA_CAT31337471%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Original_Barnes_nursery,_established_1890_-_Barnes_Bros._Nursery_Company._(IA_CAT31337471).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93368919",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-20 08:49:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nOriginal Barnes nursery, established 1890 / Barnes Bros. Nursery Company.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|Barnes Brothers Nursery Company|Internet Archive (redundant cover page removed)|FEDLINK - Henry G. Gilbert Nursery and Seed Trade Catalog Collection/1931u",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nBarnes Brothers Nursery Company</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>40 pages\u00a0: 28 cm</dd>\n<dd>Cover title</dd>\n<dd>Includes index</dd></dl>\n<br>Subjects: Fruit trees Seedlings Catalogs; Berries Seedlings Catalogs; Landscape gardening Equipment and supplies Catalogs; Nursery stock Connecticut Catalogs; Nurseries (Horticulture) Connecticut Catalogs</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/CAT31337471\" class=\"extiw\" title=\"iarchive:CAT31337471\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT31337471</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT31337471/CAT31337471.pdf\">https://archive.org/download/CAT31337471/CAT31337471.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "93315325": {
+        "pageid": 93315325,
+        "ns": 6,
+        "title": "File:Perfection Nurseries, growers of high-grade nursery stock - 1927-1928 (catalog). (IA CAT31328424).pdf",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Perfection_Nurseries%2C_growers_of_high-grade_nursery_stock_-_1927-1928_%28catalog%29._%28IA_CAT31328424%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Perfection_Nurseries,_growers_of_high-grade_nursery_stock_-_1927-1928_(catalog)._(IA_CAT31328424).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93315325",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-11 07:22:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nPerfection Nurseries, growers of high-grade nursery stock\u00a0: 1927-1928 [catalog].</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|PD-US missing SDC copyright status|Internet Archive (redundant cover page removed)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<dl><dd>Perfection Nurseries</dd>\n<dd>Henry G. Gilbert Nursery and Seed Trade Catalog Collection</dd></dl></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Cover title\n</p>\n<br>Subjects: Nurseries (Horticulture) Alabama Foley Catalogs; Nursery stock Alabama Foley Catalogs; Fruit trees Seedlings Catalogs; Flowers Seeds Catalogs; Shrubs Seedlings Catalogs; Climbing plants Catalogs; Trees Seedlings Catalogs</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/CAT31328424\" class=\"extiw\" title=\"iarchive:CAT31328424\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT31328424</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT31328424/CAT31328424.pdf\">https://archive.org/download/CAT31328424/CAT31328424.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "The contributing institution believes that this item is not in copyright",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "92233465": {
+        "pageid": 92233465,
+        "ns": 6,
+        "title": "File:The ivy, a monograph; comprising the history, uses, characteristics, and affinities of the plant, and a descriptive list of all the garden ivies in cultivation (IA ivymonographcomp00hibb).pdf",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/The_ivy%2C_a_monograph%3B_comprising_the_history%2C_uses%2C_characteristics%2C_and_affinities_of_the_plant%2C_and_a_descriptive_list_of_all_the_garden_ivies_in_cultivation_%28IA_ivymonographcomp00hibb%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_ivy,_a_monograph;_comprising_the_history,_uses,_characteristics,_and_affinities_of_the_plant,_and_a_descriptive_list_of_all_the_garden_ivies_in_cultivation_(IA_ivymonographcomp00hibb).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92233465",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-14 11:19:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nThe ivy, a monograph; comprising the history, uses, characteristics, and affinities of the plant, and a descriptive list of all the garden ivies in cultivation</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Books about botany|Scans from the Internet Archive/unverified|PD US expired|Files from the Biodiversity Heritage Library|Scans from the Internet Archive|Books published in London|Books uploaded by F\u00e6|Books without Wikidata item|Books from the Biodiversity Heritage Library|Hedera in art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nHibberd, Shirley, 1825-1890</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<dl><dd>[7], 115 p</dd>\n<dd>Added coloured illustrated t.p</dd></dl>\n<br>Subjects: Ivy</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/ivymonographcomp00hibb\" class=\"extiw\" title=\"iarchive:ivymonographcomp00hibb\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: ivymonographcomp00hibb</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/ivymonographcomp00hibb/ivymonographcomp00hibb.pdf\">https://archive.org/download/ivymonographcomp00hibb/ivymonographcomp00hibb.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "99214125": {
+        "pageid": 99214125,
+        "ns": 6,
+        "title": "File:XXIX.\u2014Observations on raphides and other crystals (IA biostor-91047).pdf",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/XXIX.%E2%80%94Observations_on_raphides_and_other_crystals_%28IA_biostor-91047%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:XXIX.%E2%80%94Observations_on_raphides_and_other_crystals_(IA_biostor-91047).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99214125",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-24 07:49:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nXXIX.\u2014Observations on raphides and other crystals</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by F\u00e6|Books without Wikidata item|Old books in Internet Archive additional collections|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nGeorge Gulliver</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nSubjects:</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/biostor-91047\" class=\"extiw\" title=\"iarchive:biostor-91047\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: biostor-91047</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/biostor-91047/biostor-91047.pdf\">https://archive.org/download/biostor-91047/biostor-91047.pdf</a></dd></dl>\n<ul><li>IA digitizing sponsor: BioStor</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

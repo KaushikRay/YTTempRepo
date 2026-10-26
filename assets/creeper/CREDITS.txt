@@ -1,0 +1,8 @@
+Interior creeper leaf photograph and growth references, CC0:
+Hedera helix leaf - 16 June 2025.jpg — Aethonatic.
+https://commons.wikimedia.org/wiki/File:Hedera_helix_leaf_-_16_June_2025.jpg
+Beginning leaf diphormism in Hedera helix.jpg — Zamioculas.
+https://commons.wikimedia.org/wiki/File:Beginning_leaf_diphormism_in_Hedera_helix.jpg
+Licence: https://creativecommons.org/publicdomain/zero/1.0/
+Original metadata, download URLs and SHA256 hashes: provenance.json.
+The rendered plant uses custom branching and leaf geometry; it is not a downloaded scanned ivy model.
