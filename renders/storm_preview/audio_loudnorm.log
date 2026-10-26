@@ -1,0 +1,29 @@
+Input #0, wav, from '/workspace/YTTempRepo/renders/storm_preview/mix_pre_normalization.wav':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Duration: 00:00:06.00, bitrate: 2304 kb/s
+  Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s24le (native) -> pcm_s24le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to '/workspace/YTTempRepo/renders/storm_preview/audio_mix.wav':
+  Metadata:
+    ISFT            : Lavf61.7.103
+  Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s24le
+[Parsed_loudnorm_0 @ 0x7f88dc002ec0] 
+{
+	"input_i" : "-22.07",
+	"input_tp" : "-8.08",
+	"input_lra" : "7.30",
+	"input_thresh" : "-32.07",
+	"output_i" : "-24.82",
+	"output_tp" : "-10.82",
+	"output_lra" : "7.20",
+	"output_thresh" : "-34.82",
+	"normalization_type" : "linear",
+	"target_offset" : "0.82"
+}
+[out#0/wav @ 0x5603474c2400] video:0KiB audio:1688KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.005903%
+size=    1688KiB time=00:00:06.00 bitrate=2304.1kbits/s speed=95.1x    

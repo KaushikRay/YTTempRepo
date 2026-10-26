@@ -1,9 +1,33 @@
 # Rustic Gothic tavern — Blender development scene
 
+## Latest review: lightning and audio
+
+- `renders/storm_preview/full_room_with_audio.mp4`: six-second 960 × 540 /
+  24 fps preview with lightning, rain, fire sound and delayed thunder.
+- `renders/storm_preview/lightning_peak.png`: main flash still.
+- `renders/storm_preview/audio_mix.wav`: audio-only mix for review.
+- `renders/storm_preview/av_qa.json`: final stream, level and flash checks.
+- `assets/audio/CREDITS.txt`: source licences and required attribution.
+
+The current scene has 144 frames at 24 fps and 144 external fire images.
+The soundtrack is mixed/muxed outside Blender. Earlier three-second setup
+commands below describe earlier milestones and can reset the scene: do not
+run them on the current file without intending to rebuild. See
+[storm preview workflow](docs/storm-preview.md) for the current revision.
+
+For a fresh checkout without the optimized baseline cache, open the current
+Blender file with its assets directory and render all frames 1–144 directly,
+using 960 × 540, 24 fps, adaptive maximum 24 samples and denoising. The optimized
+cloud renderer reuses earlier validated frames and requires that local cache.
+This is a prototype, not a final photoreal scene or a seamless long video.
+
+## Earlier workflow notes
+
+
 Current scene: `storm_lounge.blend` (generated with Blender 4.3.2).
 Reference: `reference/original.png`, recovered from repository commit 51e4ad4.
 
-The current hearth uses a 72-frame keyed sequence from downloaded 1920 × 1080
+The current hearth uses a 144-frame keyed sequence from downloaded 1920 × 1080
 fireplace footage, not the rejected procedural flames. Keep assets/fire/sequence
 alongside the Blender file; the animated images are external relative-path
 assets. Attribution is embedded as a text block. **CC BY 3.0 credits

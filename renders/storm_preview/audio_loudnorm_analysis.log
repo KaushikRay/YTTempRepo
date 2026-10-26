@@ -1,0 +1,29 @@
+Input #0, wav, from '/workspace/YTTempRepo/renders/storm_preview/mix_pre_normalization.wav':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Duration: 00:00:06.00, bitrate: 2304 kb/s
+  Stream #0:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s24le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s16le
+[Parsed_loudnorm_0 @ 0x7f9e34002740] 
+{
+	"input_i" : "-21.26",
+	"input_tp" : "-8.06",
+	"input_lra" : "3.30",
+	"input_thresh" : "-31.26",
+	"output_i" : "-21.42",
+	"output_tp" : "-7.93",
+	"output_lra" : "4.60",
+	"output_thresh" : "-31.42",
+	"normalization_type" : "dynamic",
+	"target_offset" : "-2.58"
+}
+[out#0/null @ 0x55b752b56280] video:0KiB audio:4500KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:06.00 bitrate=N/A speed=13.3x    

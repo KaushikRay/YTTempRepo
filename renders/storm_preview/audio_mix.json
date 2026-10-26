@@ -1,0 +1,21 @@
+{
+  "sample_rate": 48000,
+  "duration_seconds": 6,
+  "rain_source_seconds": [
+    10,
+    16
+  ],
+  "fire_source_seconds": [
+    2,
+    8
+  ],
+  "thunder_source_start_seconds": 2.47,
+  "thunder_mix_start_seconds": 3,
+  "main_flash_seconds": 1.75,
+  "thunder_delay_seconds": 1.25,
+  "target_integrated_lufs": -24,
+  "target_true_peak_dbfs": -2,
+  "music": false,
+  "sources": "assets/audio/sources.json and assets/fire/source.json",
+  "listening_review": "pending user review; source descriptions, spectrum and signal levels checked"
+}

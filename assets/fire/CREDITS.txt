@@ -1,3 +1,5 @@
 Fire footage: "Fantastic-fireplace-fire-chimney-hearth- background - texture - motion graphics - free video library" by free video library, via Wikimedia Commons. Licence: CC BY 3.0, https://creativecommons.org/licenses/by/3.0/. Source: https://commons.wikimedia.org/wiki/File:Fantastic-fireplace-fire-chimney-hearth-_background_-_texture_-_motion_graphics_-_free_video_library.webm. Modified: selected a still frame and keyed out the red/dark background for integration into a Blender scene.
 
 Motion study: source seconds 2–5, temporally keyed, resized and resampled to 24 fps; preview sampled at 12 fps.
+
+Storm preview: source imagery and fire soundtrack seconds 2–8; keyed/resampled imagery, filtered and level-adjusted audio, mixed with rain and thunder.

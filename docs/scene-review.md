@@ -148,3 +148,19 @@ window crop MP4s passed complete decoding and 3 sec / 72-frame / 24 fps checks.
 Sampled first/mid/end frames inspected. No frame interpolation, no audio,
 no long video and no seamless-loop claim. Source art and fire matte limitations
 remain; this is a rendering quality pass. Playback review is the next gate.
+
+## Lightning and audio preview
+
+Six-second 24 fps / 960 × 540 review: two exterior lightning pulses illuminate
+the room through its windows; main flash at 1.75 s, thunder mixed from 3.0 s.
+Extended real fire footage continuously to source seconds 2–8. Preserved all
+first-72 fire files and verified the prior quality input fingerprint before
+reusing 64 physically unchanged frames; rendered 80 new frames at the same
+quality in 32 min 55 sec. Supervisor recorded/stopped the known cleanup stall.
+
+Window rain (public domain), thunder (CC BY 3.0) and fire-source audio (CC BY
+3.0) are excerpted, filtered, level-adjusted and mixed with credits retained.
+Final encoded audio measures -24.03 LUFS and -10.94 dBTP. Video/audio decode,
+duration, frame count, and visible flash increase checks pass. Source audio
+spectrum/signals inspected; human listening review is pending. No music is
+added. This is not a seamless loop, final master or published long video.

@@ -1,0 +1,37 @@
+{
+  "checks": {
+    "full_room": {
+      "duration": 6.0,
+      "frames": 144,
+      "fps": "24/1",
+      "width": 960,
+      "height": 540,
+      "bytes": 1203772
+    },
+    "fire_crop": {
+      "duration": 6.0,
+      "frames": 144,
+      "fps": "24/1",
+      "width": 576,
+      "height": 480,
+      "bytes": 473548
+    },
+    "window_crop": {
+      "duration": 6.0,
+      "frames": 144,
+      "fps": "24/1",
+      "width": 576,
+      "height": 840,
+      "bytes": 1560115
+    }
+  },
+  "region_mean_absolute_frame_difference_8bit": {
+    "fire_crop": 1.277732621352413,
+    "window_crop": 3.279630284838618
+  },
+  "unique_rendered_frames": 144,
+  "audio_included": false,
+  "crops_are_magnified_from_full_room": true,
+  "seamless_loop": false,
+  "visual_review": "sampled frames and motion-region differences; user playback review pending"
+}

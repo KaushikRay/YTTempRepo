@@ -1,0 +1,8 @@
+File:Rain against the window.ogg — cori; Public domain; https://commons.wikimedia.org/wiki/File:Rain_against_the_window.ogg; public-domain declaration on source page. Modified: selected excerpt, filtered, level-adjusted and mixed.
+
+File:Thunder.ogg — Bidgee; CC BY 3.0; https://commons.wikimedia.org/wiki/File:Thunder.ogg; https://creativecommons.org/licenses/by/3.0. Modified: selected excerpt, filtered, level-adjusted and mixed.
+
+Fire footage: "Fantastic-fireplace-fire-chimney-hearth- background - texture - motion graphics - free video library" by free video library, via Wikimedia Commons. Licence: CC BY 3.0, https://creativecommons.org/licenses/by/3.0/. Source: https://commons.wikimedia.org/wiki/File:Fantastic-fireplace-fire-chimney-hearth-_background_-_texture_-_motion_graphics_-_free_video_library.webm. Modified: selected a still frame and keyed out the red/dark background for integration into a Blender scene.
+
+Motion study: source seconds 2–5, temporally keyed, resized and resampled to 24 fps; preview sampled at 12 fps.
+ Fire soundtrack: original source seconds 2–8, filtered and level-adjusted, placed toward the hearth side.

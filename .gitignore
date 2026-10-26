@@ -6,3 +6,7 @@ renders/motion/frames/
 renders/quality_preview/frames/
 
 renders/quality_preview/worker.log
+
+renders/storm_preview/frames/
+
+renders/storm_preview/worker.log

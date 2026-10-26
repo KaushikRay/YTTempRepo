@@ -1,0 +1,22 @@
+[
+  {
+    "file": "rain.ogg",
+    "title": "File:Rain against the window.ogg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rain_against_the_window.ogg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rain_against_the_window.ogg",
+    "licence": "Public domain",
+    "licence_url": "",
+    "author": "cori",
+    "sha256": "85be295e9936fbf003ae5dbc0e106b77e60854ea4b19bfb7b232420f291a737e"
+  },
+  {
+    "file": "thunder.ogg",
+    "title": "File:Thunder.ogg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thunder.ogg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Thunder.ogg",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Bidgee",
+    "sha256": "c66da284f376957f337230533671c004e08364b87b73959f067986cbfa8504dd"
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "video_checks": {
+    "checks": {
+      "full_room": {
+        "duration": 6.0,
+        "frames": 144,
+        "fps": "24/1",
+        "width": 960,
+        "height": 540,
+        "bytes": 1203772
+      },
+      "fire_crop": {
+        "duration": 6.0,
+        "frames": 144,
+        "fps": "24/1",
+        "width": 576,
+        "height": 480,
+        "bytes": 473548
+      },
+      "window_crop": {
+        "duration": 6.0,
+        "frames": 144,
+        "fps": "24/1",
+        "width": 576,
+        "height": 840,
+        "bytes": 1560115
+      }
+    },
+    "region_mean_absolute_frame_difference_8bit": {
+      "fire_crop": 1.277732621352413,
+      "window_crop": 3.279630284838618
+    },
+    "unique_rendered_frames": 144,
+    "audio_included": false,
+    "crops_are_magnified_from_full_room": true,
+    "seamless_loop": false,
+    "visual_review": "sampled frames and motion-region differences; user playback review pending"
+  },
+  "final_av_stream_checks": {
+    "full_room": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1",
+          "nb_read_frames": "144"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_read_frames": "282"
+        }
+      ],
+      "format": {
+        "duration": "6.000000"
+      }
+    },
+    "fire_crop": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 576,
+          "height": 480,
+          "r_frame_rate": "24/1",
+          "nb_read_frames": "144"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_read_frames": "282"
+        }
+      ],
+      "format": {
+        "duration": "6.000000"
+      }
+    },
+    "window_crop": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 576,
+          "height": 840,
+          "r_frame_rate": "24/1",
+          "nb_read_frames": "144"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_read_frames": "282"
+        }
+      ],
+      "format": {
+        "duration": "6.000000"
+      }
+    }
+  },
+  "audio_integrated_lufs": -24.03,
+  "audio_true_peak_dbtp": -10.94,
+  "flash_render_luma": {
+    "before": 22.19171905517578,
+    "main_flash": 50.054229736328125,
+    "after": 22.67155647277832
+  },
+  "flash_seconds": 1.75,
+  "thunder_mix_start_seconds": 3.0,
+  "nominal_thunder_delay_seconds": 1.25,
+  "audio_included": true,
+  "music": false,
+  "seamless_loop": false,
+  "review": "sampled frames, spectral/signal checks and complete decoding passed; human listening/playback review pending"
+}
