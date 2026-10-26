@@ -1,0 +1,6 @@
+Poly Haven CC0 assets: Gothic Coffee Table, Arm Chair 01, Wine Barrel 01, Stone Wall 05, Wood Table Worn.
+https://polyhaven.com/license
+Individual assets: https://polyhaven.com/a/<asset-id>
+Downloaded files checked against provider MD5 manifests; original manifests retained.
+
+Additional CC0 source IDs: monastery_stone_floor, jug_01, brass_candleholders, fabric_pattern_05 (colour variant col_01). Decorative book set catalogue was inspected but not imported.

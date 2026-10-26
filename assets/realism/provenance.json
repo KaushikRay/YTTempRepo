@@ -1,0 +1,138 @@
+{
+  "assets": [
+    {
+      "id": "gothic_coffee_table",
+      "name": "Gothic Coffee Table",
+      "authors": {
+        "Ulan Cabanilla": "All"
+      },
+      "source_url": "https://polyhaven.com/a/gothic_coffee_table",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "ArmChair_01",
+      "name": "Arm Chair 01",
+      "authors": {
+        "Kirill Sannikov": "All"
+      },
+      "source_url": "https://polyhaven.com/a/ArmChair_01",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "wine_barrel_01",
+      "name": "Wine Barrel 01",
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "source_url": "https://polyhaven.com/a/wine_barrel_01",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "jug_01",
+      "name": "Jug 01",
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "source_url": "https://polyhaven.com/a/jug_01",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "brass_candleholders",
+      "name": "Brass Candleholders",
+      "authors": {
+        "Tina": "All"
+      },
+      "source_url": "https://polyhaven.com/a/brass_candleholders",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "stone_wall_05",
+      "name": "Stone Wall 05",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "source_url": "https://polyhaven.com/a/stone_wall_05",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "monastery_stone_floor",
+      "name": "Monastery Stone Floor",
+      "authors": {
+        "Amal Kumar": "All"
+      },
+      "source_url": "https://polyhaven.com/a/monastery_stone_floor",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    },
+    {
+      "id": "fabric_pattern_05",
+      "name": "Fabric Pattern 05",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "source_url": "https://polyhaven.com/a/fabric_pattern_05",
+      "licence": "CC0",
+      "licence_url": "https://polyhaven.com/license"
+    }
+  ],
+  "file_verification": "Provider MD5 entries checked at download; original manifests retained.",
+  "files_sha256": {
+    "fire_soft_plate.png": "70745112209bef51ee28afaa59b20dbb613d1f8a9844615cc890fa91fe7018bc",
+    "wood_table_worn/nor_gl.jpg": "a90aaa321194fb41d6e44776c6ee88134e4be416051357a3c9e323cc447c4cf0",
+    "wood_table_worn/Rough.jpg": "4263780c4b7737b8714eefcbda1b43c28f8e1e0ee2b797c125521cbe6e3889dd",
+    "wood_table_worn/Diffuse.jpg": "165cdba449d56ea8e9675116622b95d7af372b7d7c47b8a98a03fcc630f1d51c",
+    "wood_table_worn/Displacement.jpg": "6cd07277b91fcbe6567d72b1a86f581ae26765f810ffabe4a4d1451e22c3c901",
+    "brass_candleholders/brass_candleholders.bin": "a2f406ea19e6e606ba6b618958cb496b2c18a41fa580409512afd6e644878d51",
+    "brass_candleholders/brass_candleholders.gltf": "86b7fa1b3f7075c7646fcda17f622d302ff3d885d6ff18e1b1d3cf2bc9242133",
+    "fabric_pattern_05/nor_gl.jpg": "3be0b006000145d8c879a381ac5937f6ab51bf7e4720f2ba7c11d3184aec7e15",
+    "fabric_pattern_05/Rough.jpg": "3b2838c46227bf11e1c0d8da21703659d70676f56b848abff39c39ceac56f5f8",
+    "fabric_pattern_05/Diffuse.jpg": "090e3b8a097153c66539616ff7e4eaabcbbd39104b7ad98d6e0ed436843aa23f",
+    "ArmChair_01/ArmChair_01.gltf": "fef57c24069f77767605f865332cb6b4bfa4b78352b230ce75ee66ed5566a9eb",
+    "ArmChair_01/ArmChair_01.bin": "42a4206ea8bb3f7c3c1500ca3e408e084e8687cd3cc9cbf095b3344e215e0db6",
+    "stone_wall_05/nor_gl.jpg": "14cd6f3fc1dcd1f95962cdf2806866a6608ae69c075a8ffbd1ebd75b2bb679ef",
+    "stone_wall_05/Rough.jpg": "aead8f5c535fc22b1a3c46aa50679c43b37f279f7abce482115551b0f58a5b0e",
+    "stone_wall_05/Diffuse.jpg": "d3680c5ef2657aead18f9bfab93994555b8f05de4f4fecba18194cbe3a116b87",
+    "stone_wall_05/Displacement.jpg": "4ed5a0ffc1a6d8a943114ed6117e29ca6f72cc1cda031fb20e639c48fb2cefba",
+    "jug_01/jug_01.gltf": "4ac09cde8eae1f4f338430833f62eba5619b74eb8f9d0c72a292247fcdd9fc63",
+    "jug_01/jug_01.bin": "2dd3772547ae41cc7beeaa5f002e741cfe2c014ed4717731c5076810154bedb9",
+    "monastery_stone_floor/nor_gl.jpg": "8f3e131a9d6d9c3a95c872173393830f7c1de389cd60d4878b2211058d706d2c",
+    "monastery_stone_floor/Rough.jpg": "61f87f8049b21153b6db25fdcd184c4297642ada2e31c07db03f6810c9f952c3",
+    "monastery_stone_floor/Diffuse.jpg": "aa12137fff1728bbbfe98b30480e33a34cba3b5c096575702c1d66939214e14a",
+    "monastery_stone_floor/Displacement.jpg": "164d97eb875ba7500f3d03f571d0187619cdd8ddfa2abad6851b04be83ff337e",
+    "wine_barrel_01/wine_barrel_01.gltf": "cfff0c36ffde5ba24adf1ea499a7219a9369b870b7214d0bd1b554d758c279c9",
+    "wine_barrel_01/wine_barrel_01.bin": "d827c31afed824b923ea9168462c93ab3ad3a88c4a68b155bd35efb1a02cbf00",
+    "gothic_coffee_table/gothic_coffee_table.bin": "6f138d3da02e5d70b2cd0932b015d72a306b9f91acbbc8e6abdb2f4982eddb40",
+    "gothic_coffee_table/gothic_coffee_table.gltf": "a17c9ccd67a8cf1c2454bf5c2ed9e237a0e533869e5f6a0fe459ae73c4a487d9",
+    "brass_candleholders/textures/brass_candleholders_01_arm_2k.jpg": "505fe318fe91e328d7a1549bcfd81fc2f1a205a49508e75bba40d5818f813983",
+    "brass_candleholders/textures/brass_candleholders_flame_diff_2k.jpg": "03093bd57d2bc993df88b657e3b94fcbf6ace3fe497ce6adfe6696995222d0ad",
+    "brass_candleholders/textures/brass_candleholders_03_arm_2k.jpg": "4c9c8833d85a912753167914039f2ffe95039e469058e6b92a97ed17fd73e3a8",
+    "brass_candleholders/textures/brass_candleholders_02_nor_gl_2k.jpg": "451d0a61815ddf224d05ca54020fb84044965e9fe37e6369704d9c06646e4dbb",
+    "brass_candleholders/textures/brass_candleholders_candles_arm_2k.jpg": "68b1e75fab09f2a7e90eb91113d45f850de0ba74e29ea9092076b02ed8a4b2f8",
+    "brass_candleholders/textures/brass_candleholders_candles_nor_gl_2k.jpg": "62ee01bcd05f992200cde7ac2880e0746fd52886360be2cccf22f045daacb0fb",
+    "brass_candleholders/textures/brass_candleholders_01_diff_2k.jpg": "db0c838558db0bc0191043fd3e27c62065d70fc278549a9acb4e5e75f470938c",
+    "brass_candleholders/textures/brass_candleholders_02_diff_2k.jpg": "e3379942c5bd39b73c2434a1fbe1e78cb164894dcf18ea72099215ba5e4871ea",
+    "brass_candleholders/textures/brass_candleholders_02_arm_2k.jpg": "a83aea6bbd8058358e3e118f22939dc432265abdccad6d5e28ad265cfcb4ceef",
+    "brass_candleholders/textures/brass_candleholders_03_diff_2k.jpg": "c173c49d40df2c09654aa910bc66f8511ee26607eabaf069b49a80e6dd71c626",
+    "brass_candleholders/textures/brass_candleholders_03_nor_gl_2k.jpg": "b9bf98695e9d6f90d2425ed3c374dc3e16630ce14a0927f854a0c91bd05a9494",
+    "brass_candleholders/textures/brass_candleholders_candles_diff_2k.jpg": "34c02390e4a811eac3b6f00b53ae020e97fbe2a2e7abec910579834195e91022",
+    "brass_candleholders/textures/brass_candleholders_01_nor_gl_2k.jpg": "17a8ab08db17b8fc4a270d52aacc26efecc4546f3f7815ffa31d86d592d9c041",
+    "ArmChair_01/textures/Armchair_01_diff_2k.jpg": "d45d6f6328a924b5099deb7ed88023ab066128a376ee2d16f48149872cec47de",
+    "ArmChair_01/textures/Armchair_01_nor_gl_2k.jpg": "0bce11bc21a3259e13429e65bedc1cf28d2a672fc6dde6dc86f45e8b8f8a9af4",
+    "ArmChair_01/textures/Armchair_01_arm_2k.jpg": "9f5011595cfc5ba523ac385b0bf978c5e455dcf9f9fb6f53d4bfcb4159224e39",
+    "jug_01/textures/jug_01_diff_2k.jpg": "23582ddf55627f7920ce32edc14f465f67aa938d3fde0247f4564278c00211b1",
+    "jug_01/textures/jug_01_arm_2k.jpg": "d6e7bbe6c0bb3c1fa2ba7d13d587bded40ef76275d19ad2c7b59076e271ba7d6",
+    "jug_01/textures/jug_01_nor_gl_2k.jpg": "25cf8bcc5100126741496b42104eac50369016692892403826f8c9c804df6254",
+    "wine_barrel_01/textures/wine_barrel_01_diff_2k.jpg": "6a76da96d9bbe957fcab8021fc2710bf153eb98d22ff1439fa5093c7c90a7fdb",
+    "wine_barrel_01/textures/wine_barrel_01_arm_2k.jpg": "a8902e757c8fe2a80a851bf419906da641fd3829f5f21e5c6cd13016ee13180b",
+    "wine_barrel_01/textures/wine_barrel_01_nor_gl_2k.jpg": "a241d134de243f3f52e12e883eeeda881a4604d17486a94b7b994b33de08eacb",
+    "gothic_coffee_table/textures/gothic_coffee_table_nor_gl_2k.jpg": "c6058ab8910b9462421dbfeb43851320e6d464df7b53f09eb78dc9b3cc4bb926",
+    "gothic_coffee_table/textures/gothic_coffee_table_arm_2k.jpg": "cf160023fdc398f42efaebb0fad1ff42876792607d51d4264674da6eee33f7b2",
+    "gothic_coffee_table/textures/gothic_coffee_table_diff_2k.jpg": "9e6d3aad11e2898c165906777117c6d4bacc6b3817cc720e1064b63d4d88f596"
+  }
+}

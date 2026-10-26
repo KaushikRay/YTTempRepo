@@ -1,5 +1,14 @@
 # Rustic Gothic tavern — Blender development scene
 
+## Latest art revision: realism still
+
+`renders/realism_study.png` is a new asset-based still, compared with
+`renders/realism_before.png`. `realism_study.blend` contains the revised art
+with packed image textures (Blender 4.5.3). The earlier animation is preserved.
+This is an unfinished realism study, not a final photoreal scene or a new video.
+See [realism review](docs/realism-review.md) and `assets/realism/provenance.json`.
+
+
 ## Latest review: lightning and audio
 
 - `renders/storm_preview/full_room_with_audio.mp4`: six-second 960 × 540 /

@@ -1,0 +1,16 @@
+{
+  "width": 1280,
+  "height": 720,
+  "cycles_samples": 64,
+  "denoising": "OpenImageDenoise",
+  "old_motion_scene_preserved": true,
+  "new_scene": "realism_study.blend",
+  "new_animation_rendered": false,
+  "realism_target_reached": false,
+  "reference_review": "docs/realism-review.md",
+  "runtime": {
+    "render_completed": true,
+    "worker_returncode": -15,
+    "stopped_during_cleanup": true
+  }
+}
