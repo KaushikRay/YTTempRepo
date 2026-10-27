@@ -3,7 +3,27 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## River flow revision
+## New 3D liquid-method study
+
+[Watch the fully 3D water test](renders/fluid_river/preview.mp4)
+· [Rendered still](renders/fluid_river/still.png)
+· [Method, playback instructions and visual limitations](research/fluid_river/review.md)
+
+The workspace has reconnected and a working CPU particle-fluid solver now
+produces actual 3D water meshes. This standalone 960×540 / 24 fps, two-second
+study uses 51,286 simulated particles, gravity, pressure constraints, solid rocks
+and simulation-derived foam. It uses no image or footage for water motion.
+
+This is a physical-method proof, not an integrated revision of the approved cabin
+view or a final photoreal river. Coarse surfaces and test-channel details still
+need refinement. The approved palm/cabin scene is preserved. The next stage is to
+improve the water/foam detail and fit a simulated channel to that camera.
+
+`rainforest_fluid_study.blend` is the study scene; keep the two cache ZIP files
+under `assets/fluid_river` beside the project. In Blender, run its embedded
+`ENABLE_FLUID_PLAYBACK.py` once to enable cached geometry playback.
+
+## Previous image-based river revision
 
 The palms are retained as approved. The revised river replaces the weak wobble
 with directional photographic texture transport, modulated by real CC0 rapids

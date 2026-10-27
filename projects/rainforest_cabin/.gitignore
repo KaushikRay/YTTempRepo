@@ -8,3 +8,6 @@ renders/hybrid_motion/diagnostic.png
 renders/river_flow/crop_frames/
 renders/river_flow/frames/
 renders/river_flow/diagnostic.png
+renders/fluid_river/frames/
+renders/fluid_river/diagnostic.png
+assets/fluid_river/meshes/

@@ -1,0 +1,19 @@
+{
+  "method": "Actual 3D position-based fluid mesh sequence, geometry and PBR lighting",
+  "real_3D_liquid_geometry": true,
+  "water_images_or_footage": false,
+  "resolution": [
+    960,
+    540
+  ],
+  "frames": 48,
+  "fps": 24,
+  "duration_seconds": 2.0,
+  "cycles_samples": 16,
+  "audio": false,
+  "seamless_loop": false,
+  "standalone_physics_test": true,
+  "integrated_into_approved_scene": false,
+  "elapsed_seconds": 506.27030138100054,
+  "preview_sha256": "ec068b8146d0c7fa3abfa4760a96e08151e25524d7bf6b9182d7fab8638bf75f"
+}

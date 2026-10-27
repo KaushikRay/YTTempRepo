@@ -1,3 +1,6 @@
 bpy==4.5.3
 numpy==1.26.4
 Pillow>=10
+taichi==1.7.4
+scipy==1.14.1
+scikit-image==0.24.0

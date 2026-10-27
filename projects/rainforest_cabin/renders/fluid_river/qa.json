@@ -1,0 +1,48 @@
+{
+  "distinct_simulated_geometry_frames": 48,
+  "distinct_decoded_video_frames": 48,
+  "solid_contact_checks": [
+    {
+      "frame": 1,
+      "particles": 51286,
+      "maximum_bed_penetration_m": 0.0,
+      "minimum_normalized_rock_distance": 0.999999323895829,
+      "mean_downstream_velocity_m_s": 0.6079889535903931
+    },
+    {
+      "frame": 24,
+      "particles": 51286,
+      "maximum_bed_penetration_m": 0.0,
+      "minimum_normalized_rock_distance": 0.999999424373187,
+      "mean_downstream_velocity_m_s": 0.6081396341323853
+    },
+    {
+      "frame": 48,
+      "particles": 51286,
+      "maximum_bed_penetration_m": 0.0,
+      "minimum_normalized_rock_distance": 0.999999330504838,
+      "mean_downstream_velocity_m_s": 0.6118838787078857
+    }
+  ],
+  "resolution": [
+    960,
+    540
+  ],
+  "fps": 24,
+  "frames": 48,
+  "duration_seconds": 2,
+  "decoded_cleanly": true,
+  "cache_archives_verified": true,
+  "water_motion_from_images_or_footage": false,
+  "no_frame_interpolation": true,
+  "standalone_physics_study": true,
+  "integrated_into_approved_cabin_scene": false,
+  "photorealism_approved": false,
+  "limits": [
+    "coarse particle/mesh resolution remains visible",
+    "test rocks and channel are not the final photographed creek geometry",
+    "foam is empirical, not a two-phase air/water simulation",
+    "not a seamless loop"
+  ],
+  "preview_sha256": "ec068b8146d0c7fa3abfa4760a96e08151e25524d7bf6b9182d7fab8638bf75f"
+}

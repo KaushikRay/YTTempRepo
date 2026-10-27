@@ -1,0 +1,10 @@
+{
+  "installed_bpy_version": "4.5.3",
+  "native_blender_version": "4.3.2",
+  "installed_mantaflow_probe": "failed initialization: missing Manta grid methods in bpy; fatal Python initialization in native executable",
+  "official_binary_download": "primary and three mirror hosts unreachable, proxy 403",
+  "alternative_framework": "Taichi 1.7.4 CPU",
+  "alternative_solver": "original 3D position-based fluid implementation",
+  "restored_environment": true,
+  "water_image_or_stock_footage_motion": false
+}

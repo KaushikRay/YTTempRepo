@@ -1,0 +1,32 @@
+{
+  "relocated_cache_playback_success": true,
+  "raw_npz_files_required": false,
+  "foam_derived_geometry_loaded": true,
+  "water_material_image_textures": 0,
+  "timeline_samples": [
+    {
+      "frame": 1,
+      "vertices": 124643,
+      "triangles": 249170,
+      "foam_geometry_points": 2090
+    },
+    {
+      "frame": 24,
+      "vertices": 126512,
+      "triangles": 253024,
+      "foam_geometry_points": 2084
+    },
+    {
+      "frame": 48,
+      "vertices": 125199,
+      "triangles": 250370,
+      "foam_geometry_points": 2040
+    }
+  ],
+  "external_textures_resolved": [
+    "assets/realism/river_small_rocks/Diffuse.jpg",
+    "assets/realism/rainforest_trail/rainforest_trail.hdr",
+    "assets/realism/river_small_rocks/Rough.jpg"
+  ],
+  "approved_scene_modified": false
+}

@@ -155,6 +155,26 @@
     "sha256": "dfe1ac4a428d21f7c134411500177d66b8dd800c8fec6f0040c50f44414a777b"
   },
   {
+    "path": "assets/fluid_river/CREDITS.txt",
+    "bytes": 946,
+    "sha256": "efcad44b3579dcc20618fc69e776065733add3946ce7f66fb3578da00ceb0b8f"
+  },
+  {
+    "path": "assets/fluid_river/cache_manifest.json",
+    "bytes": 18900,
+    "sha256": "d919834652382522d814f37087c465a811f3e0ba91d8a62d745b8fa2f09d84b8"
+  },
+  {
+    "path": "assets/fluid_river/fluid_cache_01.zip",
+    "bytes": 51621896,
+    "sha256": "2a206e32198024eda9935fb5aea238eeb3b73152935fba8de7457dfad4fa966f"
+  },
+  {
+    "path": "assets/fluid_river/fluid_cache_02.zip",
+    "bytes": 51973722,
+    "sha256": "6df2f758ceb889ca8090ffd595ed3efb8be33697ce14277a0d99a04d3ada4ec6"
+  },
+  {
     "path": "assets/forest_ground_04/Diffuse.jpg",
     "bytes": 4529321,
     "sha256": "24b8aaf4c8547305d80b0e029ec365219ab1b90748d4ca5651bdc9e75bfde5e6"

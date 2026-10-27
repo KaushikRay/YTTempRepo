@@ -1,0 +1,15 @@
+Original simulated water geometry, generated for this project by the supplied
+3D position-based particle-fluid solver running on Taichi 1.7.4 CPU.
+Algorithm reference: Macklin and Mueller, Position Based Fluids, SIGGRAPH 2013.
+Taichi framework: https://github.com/taichi-dev/taichi (Apache-2.0 software).
+
+Water motion contains no stock footage, generated video, moving photograph,
+or animated image UV field. The foam is an empirical simulation-derived field.
+The two ZIP files retain the 48 native geometry frames for the delivered proof.
+
+Static study lighting and rock materials/scans are existing CC0 Poly Haven assets:
+rainforest_trail, river_small_rocks, and rock_moss_set_01. Their source/author
+metadata is retained in this project's earlier asset manifests and credits.
+
+This is a standalone physical-method test. It is not integrated into the approved
+cabin scene, not a seamless loop, and not claimed to meet final photoreal quality.
