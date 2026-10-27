@@ -1,0 +1,297 @@
+{
+  "clips": [
+    {
+      "file": "preview.mp4",
+      "frames": 144,
+      "duration_seconds": 6,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "decoded_cleanly": true,
+      "sha256": "4f774797a4349198b48d22577be2d2da4c397c43a8275ca4a1da0c6ce1dd2b99"
+    },
+    {
+      "file": "water_detail.mp4",
+      "frames": 144,
+      "duration_seconds": 6,
+      "resolution": [
+        720,
+        300
+      ],
+      "decoded_cleanly": true,
+      "sha256": "8808f6b34a6f763bd0f663657c60d046814e90b0bcad4a45b7543e094b7d7a1b"
+    },
+    {
+      "file": "water_comparison.mp4",
+      "frames": 144,
+      "duration_seconds": 6,
+      "resolution": [
+        1440,
+        300
+      ],
+      "decoded_cleanly": true,
+      "sha256": "51053c3889d07442b820d254c485c60d556fd6b5fa213aab63a846d614a2a544"
+    }
+  ],
+  "approved_palm_data_identical": true,
+  "outside_border_pixels": [
+    {
+      "frame": 1,
+      "changed_pixels_outside_border": 0
+    },
+    {
+      "frame": 37,
+      "changed_pixels_outside_border": 0
+    },
+    {
+      "frame": 73,
+      "changed_pixels_outside_border": 0
+    },
+    {
+      "frame": 109,
+      "changed_pixels_outside_border": 0
+    },
+    {
+      "frame": 144,
+      "changed_pixels_outside_border": 0
+    }
+  ],
+  "motion_tracking_interval_frames": 3,
+  "falls_downstream_tracking": [
+    {
+      "frames": [
+        1,
+        4
+      ],
+      "correlation": 0.80475,
+      "dx_pixels": 1,
+      "dy_pixels": 3
+    },
+    {
+      "frames": [
+        4,
+        7
+      ],
+      "correlation": 0.73966,
+      "dx_pixels": 2,
+      "dy_pixels": 4
+    },
+    {
+      "frames": [
+        7,
+        10
+      ],
+      "correlation": 0.7512,
+      "dx_pixels": 0,
+      "dy_pixels": 1
+    },
+    {
+      "frames": [
+        10,
+        13
+      ],
+      "correlation": 0.8095,
+      "dx_pixels": 1,
+      "dy_pixels": 5
+    },
+    {
+      "frames": [
+        49,
+        52
+      ],
+      "correlation": 0.74556,
+      "dx_pixels": 0,
+      "dy_pixels": 1
+    },
+    {
+      "frames": [
+        52,
+        55
+      ],
+      "correlation": 0.77227,
+      "dx_pixels": 0,
+      "dy_pixels": 1
+    },
+    {
+      "frames": [
+        97,
+        100
+      ],
+      "correlation": 0.77819,
+      "dx_pixels": 2,
+      "dy_pixels": 6
+    },
+    {
+      "frames": [
+        100,
+        103
+      ],
+      "correlation": 0.8699,
+      "dx_pixels": 1,
+      "dy_pixels": 3
+    }
+  ],
+  "foreground_pool_tracking": [
+    {
+      "frames": [
+        1,
+        4
+      ],
+      "correlation": 0.63067,
+      "dx_pixels": 6,
+      "dy_pixels": 3
+    },
+    {
+      "frames": [
+        4,
+        7
+      ],
+      "correlation": 0.81593,
+      "dx_pixels": 6,
+      "dy_pixels": 2
+    },
+    {
+      "frames": [
+        7,
+        10
+      ],
+      "correlation": 0.90284,
+      "dx_pixels": 6,
+      "dy_pixels": 2
+    },
+    {
+      "frames": [
+        10,
+        13
+      ],
+      "correlation": 0.90279,
+      "dx_pixels": 5,
+      "dy_pixels": 2
+    },
+    {
+      "frames": [
+        49,
+        52
+      ],
+      "correlation": 0.87175,
+      "dx_pixels": 6,
+      "dy_pixels": 3
+    },
+    {
+      "frames": [
+        52,
+        55
+      ],
+      "correlation": 0.96114,
+      "dx_pixels": 5,
+      "dy_pixels": 2
+    },
+    {
+      "frames": [
+        97,
+        100
+      ],
+      "correlation": 0.86343,
+      "dx_pixels": 6,
+      "dy_pixels": 3
+    },
+    {
+      "frames": [
+        100,
+        103
+      ],
+      "correlation": 0.57698,
+      "dx_pixels": -3,
+      "dy_pixels": -2
+    }
+  ],
+  "previous_pool_tracking": [
+    {
+      "frames": [
+        1,
+        4
+      ],
+      "correlation": 0.95079,
+      "dx_pixels": 0,
+      "dy_pixels": 0
+    },
+    {
+      "frames": [
+        4,
+        7
+      ],
+      "correlation": 0.94273,
+      "dx_pixels": 0,
+      "dy_pixels": 0
+    },
+    {
+      "frames": [
+        7,
+        10
+      ],
+      "correlation": 0.93093,
+      "dx_pixels": 0,
+      "dy_pixels": 0
+    },
+    {
+      "frames": [
+        10,
+        13
+      ],
+      "correlation": 0.93475,
+      "dx_pixels": 0,
+      "dy_pixels": 0
+    },
+    {
+      "frames": [
+        49,
+        52
+      ],
+      "correlation": 0.93717,
+      "dx_pixels": 0,
+      "dy_pixels": 0
+    },
+    {
+      "frames": [
+        52,
+        55
+      ],
+      "correlation": 0.95687,
+      "dx_pixels": 0,
+      "dy_pixels": 0
+    },
+    {
+      "frames": [
+        97,
+        100
+      ],
+      "correlation": 0.93282,
+      "dx_pixels": 0,
+      "dy_pixels": 0
+    },
+    {
+      "frames": [
+        100,
+        103
+      ],
+      "correlation": 0.96573,
+      "dx_pixels": 0,
+      "dy_pixels": 0
+    }
+  ],
+  "median_flow_per_three_frames": {
+    "falls_down_pixels": 3.0,
+    "pool_right_pixels": 6.0,
+    "pool_down_pixels": 2.0
+  },
+  "scope": "Rendered-pixel template matching proves local travel in selected regions, not fluid accuracy or perceptual realism.",
+  "manual_review_needed": [
+    "rock contacts",
+    "phase-crossfade ghosting",
+    "static bank highlights",
+    "repeating transported texture"
+  ],
+  "audio": false,
+  "seamless_loop": false
+}

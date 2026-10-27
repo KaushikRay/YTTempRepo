@@ -1,10 +1,13 @@
 {
   "opens_from_unrelated_directory": true,
-  "required_external_files": 0,
+  "required_external_files": 1,
   "packed_images": [
     "clean_background.png",
     "foreground_palms.png"
   ],
-  "relative_output": "//renders/hybrid_motion/still.png",
+  "external_movie_paths": [
+    "//assets/river_flow/real_rapids.mp4"
+  ],
+  "relative_output": "//renders/river_flow/still.png",
   "source_assets_retained_separately_for_editing": true
 }

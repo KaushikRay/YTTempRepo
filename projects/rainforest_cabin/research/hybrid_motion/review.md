@@ -1,5 +1,10 @@
 # Photographic-style layered motion test
 
+Historical first motion iteration: the user approved its palms and rejected its
+river. The current scene file has been updated; see [the river flow revision](../river_flow/review.md).
+The videos below are retained to compare against that revision. The current
+scene also requires the relative CC0 movie described in the river notes.
+
 This is the next step after the user preferred the photographic hybrid still.
 It is a six-second locked-camera, silent 1920×1080 / 24 fps motion diagnostic.
 The source images are generated assets, not camera photographs. No video-model

@@ -67,7 +67,9 @@ def main():
         subprocess.run(['ffmpeg','-y','-v','error','-i',str(movie),'-vf','crop='+crop,'-c:v','libx264','-crf','16','-pix_fmt','yuv420p','-movflags','+faststart','-an',str(OUT/(name+'.mp4'))],check=True)
     import shutil
     shutil.copyfile(FRAMES/'0001.png',OUT/'still.png')
-    qa={'decoded_cleanly':True,'resolution':[1920,1080],'fps':24,'frames':144,'duration_seconds':6,'distinct_decoded_pixel_frames':len(set(hashes)),'native_frames_not_interpolated':True,'cycles_samples':24,'audio':False,'seamless_loop':False,'generated_layered_background':True,'rendered_motion':['deforming foreground palm layer','masked water UV advection','independently recycling optical rain geometry','falling eave runoff','expanding stream impact rings'],'static_elements':s['static_elements'],'elapsed_seconds':round(time.monotonic()-start,2),'preview_sha256':hashlib.sha256(movie.read_bytes()).hexdigest()}
+    movements=['deforming foreground palm layer',s.get('river_method','masked water UV advection'),'independently recycling optical rain geometry','falling eave runoff']
+    if any(o.name.startswith('Short stream impact ') for o in s.objects):movements.append('expanding stream impact rings')
+    qa={'decoded_cleanly':True,'resolution':[1920,1080],'fps':24,'frames':144,'duration_seconds':6,'distinct_decoded_pixel_frames':len(set(hashes)),'native_frames_not_interpolated':True,'cycles_samples':24,'audio':False,'seamless_loop':False,'generated_layered_background':True,'rendered_motion':movements,'static_elements':s['static_elements'],'elapsed_seconds':round(time.monotonic()-start,2),'preview_sha256':hashlib.sha256(movie.read_bytes()).hexdigest()}
     (OUT/'qa.json').write_text(json.dumps(qa,indent=2))
     update('complete',completed_frames=144,total_frames=144,output='renders/hybrid_motion/preview.mp4',elapsed_seconds=qa['elapsed_seconds'])
     print('HYBRID MOTION PREVIEW COMPLETE',flush=True)

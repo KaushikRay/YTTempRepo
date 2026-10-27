@@ -1,0 +1,26 @@
+{
+  "frames": 144,
+  "duration_seconds": 6,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "cycles_samples": 24,
+  "audio": false,
+  "seamless_loop": false,
+  "flow_method": "Directional photographic water advection at 38 px/s falls and 42 px/s pools, modulated by real CC0 whitewater footage through feathered/luminance masks",
+  "approved_palm_data_identical": true,
+  "cached_approved_outside_pixels_used": true,
+  "rerendered_border_pixels": [
+    720,
+    680,
+    1040,
+    400
+  ],
+  "source_footage": "assets/river_flow/source.json",
+  "source_video_audio_used": false,
+  "no_frame_interpolation": true,
+  "elapsed_seconds": 481.79,
+  "preview_sha256": "4f774797a4349198b48d22577be2d2da4c397c43a8275ca4a1da0c6ce1dd2b99"
+}

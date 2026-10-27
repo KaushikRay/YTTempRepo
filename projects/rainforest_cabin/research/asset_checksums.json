@@ -695,6 +695,21 @@
     "sha256": "6f92eae1fa0286ab2efa7a9ac39966fc7ae8ca71e27fdb01260c07bf9055656f"
   },
   {
+    "path": "assets/river_flow/CREDITS.txt",
+    "bytes": 915,
+    "sha256": "18b3361d95b2b028e67cd4c30061a26f640cab4a4dc3dc7cf8efe804f583549e"
+  },
+  {
+    "path": "assets/river_flow/real_rapids.mp4",
+    "bytes": 18303700,
+    "sha256": "c0aae6e97c890b9cd8a685f35917dd5b7bac61bdd0db23b4d1c4d9250d4db891"
+  },
+  {
+    "path": "assets/river_flow/source.json",
+    "bytes": 2935,
+    "sha256": "735d86d8a3d417f7ac821ee8090e0b0c7c8c3ac8864bb0ea682aa8fb8f501a5c"
+  },
+  {
     "path": "assets/rock_moss_set_01.blend",
     "bytes": 3925827,
     "sha256": "0bf926efc30324a37320b4485adc5727737d55a2b74aa754861ae26ed2a6c9b2"

@@ -1,5 +1,5 @@
 {
-  "method": "Generated layered matte, camera-plane deforming palms, masked animated water UV, native 3D optical rain and runoff",
+  "method": "Generated static forest/cabin, approved deforming palms, directional photographic river transport modulated by real CC0 rapids footage, native optical rain/runoff",
   "generated_layers": true,
   "fully_modeled_scene": false,
   "camera_locked": true,
@@ -13,10 +13,12 @@
   "samples": 24,
   "rain_streaks": 6750,
   "runoff_beads": 42,
-  "water_patches": 7,
-  "impact_rings": 36,
+  "water_patches": 10,
+  "impact_rings": 0,
   "foliage_grid_vertices": 10201,
   "static_elements": "Cabin, distant forest, rocks and most understory; source textures contain some residual static water highlights",
   "seamless_loop": false,
-  "audio": false
+  "audio": false,
+  "river_method": "Directional photographic water advection at 38 px/s falls and 42 px/s pools, modulated by real CC0 whitewater footage through feathered/luminance masks",
+  "external_movie": "assets/river_flow/real_rapids.mp4"
 }

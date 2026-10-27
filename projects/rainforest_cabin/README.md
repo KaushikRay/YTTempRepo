@@ -3,7 +3,25 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## New layered motion preview — ready to review
+## River flow revision
+
+The palms are retained as approved. The revised river replaces the weak wobble
+with directional photographic texture transport, modulated by real CC0 rapids
+footage. Water travels down the cascades and toward the bottom right through the
+foreground pool. Fixed banks and rocks frame ten feathered water footprints.
+
+[Revised full scene](renders/river_flow/preview.mp4)
+· [Revised river close-up](renders/river_flow/water_detail.mp4)
+· [Previous/revised motion comparison](renders/river_flow/water_comparison.mp4)
+· [Method, sources and remaining limits](research/river_flow/review.md)
+
+The current `rainforest_hybrid_motion.blend` uses two packed images plus the
+relative `assets/river_flow/real_rapids.mp4` movie. Download that asset alongside
+the scene. The clip is a silent six-second, 1080p/24 fps motion test, not yet a
+seamless long video or a fluid simulation. See the river QA report for actual
+rendered-pixel motion tracking and checks preserving the approved outside image.
+
+## Previous layered motion preview
 
 ![First native frame of the layered motion scene](renders/hybrid_motion/still.png)
 
@@ -20,7 +38,7 @@ and not yet a seamless loop; the water is localized image-based animation.
 · [Water detail crop](renders/hybrid_motion/water_detail.mp4)
 
 [Method, rebuild and limits](research/hybrid_motion/review.md)
-· Source: `rainforest_hybrid_motion.blend` (both images packed, no external assets)
+· The source scene has since been updated for the river revision above.
 
 ## Previous still refinement — two clearly labelled variants
 

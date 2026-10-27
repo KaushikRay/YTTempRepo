@@ -1,0 +1,91 @@
+{
+  "title": "File:Rapids and Falls of the Youghiogheny at Ohiopyle.webm",
+  "creator": "Cbaile19",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Rapids_and_Falls_of_the_Youghiogheny_at_Ohiopyle.webm",
+  "licence": "CC0 1.0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider_metadata": {
+    "DateTime": {
+      "value": "2025-05-30 23:25:42",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Rapids and Falls of the Youghiogheny at Ohiopyle",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "CC-Zero|Self-published work|Ohiopyle Falls",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Views of the rapids and falls at Ohiopyle",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2025-05-27",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cbaile19\" title=\"User:Cbaile19\">Cbaile19</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Zero, Public Domain Dedication",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/Rapids_and_Falls_of_the_Youghiogheny_at_Ohiopyle.webm/Rapids_and_Falls_of_the_Youghiogheny_at_Ohiopyle.webm.1080p.vp9.webm",
+  "download_sha256": "0a703a7efb9a59d87a2f597b1d4bf1d1597a6c17618fc59c1fb93565c5900dec",
+  "source_interval_seconds": [
+    70,
+    78
+  ],
+  "prepared_file": "assets/river_flow/real_rapids.mp4",
+  "prepared_sha256": "c0aae6e97c890b9cd8a685f35917dd5b7bac61bdd0db23b4d1c4d9250d4db891",
+  "processing": "Trim to 8 s, 24 fps frame selection, silent H.264 CRF14; no frame interpolation. Blender projects selected water-only crops onto the creek."
+}

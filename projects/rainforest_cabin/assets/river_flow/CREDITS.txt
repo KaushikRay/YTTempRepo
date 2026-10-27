@@ -1,0 +1,16 @@
+Real whitewater footage used as the dynamic turbulence source in Blender.
+
+Rapids and Falls of the Youghiogheny at Ohiopyle
+Creator: Cbaile19
+Source: https://commons.wikimedia.org/wiki/File:Rapids_and_Falls_of_the_Youghiogheny_at_Ohiopyle.webm
+Licence: CC0 1.0 Universal Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Prepared asset: real_rapids.mp4, source interval 70–78 s, silent, 24 fps frame
+selection, H.264 CRF14. No synthetic frame interpolation. Source attribution is
+retained voluntarily; provider licence metadata and checksums are in source.json.
+
+Blender uses selected water-only footage regions to modulate moving photographic
+water textures. It does not composite an unmodified rectangular video over the
+scene. Banks and rocks remain from the generated scene plate. This method is not
+a liquid fluid simulation or a camera photograph of the complete fictional scene.

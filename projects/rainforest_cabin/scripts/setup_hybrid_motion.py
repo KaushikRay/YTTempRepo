@@ -212,10 +212,16 @@ def main():
     s['static_elements']='Cabin, distant forest, rocks and most understory; source textures contain some residual static water highlights'
     text=bpy.data.texts.new('METHOD_AND_LIMITS');text.write(s['render_method']+'\n'+s['static_elements']+'\n6-second silent motion diagnostic, not a final long ambience video.\n')
     s.render.filepath='//renders/hybrid_motion/still.png';s.frame_set(1)
+    revised_river=None
+    if (ROOT/'assets/river_flow/real_rapids.mp4').exists():
+        from river_flow import install_river
+        revised_river=install_river(ROOT)
+        s.render.filepath='//renders/river_flow/still.png'
     for im in bpy.data.images:
         if im.source=='FILE' and im.filepath:im.filepath=bpy.path.relpath(im.filepath,start=str(ROOT))
     bpy.ops.wm.save_as_mainfile(filepath=str(ROOT/'rainforest_hybrid_motion.blend'),compress=True)
     report={'method':s['render_method'],'generated_layers':True,'fully_modeled_scene':False,'camera_locked':True,'resolution':[s.render.resolution_x,s.render.resolution_y],'fps':24,'frames':144,'duration_seconds':6,'samples':s.cycles.samples,'rain_streaks':6750,'runoff_beads':42,'water_patches':len(water_polygons),'impact_rings':36,'foliage_grid_vertices':len(verts),'static_elements':s['static_elements'],'seamless_loop':False,'audio':False}
+    if revised_river:report.update(water_patches=len(revised_river['patches']),impact_rings=0,river_method=s['river_method'],external_movie='assets/river_flow/real_rapids.mp4')
     (ROOT/'research/hybrid_motion/setup.json').write_text(json.dumps(report,indent=2))
     print(json.dumps(report,indent=2),flush=True)
     if os.environ.get('DIAGNOSTIC'):
