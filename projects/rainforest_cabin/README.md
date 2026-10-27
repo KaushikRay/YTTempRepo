@@ -3,15 +3,22 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## Current foliage study
+## Current clear-view still and motion test
 
-![Photograph-led foliage correction](renders/foliage_still.png)
+![Clear central cabin view](renders/clear_view_still.png)
 
-1920×1080, up to 128 Cycles samples with adaptive sampling. This is a foliage
-correction study, not an approved final photograph-quality scene. The first still
-is retained in `renders/first_still.png`. Current artifact checks are in
-`renders/qa_foliage.json`; the relocation check is `research/portability.json`.
-No animation is rendered yet.
+1920×1080, up to 128 Cycles samples with adaptive sampling. The isolated central
+palm and five bare trunks are relocated into the side forest. The camera and
+porch framing remain fixed. Earlier stills remain in `renders/first_still.png`
+and `renders/foliage_still.png`.
+
+[Watch the four-second motion test](renders/motion/preview.mp4)
+· [Placement, motion details and checks](research/tree-and-motion.md)
+
+The motion test is silent, 640×360, native 24 fps / 96 frames. It checks falling
+rain, gentle leaf sway/flex, creek movement, expanding ripples and eave runoff.
+It is a preview, not final YouTube quality or a seamless loop. Current artifact
+checks are `renders/qa_clear_view.json` and `renders/motion/qa.json`.
 
 [Real-photograph reference board](research/forest_photographs/reference_board.jpg)
 · [Photograph credits and licences](research/forest_photographs/CREDITS.md)
@@ -64,11 +71,15 @@ From this project directory:
 python scripts/prepare_assets.py
 python scripts/build_asset_library.py
 python scripts/render_supervised.py
+python scripts/setup_motion.py
+python scripts/check_motion_rig.py
+python scripts/render_motion.py
+python scripts/check_motion_visual.py
 python scripts/check_delivery.py
 python scripts/check_portability.py
 ```
 
-The supervisor defaults to `renders/foliage_still.png`, a 1920×1080, up-to-128-sample Cycles CPU still. For a quick
+The supervisor defaults to `renders/clear_view_still.png`, a 1920×1080, up-to-128-sample Cycles CPU still. For a quick
 composition diagnostic, use `WIDTH=640 SAMPLES=24 OUTPUT=composition.png` before
 the supervisor command. It writes `status.json` and `logs/render.log`. All output
 is under this project. The final scene is `rainforest_cabin.blend`; download this
@@ -91,8 +102,9 @@ turbulence. More samples cannot solve those geometry/material issues.
 Rain streak geometry has independent recycling drivers. It is an optical exposure
 approximation, not a fluid or droplet-collision simulation. Eave strands and ripple
 rings in this still are static. Stream flow, splash timing, wind, rain wrap visibility
-and temporal denoising require the next moving test. There is no rendered video or
-audio for this new scene yet. Do not describe this still as finished ultra realism.
+and temporal denoising require review in the short moving test. The first silent
+motion diagnostic is supplied; no soundtrack or long video has been produced.
+Do not describe this study as finished ultra realism.
 
 Next review priorities: camera/framing and night mood first, then irregularity of
 the timber/roof, foreground palm realism, stream detail and visible rainfall.

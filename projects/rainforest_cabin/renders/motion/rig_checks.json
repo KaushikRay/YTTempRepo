@@ -1,0 +1,37 @@
+{
+  "checks": [
+    {
+      "frame": 1,
+      "maximum_attachment_drift_m": 0,
+      "maximum_wave_delta_from_frame_one_m": 0.0,
+      "hero_frond_flex_value": 0.0
+    },
+    {
+      "frame": 24,
+      "maximum_attachment_drift_m": 0,
+      "maximum_wave_delta_from_frame_one_m": 0.01668393611907959,
+      "hero_frond_flex_value": -0.12050458043813705
+    },
+    {
+      "frame": 48,
+      "maximum_attachment_drift_m": 0,
+      "maximum_wave_delta_from_frame_one_m": 0.005959987640380859,
+      "hero_frond_flex_value": 0.6899770498275757
+    },
+    {
+      "frame": 72,
+      "maximum_attachment_drift_m": 0,
+      "maximum_wave_delta_from_frame_one_m": 0.020107388496398926,
+      "hero_frond_flex_value": 1.2791366577148438
+    },
+    {
+      "frame": 96,
+      "maximum_attachment_drift_m": 0,
+      "maximum_wave_delta_from_frame_one_m": 0.012774825096130371,
+      "hero_frond_flex_value": 0.19651482999324799
+    }
+  ],
+  "missing_libraries": [],
+  "clear_central_tree_sightline": true,
+  "frond_attachment_points_fixed": true
+}

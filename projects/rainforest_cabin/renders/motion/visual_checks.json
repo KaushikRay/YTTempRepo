@@ -1,0 +1,16 @@
+{
+  "frames_checked": 96,
+  "global_mean_luma_code_range": [
+    45.03696881597222,
+    45.1674100078125
+  ],
+  "maximum_adjacent_global_mean_luma_jump_codes": 0.057051144965285516,
+  "static_roof_mean_luma_code_range": [
+    53.07319831578947,
+    53.87487770334928
+  ],
+  "large_brightness_jumps_detected": false,
+  "detail_flicker_ruled_out": false,
+  "rain_detail_limited_at_preview_resolution": true,
+  "full_size_material_reference": "renders/clear_view_still.png"
+}
