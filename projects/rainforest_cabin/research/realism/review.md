@@ -1,5 +1,9 @@
 # Heavy refinement and two explicitly labelled Blender variants
 
+This document records the still-render stage. The subsequent layered motion work
+is documented in [the motion review](../hybrid_motion/review.md); it uses its own
+`rainforest_hybrid_motion.blend` and does not replace either still source scene.
+
 ## Modeled scene
 
 `rainforest_cabin.blend` and `renders/realism_still.png` contain the substantial

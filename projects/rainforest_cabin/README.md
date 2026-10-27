@@ -3,18 +3,21 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## Current heavy refinement — two clearly labelled variants
-
-## New layered motion scene — rendering in progress
+## New layered motion preview — ready to review
 
 ![First native frame of the layered motion scene](renders/hybrid_motion/still.png)
 
 The photographic hybrid is now prepared as a layered Blender animation. The
 foreground palms flex separately from a clean background, seven stream patches
 move locally, rain recycles continuously, and eave beads/stream impacts animate.
-The six-second 1080p / 24 fps clip is rendering; this first frame is available
-before the completed video. Detailed architecture and distant forest remain a
-generated static matte. This is a locked-camera 2.5D scene, not fully modeled.
+The six-second 1080p / 24 fps clip is complete: 144 native Cycles frames, with no
+frame interpolation. Detailed architecture and distant forest remain a generated
+static matte. This is a locked-camera 2.5D scene, not fully modeled. It is silent
+and not yet a seamless loop; the water is localized image-based animation.
+
+[Watch the new full-frame motion preview](renders/hybrid_motion/preview.mp4)
+· [Palm detail crop](renders/hybrid_motion/palms_detail.mp4)
+· [Water detail crop](renders/hybrid_motion/water_detail.mp4)
 
 [Method, rebuild and limits](research/hybrid_motion/review.md)
 · Source: `rainforest_hybrid_motion.blend` (both images packed, no external assets)

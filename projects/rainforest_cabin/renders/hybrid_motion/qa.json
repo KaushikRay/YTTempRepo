@@ -1,0 +1,26 @@
+{
+  "decoded_cleanly": true,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 144,
+  "duration_seconds": 6,
+  "distinct_decoded_pixel_frames": 144,
+  "native_frames_not_interpolated": true,
+  "cycles_samples": 24,
+  "audio": false,
+  "seamless_loop": false,
+  "generated_layered_background": true,
+  "rendered_motion": [
+    "deforming foreground palm layer",
+    "masked water UV advection",
+    "independently recycling optical rain geometry",
+    "falling eave runoff",
+    "expanding stream impact rings"
+  ],
+  "static_elements": "Cabin, distant forest, rocks and most understory; source textures contain some residual static water highlights",
+  "elapsed_seconds": 823.67,
+  "preview_sha256": "efd27f094e5c83c217c69a54fc907d58045dba31bb6d69a1c3fbbd4f0a1178e3"
+}

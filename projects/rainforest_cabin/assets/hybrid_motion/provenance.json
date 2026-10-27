@@ -25,5 +25,11 @@
       "mode": "RGB",
       "sha256": "1d9c58fcf720cffab02948ba1e56203f462c7c710d29186c23690ff01625c489"
     }
-  ]
+  ],
+  "generated": true,
+  "camera_photograph": false,
+  "source_matte": "assets/hybrid/matte_plate.png",
+  "source_matte_sha256": "a126f4a8d6e7a4f9aaeca9a5de7faacc5d05e6362b6e6eddd5886283a7082dc9",
+  "layout": "locked camera; original widescreen positions retained approximately",
+  "animation_method": "Blender deformation/UV animation and optical rain geometry; no generated video or frame interpolation"
 }

@@ -1,0 +1,46 @@
+{
+  "decoded_all_three_clips": true,
+  "native_sample_frames": [
+    1,
+    37,
+    73,
+    109,
+    144
+  ],
+  "mean_absolute_RGB_change_8bit_codes": {
+    "sheltered_static_wall": [
+      0.36036,
+      0.28977,
+      0.2545,
+      0.27419
+    ],
+    "foreground_palms": [
+      7.22916,
+      0.28829,
+      12.12133,
+      1.15641
+    ],
+    "stream": [
+      3.41976,
+      3.53527,
+      3.66088,
+      3.7599
+    ]
+  },
+  "sample_frame_mean_RGB": [
+    50.78008270263672,
+    50.76495361328125,
+    50.77035140991211,
+    50.79453659057617,
+    50.77987289428711
+  ],
+  "maximum_sample_mean_change": 0.029582977294921875,
+  "does_not_prove_visual_realism": true,
+  "manual_review_needed": [
+    "leaf edges while moving",
+    "frozen source water highlights",
+    "masked-flow coverage",
+    "rain legibility at normal playback"
+  ],
+  "reference_comparison": "Approved generated still/composition in chat; original supplied reference unavailable as local file, no pixel-aligned comparison claimed"
+}
