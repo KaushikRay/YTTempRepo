@@ -67,11 +67,13 @@ for i,(ang,lng,rise,droop) in enumerate([(2.6,3.1,.9,1.6),(2.05,3.5,1.0,1.8),(3.
 frond('Large foreground arching palm',(6.4,-.5,1.2),2.15,4.5,3.0,1.2)
 frond('Low foreground palm',(6.0,-.5,1.2),2.8,3.0,1.3,1.4)
 for i,ang in enumerate([3.5,3.85,4.1,4.45]):frond('Overhead palm '+str(i),(5.5,4,6.5),ang,4.3,.25,1.7)
-for i,(x,y) in enumerate([(-5,8),(9,10),(-6,16),(10,20),(-2,22)]):
+for i,(x,y) in enumerate([(-5,8),(9,10),(-6,16),(10,20),(-8,22)]):
     z=terrain_z(x,y);organic_trunk('Round tapered palm trunk',x,y,z,6.5-z,.13,100+i)
     rng=random.Random(540+i)
     for j in range(8):
         frond('Midground palm '+str(i)+' '+str(j),(x,y,6.5),j*2*pi/8+rng.uniform(-.24,.24),rng.uniform(2.2,3.4),rng.uniform(.4,1.0),rng.uniform(1.0,2.1))
+(ROOT/'research'/'palm_relocation.json').write_text(json.dumps({'palm':'Midground palm 4','old_base_xy':[-2,22],'new_base_xy':[-8,22],
+    'reason':'Move the isolated bright palm out of the central opening, with its trunk and all eight fronds.'},indent=2))
 
 # The earlier cylinders had no useful bark UVs and read as blue plastic poles.
 for ob in list(bpy.data.objects):

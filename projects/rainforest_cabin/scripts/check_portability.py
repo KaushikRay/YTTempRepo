@@ -20,7 +20,7 @@ with tempfile.TemporaryDirectory(prefix='rainforest-portability-',dir='/tmp') as
             path=Path(bpy.path.abspath(image.filepath,library=image.library))
             assert path.is_relative_to(dest) and path.is_file(),path
             images+=1
-    output=bpy.context.scene.render.filepath;assert output=='//renders/foliage_still.png',output
+    output=bpy.context.scene.render.filepath;assert output=='//renders/clear_view_still.png',output
     result={'relocated_libraries':checked,'relocated_external_images':images,'render_output_relative':True,'original_root_required':False}
     (root/'research'/'portability.json').write_text(json.dumps(result,indent=2));print(json.dumps(result),flush=True)
 os._exit(0)

@@ -1,0 +1,106 @@
+{
+  "resolution": [
+    1920,
+    1080
+  ],
+  "cycles_samples": 128,
+  "missing_files": [],
+  "libraries": [
+    "assets/anthurium_botany_01.blend",
+    "assets/calathea_orbifolia_01.blend",
+    "assets/fern_02.blend",
+    "assets/island_tree_02.blend",
+    "assets/pachira_aquatica_01.blend",
+    "assets/rock_moss_set_01.blend",
+    "assets/shrub_04.blend"
+  ],
+  "rain_streak_count": 9107,
+  "rain_driver_spot_checks": [
+    {
+      "frame": 1,
+      "streaks_above_12m": 2390
+    },
+    {
+      "frame": 240,
+      "streaks_above_12m": 2392
+    },
+    {
+      "frame": 1440,
+      "streaks_above_12m": 2309
+    },
+    {
+      "frame": 14400,
+      "streaks_above_12m": 2435
+    }
+  ],
+  "render_sha256": "a29532c80a8bbc624896818708d57c8011ef07e327ebe560bc7f44cde8b152a1",
+  "blend_file_bytes": {
+    "rainforest_cabin.blend": 21997828,
+    "rainforest_motion.blend": 26356973,
+    "assets/anthurium_botany_01.blend": 26113059,
+    "assets/calathea_orbifolia_01.blend": 25316976,
+    "assets/fern_02.blend": 13495260,
+    "assets/island_tree_02.blend": 57288500,
+    "assets/pachira_aquatica_01.blend": 13265411,
+    "assets/rock_moss_set_01.blend": 3925827,
+    "assets/shrub_04.blend": 13912667
+  },
+  "still_only": true,
+  "rain_is_analytic_geometry_not_fluid_simulation": true,
+  "motion_rig_checked": true,
+  "photorealism_target_approved": false,
+  "user_reference_available_in_chat_only": true,
+  "output": "clear_view_still.png",
+  "verified_leaf_masks": [
+    {
+      "material": "anthurium_botany_01",
+      "mask": "Alpha.png.002",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "material": "calathea_orbifolia_01",
+      "mask": "Alpha.png.001",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "material": "fern_02",
+      "mask": "Alpha.png",
+      "resolution": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "material": "island_tree_02_leaves",
+      "mask": "leaves_alpha.png.001",
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "material": "pachira_aquatica_01_leaves",
+      "mask": "leaves_alpha.png",
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "material": "shrub_04",
+      "mask": "Alpha.png.003",
+      "resolution": [
+        4096,
+        4096
+      ]
+    }
+  ],
+  "curved_palm_fronds": 51,
+  "photograph_reference_count": 14
+}

@@ -4,11 +4,14 @@ import datetime, json, os, re, subprocess, sys, time
 
 root=Path(__file__).resolve().parents[1]
 (root/'logs').mkdir(exist_ok=True)
-env=os.environ.copy();env.setdefault('WIDTH','1920');env.setdefault('SAMPLES','128');env.setdefault('OUTPUT','foliage_still.png')
+env=os.environ.copy();env.setdefault('WIDTH','1920');env.setdefault('SAMPLES','128');env.setdefault('OUTPUT','clear_view_still.png')
 env.setdefault('OMP_NUM_THREADS','6')
 log=root/'logs'/'render.log';status=root/'status.json'
 with log.open('w') as out:
-    worker=subprocess.Popen([sys.executable,str(root/'scripts'/'build_scene.py')],cwd=root,env=env,stdout=out,stderr=subprocess.STDOUT)
+    # Failed bpy scripts can also stall during native shutdown. Report the
+    # traceback, then exit the worker directly after success OR Python failure.
+    launcher="import runpy,os,sys,traceback\ntry:\n runpy.run_path(sys.argv[1],run_name='__main__')\nexcept BaseException:\n traceback.print_exc();sys.stdout.flush();sys.stderr.flush();os._exit(1)\n"
+    worker=subprocess.Popen([sys.executable,'-u','-c',launcher,str(root/'scripts'/'build_scene.py')],cwd=root,env=env,stdout=out,stderr=subprocess.STDOUT)
     while worker.poll() is None:
         time.sleep(2)
         text=log.read_text(errors='replace')
