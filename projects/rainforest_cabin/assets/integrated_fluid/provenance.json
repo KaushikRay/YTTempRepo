@@ -1,0 +1,11 @@
+{
+  "generated": true,
+  "camera_photograph": false,
+  "generator": "OpenAI image generation",
+  "source_reference": "assets/hybrid_motion/clean_background.png",
+  "original_generation": "/workspace/generated_images/exec-7d02ddc0-6ad6-4e5b-8e4e-d973eacadf31.png",
+  "asset": "assets/integrated_fluid/clean_creek_bed.png",
+  "sha256": "63bbf677c4570326b1b560dc7d9f0408e31b29e234c66434c75bd315337185e3",
+  "purpose": "Static water-free bed and frozen-foam cleanup only; all new water surface motion comes from the 3D simulation",
+  "cabin_and_palm_background_used_for_final": "Original approved layers, not this generated image outside the creek cleanup footprint"
+}

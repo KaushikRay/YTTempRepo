@@ -1,0 +1,15 @@
+Water: original 3D particle-fluid simulation generated for this project with
+the supplied Taichi CPU position-based solver. Algorithm reference: Macklin
+and Mueller, Position Based Fluids (SIGGRAPH 2013). No stock water footage,
+generated water video or animated image UV is used for the river motion.
+
+Static generated assets: original approved cabin/forest/palm layers, plus a new
+water-free creek-bed cleanup texture. OpenAI image generation. These are not
+camera photographs; detailed provenance is retained in the project manifests.
+
+Static environment lighting: rainforest_trail HDRI, Poly Haven, CC0, with the
+original provider/author metadata retained in assets/realism and research.
+
+The small upstream water is a spatial instance of the same simulated geometry.
+This remains a photographic hybrid with estimated proxy bank/camera geometry,
+not a fully modeled forest, validated CFD model or completed long ambience video.

@@ -1,0 +1,40 @@
+{
+  "relocated_cached_playback": true,
+  "water_material_image_textures": 0,
+  "used_movie_images": 0,
+  "approved_palm_geometry_and_drivers_identical": true,
+  "palm_data_sha256": "0d9fd517e440e5e2c217f4a9d2b8573ddd9cda2b05794fbd2d12d5637b372e64",
+  "maximum_palm_screen_projection_error_normalized": 2.980232238769531e-07,
+  "upstream_is_shared_geometry_instance": true,
+  "timeline_samples": [
+    {
+      "frame": 1,
+      "water_vertices": 57573,
+      "foam_points": 345
+    },
+    {
+      "frame": 24,
+      "water_vertices": 58265,
+      "foam_points": 313
+    },
+    {
+      "frame": 48,
+      "water_vertices": 58541,
+      "foam_points": 332
+    },
+    {
+      "frame": 72,
+      "water_vertices": 59254,
+      "foam_points": 323
+    },
+    {
+      "frame": 96,
+      "water_vertices": 58793,
+      "foam_points": 316
+    }
+  ],
+  "external_images_resolved": [
+    "assets/realism/rainforest_trail/rainforest_trail.hdr"
+  ],
+  "photographic_background_retained": true
+}

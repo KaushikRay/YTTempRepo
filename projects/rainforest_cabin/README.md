@@ -3,7 +3,26 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## New 3D liquid-method study
+## Integrated 3D river — current preview
+
+[Watch the updated cabin scene](renders/integrated_fluid/preview.mp4)
+· [River close-up](renders/integrated_fluid/river_detail.mp4)
+· [Full-resolution still](renders/integrated_fluid/still.png)
+· [Changes, source and limitations](research/integrated_fluid/review.md)
+
+The approved 3D liquid method is now fitted into the cabin view. The river uses
+actual simulated geometry in a curved, varying-width channel, with updated rock
+collisions, a hidden upstream inlet, foam, refraction and storm-coloured lighting.
+The approved palms and rain retain their animation. The cabin/forest remain a
+generated photographic backdrop; this is a hybrid scene.
+
+The review clip is 1920×1080, native 24 fps / 96 frames, four seconds and silent.
+It is not yet a seamless long video. The source is
+`rainforest_integrated_fluid.blend` plus four relative geometry cache ZIP files
+under `assets/integrated_fluid`. The embedded playback script enables timeline
+mesh updates. No water footage or animated photograph supplies river motion.
+
+## Previous standalone 3D liquid-method study
 
 [Watch the fully 3D water test](renders/fluid_river/preview.mp4)
 · [Rendered still](renders/fluid_river/still.png)

@@ -1,0 +1,27 @@
+{
+  "frames": 96,
+  "fps": 24,
+  "duration_seconds": 4,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "cycles_samples": 32,
+  "native_frames": true,
+  "no_frame_interpolation": true,
+  "audio": false,
+  "seamless_loop": false,
+  "method": "Calibrated 3D PBF river and foam integrated into the approved photographic cabin/palm hybrid",
+  "water_motion_from_images_or_footage": false,
+  "background_generated_matte": true,
+  "cached_approved_outside_pixels": true,
+  "rendered_border": [
+    720,
+    680,
+    1040,
+    400
+  ],
+  "upstream_uses_spatial_instance_of_same_bake": true,
+  "elapsed_seconds": 492.4927436470007,
+  "preview_sha256": "9e034307ecce5de33a5b2811ac6a200ed9e2c863b125d0efca9aade5a1773c1e"
+}

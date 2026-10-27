@@ -250,6 +250,61 @@
     "sha256": "5e5eecae05880973677aad30cc552d5c65c1b0508b54a896bcf41561448f27d5"
   },
   {
+    "path": "assets/integrated_fluid/CREDITS.txt",
+    "bytes": 932,
+    "sha256": "644590b1d5fa62cb48bda3c38732ef44fbfba6eda195868a97960d350c19eb79"
+  },
+  {
+    "path": "assets/integrated_fluid/cache_manifest.json",
+    "bytes": 37204,
+    "sha256": "7266c157c47667f8e040aaaa2dd2737833bef004a4f6caa0558cd4cbbeec8106"
+  },
+  {
+    "path": "assets/integrated_fluid/channel.json",
+    "bytes": 59577,
+    "sha256": "af27e215808e551c8bbe8579ea83693e595bff15796ccc3457297cd6c16b2a32"
+  },
+  {
+    "path": "assets/integrated_fluid/clean_creek_bed.png",
+    "bytes": 2978515,
+    "sha256": "63bbf677c4570326b1b560dc7d9f0408e31b29e234c66434c75bd315337185e3"
+  },
+  {
+    "path": "assets/integrated_fluid/fluid_cache_01.zip",
+    "bytes": 22252626,
+    "sha256": "b811487b67e7b9f7a41a2ee397cab30040194d56882b36421e47a380a82b4592"
+  },
+  {
+    "path": "assets/integrated_fluid/fluid_cache_02.zip",
+    "bytes": 22398941,
+    "sha256": "30754b5363e0e82e5791e5815cfc9b997f70f87ccc4db935108eb8bc5836895e"
+  },
+  {
+    "path": "assets/integrated_fluid/fluid_cache_03.zip",
+    "bytes": 22572109,
+    "sha256": "fa3a45fe0d080b7daa6e765251bf2fdf7807e7b4d2ed03e4b2e37a2d8c867164"
+  },
+  {
+    "path": "assets/integrated_fluid/fluid_cache_04.zip",
+    "bytes": 22703055,
+    "sha256": "4af07fc7e2073f97e86177127009eefa4b5039ed47ad34c590f053888155ab8b"
+  },
+  {
+    "path": "assets/integrated_fluid/provenance.json",
+    "bytes": 664,
+    "sha256": "2f20046359c5ee07e70118c4a3c531a4114e5807523efc341172ff049fcee9e8"
+  },
+  {
+    "path": "assets/integrated_fluid/solver_samples.npz",
+    "bytes": 4107259,
+    "sha256": "369f111a61f803a1dfb22e5c6a2022be7ad6a1cc18268adda2b7f83be3d2fcaa"
+  },
+  {
+    "path": "assets/integrated_fluid/upstream_instance.json",
+    "bytes": 951,
+    "sha256": "c24b072c37348998485fe35b678fa39acc83d691dd7689b1ae683f4872738b15"
+  },
+  {
     "path": "assets/island_tree_02.blend",
     "bytes": 57288500,
     "sha256": "db6970336ca31e17b664cdec0aa78d1eb17ddfe5798a84c86b193205b4519dd7"

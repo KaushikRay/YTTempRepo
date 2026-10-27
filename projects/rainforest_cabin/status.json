@@ -1,10 +1,10 @@
 {
   "phase": "complete",
   "worker_running": false,
-  "updated_utc": "2026-10-27T21:21:34Z",
-  "pid": 3406,
-  "variant": "fully_3D_fluid_proof",
-  "output": "renders/fluid_river/preview.mp4",
-  "completed_frames": 48,
-  "total_frames": 48
+  "updated_utc": "2026-10-27T22:20:34Z",
+  "pid": 7914,
+  "variant": "integrated_3D_fluid",
+  "output": "renders/integrated_fluid/preview.mp4",
+  "completed_frames": 96,
+  "total_frames": 96
 }

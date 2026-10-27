@@ -11,3 +11,7 @@ renders/river_flow/diagnostic.png
 renders/fluid_river/frames/
 renders/fluid_river/diagnostic.png
 assets/fluid_river/meshes/
+assets/integrated_fluid/meshes/
+renders/integrated_fluid/frames/
+renders/integrated_fluid/crop_frames/
+renders/integrated_fluid/diagnostic.png

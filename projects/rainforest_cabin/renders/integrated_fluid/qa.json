@@ -1,0 +1,109 @@
+{
+  "clips": [
+    {
+      "file": "preview.mp4",
+      "frames": 96,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "fps": 24,
+      "duration_seconds": 4,
+      "decoded_cleanly": true,
+      "distinct_decoded_frames": 96,
+      "sha256": "9e034307ecce5de33a5b2811ac6a200ed9e2c863b125d0efca9aade5a1773c1e"
+    },
+    {
+      "file": "river_detail.mp4",
+      "frames": 96,
+      "resolution": [
+        1040,
+        400
+      ],
+      "fps": 24,
+      "duration_seconds": 4,
+      "decoded_cleanly": true,
+      "distinct_decoded_frames": 96,
+      "sha256": "274b02e55f70e1e87b4273d19b031b132364e1b7b5fe87a13960d1ef099e9b8e"
+    }
+  ],
+  "simulated_geometry_frames": 96,
+  "all_geometry_frames_distinct": true,
+  "contacts": [
+    {
+      "frame": 1,
+      "active_particles": 35767,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.999999655850869,
+      "mean_downstream_velocity_m_s": 2.0245487689971924,
+      "height_above_bed_percentile99_m": 0.34493329223588554
+    },
+    {
+      "frame": 24,
+      "active_particles": 35832,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999997213701954,
+      "mean_downstream_velocity_m_s": 2.0272269248962402,
+      "height_above_bed_percentile99_m": 0.35385394410638604
+    },
+    {
+      "frame": 48,
+      "active_particles": 35808,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.999999774734189,
+      "mean_downstream_velocity_m_s": 2.0410561561584473,
+      "height_above_bed_percentile99_m": 0.35482725424013073
+    },
+    {
+      "frame": 72,
+      "active_particles": 35799,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999997773117062,
+      "mean_downstream_velocity_m_s": 2.0569045543670654,
+      "height_above_bed_percentile99_m": 0.35894714306256914
+    },
+    {
+      "frame": 96,
+      "active_particles": 35718,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999998035190895,
+      "mean_downstream_velocity_m_s": 2.0755455493927,
+      "height_above_bed_percentile99_m": 0.36346031231126746
+    }
+  ],
+  "approved_outside_pixels": [
+    {
+      "frame": 1,
+      "changed_pixels_outside_river_border": 0
+    },
+    {
+      "frame": 24,
+      "changed_pixels_outside_river_border": 0
+    },
+    {
+      "frame": 48,
+      "changed_pixels_outside_river_border": 0
+    },
+    {
+      "frame": 72,
+      "changed_pixels_outside_river_border": 0
+    },
+    {
+      "frame": 96,
+      "changed_pixels_outside_river_border": 0
+    }
+  ],
+  "water_motion_from_images_or_footage": false,
+  "no_frame_interpolation": true,
+  "scene_is_hybrid": true,
+  "upstream_is_spatial_instance_of_same_bake": true,
+  "audio": false,
+  "seamless_loop": false,
+  "does_not_prove_photographic_realism": true,
+  "review_focus": [
+    "rock contacts and visible matte edges",
+    "water highlight and foam detail",
+    "small upstream water instance",
+    "rain continuity and leaf edges"
+  ]
+}
