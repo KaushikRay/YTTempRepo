@@ -3,14 +3,26 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## First still
+## Current foliage study
 
-![First rainforest cabin still](renders/first_still.png)
+![Photograph-led foliage correction](renders/foliage_still.png)
 
-1920×1080, 128-sample Cycles render. This is the first still study, not an approved
-final photograph-quality scene. The earlier, smaller framing check remains in
-`renders/composition.png`. Read `renders/qa.json` for artifact checks and
-`research/portability.json` for the relocation check. No animation is rendered yet.
+1920×1080, up to 128 Cycles samples with adaptive sampling. This is a foliage
+correction study, not an approved final photograph-quality scene. The first still
+is retained in `renders/first_still.png`. Current artifact checks are in
+`renders/qa_foliage.json`; the relocation check is `research/portability.json`.
+No animation is rendered yet.
+
+[Real-photograph reference board](research/forest_photographs/reference_board.jpg)
+· [Photograph credits and licences](research/forest_photographs/CREDITS.md)
+· [Neutral-light leaf comparison](renders/leaf_comparison.jpg)
+· [Reference observations and implementation](research/foliage-study.md)
+
+The previous JPEG glTF leaf textures had fully opaque alpha channels. The corrected
+libraries use the provider's separate silhouette masks, including canopy masks.
+Four understory assets now use 4K photographic maps. Wide paired palm strips have
+been replaced with curved, staggered pinnae and varied droop. No reference
+photographs are used as render textures.
 
 ## First milestone
 
@@ -29,7 +41,7 @@ Do not substitute the old tavern reference or claim a pixel-aligned comparison.
 ## Asset approach
 
 Use publicly downloadable CC0 Poly Haven ferns, broadleaf plants, rocks, tree
-geometry and 2K PBR textures. The catalog contains no suitable complete palm or
+geometry, 2K architectural/canopy maps and 4K understory leaf maps. The catalog contains no suitable complete palm or
 matching cabin: build these as original detailed geometry. Source manifests,
 checksums and credit links are retained alongside the project.
 
@@ -43,7 +55,7 @@ This milestone is a still, not an approved animation or finished YouTube video.
 
 Use Python 3.11 with `pip install -r requirements.txt`. No paid assets or logins
 are required. `scripts/prepare_assets.py` fetches the original glTF sources and
-2K maps, verifies provider MD5 checksums and keeps the manifests. The supplied
+2K/4K maps and separate alpha masks, verifies provider MD5 checksums and keeps the manifests. The supplied
 Blender libraries already contain the scanned model geometry and packed maps.
 
 From this project directory:
@@ -56,7 +68,7 @@ python scripts/check_delivery.py
 python scripts/check_portability.py
 ```
 
-The supervisor defaults to a 1920×1080, 128-sample Cycles CPU still. For a quick
+The supervisor defaults to `renders/foliage_still.png`, a 1920×1080, up-to-128-sample Cycles CPU still. For a quick
 composition diagnostic, use `WIDTH=640 SAMPLES=24 OUTPUT=composition.png` before
 the supervisor command. It writes `status.json` and `logs/render.log`. All output
 is under this project. The final scene is `rainforest_cabin.blend`; download this

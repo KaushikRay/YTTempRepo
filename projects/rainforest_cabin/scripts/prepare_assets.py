@@ -29,6 +29,15 @@ for name in MATERIALS:
             e = d[kind]['2k']['jpg']
             jobs.append((ROOT/'assets'/name/(kind+'.jpg'), e))
 
+# glTF JPEG colour maps cannot carry alpha: separate masks are mandatory.
+for name in ['fern_02','calathea_orbifolia_01','anthurium_botany_01','shrub_04']:
+    d=metadata(name)
+    for kind in ['Alpha','Diffuse','nor_gl','Rough']:
+        ext='png' if kind=='Alpha' else 'jpg'
+        jobs.append((ROOT/'assets'/name/'hero_maps'/(kind+'.'+ext),d[kind]['4k'][ext]))
+for name in ['island_tree_02','pachira_aquatica_01']:
+    jobs.append((ROOT/'assets'/name/'hero_maps'/'leaves_alpha.png',metadata(name)['leaves_alpha']['2k']['png']))
+
 def download(job):
     path, entry = job
     path.parent.mkdir(parents=True, exist_ok=True)

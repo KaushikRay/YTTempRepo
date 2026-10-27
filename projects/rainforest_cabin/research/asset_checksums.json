@@ -15,6 +15,26 @@
     "sha256": "ecee0d5cdf4b80b001ba59388ea9cd8b2d1e5d9c89ec070f000605747518aa95"
   },
   {
+    "path": "assets/anthurium_botany_01/hero_maps/Alpha.png",
+    "bytes": 184485,
+    "sha256": "ca3707d1dece8a0624e6441c89f5d4b018b66c8000a46d72313c6405ac6adf77"
+  },
+  {
+    "path": "assets/anthurium_botany_01/hero_maps/Diffuse.jpg",
+    "bytes": 5528569,
+    "sha256": "fc9221e755b461f2c69832b91dca9d618ebb9f9d7de6c58c26e690e703312560"
+  },
+  {
+    "path": "assets/anthurium_botany_01/hero_maps/Rough.jpg",
+    "bytes": 5409362,
+    "sha256": "497f3544dfc53fb3ba5cf7e5afca215f68670a0efed28c466fd15531ea1bb939"
+  },
+  {
+    "path": "assets/anthurium_botany_01/hero_maps/nor_gl.jpg",
+    "bytes": 7394548,
+    "sha256": "0e30a289e39c031898467dfa0d07b044e14f909c708c7679e67258628ef96dec"
+  },
+  {
     "path": "assets/anthurium_botany_01/textures/anthurium_botany_01_arm_2k.jpg",
     "bytes": 1833646,
     "sha256": "81bcc96fa59e09169df48cf2eb930361c4df157a8114e7f3149c97934d47aadc"
@@ -31,8 +51,8 @@
   },
   {
     "path": "assets/anthurium_botany_01.blend",
-    "bytes": 7908922,
-    "sha256": "73d1b21ca1829f5c9b82bea3e38a7dc6b527cdc50c1f4052f1e8e399f1a049e7"
+    "bytes": 26113059,
+    "sha256": "920a0c38e33d071bf36d72c6f7d0aa200c1ce6297b94b074a63e1ac7e2b86fd4"
   },
   {
     "path": "assets/calathea_orbifolia_01/calathea_orbifolia_01.bin",
@@ -43,6 +63,26 @@
     "path": "assets/calathea_orbifolia_01/calathea_orbifolia_01.gltf",
     "bytes": 9309,
     "sha256": "d6584f61dda3140304152cfcab411ffeb2fe53a90eb642d7a6e993d73ebe9a53"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/hero_maps/Alpha.png",
+    "bytes": 291693,
+    "sha256": "9af491b812c7fdc4fcfee6747f2795b5449a9ff93c1d29204ffac13157eae5e3"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/hero_maps/Diffuse.jpg",
+    "bytes": 5588696,
+    "sha256": "c0ca6d7fc25f58564d958ba9816a43a7526f31a1d95a47313b76ce35968697b5"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/hero_maps/Rough.jpg",
+    "bytes": 4330295,
+    "sha256": "8f506e3edca3fabbb8b899d7dcbbc3f9c8ba3a7e21df17ea9ac606292f30f142"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/hero_maps/nor_gl.jpg",
+    "bytes": 9413488,
+    "sha256": "92d4c8b041cac6bbeb0aa6342b4f30b530d52a0d56625176e91df552ec468332"
   },
   {
     "path": "assets/calathea_orbifolia_01/textures/calathea_orbifolia_01_arm_2k.jpg",
@@ -61,8 +101,8 @@
   },
   {
     "path": "assets/calathea_orbifolia_01.blend",
-    "bytes": 5979698,
-    "sha256": "bd47cdf838dcf219157e491c4ca59d326034ea87a6f8289fbc20e07bfd4312b6"
+    "bytes": 25316976,
+    "sha256": "727e2002c6a72c6b05a4b4fa6489079d6bd5be65664d0edd5491663e4ebf4d27"
   },
   {
     "path": "assets/fern_02/fern_02.bin",
@@ -73,6 +113,26 @@
     "path": "assets/fern_02/fern_02.gltf",
     "bytes": 6899,
     "sha256": "50540d37531f93fd693d5340d5b3095c9d6d2834fa05c74bea797d54f290cb6a"
+  },
+  {
+    "path": "assets/fern_02/hero_maps/Alpha.png",
+    "bytes": 470827,
+    "sha256": "50dd262282e9787ae8abf4475b5d2071df8a88f5242f480602a0672347bd7ff9"
+  },
+  {
+    "path": "assets/fern_02/hero_maps/Diffuse.jpg",
+    "bytes": 3025392,
+    "sha256": "f924354b032fcde77830b0c33c4dff80b4b143f793e70126894788f199b61960"
+  },
+  {
+    "path": "assets/fern_02/hero_maps/Rough.jpg",
+    "bytes": 1886316,
+    "sha256": "10d4bd78f92157fc7d8c03b624563d6f4aa516e8d3760fe20f22db2c68ec926a"
+  },
+  {
+    "path": "assets/fern_02/hero_maps/nor_gl.jpg",
+    "bytes": 5058951,
+    "sha256": "14125a030e3fab96f52343215a65167ea46bcabae4bdef3444ba8ae22cb05e41"
   },
   {
     "path": "assets/fern_02/textures/fern_02_arm_2k.jpg",
@@ -91,8 +151,8 @@
   },
   {
     "path": "assets/fern_02.blend",
-    "bytes": 3419400,
-    "sha256": "13c36d3fe00b9d9831966290e9a710a5e0e5dde7d15b80d2a50f987bb0d89c50"
+    "bytes": 13495260,
+    "sha256": "9b0ecc0706cf2584ff0d00bfc6396753c4f55b41e34a15027455987e1ed0cdaa"
   },
   {
     "path": "assets/forest_ground_04/Diffuse.jpg",
@@ -133,6 +193,11 @@
     "path": "assets/grey_roof_tiles/nor_gl.jpg",
     "bytes": 1504796,
     "sha256": "e91134466a2aec440eae42ccef20f7055d87bf8caac208555eb1f069578eb29a"
+  },
+  {
+    "path": "assets/island_tree_02/hero_maps/leaves_alpha.png",
+    "bytes": 139077,
+    "sha256": "30c36ae0d9023400035f0af9d336ed5f73a84bf8a88c8e2bec8faa07d725992b"
   },
   {
     "path": "assets/island_tree_02/island_tree_02.bin",
@@ -191,13 +256,18 @@
   },
   {
     "path": "assets/island_tree_02.blend",
-    "bytes": 57150616,
-    "sha256": "62b81bb75234e53935d2455f9afe9a095f6631880fbf86dfa2236889838d9269"
+    "bytes": 57288500,
+    "sha256": "db6970336ca31e17b664cdec0aa78d1eb17ddfe5798a84c86b193205b4519dd7"
   },
   {
     "path": "assets/library.json",
     "bytes": 6646,
     "sha256": "f8220c7cb89cc56453fca969a8a83d1078a6544429a5101ba98cc68efa949725"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/hero_maps/leaves_alpha.png",
+    "bytes": 162415,
+    "sha256": "579a63e9b680d0660ba996c0279f79e7f86f14060da22a4846f49b476fee74b3"
   },
   {
     "path": "assets/pachira_aquatica_01/pachira_aquatica_01.bin",
@@ -241,8 +311,8 @@
   },
   {
     "path": "assets/pachira_aquatica_01.blend",
-    "bytes": 13101931,
-    "sha256": "4687dc99b051fcd4fc68df750c168673c62a3bc24f2823cd7f975964149f9355"
+    "bytes": 13265411,
+    "sha256": "e6fdf4d91b132ce43d22f004fc54eb437b240be4214b26987324d40f1b2e75db"
   },
   {
     "path": "assets/palm_bark/Diffuse.jpg",
@@ -291,8 +361,28 @@
   },
   {
     "path": "assets/rock_moss_set_01.blend",
-    "bytes": 3926602,
-    "sha256": "b9bb64ce940959df5a46300b5a3167bf75a2344cf83ca97fd7d73ddf17c471aa"
+    "bytes": 3925827,
+    "sha256": "0bf926efc30324a37320b4485adc5727737d55a2b74aa754861ae26ed2a6c9b2"
+  },
+  {
+    "path": "assets/shrub_04/hero_maps/Alpha.png",
+    "bytes": 206515,
+    "sha256": "fcd06f9e956b3165163e3ad0f34a954b10b73713b49d67865cbe9c99a8e46606"
+  },
+  {
+    "path": "assets/shrub_04/hero_maps/Diffuse.jpg",
+    "bytes": 3774294,
+    "sha256": "679a0535697744ef515b4fc11269a82a487af293a1cdcf0c22a637b706ecad6b"
+  },
+  {
+    "path": "assets/shrub_04/hero_maps/Rough.jpg",
+    "bytes": 2130367,
+    "sha256": "9027123971d94f6b543626be8b13a6ecae52aa6e6409b16dcad13a9ef26de1dc"
+  },
+  {
+    "path": "assets/shrub_04/hero_maps/nor_gl.jpg",
+    "bytes": 4500988,
+    "sha256": "ff84a4f93401dd013ed008e8cd4753c44b4c676c69aa100c5d9bcdf0049c090e"
   },
   {
     "path": "assets/shrub_04/shrub_04.bin",
@@ -321,8 +411,8 @@
   },
   {
     "path": "assets/shrub_04.blend",
-    "bytes": 4560892,
-    "sha256": "3b75700961cff93fb69bcd53cbe380f8d80e0214d5bd7cdfed89261c81ce68db"
+    "bytes": 13912667,
+    "sha256": "327e430b36a0805104c286c796f5a2147655083977f9c984241810b32262c374"
   },
   {
     "path": "assets/weathered_plank_siding/Diffuse.jpg",

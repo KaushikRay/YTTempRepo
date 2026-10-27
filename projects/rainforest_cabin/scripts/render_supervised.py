@@ -4,7 +4,7 @@ import datetime, json, os, re, subprocess, sys, time
 
 root=Path(__file__).resolve().parents[1]
 (root/'logs').mkdir(exist_ok=True)
-env=os.environ.copy();env.setdefault('WIDTH','1920');env.setdefault('SAMPLES','128');env.setdefault('OUTPUT','first_still.png')
+env=os.environ.copy();env.setdefault('WIDTH','1920');env.setdefault('SAMPLES','128');env.setdefault('OUTPUT','foliage_still.png')
 env.setdefault('OMP_NUM_THREADS','6')
 log=root/'logs'/'render.log';status=root/'status.json'
 with log.open('w') as out:

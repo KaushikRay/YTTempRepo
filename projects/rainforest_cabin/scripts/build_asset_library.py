@@ -35,20 +35,38 @@ for name in names:
         collections.append(c)
         records.append({'asset':name,'collection':c.name,'height_normalized':1,
                         'source_dimensions':list(hi-lo),'triangles':sum(len(o.data.polygons) for o in objects)})
+    for ob in obs:
+        for poly in ob.data.polygons:poly.use_smooth=True
     for mat in {m for o in obs for m in o.data.materials if m}:
         if not mat.use_nodes:continue
         n=mat.node_tree.nodes;l=mat.node_tree.links;p=next((v for v in n if v.type=='BSDF_PRINCIPLED'),None)
         if p is None:continue
+        # The provider glTF uses JPEG colour maps: their alpha channel is always 1.
+        # Alpha mode MASK alone cannot cut leaf cards. Load the separate scan mask.
+        maps=ROOT/'assets'/name/'hero_maps'
+        leafy=(maps/'Alpha.png').exists() or ('leaves' in mat.name.lower() and (maps/'leaves_alpha.png').exists())
+        if leafy:
+            alpha_path=maps/('Alpha.png' if (maps/'Alpha.png').exists() else 'leaves_alpha.png')
+            alpha=n.new('ShaderNodeTexImage');alpha.name='Verified photographic leaf silhouette';alpha.image=bpy.data.images.load(str(alpha_path),check_existing=True);alpha.image.colorspace_settings.name='Non-Color';alpha.interpolation='Linear'
+            l.new(alpha.outputs['Color'],p.inputs['Alpha'])
+            for kind,socket in [('Diffuse','Base Color'),('Rough','Roughness'),('nor_gl','Normal')]:
+                path=maps/(kind+'.jpg')
+                if not path.exists():continue
+                tex=n.new('ShaderNodeTexImage');tex.image=bpy.data.images.load(str(path),check_existing=True)
+                if kind!='Diffuse':tex.image.colorspace_settings.name='Non-Color'
+                if kind=='nor_gl':
+                    normal=n.new('ShaderNodeNormalMap');normal.inputs['Strength'].default_value=.55;l.new(tex.outputs[0],normal.inputs['Color']);l.new(normal.outputs[0],p.inputs[socket])
+                else:l.new(tex.outputs[0],p.inputs[socket])
         if p.inputs['Roughness'].is_linked:
             source=p.inputs['Roughness'].links[0].from_socket
-            math=n.new('ShaderNodeMath');math.operation='MULTIPLY_ADD';math.inputs[1].default_value=.5;math.inputs[2].default_value=.1
+            math=n.new('ShaderNodeMath');math.operation='MULTIPLY_ADD';math.inputs[1].default_value=.48;math.inputs[2].default_value=.20 if leafy else .1
             l.new(source,math.inputs[0]);l.new(math.outputs[0],p.inputs['Roughness'])
-        p.inputs['Coat Weight'].default_value=.12;p.inputs['Coat Roughness'].default_value=.24
-        if any(t in mat.name.lower() for t in ['leaves','fern','calathea','anthurium','shrub']):
-            p.inputs['Subsurface Weight'].default_value=.025
+        p.inputs['Coat Weight'].default_value=.10 if leafy else .12;p.inputs['Coat Roughness'].default_value=.18 if leafy else .24
+        if leafy:
+            p.inputs['Subsurface Weight'].default_value=.035;p.inputs['Subsurface Radius'].default_value=(.035,.08,.02)
             if p.inputs['Base Color'].is_linked:
                 source=p.inputs['Base Color'].links[0].from_socket
-                tint=n.new('ShaderNodeMixRGB');tint.blend_type='MULTIPLY';tint.inputs[0].default_value=1;tint.inputs[2].default_value=(.33,.51,.28,1)
+                tint=n.new('ShaderNodeMixRGB');tint.blend_type='MULTIPLY';tint.inputs[0].default_value=1;tint.inputs[2].default_value=(.58,.68,.42,1)
                 l.new(source,tint.inputs[1]);l.new(tint.outputs[0],p.inputs['Base Color'])
         for node in n:
             if node.type=='NORMAL_MAP':node.inputs['Strength'].default_value=.65

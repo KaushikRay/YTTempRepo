@@ -1,0 +1,134 @@
+[
+  {
+    "path": "assets/fern_02/hero_maps/Alpha.png",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fern_02/fern_02_alpha_4k.png",
+    "resolution": [
+      4096,
+      4096
+    ],
+    "black_pixels": 14027785,
+    "white_pixels": 2748853,
+    "fraction_above_half": 0.1639
+  },
+  {
+    "path": "assets/fern_02/hero_maps/Diffuse.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fern_02/fern_02_diff_4k.jpg"
+  },
+  {
+    "path": "assets/fern_02/hero_maps/nor_gl.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fern_02/fern_02_nor_gl_4k.jpg"
+  },
+  {
+    "path": "assets/fern_02/hero_maps/Rough.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fern_02/fern_02_rough_4k.jpg"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/hero_maps/Alpha.png",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_4k.png",
+    "resolution": [
+      4096,
+      4096
+    ],
+    "black_pixels": 7246213,
+    "white_pixels": 9530367,
+    "fraction_above_half": 0.5681
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/hero_maps/Diffuse.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_diff_4k.jpg"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/hero_maps/nor_gl.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_4k.jpg"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/hero_maps/Rough.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_rough_4k.jpg"
+  },
+  {
+    "path": "assets/anthurium_botany_01/hero_maps/Alpha.png",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_alpha_4k.png",
+    "resolution": [
+      4096,
+      4096
+    ],
+    "black_pixels": 10212843,
+    "white_pixels": 6564373,
+    "fraction_above_half": 0.3913
+  },
+  {
+    "path": "assets/anthurium_botany_01/hero_maps/Diffuse.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_diff_4k.jpg"
+  },
+  {
+    "path": "assets/anthurium_botany_01/hero_maps/nor_gl.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_nor_gl_4k.jpg"
+  },
+  {
+    "path": "assets/anthurium_botany_01/hero_maps/Rough.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_rough_4k.jpg"
+  },
+  {
+    "path": "assets/shrub_04/hero_maps/Alpha.png",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/shrub_04/shrub_04_alpha_4k.png",
+    "resolution": [
+      4096,
+      4096
+    ],
+    "black_pixels": 10463162,
+    "white_pixels": 6314054,
+    "fraction_above_half": 0.3763
+  },
+  {
+    "path": "assets/shrub_04/hero_maps/Diffuse.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/shrub_04/shrub_04_diff_4k.jpg"
+  },
+  {
+    "path": "assets/shrub_04/hero_maps/nor_gl.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/shrub_04/shrub_04_nor_gl_4k.jpg"
+  },
+  {
+    "path": "assets/shrub_04/hero_maps/Rough.jpg",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/shrub_04/shrub_04_rough_4k.jpg"
+  },
+  {
+    "path": "assets/island_tree_02/hero_maps/leaves_alpha.png",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_alpha_2k.png",
+    "resolution": [
+      2048,
+      2048
+    ],
+    "black_pixels": 3111616,
+    "white_pixels": 1079524,
+    "fraction_above_half": 0.2576
+  },
+  {
+    "path": "assets/pachira_aquatica_01/hero_maps/leaves_alpha.png",
+    "provider_md5_verified": true,
+    "source": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pachira_aquatica_01/pachira_aquatica_01_leaves_alpha_2k.png",
+    "resolution": [
+      2048,
+      2048
+    ],
+    "black_pixels": 2765843,
+    "white_pixels": 1426408,
+    "fraction_above_half": 0.3402
+  }
+]

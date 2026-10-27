@@ -28,7 +28,8 @@ for frame in [1,240,1440,14400]:
         upper+=ob.evaluated_get(dep).location.z>12
     assert upper>1000,(frame,upper)
     checks.append({'frame':frame,'streaks_above_12m':upper})
-png=root/'renders'/'first_still.png';data=png.read_bytes()
+output=os.environ.get('OUTPUT','foliage_still.png')
+png=root/'renders'/output;data=png.read_bytes()
 assert data[:8]==b'\x89PNG\r\n\x1a\n'
 width,height=struct.unpack('>II',data[16:24]);assert (width,height)==(1920,1080)
 blend_sizes={str(p.relative_to(root)):p.stat().st_size for p in root.rglob('*.blend')}
@@ -39,6 +40,21 @@ report={'resolution':[width,height],'cycles_samples':128,'missing_files':missing
         'still_only':True,'rain_is_analytic_geometry_not_fluid_simulation':True,
         'water_and_vegetation_motion_tested':False,'photorealism_target_approved':False,
         'user_reference_available_in_chat_only':True}
-(root/'renders'/'qa.json').write_text(json.dumps(report,indent=2))
+assert s.render.filepath=='//renders/'+output,s.render.filepath
+leaf_masks=[]
+for mat in bpy.data.materials:
+    if not mat.use_nodes:continue
+    mask=mat.node_tree.nodes.get('Verified photographic leaf silhouette')
+    if mask:
+        p=next(n for n in mat.node_tree.nodes if n.type=='BSDF_PRINCIPLED')
+        assert p.inputs['Alpha'].is_linked and p.inputs['Alpha'].links[0].from_node==mask,mat.name
+        assert mask.image.packed_file and mask.image.colorspace_settings.name=='Non-Color'
+        leaf_masks.append({'material':mat.name,'mask':mask.image.name,'resolution':list(mask.image.size)})
+assert len(leaf_masks)==6,leaf_masks
+palms=[o for o in bpy.data.objects if o.name.endswith('curved pinnae')]
+assert len(palms)==51,len(palms)
+assert not any(o.name.endswith('articulated leaflets') for o in bpy.data.objects)
+report.update(output=output,verified_leaf_masks=leaf_masks,curved_palm_fronds=len(palms),photograph_reference_count=14)
+(root/'renders'/'qa_foliage.json').write_text(json.dumps(report,indent=2))
 print(json.dumps(report),flush=True)
 os._exit(0)

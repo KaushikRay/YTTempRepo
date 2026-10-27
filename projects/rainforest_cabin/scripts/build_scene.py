@@ -300,44 +300,8 @@ for i in range(38):
 
 status('scanned_vegetation_ready',understory_instances=planted)
 
-# Original pinnate palm geometry: curved rachis and individually bent leaflets.
-palm=basic('Wet palm leaf cuticle',(.025,.095,.027),.24)
-n=palm.node_tree.nodes;l=palm.node_tree.links;p=n.get('Principled BSDF')
-p.inputs['Coat Weight'].default_value=.24;p.inputs['Coat Roughness'].default_value=.2;p.inputs['Subsurface Weight'].default_value=.045
-tc=n.new('ShaderNodeTexCoord');noise=n.new('ShaderNodeTexNoise');noise.inputs['Scale'].default_value=45;noise.inputs['Detail'].default_value=3;l.new(tc.outputs['Generated'],noise.inputs['Vector'])
-ramp=n.new('ShaderNodeValToRGB');ramp.color_ramp.elements[0].color=(.008,.032,.008,1);ramp.color_ramp.elements[1].color=(.045,.14,.025,1);l.new(noise.outputs['Fac'],ramp.inputs[0]);l.new(ramp.outputs['Color'],p.inputs['Base Color'])
-bump=n.new('ShaderNodeBump');bump.inputs['Strength'].default_value=.13;bump.inputs['Distance'].default_value=.015;l.new(noise.outputs['Fac'],bump.inputs['Height']);l.new(bump.outputs[0],p.inputs['Normal'])
-
-def frond(name,base,angle,length,rise,droop):
-    base=Vector(base);fwd=Vector((cos(angle),sin(angle),0));side=Vector((-sin(angle),cos(angle),0))
-    def center(t):return base+fwd*(length*t)+Vector((0,0,rise*sin(t*pi*.8)-droop*t*t))
-    curve(name+' curved midrib',[center(t/36) for t in range(37)],.012,palm)
-    vs=[];fs=[];uv=[]
-    for i in range(4,43):
-        t=i/45;root=center(t);extent=(sin(t*pi)**.62)*length*.24*(1-.28*t)
-        for sign in [-1,1]:
-            k=len(vs);jitter=random.uniform(.86,1.12);lng=extent*jitter;width=.035+lng*.035
-            for j in range(9):
-                u=j/8;middle=root+side*(sign*lng*u)+fwd*(lng*.36*u)+Vector((0,0,-lng*.35*u*u+.045*sin(u*pi)))
-                w=width*(sin(pi*u)**.65)
-                for a in [-1,0,1]:
-                    vs.append(middle+fwd*(a*w)+Vector((0,0,.014*(1-abs(a))*sin(pi*u))))
-                    uv.append((u,(a+1)/2))
-            for j in range(8):
-                for a in range(2):b=k+j*3+a;fs.append((b,b+1,b+4,b+3))
-    ob=mesh(name+' articulated leaflets',vs,fs,palm,uvs=uv,smooth=True)
-    return ob
-
-# Right foreground fronds form a frame without masking the cabin lantern.
-for i,(ang,lng,rise,droop) in enumerate([(2.6,3.1,.9,1.4),(2.05,3.5,1.0,1.7),(3.18,2.4,.6,1.2),(1.5,3.1,1.1,.8),(3.6,2.5,.5,1.5)]):
-    frond('Near right palm '+str(i),(6.0,.9,2.0),ang,lng,rise,droop)
-frond('Large foreground arching palm',(6.4,-.5,1.2),2.15,4.5,3.0,1.2)
-frond('Low foreground palm',(6.0,-.5,1.2),2.8,3.0,1.3,1.4)
-# Overhead leaves at the top of the composition.
-for i,ang in enumerate([3.5,3.85,4.1,4.45]):frond('Overhead palm '+str(i),(5.5,4,6.5),ang,4.3,.25,1.7)
-for i,(x,y) in enumerate([(-5,8),(9,10),(-6,16),(10,20),(-2,22)]):
-    z=terrain_z(x,y);beam('Palm trunk',(x,y,z),(x+.25,y,6.5),.18,bark)
-    for j in range(7):frond('Midground palm '+str(i)+' '+str(j),(x+.25,y,6.5),j*2*pi/7,random.uniform(2.2,3.3),.55,1.4)
+# Reference-led palms and properly mapped forest trunks.
+exec(compile((ROOT/'scripts'/'photographic_foliage.py').read_text(), str(ROOT/'scripts'/'photographic_foliage.py'), 'exec'))
 
 # Stream: genuinely reflective refractive surface over a textured bed.
 water=basic('Rain-agitated clear stream',(.025,.055,.06),.11)
@@ -384,10 +348,10 @@ for i in range(25):
 
 status('lighting_and_camera')
 s.world=bpy.data.worlds.new('Overcast rainforest night');s.world.use_nodes=True
-bg=s.world.node_tree.nodes.get('Background');bg.inputs[0].default_value=(.065,.16,.38,1);bg.inputs[1].default_value=.42
-light('Large cloud opening','AREA',(-3,11,17),(.25,.47,1),4300,16,(1,9,0))
+bg=s.world.node_tree.nodes.get('Background');bg.inputs[0].default_value=(.12,.20,.31,1);bg.inputs[1].default_value=.42
+light('Large cloud opening','AREA',(-3,11,17),(.46,.62,.88),4300,16,(1,9,0))
 light('Cool rain backlight','AREA',(-1,26,10),(.18,.40,1),4700,11,(0,4,2))
-light('Soft canopy fill','AREA',(7,-1,10),(.32,.54,.82),1000,9,(1,6,1))
+light('Soft canopy fill','AREA',(7,-1,10),(.58,.70,.82),850,9,(1,6,1))
 
 fogmat=bpy.data.materials.new('Subtle depth mist');fogmat.use_nodes=True;n=fogmat.node_tree.nodes;n.clear();o=n.new('ShaderNodeOutputMaterial');v=n.new('ShaderNodeVolumePrincipled');v.inputs['Density'].default_value=.008;v.inputs['Color'].default_value=(.30,.46,.64,1);v.inputs['Anisotropy'].default_value=.23;fogmat.node_tree.links.new(v.outputs['Volume'],o.inputs['Volume'])
 box('Forest depth mist',(0,29,10),(48,39,22),fogmat,0)
@@ -395,7 +359,7 @@ box('Forest depth mist',(0,29,10),(48,39,22),fogmat,0)
 bpy.ops.object.camera_add(location=(0,-8,2.65));cam=bpy.context.object;cam.name='Sheltered porch reference camera';target=Vector((.8,10,3.3));cam.rotation_euler=(target-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.lens=33;cam.data.sensor_width=36;s.camera=cam
 cam.data.dof.use_dof=False
 s.render.engine='CYCLES';s.cycles.device='CPU';s.cycles.samples=int(os.environ.get('SAMPLES','32'));s.cycles.use_denoising=True
-s.cycles.max_bounces=8;s.cycles.diffuse_bounces=3;s.cycles.glossy_bounces=4;s.cycles.transmission_bounces=6;s.cycles.transparent_max_bounces=12
+s.cycles.max_bounces=8;s.cycles.diffuse_bounces=3;s.cycles.glossy_bounces=4;s.cycles.transmission_bounces=6;s.cycles.transparent_max_bounces=20;s.cycles.use_adaptive_sampling=True;s.cycles.adaptive_threshold=.035;s.cycles.adaptive_min_samples=16
 s.render.threads_mode='FIXED';s.render.threads=6;s.render.resolution_x=int(os.environ.get('WIDTH','960'));s.render.resolution_y=round(s.render.resolution_x*9/16);s.render.resolution_percentage=100
 s.render.image_settings.file_format='PNG';s.render.film_transparent=False;s.render.fps=24;s.frame_end=240;s.frame_set(1)
 s.view_settings.view_transform='AgX';s.view_settings.look='AgX - Medium High Contrast';s.view_settings.exposure=.25
