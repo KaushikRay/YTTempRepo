@@ -1,0 +1,158 @@
+{
+  "fern_02": {
+    "name": "Fern 02",
+    "authors": {
+      "Rob Tuytel": "scanning",
+      "Rico Cilliers": "modeling"
+    },
+    "source": "https://polyhaven.com/a/fern_02",
+    "licence": "CC0 1.0",
+    "categories": [
+      "plants",
+      "nature",
+      "collection: smugglers_cove",
+      "collection: pine_forest"
+    ]
+  },
+  "calathea_orbifolia_01": {
+    "name": "Calathea Orbifolia 01",
+    "authors": {
+      "Rob Tuytel": "scanning",
+      "Rico Cilliers": "modeling"
+    },
+    "source": "https://polyhaven.com/a/calathea_orbifolia_01",
+    "licence": "CC0 1.0",
+    "categories": [
+      "plants",
+      "nature",
+      "ground cover",
+      "collection: smugglers_cove"
+    ]
+  },
+  "anthurium_botany_01": {
+    "name": "Anthurium Botany 01",
+    "authors": {
+      "Rob Tuytel": "scanning",
+      "Rico Cilliers": "modeling"
+    },
+    "source": "https://polyhaven.com/a/anthurium_botany_01",
+    "licence": "CC0 1.0",
+    "categories": [
+      "plants",
+      "nature",
+      "collection: the_shed",
+      "collection: smugglers_cove"
+    ]
+  },
+  "pachira_aquatica_01": {
+    "name": "Pachira Aquatica 01",
+    "authors": {
+      "Rob Tuytel": "scanning",
+      "Rico Cilliers": "modeling"
+    },
+    "source": "https://polyhaven.com/a/pachira_aquatica_01",
+    "licence": "CC0 1.0",
+    "categories": [
+      "plants",
+      "nature",
+      "collection: smugglers_cove"
+    ]
+  },
+  "island_tree_02": {
+    "name": "Island Tree 02",
+    "authors": {
+      "Rob Tuytel": "scanning, processing",
+      "Rico Cilliers": "cleanup, processing"
+    },
+    "source": "https://polyhaven.com/a/island_tree_02",
+    "licence": "CC0 1.0",
+    "categories": [
+      "nature",
+      "plants",
+      "trees"
+    ]
+  },
+  "rock_moss_set_01": {
+    "name": "Rock Moss Set 01",
+    "authors": {
+      "Kless Gyzen": "All"
+    },
+    "source": "https://polyhaven.com/a/rock_moss_set_01",
+    "licence": "CC0 1.0",
+    "categories": [
+      "rocks",
+      "nature",
+      "collection: pine_forest"
+    ]
+  },
+  "shrub_04": {
+    "name": "Shrub 04",
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "source": "https://polyhaven.com/a/shrub_04",
+    "licence": "CC0 1.0",
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "collection: verdant_trail"
+    ]
+  },
+  "weathered_plank_siding": {
+    "name": "Weathered Plank Siding",
+    "authors": {
+      "Dimitrios Savva": "All"
+    },
+    "source": "https://polyhaven.com/a/weathered_plank_siding",
+    "licence": "CC0 1.0",
+    "categories": [
+      "outdoor",
+      "wall",
+      "wood"
+    ]
+  },
+  "grey_roof_tiles": {
+    "name": "Grey Roof Tiles",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "source": "https://polyhaven.com/a/grey_roof_tiles",
+    "licence": "CC0 1.0",
+    "categories": [
+      "roofing",
+      "outdoor",
+      "man made",
+      "clean"
+    ]
+  },
+  "forest_ground_04": {
+    "name": "Forest Ground 04",
+    "authors": {
+      "Rob Tuytel": "Photography, Processing",
+      "Rico Cilliers": "Minor adjustment"
+    },
+    "source": "https://polyhaven.com/a/forest_ground_04",
+    "licence": "CC0 1.0",
+    "categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "rock",
+      "collection: pine_forest",
+      "collection: verdant_trail"
+    ]
+  },
+  "palm_bark": {
+    "name": "Palm Bark",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    },
+    "source": "https://polyhaven.com/a/palm_bark",
+    "licence": "CC0 1.0",
+    "categories": [
+      "natural",
+      "bark"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "phase": "rendering",
+  "pid": 54550,
+  "updated_utc": "2026-10-27T12:28:04.610500+00:00",
+  "output": "first_still.png",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "samples": 128,
+  "last_logged_sample": [
+    49,
+    128
+  ]
+}

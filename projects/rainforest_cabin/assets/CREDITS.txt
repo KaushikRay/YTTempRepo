@@ -1,0 +1,16 @@
+Poly Haven CC0 1.0 models and PBR materials.
+Licence: https://polyhaven.com/license
+https://polyhaven.com/a/fern_02
+https://polyhaven.com/a/calathea_orbifolia_01
+https://polyhaven.com/a/anthurium_botany_01
+https://polyhaven.com/a/pachira_aquatica_01
+https://polyhaven.com/a/island_tree_02
+https://polyhaven.com/a/rock_moss_set_01
+https://polyhaven.com/a/shrub_04
+https://polyhaven.com/a/weathered_plank_siding
+https://polyhaven.com/a/grey_roof_tiles
+https://polyhaven.com/a/forest_ground_04
+https://polyhaven.com/a/palm_bark
+Provider manifests retained in research; downloaded files MD5 verified.
+Cabin, terrain, water surface, palm geometry and rain: original procedural geometry.
+The user supplied the visual reference in chat; it is not used as a render texture.

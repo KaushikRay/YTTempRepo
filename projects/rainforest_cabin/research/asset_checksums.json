@@ -1,0 +1,347 @@
+[
+  {
+    "path": "assets/CREDITS.txt",
+    "bytes": 766,
+    "sha256": "a5b69ae39222a8f19fdb850d9fd0444dc8711c6d514ef91fd90785a53a2da11c"
+  },
+  {
+    "path": "assets/anthurium_botany_01/anthurium_botany_01.bin",
+    "bytes": 1744256,
+    "sha256": "6a23daf128e297ad99e984bec11bdea3c6eab64e52d07cbdc948ace5a05b2e25"
+  },
+  {
+    "path": "assets/anthurium_botany_01/anthurium_botany_01.gltf",
+    "bytes": 10675,
+    "sha256": "ecee0d5cdf4b80b001ba59388ea9cd8b2d1e5d9c89ec070f000605747518aa95"
+  },
+  {
+    "path": "assets/anthurium_botany_01/textures/anthurium_botany_01_arm_2k.jpg",
+    "bytes": 1833646,
+    "sha256": "81bcc96fa59e09169df48cf2eb930361c4df157a8114e7f3149c97934d47aadc"
+  },
+  {
+    "path": "assets/anthurium_botany_01/textures/anthurium_botany_01_diff_2k.jpg",
+    "bytes": 1565878,
+    "sha256": "7ef41c8fb14951c8fb74e9924a60ce6b2fc8c150b8f0c21e59af29b88df36762"
+  },
+  {
+    "path": "assets/anthurium_botany_01/textures/anthurium_botany_01_nor_gl_2k.jpg",
+    "bytes": 1900025,
+    "sha256": "515f9168577d727bd208d8f8e521c8c6ac318fc9d5c65f29510a5b861608c639"
+  },
+  {
+    "path": "assets/anthurium_botany_01.blend",
+    "bytes": 7908922,
+    "sha256": "73d1b21ca1829f5c9b82bea3e38a7dc6b527cdc50c1f4052f1e8e399f1a049e7"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/calathea_orbifolia_01.bin",
+    "bytes": 407968,
+    "sha256": "df1668bcb44914abac046217bbdae9867a3702198f7c374135f2b4456df8b038"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/calathea_orbifolia_01.gltf",
+    "bytes": 9309,
+    "sha256": "d6584f61dda3140304152cfcab411ffeb2fe53a90eb642d7a6e993d73ebe9a53"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/textures/calathea_orbifolia_01_arm_2k.jpg",
+    "bytes": 1426349,
+    "sha256": "f914f9887c7c6a483aa8036ac6c24818f08b9bbea2a3c4ddbde48bfc91a0e610"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/textures/calathea_orbifolia_01_diff_2k.jpg",
+    "bytes": 1584695,
+    "sha256": "05d7612420762e5a52a91c6f94ef454fd1d50feb3543d14f85c1b6219845bf39"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01/textures/calathea_orbifolia_01_nor_gl_2k.jpg",
+    "bytes": 2319308,
+    "sha256": "ff40a3028646fcb41b9264930b1ce681a3f1673651731ad358fb2153b924788f"
+  },
+  {
+    "path": "assets/calathea_orbifolia_01.blend",
+    "bytes": 5979698,
+    "sha256": "bd47cdf838dcf219157e491c4ca59d326034ea87a6f8289fbc20e07bfd4312b6"
+  },
+  {
+    "path": "assets/fern_02/fern_02.bin",
+    "bytes": 176176,
+    "sha256": "fe1abb762bcbbc7ad9e86925c8080437a62add257d9280e9142fdc85c226e64c"
+  },
+  {
+    "path": "assets/fern_02/fern_02.gltf",
+    "bytes": 6899,
+    "sha256": "50540d37531f93fd693d5340d5b3095c9d6d2834fa05c74bea797d54f290cb6a"
+  },
+  {
+    "path": "assets/fern_02/textures/fern_02_arm_2k.jpg",
+    "bytes": 850856,
+    "sha256": "1eaf9bd29e2d83a77ca5d89bdddebcd9216b8b4ba244644580fe5b89bbe713f1"
+  },
+  {
+    "path": "assets/fern_02/textures/fern_02_diff_2k.jpg",
+    "bytes": 993703,
+    "sha256": "9ee18172170728050871772e2cd6d8d37b52f9138e61b49b04486623f9caf84b"
+  },
+  {
+    "path": "assets/fern_02/textures/fern_02_nor_gl_2k.jpg",
+    "bytes": 1365615,
+    "sha256": "dfe1ac4a428d21f7c134411500177d66b8dd800c8fec6f0040c50f44414a777b"
+  },
+  {
+    "path": "assets/fern_02.blend",
+    "bytes": 3419400,
+    "sha256": "13c36d3fe00b9d9831966290e9a710a5e0e5dde7d15b80d2a50f987bb0d89c50"
+  },
+  {
+    "path": "assets/forest_ground_04/Diffuse.jpg",
+    "bytes": 4529321,
+    "sha256": "24b8aaf4c8547305d80b0e029ec365219ab1b90748d4ca5651bdc9e75bfde5e6"
+  },
+  {
+    "path": "assets/forest_ground_04/Displacement.jpg",
+    "bytes": 696276,
+    "sha256": "2ab943aedc87e4f258db43365c65d9cb834923c85817bc8fc8262397014a35a5"
+  },
+  {
+    "path": "assets/forest_ground_04/Rough.jpg",
+    "bytes": 2509805,
+    "sha256": "24194662948424c323c75e0918461ad9d38bc0a275022000144f248b3efb4119"
+  },
+  {
+    "path": "assets/forest_ground_04/nor_gl.jpg",
+    "bytes": 5288849,
+    "sha256": "b37ac799ed410976541e0011c246fca254e74eaa3f096ae7a7d74178db5a6d9b"
+  },
+  {
+    "path": "assets/grey_roof_tiles/Diffuse.jpg",
+    "bytes": 2039152,
+    "sha256": "f0ccddb07c8b21cd7825fd2c4cdf04cff23ec9fc52a92578122036ccf22a8a90"
+  },
+  {
+    "path": "assets/grey_roof_tiles/Displacement.jpg",
+    "bytes": 467988,
+    "sha256": "48f72845e9d860e3ec9a3028031815fc13521c2eecf0edb4fe30c3d58ecfa0aa"
+  },
+  {
+    "path": "assets/grey_roof_tiles/Rough.jpg",
+    "bytes": 1009346,
+    "sha256": "404d04cfdb77f2537d5cf4f9249bd7c8d265a303c73b7bf362af1f109c88299c"
+  },
+  {
+    "path": "assets/grey_roof_tiles/nor_gl.jpg",
+    "bytes": 1504796,
+    "sha256": "e91134466a2aec440eae42ccef20f7055d87bf8caac208555eb1f069578eb29a"
+  },
+  {
+    "path": "assets/island_tree_02/island_tree_02.bin",
+    "bytes": 40686576,
+    "sha256": "427d69ccc1ea12d1fb9c6af89691563b4a097f39a6f34c15be6e45ef5e5fd4ce"
+  },
+  {
+    "path": "assets/island_tree_02/island_tree_02.gltf",
+    "bytes": 8545,
+    "sha256": "134b85d69f89fa6ad84555999ea02ae28ddf4713d4672e18e03d5917fd43ae62"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_arm_2k.jpg",
+    "bytes": 2347246,
+    "sha256": "89e20810f614231578314846acff92821249f4124f4aa6e2f630df45d7acb6b2"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_branches_arm_2k.jpg",
+    "bytes": 1523257,
+    "sha256": "a39d8291ba54adf1ca42f15abe2f622d0ac59fb13c87087a0fabc755b91dfee8"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_branches_diff_2k.jpg",
+    "bytes": 1476655,
+    "sha256": "52cb2c660983836249e3f31ad286ca1bab8033e93070569b23e1867e3ae70b4d"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_branches_nor_gl_2k.jpg",
+    "bytes": 2437750,
+    "sha256": "e4cac77b4f35ad47ba4fcdb9061f91acf3318d9889dd259cb5e6e132b0ab60c7"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_diff_2k.jpg",
+    "bytes": 2684467,
+    "sha256": "2ca2706adc5bde6bc46fa4a4680041a1797cf6684a31629259559935a97e0057"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_leaves_arm_2k.jpg",
+    "bytes": 1645169,
+    "sha256": "cf4d604711d955d74a13b656bdbf840015ac38a71e24821849efade730634cc6"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_leaves_diff_2k.jpg",
+    "bytes": 661175,
+    "sha256": "e5c56ca13525aed76572852da5f69ae87cbee9e15abe2e1eff23adf92975f14a"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_leaves_nor_gl_2k.jpg",
+    "bytes": 1378585,
+    "sha256": "efa74b8b59a7466a295bf210505560002990183817b6c33663f3ec0dd438dd73"
+  },
+  {
+    "path": "assets/island_tree_02/textures/island_tree_02_nor_gl_2k.jpg",
+    "bytes": 4339456,
+    "sha256": "3b088058cd9c8759f1ee223fad90f860257f574ae2ba7401cd4982c687b853cf"
+  },
+  {
+    "path": "assets/island_tree_02.blend",
+    "bytes": 57150616,
+    "sha256": "62b81bb75234e53935d2455f9afe9a095f6631880fbf86dfa2236889838d9269"
+  },
+  {
+    "path": "assets/library.json",
+    "bytes": 6646,
+    "sha256": "f8220c7cb89cc56453fca969a8a83d1078a6544429a5101ba98cc68efa949725"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/pachira_aquatica_01.bin",
+    "bytes": 2036788,
+    "sha256": "a803777635a4744cc304bd936806242d8875430cc588295c9fa2792a64747c8e"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/pachira_aquatica_01.gltf",
+    "bytes": 13730,
+    "sha256": "2d42515bb30ecbeeebf19049ff7c7c702d9cd1996ad9b60df1ad40de1a725a29"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/textures/pachira_aquatica_01_bark_arm_2k.jpg",
+    "bytes": 1826058,
+    "sha256": "74d02f755dcfd87993d236163adb76146088526a2a984be379767cdfce57cda6"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/textures/pachira_aquatica_01_bark_diff_2k.jpg",
+    "bytes": 1928932,
+    "sha256": "00edc71207687a8fb1985e5f8f99309ff7e6b2c7a18819949037120126d94223"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/textures/pachira_aquatica_01_bark_nor_gl_2k.jpg",
+    "bytes": 2541964,
+    "sha256": "e4d6ebea2b74ed81ea4feed71a1ead8e0a7955c44d76d03ffcc45bf09e2b1a16"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/textures/pachira_aquatica_01_leaves_arm_2k.jpg",
+    "bytes": 1306823,
+    "sha256": "343639ae2e0f1577d76b9349ff6033454a5db0c1d5b7b9d6a905245105a912a5"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/textures/pachira_aquatica_01_leaves_diff_2k.jpg",
+    "bytes": 1036339,
+    "sha256": "2aba98e7553d9bb3186750df320b3543ddd4b26d6932e4d452eef64d6d1c7b37"
+  },
+  {
+    "path": "assets/pachira_aquatica_01/textures/pachira_aquatica_01_leaves_nor_gl_2k.jpg",
+    "bytes": 1682985,
+    "sha256": "d6593780f816dd901d0bf555c417d074067ea3c4a91be8f1171a504d7789e01d"
+  },
+  {
+    "path": "assets/pachira_aquatica_01.blend",
+    "bytes": 13101931,
+    "sha256": "4687dc99b051fcd4fc68df750c168673c62a3bc24f2823cd7f975964149f9355"
+  },
+  {
+    "path": "assets/palm_bark/Diffuse.jpg",
+    "bytes": 2942835,
+    "sha256": "5be19ff60fef0cbddb4381e345a76fdeabcc184d643efbf55f0b34ec687cf480"
+  },
+  {
+    "path": "assets/palm_bark/Displacement.jpg",
+    "bytes": 1590552,
+    "sha256": "15717e8751e4f32949bb5a8916a47655016fff80ff767e8f1973abe8c9420558"
+  },
+  {
+    "path": "assets/palm_bark/Rough.jpg",
+    "bytes": 1144620,
+    "sha256": "385d843d72193f1039fe9fa5ca521c0cc8ad335c9e456cff21beb727a36896cf"
+  },
+  {
+    "path": "assets/palm_bark/nor_gl.jpg",
+    "bytes": 5285941,
+    "sha256": "03aec0241647d43f3d14a7596bb54ba2d43d1f4cd3a28b5a880b4abd9bf08161"
+  },
+  {
+    "path": "assets/rock_moss_set_01/rock_moss_set_01.bin",
+    "bytes": 1466380,
+    "sha256": "de8360e6175879aaf02c171911069cf5f1852547f9ca7f10e440085dbcc3315e"
+  },
+  {
+    "path": "assets/rock_moss_set_01/rock_moss_set_01.gltf",
+    "bytes": 9987,
+    "sha256": "794beaf2f4dc0ab155114f286049dc912a8f3287520965ca8bf6bb0d821ae3e2"
+  },
+  {
+    "path": "assets/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+    "bytes": 649415,
+    "sha256": "bdee6da8baba67bd7e85e414e669cd46aab9afaf755114fb5163f0e68775c3d6"
+  },
+  {
+    "path": "assets/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg",
+    "bytes": 840957,
+    "sha256": "f11c238a203eebd5e82da3a50468040a78d25fd2e46783c4ad79b1022b144c0d"
+  },
+  {
+    "path": "assets/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+    "bytes": 293827,
+    "sha256": "a05a8bd9f2563cf55b738484b894671df7b2391aa02d66451366c5ad38077cd2"
+  },
+  {
+    "path": "assets/rock_moss_set_01.blend",
+    "bytes": 3926602,
+    "sha256": "b9bb64ce940959df5a46300b5a3167bf75a2344cf83ca97fd7d73ddf17c471aa"
+  },
+  {
+    "path": "assets/shrub_04/shrub_04.bin",
+    "bytes": 749084,
+    "sha256": "cb442c39682e54cc63f912aa78ab17a03566f947a61adbbbaaa6473166744f01"
+  },
+  {
+    "path": "assets/shrub_04/shrub_04.gltf",
+    "bytes": 2882,
+    "sha256": "4dee67a480bdcf0f63f3144aea4de00943833e18c576086ffc4ee7b9f82017ed"
+  },
+  {
+    "path": "assets/shrub_04/textures/shrub_04_arm_2k.jpg",
+    "bytes": 1005689,
+    "sha256": "030c84b34ed22469c281310d2b18c298892f78d25518be061e8f0fe22e7423d7"
+  },
+  {
+    "path": "assets/shrub_04/textures/shrub_04_diff_2k.jpg",
+    "bytes": 1202317,
+    "sha256": "a45e95f3c78c31a1d411c58232089bd472bb31ebe146ba4237c3f1a930f49fc9"
+  },
+  {
+    "path": "assets/shrub_04/textures/shrub_04_nor_gl_2k.jpg",
+    "bytes": 1428577,
+    "sha256": "dd2a0aea75996a390f10fd82aa24166263713d02c42ff68edaaaf7d0a884f5eb"
+  },
+  {
+    "path": "assets/shrub_04.blend",
+    "bytes": 4560892,
+    "sha256": "3b75700961cff93fb69bcd53cbe380f8d80e0214d5bd7cdfed89261c81ce68db"
+  },
+  {
+    "path": "assets/weathered_plank_siding/Diffuse.jpg",
+    "bytes": 2362951,
+    "sha256": "e34b0bd8e5f7c5dafd62001074115be28edf8fa88043650dbafef8c7b34b13e7"
+  },
+  {
+    "path": "assets/weathered_plank_siding/Displacement.jpg",
+    "bytes": 648380,
+    "sha256": "4f85abee7335b17a7bebec6e63154552dbce34f3ab1da80af7c28cd5ddd15fcd"
+  },
+  {
+    "path": "assets/weathered_plank_siding/Rough.jpg",
+    "bytes": 1604928,
+    "sha256": "a8480a4535da2778ec1208805038956bc71229813ee40ed4419be6a4e6c77854"
+  },
+  {
+    "path": "assets/weathered_plank_siding/nor_gl.jpg",
+    "bytes": 2507695,
+    "sha256": "e950b30c36fcea80e793116e9c83001c95c39725f4af4c3684fc29491d86d7ae"
+  }
+]

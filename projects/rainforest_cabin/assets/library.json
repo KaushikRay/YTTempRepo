@@ -1,0 +1,299 @@
+[
+  {
+    "asset": "fern_02",
+    "collection": "fern_02_a",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.5519406199455261,
+      0.6134210824966431,
+      0.28680354356765747
+    ],
+    "triangles": 784
+  },
+  {
+    "asset": "fern_02",
+    "collection": "fern_02_b",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.9897474050521851,
+      0.893689751625061,
+      0.427694708108902
+    ],
+    "triangles": 2384
+  },
+  {
+    "asset": "fern_02",
+    "collection": "fern_02_c",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.8743258118629456,
+      0.7652256488800049,
+      0.3490203619003296
+    ],
+    "triangles": 2248
+  },
+  {
+    "asset": "fern_02",
+    "collection": "fern_02_d",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.5727821588516235,
+      0.5932782888412476,
+      0.2130875587463379
+    ],
+    "triangles": 816
+  },
+  {
+    "asset": "calathea_orbifolia_01",
+    "collection": "calathea_orbifolia_01_a",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.6005999445915222,
+      0.5256276726722717,
+      0.42429426312446594
+    ],
+    "triangles": 5904
+  },
+  {
+    "asset": "calathea_orbifolia_01",
+    "collection": "calathea_orbifolia_01_b",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.347423791885376,
+      0.44028183817863464,
+      0.303202748298645
+    ],
+    "triangles": 3446
+  },
+  {
+    "asset": "calathea_orbifolia_01",
+    "collection": "calathea_orbifolia_01_c",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.3752182722091675,
+      0.3838396668434143,
+      0.2839772403240204
+    ],
+    "triangles": 3542
+  },
+  {
+    "asset": "calathea_orbifolia_01",
+    "collection": "calathea_orbifolia_01_d",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.22638532519340515,
+      0.1630842089653015,
+      0.13035880029201508
+    ],
+    "triangles": 1802
+  },
+  {
+    "asset": "calathea_orbifolia_01",
+    "collection": "calathea_orbifolia_01_e",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.2127925157546997,
+      0.2515547275543213,
+      0.15156462788581848
+    ],
+    "triangles": 1994
+  },
+  {
+    "asset": "anthurium_botany_01",
+    "collection": "anthurium_botany_01_a",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.8962162733078003,
+      1.1418907642364502,
+      0.49968433380126953
+    ],
+    "triangles": 15808
+  },
+  {
+    "asset": "anthurium_botany_01",
+    "collection": "anthurium_botany_01_b",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.75666743516922,
+      0.5716205835342407,
+      0.4717395007610321
+    ],
+    "triangles": 15544
+  },
+  {
+    "asset": "anthurium_botany_01",
+    "collection": "anthurium_botany_01_c",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.6009180545806885,
+      0.65739506483078,
+      0.35867899656295776
+    ],
+    "triangles": 9072
+  },
+  {
+    "asset": "anthurium_botany_01",
+    "collection": "anthurium_botany_01_d",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.48092740774154663,
+      0.3507418632507324,
+      0.30116552114486694
+    ],
+    "triangles": 10360
+  },
+  {
+    "asset": "anthurium_botany_01",
+    "collection": "anthurium_botany_01_e",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.31986743211746216,
+      0.2901274561882019,
+      0.1586053967475891
+    ],
+    "triangles": 7664
+  },
+  {
+    "asset": "anthurium_botany_01",
+    "collection": "anthurium_botany_01_f",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.3132340908050537,
+      0.2786651849746704,
+      0.1394515335559845
+    ],
+    "triangles": 8704
+  },
+  {
+    "asset": "pachira_aquatica_01",
+    "collection": "pachira_aquatica_01_a",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.7439080476760864,
+      0.6465188264846802,
+      1.3015092611312866
+    ],
+    "triangles": 23167
+  },
+  {
+    "asset": "pachira_aquatica_01",
+    "collection": "pachira_aquatica_01_b",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.5031452178955078,
+      0.6073569059371948,
+      0.7350473999977112
+    ],
+    "triangles": 5091
+  },
+  {
+    "asset": "pachira_aquatica_01",
+    "collection": "pachira_aquatica_01_c",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.9752868413925171,
+      0.9236830472946167,
+      1.1490381956100464
+    ],
+    "triangles": 20551
+  },
+  {
+    "asset": "pachira_aquatica_01",
+    "collection": "pachira_aquatica_01_d",
+    "height_normalized": 1,
+    "source_dimensions": [
+      1.0544602870941162,
+      0.9970420598983765,
+      1.9020075798034668
+    ],
+    "triangles": 28105
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "collection": "rock_moss_set_01_specimen_0",
+    "height_normalized": 1,
+    "source_dimensions": [
+      2.2376322746276855,
+      3.368804454803467,
+      1.4726980924606323
+    ],
+    "triangles": 11000
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "collection": "rock_moss_set_01_specimen_1",
+    "height_normalized": 1,
+    "source_dimensions": [
+      2.6553807258605957,
+      3.2637205123901367,
+      1.2619911432266235
+    ],
+    "triangles": 10996
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "collection": "rock_moss_set_01_specimen_2",
+    "height_normalized": 1,
+    "source_dimensions": [
+      2.1085824966430664,
+      2.079585552215576,
+      1.0996944904327393
+    ],
+    "triangles": 5000
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "collection": "rock_moss_set_01_specimen_3",
+    "height_normalized": 1,
+    "source_dimensions": [
+      2.127629280090332,
+      1.9647413492202759,
+      1.768319845199585
+    ],
+    "triangles": 10589
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "collection": "rock_moss_set_01_specimen_4",
+    "height_normalized": 1,
+    "source_dimensions": [
+      1.8173227310180664,
+      2.998663902282715,
+      1.2054507732391357
+    ],
+    "triangles": 16548
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "collection": "rock_moss_set_01_specimen_5",
+    "height_normalized": 1,
+    "source_dimensions": [
+      2.1259822845458984,
+      2.757303237915039,
+      1.261852741241455
+    ],
+    "triangles": 8994
+  },
+  {
+    "asset": "shrub_04",
+    "collection": "shrub_04_all",
+    "height_normalized": 1,
+    "source_dimensions": [
+      0.5836901664733887,
+      0.14609728753566742,
+      0.21919968724250793
+    ],
+    "triangles": 27327
+  },
+  {
+    "asset": "island_tree_02",
+    "collection": "island_tree_02_all",
+    "height_normalized": 1,
+    "source_dimensions": [
+      4.207745552062988,
+      4.07069730758667,
+      3.4066057205200195
+    ],
+    "triangles": 1072212
+  }
+]
