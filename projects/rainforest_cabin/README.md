@@ -3,10 +3,14 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-The small composition study below is preliminary. The first full-size still will
-be saved as `renders/first_still.png` after its render and inspection finish.
+## First still
 
-![Preliminary composition study](renders/composition.png)
+![First rainforest cabin still](renders/first_still.png)
+
+1920×1080, 128-sample Cycles render. This is the first still study, not an approved
+final photograph-quality scene. The earlier, smaller framing check remains in
+`renders/composition.png`. Read `renders/qa.json` for artifact checks and
+`research/portability.json` for the relocation check. No animation is rendered yet.
 
 ## First milestone
 
@@ -49,6 +53,7 @@ python scripts/prepare_assets.py
 python scripts/build_asset_library.py
 python scripts/render_supervised.py
 python scripts/check_delivery.py
+python scripts/check_portability.py
 ```
 
 The supervisor defaults to a 1920×1080, 128-sample Cycles CPU still. For a quick
@@ -76,3 +81,8 @@ approximation, not a fluid or droplet-collision simulation. Eave strands and rip
 rings in this still are static. Stream flow, splash timing, wind, rain wrap visibility
 and temporal denoising require the next moving test. There is no rendered video or
 audio for this new scene yet. Do not describe this still as finished ultra realism.
+
+Next review priorities: camera/framing and night mood first, then irregularity of
+the timber/roof, foreground palm realism, stream detail and visible rainfall.
+After those are satisfactory, animate rain, stream/runoff and restrained plant
+movement and render a short test before producing a long YouTube sequence.

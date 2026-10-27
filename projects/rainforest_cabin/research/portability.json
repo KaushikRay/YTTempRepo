@@ -1,0 +1,14 @@
+{
+  "relocated_libraries": [
+    "assets/anthurium_botany_01.blend",
+    "assets/calathea_orbifolia_01.blend",
+    "assets/fern_02.blend",
+    "assets/island_tree_02.blend",
+    "assets/pachira_aquatica_01.blend",
+    "assets/rock_moss_set_01.blend",
+    "assets/shrub_04.blend"
+  ],
+  "relocated_external_images": 16,
+  "render_output_relative": true,
+  "original_root_required": false
+}

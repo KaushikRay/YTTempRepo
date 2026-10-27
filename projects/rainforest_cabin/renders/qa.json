@@ -1,0 +1,52 @@
+{
+  "resolution": [
+    1920,
+    1080
+  ],
+  "cycles_samples": 128,
+  "missing_files": [],
+  "libraries": [
+    "assets/anthurium_botany_01.blend",
+    "assets/calathea_orbifolia_01.blend",
+    "assets/fern_02.blend",
+    "assets/island_tree_02.blend",
+    "assets/pachira_aquatica_01.blend",
+    "assets/rock_moss_set_01.blend",
+    "assets/shrub_04.blend"
+  ],
+  "rain_streak_count": 9112,
+  "rain_driver_spot_checks": [
+    {
+      "frame": 1,
+      "streaks_above_12m": 2370
+    },
+    {
+      "frame": 240,
+      "streaks_above_12m": 2407
+    },
+    {
+      "frame": 1440,
+      "streaks_above_12m": 2325
+    },
+    {
+      "frame": 14400,
+      "streaks_above_12m": 2449
+    }
+  ],
+  "render_sha256": "d40ded06acfb7332d6b2c88ff12fb228f8614a2d1e81b3d0a36da25bac278d55",
+  "blend_file_bytes": {
+    "rainforest_cabin.blend": 4439521,
+    "assets/calathea_orbifolia_01.blend": 5979698,
+    "assets/fern_02.blend": 3419400,
+    "assets/shrub_04.blend": 4560892,
+    "assets/island_tree_02.blend": 57150616,
+    "assets/pachira_aquatica_01.blend": 13101931,
+    "assets/rock_moss_set_01.blend": 3926602,
+    "assets/anthurium_botany_01.blend": 7908922
+  },
+  "still_only": true,
+  "rain_is_analytic_geometry_not_fluid_simulation": true,
+  "water_and_vegetation_motion_tested": false,
+  "photorealism_target_approved": false,
+  "user_reference_available_in_chat_only": true
+}
