@@ -4,14 +4,19 @@
       "model": "rainforest_cabin.blend",
       "relocated_libraries": [
         "assets/anthurium_botany_01.blend",
+        "assets/realism/bark_debris_01.blend",
         "assets/calathea_orbifolia_01.blend",
         "assets/fern_02.blend",
         "assets/island_tree_02.blend",
+        "assets/realism/moss_01.blend",
         "assets/pachira_aquatica_01.blend",
         "assets/rock_moss_set_01.blend",
-        "assets/shrub_04.blend"
+        "assets/realism/root_cluster_01.blend",
+        "assets/shrub_04.blend",
+        "assets/realism/wooden_bucket_01.blend",
+        "assets/realism/wooden_lantern_01.blend"
       ],
-      "relocated_external_images": 16,
+      "relocated_external_images": 29,
       "render_output_relative": true
     },
     {
@@ -26,6 +31,25 @@
         "assets/shrub_04.blend"
       ],
       "relocated_external_images": 16,
+      "render_output_relative": true
+    },
+    {
+      "model": "rainforest_hybrid.blend",
+      "relocated_libraries": [
+        "assets/anthurium_botany_01.blend",
+        "assets/realism/bark_debris_01.blend",
+        "assets/calathea_orbifolia_01.blend",
+        "assets/fern_02.blend",
+        "assets/island_tree_02.blend",
+        "assets/realism/moss_01.blend",
+        "assets/pachira_aquatica_01.blend",
+        "assets/rock_moss_set_01.blend",
+        "assets/realism/root_cluster_01.blend",
+        "assets/shrub_04.blend",
+        "assets/realism/wooden_bucket_01.blend",
+        "assets/realism/wooden_lantern_01.blend"
+      ],
+      "relocated_external_images": 24,
       "render_output_relative": true
     }
   ],

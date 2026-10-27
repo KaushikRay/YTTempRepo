@@ -1,0 +1,111 @@
+{
+  "root_cluster_01": {
+    "source": "https://polyhaven.com/a/root_cluster_01",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Jenelle van Heerden": "Photography",
+      "Rico Cilliers": "photography, processing"
+    }
+  },
+  "moss_01": {
+    "source": "https://polyhaven.com/a/moss_01",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "bark_debris_01": {
+    "source": "https://polyhaven.com/a/bark_debris_01",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Greg Zaal": "photography",
+      "Jenelle van Heerden": "modeling"
+    }
+  },
+  "wooden_bucket_01": {
+    "source": "https://polyhaven.com/a/wooden_bucket_01",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "James Ray Cock": "All"
+    }
+  },
+  "wooden_lantern_01": {
+    "source": "https://polyhaven.com/a/wooden_lantern_01",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "James Ray Cock": "All"
+    }
+  },
+  "weathered_planks": {
+    "source": "https://polyhaven.com/a/weathered_planks",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    }
+  },
+  "old_planks_02": {
+    "source": "https://polyhaven.com/a/old_planks_02",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "roof_planks": {
+    "source": "https://polyhaven.com/a/roof_planks",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "moss_wood": {
+    "source": "https://polyhaven.com/a/moss_wood",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "brown_mud_leaves_01": {
+    "source": "https://polyhaven.com/a/brown_mud_leaves_01",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "japanese_camphor_bark": {
+    "source": "https://polyhaven.com/a/japanese_camphor_bark",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    }
+  },
+  "river_small_rocks": {
+    "source": "https://polyhaven.com/a/river_small_rocks",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Rob Tuytel": "Photography, Processing",
+      "Rico Cilliers": "Minor adjustment"
+    }
+  },
+  "rainforest_trail": {
+    "source": "https://polyhaven.com/a/rainforest_trail",
+    "licence": "CC0 1.0",
+    "licence_url": "https://polyhaven.com/license",
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Jarod Guest": "Processing"
+    }
+  }
+}

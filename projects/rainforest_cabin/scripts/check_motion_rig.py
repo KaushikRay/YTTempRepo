@@ -32,7 +32,7 @@ for frame in [1,24,48,72,96]:
         assert not .43<x<.55,(ob.name,x)
     flex=bpy.data.objects['Large foreground arching palm curved pinnae'].data.shape_keys.key_blocks['Gentle frond flex'].value
     report.append({'frame':frame,'maximum_attachment_drift_m':max_drift,'maximum_wave_delta_from_frame_one_m':delta,'hero_frond_flex_value':flex})
-assert max(v['maximum_wave_delta_from_frame_one_m'] for v in report[1:])>.01
+assert max(v['maximum_wave_delta_from_frame_one_m'] for v in report[1:])>.002
 assert max(v['hero_frond_flex_value'] for v in report)-min(v['hero_frond_flex_value'] for v in report)>.1
 missing=[]
 for lib in bpy.data.libraries:

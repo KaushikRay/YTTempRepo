@@ -1,0 +1,13 @@
+{
+  "new_scan_libraries": [
+    "bark_debris_01",
+    "moss_01",
+    "root_cluster_01",
+    "wooden_bucket_01",
+    "wooden_lantern_01"
+  ],
+  "additional_rain_streaks": 10485,
+  "cabin_rotation_degrees": 13.178029288008934,
+  "hdr_lighting": "rainforest_trail CC0 photographic HDRI",
+  "full_photorealism_claimed": false
+}

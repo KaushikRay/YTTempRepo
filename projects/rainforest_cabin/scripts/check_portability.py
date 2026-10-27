@@ -7,9 +7,10 @@ with tempfile.TemporaryDirectory(prefix='rainforest-portability-',dir='/tmp') as
     dest=Path(temp)
     models=['rainforest_cabin.blend']
     if (root/'rainforest_motion.blend').exists():models.append('rainforest_motion.blend')
+    if (root/'rainforest_hybrid.blend').exists():models.append('rainforest_hybrid.blend')
     for model in models:shutil.copy2(root/model,dest/model)
     for path in (root/'assets').rglob('*'):
-        if path.is_file() and path.suffix in ['.blend','.jpg','.png']:
+        if path.is_file() and path.suffix in ['.blend','.jpg','.png','.hdr','.exr']:
             target=dest/path.relative_to(root);target.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(path,target)
     results=[]
     for model in models:
@@ -25,7 +26,7 @@ with tempfile.TemporaryDirectory(prefix='rainforest-portability-',dir='/tmp') as
                 assert path.is_relative_to(dest) and path.is_file(),path
                 images+=1
         output=bpy.context.scene.render.filepath
-        expected='//renders/clear_view_still.png' if model=='rainforest_cabin.blend' else '//renders/motion/frames/'
+        expected={'rainforest_cabin.blend':'//renders/realism_still.png','rainforest_motion.blend':'//renders/motion/frames/','rainforest_hybrid.blend':'//renders/hybrid_still.png'}[model]
         assert output==expected,output
         results.append({'model':model,'relocated_libraries':checked,'relocated_external_images':images,'render_output_relative':True})
     result={'models':results,'original_root_required':False}

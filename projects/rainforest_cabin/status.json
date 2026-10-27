@@ -1,10 +1,22 @@
 {
   "phase": "complete",
-  "updated_utc": "2026-10-27T14:22:04.682692+00:00",
-  "pid": 4941,
+  "pid": 9817,
+  "updated_utc": "2026-10-27T15:45:44Z",
+  "variant": "hybrid_generated_matte_and_3D_rain",
   "worker_running": false,
-  "completed_frames": 96,
-  "total_frames": 96,
-  "output": "renders/motion/preview.mp4",
-  "render_elapsed_seconds": 750.63
+  "output": "renders/hybrid_still.png",
+  "generated_matte": true,
+  "camera_photograph": false,
+  "plate_static": true,
+  "rain_rendered_in_3D": true,
+  "background_wind_or_water_animated": false,
+  "camera_locked": true,
+  "native_rain_objects": 19592,
+  "proxy_holdout_objects": 1905,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "samples": 48,
+  "source_model": "rainforest_cabin.blend"
 }

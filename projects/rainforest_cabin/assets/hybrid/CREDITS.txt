@@ -1,0 +1,5 @@
+AI-generated matte painting created with OpenAI image generation for this project. It is not a camera photograph.
+Composition reference: our modeled rainforest cabin render.
+Botanical photographic references (CC0, source/author records retained under research/forest_photographs):
+Daintree Rainforest 2.jpg, Palm branch.jpg.
+The matte is static; animated rain is rendered separately in Blender.

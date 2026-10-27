@@ -1,0 +1,192 @@
+[
+  {
+    "asset": "root_cluster_01",
+    "collection": "root_cluster_01 specimen 0",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      4.122708320617676,
+      2.682776689529419,
+      1.5092800855636597
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 0",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.01420710701495409,
+      0.015942692756652832,
+      0.025953780859708786
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 1",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.009499134495854378,
+      0.009515436366200447,
+      0.014765322208404541
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 2",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.01817997172474861,
+      0.014003116637468338,
+      0.02774728275835514
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 3",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.0135577991604805,
+      0.01563682034611702,
+      0.02671990543603897
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 4",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.011156484484672546,
+      0.012706980109214783,
+      0.02159985899925232
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 5",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.012769363820552826,
+      0.01301279291510582,
+      0.03005094639956951
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 6",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.012888193130493164,
+      0.009475123137235641,
+      0.021551840007305145
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 7",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.010677605867385864,
+      0.005749505944550037,
+      0.017582479864358902
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 8",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.01648317277431488,
+      0.012749314308166504,
+      0.014728115871548653
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 9",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.0166071355342865,
+      0.01879204995930195,
+      0.009005806408822536
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 10",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.021422863006591797,
+      0.011309957131743431,
+      0.033593837171792984
+    ]
+  },
+  {
+    "asset": "moss_01",
+    "collection": "moss_01 specimen 11",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.017697274684906006,
+      0.01176704466342926,
+      0.03722849488258362
+    ]
+  },
+  {
+    "asset": "bark_debris_01",
+    "collection": "bark_debris_01 specimen 0",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.1873619556427002,
+      0.3986740708351135,
+      0.06567719578742981
+    ]
+  },
+  {
+    "asset": "bark_debris_01",
+    "collection": "bark_debris_01 specimen 1",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.204243004322052,
+      0.4652753472328186,
+      0.08834315836429596
+    ]
+  },
+  {
+    "asset": "bark_debris_01",
+    "collection": "bark_debris_01 specimen 2",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.14690300822257996,
+      0.5715246796607971,
+      0.09762255847454071
+    ]
+  },
+  {
+    "asset": "bark_debris_01",
+    "collection": "bark_debris_01 specimen 3",
+    "normalized_dimension": "width",
+    "source_dimensions": [
+      0.13772225379943848,
+      0.6057804822921753,
+      0.10910111665725708
+    ]
+  },
+  {
+    "asset": "wooden_bucket_01",
+    "collection": "wooden_bucket_01 specimen 0",
+    "normalized_dimension": "height",
+    "source_dimensions": [
+      0.36697083711624146,
+      0.342221200466156,
+      0.5498623847961426
+    ]
+  },
+  {
+    "asset": "wooden_lantern_01",
+    "collection": "wooden_lantern_01 specimen 0",
+    "normalized_dimension": "height",
+    "source_dimensions": [
+      0.22104808688163757,
+      0.23472441732883453,
+      0.5301365852355957
+    ]
+  }
+]

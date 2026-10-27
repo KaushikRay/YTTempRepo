@@ -1,0 +1,30 @@
+{
+  "image_checks": {
+    "realism_still.png": {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "sha256": "3ff308593396824d7578f42c48bd2e24094fd4a81ea276187d88bccf23f62304"
+    },
+    "hybrid_still.png": {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "sha256": "da1e15669998fa255c0e91f54c3b2918012e97995140259f98b93dbc84d59f05"
+    }
+  },
+  "rain_layer_sha256": "104c17a0f19b23a4be68346ce39f51dae730c4202a1db40b6998fd35af1f5a53",
+  "rain_layer_nonzero_alpha_fraction": 0.08693769290123454,
+  "hybrid_generated_plate": true,
+  "hybrid_plate_static": true,
+  "hybrid_camera_locked": true,
+  "hybrid_background_wind_water_animated": false,
+  "hybrid_plate_native_resolution": [
+    1672,
+    941
+  ],
+  "new_motion_clip_rendered": false,
+  "final_photorealism_claimed": false
+}

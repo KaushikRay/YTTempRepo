@@ -359,6 +359,7 @@ box('Forest depth mist',(0,29,10),(48,39,22),fogmat,0)
 bpy.ops.object.camera_add(location=(0,-8,2.65));cam=bpy.context.object;cam.name='Sheltered porch reference camera';target=Vector((.8,10,3.3));cam.rotation_euler=(target-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.lens=33;cam.data.sensor_width=36;s.camera=cam
 cam.data.dof.use_dof=False
 exec(compile((ROOT/'scripts'/'clear_central_view.py').read_text(),str(ROOT/'scripts'/'clear_central_view.py'),'exec'))
+exec(compile((ROOT/'scripts'/'realism_pass.py').read_text(),str(ROOT/'scripts'/'realism_pass.py'),'exec'))
 s.render.engine='CYCLES';s.cycles.device='CPU';s.cycles.samples=int(os.environ.get('SAMPLES','32'));s.cycles.use_denoising=True
 s.cycles.max_bounces=8;s.cycles.diffuse_bounces=3;s.cycles.glossy_bounces=4;s.cycles.transmission_bounces=6;s.cycles.transparent_max_bounces=20;s.cycles.use_adaptive_sampling=True;s.cycles.adaptive_threshold=.035;s.cycles.adaptive_min_samples=16
 s.render.threads_mode='FIXED';s.render.threads=6;s.render.resolution_x=int(os.environ.get('WIDTH','960'));s.render.resolution_y=round(s.render.resolution_x*9/16);s.render.resolution_percentage=100

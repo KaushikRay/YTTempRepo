@@ -1,0 +1,16 @@
+{
+  "generated_matte": true,
+  "camera_photograph": false,
+  "plate_static": true,
+  "rain_rendered_in_3D": true,
+  "background_wind_or_water_animated": false,
+  "camera_locked": true,
+  "native_rain_objects": 19592,
+  "proxy_holdout_objects": 1905,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "samples": 48,
+  "source_model": "rainforest_cabin.blend"
+}

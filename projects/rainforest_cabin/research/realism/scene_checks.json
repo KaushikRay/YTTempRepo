@@ -1,0 +1,90 @@
+{
+  "missing_files": [],
+  "linked_libraries": [
+    "assets/anthurium_botany_01.blend",
+    "assets/realism/bark_debris_01.blend",
+    "assets/calathea_orbifolia_01.blend",
+    "assets/fern_02.blend",
+    "assets/island_tree_02.blend",
+    "assets/realism/moss_01.blend",
+    "assets/pachira_aquatica_01.blend",
+    "assets/rock_moss_set_01.blend",
+    "assets/realism/root_cluster_01.blend",
+    "assets/shrub_04.blend",
+    "assets/realism/wooden_bucket_01.blend",
+    "assets/realism/wooden_lantern_01.blend"
+  ],
+  "render_resolution": [
+    1920,
+    1080
+  ],
+  "max_samples": 128,
+  "support_contact_checks": [
+    {
+      "object": "Cabin timber stilt",
+      "base_above_actual_terrain_m": -0.04395204782485962
+    },
+    {
+      "object": "Cabin timber stilt.001",
+      "base_above_actual_terrain_m": -0.05040264129638672
+    },
+    {
+      "object": "Cabin timber stilt.002",
+      "base_above_actual_terrain_m": -0.01832759380340576
+    },
+    {
+      "object": "Cabin timber stilt.003",
+      "base_above_actual_terrain_m": -0.04536271095275879
+    },
+    {
+      "object": "Cabin timber stilt.004",
+      "base_above_actual_terrain_m": -0.049829721450805664
+    },
+    {
+      "object": "Cabin timber stilt.005",
+      "base_above_actual_terrain_m": -0.03844189643859863
+    },
+    {
+      "object": "Cabin timber stilt.006",
+      "base_above_actual_terrain_m": -0.052049875259399414
+    },
+    {
+      "object": "Cabin timber stilt.007",
+      "base_above_actual_terrain_m": -0.04461568593978882
+    },
+    {
+      "object": "Cabin timber stilt.008",
+      "base_above_actual_terrain_m": -0.03157073259353638
+    }
+  ],
+  "scan_and_ground_detail_counts": {
+    "Scanned exposed bank roots": 27,
+    "Fine bank moss colony": 184,
+    "Irregular fallen bark and litter": 73,
+    "Broken whitewater over stone ledge": 3,
+    "Natural stone creek ledge": 12,
+    "Layered forest regrowth": 161
+  },
+  "rain_streaks_total": 19592,
+  "rain_streaks_visible": 19410,
+  "photographic_hdri": "rainforest_trail",
+  "cabin_rotation_degrees": 13.178,
+  "full_photorealism_approved": false,
+  "still_scene_only": true,
+  "file_sizes": {
+    "rainforest_cabin.blend": 24109363,
+    "rainforest_motion.blend": 26356973,
+    "assets/anthurium_botany_01.blend": 26113059,
+    "assets/calathea_orbifolia_01.blend": 25316976,
+    "assets/fern_02.blend": 13495260,
+    "assets/island_tree_02.blend": 57288500,
+    "assets/pachira_aquatica_01.blend": 13265411,
+    "assets/rock_moss_set_01.blend": 3925827,
+    "assets/shrub_04.blend": 13912667,
+    "assets/realism/wooden_lantern_01.blend": 14138468,
+    "assets/realism/root_cluster_01.blend": 21248572,
+    "assets/realism/wooden_bucket_01.blend": 8628289,
+    "assets/realism/moss_01.blend": 3376251,
+    "assets/realism/bark_debris_01.blend": 18843551
+  }
+}

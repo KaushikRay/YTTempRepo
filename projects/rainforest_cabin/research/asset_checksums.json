@@ -195,6 +195,21 @@
     "sha256": "e91134466a2aec440eae42ccef20f7055d87bf8caac208555eb1f069578eb29a"
   },
   {
+    "path": "assets/hybrid/CREDITS.txt",
+    "bytes": 395,
+    "sha256": "04de71278e536486f885341e32de71af3724eb7d431e04898c5486fd092a8640"
+  },
+  {
+    "path": "assets/hybrid/matte_plate.png",
+    "bytes": 3273107,
+    "sha256": "a126f4a8d6e7a4f9aaeca9a5de7faacc5d05e6362b6e6eddd5886283a7082dc9"
+  },
+  {
+    "path": "assets/hybrid/provenance.json",
+    "bytes": 480,
+    "sha256": "e4c5eafaf0b9abd1f103c020ca5713bb1921a9a6eb198a5f8262b43674510166"
+  },
+  {
     "path": "assets/island_tree_02/hero_maps/leaves_alpha.png",
     "bytes": 139077,
     "sha256": "30c36ae0d9023400035f0af9d336ed5f73a84bf8a88c8e2bec8faa07d725992b"
@@ -333,6 +348,331 @@
     "path": "assets/palm_bark/nor_gl.jpg",
     "bytes": 5285941,
     "sha256": "03aec0241647d43f3d14a7596bb54ba2d43d1f4cd3a28b5a880b4abd9bf08161"
+  },
+  {
+    "path": "assets/realism/CREDITS.txt",
+    "bytes": 686,
+    "sha256": "d77bee4f5cb37483b4da4d578ddb3bd41dabe26441e2dabf40283145734fe962"
+  },
+  {
+    "path": "assets/realism/bark_debris_01/bark_debris_01.bin",
+    "bytes": 4869268,
+    "sha256": "c22b98d6c42741cf9002b237c386d62e10fb90ce11210d974ae179bba9490a17"
+  },
+  {
+    "path": "assets/realism/bark_debris_01/bark_debris_01.gltf",
+    "bytes": 7646,
+    "sha256": "c2c414e9e7753f27cefae9b7c4836ff5ffd1d878cd0230fc6555175d11945ac5"
+  },
+  {
+    "path": "assets/realism/bark_debris_01/textures/bark_debris_01_arm_2k.jpg",
+    "bytes": 3592125,
+    "sha256": "8e95b2e46ddd4cb86db2a780fe52d469f257d1300e65a9679feb3513c8fe29c8"
+  },
+  {
+    "path": "assets/realism/bark_debris_01/textures/bark_debris_01_diff_2k.jpg",
+    "bytes": 3606750,
+    "sha256": "3b76826f9e544bdbeab91512d8342973e344e42e15cc5a8d4e33accaf02ef3f6"
+  },
+  {
+    "path": "assets/realism/bark_debris_01/textures/bark_debris_01_nor_gl_2k.jpg",
+    "bytes": 4595313,
+    "sha256": "548cdd16ab944d31c35e3c1e83c4a5f4ae5acf44cb3a4064267dee0766e5f53f"
+  },
+  {
+    "path": "assets/realism/bark_debris_01.blend",
+    "bytes": 18843551,
+    "sha256": "66f2582a228918ed972b6d93b5ddf659016676bf3c325b80a0a2a91a03a64df1"
+  },
+  {
+    "path": "assets/realism/brown_mud_leaves_01/Diffuse.jpg",
+    "bytes": 15548852,
+    "sha256": "bfca3a9db391ac14750705d6903daaf09e221baa2e60e97836efb8a4d3e230a4"
+  },
+  {
+    "path": "assets/realism/brown_mud_leaves_01/Displacement.jpg",
+    "bytes": 5168875,
+    "sha256": "6d7f6ecf341ffc76a2732eb010915e1235a32f8f5bca0c66150c470d8bcd11ff"
+  },
+  {
+    "path": "assets/realism/brown_mud_leaves_01/Rough.jpg",
+    "bytes": 8153591,
+    "sha256": "19aa8f52643566d2f5ab7ed028a7e731da372ad3241c3590de8e2221c9db8401"
+  },
+  {
+    "path": "assets/realism/brown_mud_leaves_01/nor_gl.jpg",
+    "bytes": 19842690,
+    "sha256": "6404b1cc9d118a7127391a2a52274816b976a18a34bb709dc8e722fe17ccdcfd"
+  },
+  {
+    "path": "assets/realism/japanese_camphor_bark/Diffuse.jpg",
+    "bytes": 16951494,
+    "sha256": "7a036b29020d05d91f18416c212945ca26aebeafde9a9d4447f9d411a3f7de9e"
+  },
+  {
+    "path": "assets/realism/japanese_camphor_bark/Displacement.jpg",
+    "bytes": 5615493,
+    "sha256": "b3f31d653206cf01886946eac92a4aa18d526bb687f9ebb81cd5cc9df4f454c9"
+  },
+  {
+    "path": "assets/realism/japanese_camphor_bark/Rough.jpg",
+    "bytes": 9578969,
+    "sha256": "ccba148fb9b5840a2097e304c110d841d3aed5dc3759b66379e8a56cab77385c"
+  },
+  {
+    "path": "assets/realism/japanese_camphor_bark/nor_gl.jpg",
+    "bytes": 17256786,
+    "sha256": "5973fdea6f8dcf9a71cac0397ab8f4d67df802069307c117d0c95eae6022b1df"
+  },
+  {
+    "path": "assets/realism/library.json",
+    "bytes": 4357,
+    "sha256": "73427e827aca26240a5ac2dd7e4f20ac36ea20fc641c170ae4678d001d7bbfcd"
+  },
+  {
+    "path": "assets/realism/moss_01/Alpha.png",
+    "bytes": 167941,
+    "sha256": "43b8d86ec306f39bc9c896906d16aadfb20d00c1c773c9bcdc3122b6eff8a6d0"
+  },
+  {
+    "path": "assets/realism/moss_01/moss_01.bin",
+    "bytes": 7260,
+    "sha256": "440e3cadbd93ad383cdbb9b4c17c3236774924c33ff62ac409ab00b8ed622861"
+  },
+  {
+    "path": "assets/realism/moss_01/moss_01.gltf",
+    "bytes": 18481,
+    "sha256": "16c490f2d8c932d85455a6943b0a45283fb867669d6139054b2b7951d66fe13a"
+  },
+  {
+    "path": "assets/realism/moss_01/textures/moss_01_arm_2k.jpg",
+    "bytes": 1095803,
+    "sha256": "91d01f1f37d3bc1ce9b699878dc42bd5ca7cf5508b8513607f900e643237b561"
+  },
+  {
+    "path": "assets/realism/moss_01/textures/moss_01_diff_2k.jpg",
+    "bytes": 511727,
+    "sha256": "75acf965b37418e1f35401a307d759bb2f7171f231e88e0c327f94d142d2499a"
+  },
+  {
+    "path": "assets/realism/moss_01/textures/moss_01_nor_gl_2k.jpg",
+    "bytes": 1632699,
+    "sha256": "1d8489019937af3dd4c72b6a187c84baa166d18b6712fcbb037034e04c6182e7"
+  },
+  {
+    "path": "assets/realism/moss_01.blend",
+    "bytes": 3376251,
+    "sha256": "a2d85ccee26517aa271fd9ff7ff3c4e18ed642d6b2cbe4c5728f0aca5c675e18"
+  },
+  {
+    "path": "assets/realism/moss_wood/Diffuse.jpg",
+    "bytes": 12411823,
+    "sha256": "cacc91f050ecc9acc20b021f7f086e70133dacfcefe2656228155fa92072c51b"
+  },
+  {
+    "path": "assets/realism/moss_wood/Displacement.jpg",
+    "bytes": 1282440,
+    "sha256": "e06917153966941d84cb6ac2c54d8fb6858a1a74198da5b21dc88b953ff564d5"
+  },
+  {
+    "path": "assets/realism/moss_wood/Rough.jpg",
+    "bytes": 5073500,
+    "sha256": "451e7edbebe42606d3cec718e7bf78684acc7c0cb77cd1efbfe9c29a8a1b8f8a"
+  },
+  {
+    "path": "assets/realism/moss_wood/nor_gl.jpg",
+    "bytes": 9447024,
+    "sha256": "9d523bc8efcfb2b9d8a408d70a98cfe9a5fb69528174bac17b884369266dae83"
+  },
+  {
+    "path": "assets/realism/old_planks_02/Diffuse.jpg",
+    "bytes": 5611525,
+    "sha256": "de4e21a05282a1c6a2ef057ededb80d93f68022776cc0e49d260cc6fce59db64"
+  },
+  {
+    "path": "assets/realism/old_planks_02/Displacement.jpg",
+    "bytes": 1308296,
+    "sha256": "f16f3d7e732a1317d1be521ed0803f7f06f4e9682b9f8ca3f5d7847d104c2fe5"
+  },
+  {
+    "path": "assets/realism/old_planks_02/Rough.jpg",
+    "bytes": 4195458,
+    "sha256": "23490ecc960af0082c03b49aabbdbfba6a1d1057c3c1e1ff8eb49dceb994370c"
+  },
+  {
+    "path": "assets/realism/old_planks_02/nor_gl.jpg",
+    "bytes": 8216460,
+    "sha256": "e1683b4e4e3cdd17a369fdf2e1fc3d889b439744a5b980af98945ac3eea4884d"
+  },
+  {
+    "path": "assets/realism/rainforest_trail/rainforest_trail.hdr",
+    "bytes": 7671316,
+    "sha256": "2e90cae8db4d85d50040d4e57bd1448d7ddc29d2f795c902896763fd4011cee0"
+  },
+  {
+    "path": "assets/realism/river_small_rocks/Diffuse.jpg",
+    "bytes": 13879561,
+    "sha256": "b147d868f87a48c93b1a459b06cd8924a02fb72ba4b4d267d2b0f36e05571b77"
+  },
+  {
+    "path": "assets/realism/river_small_rocks/Displacement.jpg",
+    "bytes": 2251892,
+    "sha256": "1c9b213adcffc206032c25b71e7356ed43c97ed4c78aad56df972dddb4de278a"
+  },
+  {
+    "path": "assets/realism/river_small_rocks/Rough.jpg",
+    "bytes": 9049176,
+    "sha256": "b46ebe0365c8b45750ab7f7365fa498259ae0bb1c8c4c26688e9310a69106421"
+  },
+  {
+    "path": "assets/realism/river_small_rocks/nor_gl.jpg",
+    "bytes": 17450396,
+    "sha256": "3a875bb984f0c7dbb50671ad6facc530017ea646180ed2acb30e37440312077c"
+  },
+  {
+    "path": "assets/realism/roof_planks/Diffuse.jpg",
+    "bytes": 9393645,
+    "sha256": "861863c560f43fa3640735deaf97da3f57bd1755c6fa19030116bfda0688655f"
+  },
+  {
+    "path": "assets/realism/roof_planks/Displacement.jpg",
+    "bytes": 4036941,
+    "sha256": "29c3d67c49f613b15de0128c2f65f6029a829bffaafdc99c2da1857910bffa57"
+  },
+  {
+    "path": "assets/realism/roof_planks/Rough.jpg",
+    "bytes": 3529653,
+    "sha256": "aa9b849d913cd57f0065245987ae57f870384b39f162d1d9cd100b592c289164"
+  },
+  {
+    "path": "assets/realism/roof_planks/nor_gl.jpg",
+    "bytes": 10653478,
+    "sha256": "2b77a909657a07d4f5e7054afbaf43bdeac91a2186c504a9c4a13b29799bb1ae"
+  },
+  {
+    "path": "assets/realism/root_cluster_01/root_cluster_01.bin",
+    "bytes": 6464764,
+    "sha256": "8f91654c0b72edf978082e8edf97bf3f0cde72027a8a4d8d5e6c1b84231b5f93"
+  },
+  {
+    "path": "assets/realism/root_cluster_01/root_cluster_01.gltf",
+    "bytes": 2827,
+    "sha256": "717260412178f3f6acf35807aee807d9eafc24334dbf50a0bedbaee3edf6c473"
+  },
+  {
+    "path": "assets/realism/root_cluster_01/textures/root_cluster_01_arm_2k.jpg",
+    "bytes": 3297801,
+    "sha256": "c3b50240f0bb5c566cfd2979d0ba2500f7b9eb409eb6a4b2fb6d199b4b60cc3e"
+  },
+  {
+    "path": "assets/realism/root_cluster_01/textures/root_cluster_01_diff_2k.jpg",
+    "bytes": 3014259,
+    "sha256": "c507a97e770a69023cc8f73faada0ca40c69c4be23b96e91f2aca198de79186f"
+  },
+  {
+    "path": "assets/realism/root_cluster_01/textures/root_cluster_01_nor_gl_2k.jpg",
+    "bytes": 5418365,
+    "sha256": "d9727aae2d3a3b5a6823a255635a16a1c332758ddf51da851f237662799bb972"
+  },
+  {
+    "path": "assets/realism/root_cluster_01.blend",
+    "bytes": 21248572,
+    "sha256": "965ad97c8254dfe45f6c971a48d21aa32c462f0f31d2e4d6abbe551575d2b509"
+  },
+  {
+    "path": "assets/realism/weathered_planks/Diffuse.jpg",
+    "bytes": 9162106,
+    "sha256": "e270daa7ac5aed9d8c0f55e1bdccb219405ec581d4fabce9eda8785acf5df484"
+  },
+  {
+    "path": "assets/realism/weathered_planks/Displacement.jpg",
+    "bytes": 2125168,
+    "sha256": "04eb82a779eef6cc52e949d4996d8d7f33fe8492b3fa695224289157bc73ed04"
+  },
+  {
+    "path": "assets/realism/weathered_planks/Rough.jpg",
+    "bytes": 3967591,
+    "sha256": "ba6a0db5c819717792d9727565259c310dd2d55a2a4996258491e8115e581bef"
+  },
+  {
+    "path": "assets/realism/weathered_planks/nor_gl.jpg",
+    "bytes": 14750434,
+    "sha256": "61f8e3cf3bcdfc208f70b373883e07ce6136e96b9700d92862fbe50de4905fd7"
+  },
+  {
+    "path": "assets/realism/wooden_bucket_01/textures/wooden_bucket_01_arm_2k.jpg",
+    "bytes": 2758514,
+    "sha256": "7db02f629d749be87377661df227d4872472c566dec0592ca7e447a95f7305d3"
+  },
+  {
+    "path": "assets/realism/wooden_bucket_01/textures/wooden_bucket_01_diff_2k.jpg",
+    "bytes": 2656660,
+    "sha256": "81c56fadd487ed6ee106f2c02fda074851df3935a3780862e7237f2832475179"
+  },
+  {
+    "path": "assets/realism/wooden_bucket_01/textures/wooden_bucket_01_nor_gl_2k.jpg",
+    "bytes": 2926119,
+    "sha256": "842de72ec1638dc1cca8656dccef0bf4aa7455d08acb49da297fee2e0247599f"
+  },
+  {
+    "path": "assets/realism/wooden_bucket_01/wooden_bucket_01.bin",
+    "bytes": 158408,
+    "sha256": "7dbce867270cbb1efe7b0970ebeb9b0d40dd53bcb62f57bfa541c04726ed4b7e"
+  },
+  {
+    "path": "assets/realism/wooden_bucket_01/wooden_bucket_01.gltf",
+    "bytes": 4248,
+    "sha256": "00fbe1118716d6dff68b08b88a2b630b458e0fae219fc4c183aecc0612367538"
+  },
+  {
+    "path": "assets/realism/wooden_bucket_01.blend",
+    "bytes": 8628289,
+    "sha256": "89680b50835514efb7c0f75a1d2e89be5dcc7174f41627e3b9ea9709ad0cdb1c"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01/textures/wooden_lantern_01_arm_2k.jpg",
+    "bytes": 3113676,
+    "sha256": "91f36a21a9322d40aeb13b75d0d3e015f8c44b842b528369562c2dc1f7ddef68"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01/textures/wooden_lantern_01_diff_2k.jpg",
+    "bytes": 2755465,
+    "sha256": "52273b03dda90f3e703e2a524817cf7c46b726e7a2011c84e1c02cb94ef8f777"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01/textures/wooden_lantern_01_glass_arm_2k.jpg",
+    "bytes": 2150139,
+    "sha256": "be21ec21910483063763eb67ac5d64e9648297887c6ce65234f9f48afb1bb62c"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01/textures/wooden_lantern_01_glass_diff_2k.jpg",
+    "bytes": 1620643,
+    "sha256": "989446236405daa5251dca8126d68bbadb8d9aa17abf1dd3731e0abcccddd94a"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01/textures/wooden_lantern_01_glass_nor_gl_2k.jpg",
+    "bytes": 1029036,
+    "sha256": "6940dcd22bc21d0410838e432e4f66430bdb90a79576a61d2385850fab928efa"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01/textures/wooden_lantern_01_nor_gl_2k.jpg",
+    "bytes": 3047934,
+    "sha256": "375040c774f89483879b5790923c843749d30955be219109243bc031fa96cf65"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01/wooden_lantern_01.bin",
+    "bytes": 268136,
+    "sha256": "65c6b1a776c66d4170dab3657f0809b1a8a88219507589d6c9aad70ffbe687a3"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01/wooden_lantern_01.gltf",
+    "bytes": 9540,
+    "sha256": "6f92eae1fa0286ab2efa7a9ac39966fc7ae8ca71e27fdb01260c07bf9055656f"
+  },
+  {
+    "path": "assets/realism/wooden_lantern_01.blend",
+    "bytes": 14138468,
+    "sha256": "4b4c8c506b29afdef330b0a420c64584d29b45aa025ba6174a3b2b65f511d386"
   },
   {
     "path": "assets/rock_moss_set_01/rock_moss_set_01.bin",

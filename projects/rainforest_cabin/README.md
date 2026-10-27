@@ -3,22 +3,36 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## Current clear-view still and motion test
+## Current heavy refinement — two clearly labelled variants
 
-![Clear central cabin view](renders/clear_view_still.png)
+![Hybrid Blender still: generated static matte and 3D rain](renders/hybrid_still.png)
 
-1920×1080, up to 128 Cycles samples with adaptive sampling. The isolated central
-palm and five bare trunks are relocated into the side forest. The camera and
-porch framing remain fixed. Earlier stills remain in `renders/first_still.png`
-and `renders/foliage_still.png`.
+[Hybrid Blender still](renders/hybrid_still.png): a generated photographic-style
+static matte with separately rendered 3D rain and depth holdouts. The cabin,
+detailed foliage and stream in the matte are currently static; they require
+separate animation layers for a video. The camera is locked. This is not a camera
+photograph or a fully modeled version of the detailed backdrop.
+
+[Rebuilt modeled 3D still](renders/realism_still.png): photographic forest lighting,
+weathered 4K materials, angled cabin, interior depth, scanned ground detail and
+shallow stone riffles. This version still reads as a constructed scene and has
+not met the final realism target.
+
+[Detailed changes, sources and limits](research/realism/review.md)
+· [Comparison of the two current approaches](renders/realism_variants.jpg)
+
+Source files: `rainforest_cabin.blend` (modeled) and `rainforest_hybrid.blend`
+(generated static matte + native 3D rain). All earlier stills are retained.
+
+## Previous motion diagnostic
 
 [Watch the four-second motion test](renders/motion/preview.mp4)
 · [Placement, motion details and checks](research/tree-and-motion.md)
 
-The motion test is silent, 640×360, native 24 fps / 96 frames. It checks falling
+This historical motion test is silent, 640×360, native 24 fps / 96 frames. It checks falling
 rain, gentle leaf sway/flex, creek movement, expanding ripples and eave runoff.
-It is a preview, not final YouTube quality or a seamless loop. Current artifact
-checks are `renders/qa_clear_view.json` and `renders/motion/qa.json`.
+It belongs to the previous scene revision and does not show the current rebuilt
+or hybrid variants. It is not final YouTube quality or a seamless loop.
 
 [Real-photograph reference board](research/forest_photographs/reference_board.jpg)
 · [Photograph credits and licences](research/forest_photographs/CREDITS.md)
@@ -70,16 +84,16 @@ From this project directory:
 ```sh
 python scripts/prepare_assets.py
 python scripts/build_asset_library.py
+python scripts/prepare_realism_assets.py
+python scripts/build_realism_library.py
 python scripts/render_supervised.py
-python scripts/setup_motion.py
-python scripts/check_motion_rig.py
-python scripts/render_motion.py
-python scripts/check_motion_visual.py
-python scripts/check_delivery.py
+python scripts/check_realism_scene.py
+python scripts/render_hybrid.py
+python scripts/check_realism_output.py
 python scripts/check_portability.py
 ```
 
-The supervisor defaults to `renders/clear_view_still.png`, a 1920×1080, up-to-128-sample Cycles CPU still. For a quick
+The supervisor defaults to `renders/realism_still.png`, a 1920×1080, up-to-128-sample Cycles CPU still. For a quick
 composition diagnostic, use `WIDTH=640 SAMPLES=24 OUTPUT=composition.png` before
 the supervisor command. It writes `status.json` and `logs/render.log`. All output
 is under this project. The final scene is `rainforest_cabin.blend`; download this

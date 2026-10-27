@@ -1,0 +1,16 @@
+{
+  "source": "OpenAI image generation",
+  "generated": true,
+  "camera_photograph": false,
+  "original_preserved": "/workspace/generated_images/exec-bed0b241-a94c-487f-8d29-c0de1c1e8d3e.png",
+  "local_sha256": "a126f4a8d6e7a4f9aaeca9a5de7faacc5d05e6362b6e6eddd5886283a7082dc9",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "references": [
+    "renders/realism_still.png",
+    "research/forest_photographs/understory-1.jpg",
+    "research/forest_photographs/whole-palm-14.jpg"
+  ]
+}

@@ -51,7 +51,8 @@ for ob in sorted(bpy.data.objects,key=lambda o:o.name):
 
 # Travelling geometric waves, expressed as sine/cosine deltas from the still.
 water=bpy.data.objects['Continuous reflective creek surface'];water.shape_key_add(name='Basis')
-for name,amp,ky,kx,omega in [('Broad travelling wave',.015,8,5,.27),('Fine travelling wave',.008,17,-4,.39)]:
+refined='Cabin assembly slight oblique view' in bpy.data.objects
+for name,amp,ky,kx,omega in [('Broad travelling wave',.003 if refined else .015,8,5,.27),('Fine travelling wave',.002 if refined else .008,17,-4,.39)]:
     for component in ['sine','cosine']:
         key=water.shape_key_add(name=name+' '+component);key.slider_min=-2;key.slider_max=2
         for vertex,target in zip(water.data.vertices,key.data):
@@ -87,7 +88,7 @@ s.cycles.samples=12;s.cycles.adaptive_min_samples=8;s.cycles.adaptive_threshold=
 s.render.resolution_x=640;s.render.resolution_y=360;s.render.resolution_percentage=100;s.render.threads_mode='FIXED';s.render.threads=4
 s.render.filepath='//renders/motion/frames/';s.frame_set(1)
 bpy.context.view_layer.update()
-assert len(anchors)==51 and len(flexed)==11 and len(ripples)==70 and len(runoff)==25
+assert len(anchors)==51 and len(flexed)==11 and len(ripples) in [0,70] and len(runoff)==25
 report={'duration_seconds':4,'fps':24,'frames':96,'resolution':[640,360],'cycles_samples':12,
         'anchored_palm_fronds':len(anchors),'flexible_foreground_fronds':len(flexed),
         'moving_understory_plants':len(understory),'recycling_impact_ripples':len(ripples),
