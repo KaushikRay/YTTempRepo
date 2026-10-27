@@ -3,3 +3,5 @@ __pycache__/
 *.blend1
 renders/motion/frames/
 renders/clear_view_diagnostic.png
+renders/hybrid_motion/frames/
+renders/hybrid_motion/diagnostic.png

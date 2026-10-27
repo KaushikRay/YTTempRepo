@@ -1,0 +1,12 @@
+Generated layered scene assets, not camera photographs or footage.
+Provider: OpenAI image generation, created for this project from our generated
+rainforest_cabin/assets/hybrid/matte_plate.png composition.
+
+clean_background.png: foreground palms removed and hidden background inpainted.
+foreground_palms.png: transparent photographic-style foreground frond layer.
+Original generation files are retained at the paths in provenance.json.
+No third-party footage, music, or additional stock photograph was incorporated.
+The preceding matte's CC0 botanical references are documented in assets/hybrid/.
+
+Animation, camera-plane geometry, native optical rain, water UV effects and
+eave/impact animation are created in Blender by this project's source scripts.

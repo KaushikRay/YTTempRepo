@@ -1,0 +1,29 @@
+{
+  "method": "AI-generated layers from approved generated matte, not camera photographs",
+  "files": [
+    {
+      "file": "foreground_palms.png",
+      "original_generation": "/workspace/generated_images/exec-8cee4c6e-d77f-451d-b727-e8e79440c48d.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "0ca0e5f5a4bceccc09d83e281c2f4cafc5d1133f0fe320222fefc00b1383b9f4",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "clean_background.png",
+      "original_generation": "/workspace/generated_images/exec-75ee17e8-32ad-4dc1-93bc-05d913ac0050.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "sha256": "1d9c58fcf720cffab02948ba1e56203f462c7c710d29186c23690ff01625c489"
+    }
+  ]
+}

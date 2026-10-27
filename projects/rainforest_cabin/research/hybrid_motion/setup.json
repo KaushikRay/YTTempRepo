@@ -1,0 +1,22 @@
+{
+  "method": "Generated layered matte, camera-plane deforming palms, masked animated water UV, native 3D optical rain and runoff",
+  "generated_layers": true,
+  "fully_modeled_scene": false,
+  "camera_locked": true,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 144,
+  "duration_seconds": 6,
+  "samples": 24,
+  "rain_streaks": 6750,
+  "runoff_beads": 42,
+  "water_patches": 7,
+  "impact_rings": 36,
+  "foliage_grid_vertices": 10201,
+  "static_elements": "Cabin, distant forest, rocks and most understory; source textures contain some residual static water highlights",
+  "seamless_loop": false,
+  "audio": false
+}

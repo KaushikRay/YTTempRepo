@@ -5,6 +5,22 @@ in chat. The canceled tavern project is not modified.
 
 ## Current heavy refinement — two clearly labelled variants
 
+## New layered motion scene — rendering in progress
+
+![First native frame of the layered motion scene](renders/hybrid_motion/still.png)
+
+The photographic hybrid is now prepared as a layered Blender animation. The
+foreground palms flex separately from a clean background, seven stream patches
+move locally, rain recycles continuously, and eave beads/stream impacts animate.
+The six-second 1080p / 24 fps clip is rendering; this first frame is available
+before the completed video. Detailed architecture and distant forest remain a
+generated static matte. This is a locked-camera 2.5D scene, not fully modeled.
+
+[Method, rebuild and limits](research/hybrid_motion/review.md)
+· Source: `rainforest_hybrid_motion.blend` (both images packed, no external assets)
+
+## Previous still refinement — two clearly labelled variants
+
 ![Hybrid Blender still: generated static matte and 3D rain](renders/hybrid_still.png)
 
 [Hybrid Blender still](renders/hybrid_still.png): a generated photographic-style

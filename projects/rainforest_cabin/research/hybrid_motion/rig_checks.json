@@ -1,0 +1,72 @@
+{
+  "anchored_vertices": 201,
+  "maximum_root_drift_scene_units": 0.0,
+  "timeline_samples": [
+    {
+      "frame": 1,
+      "leaf_key_values": [
+        0.0,
+        0.5226872563362122
+      ],
+      "rain_counts_bottom_middle_top": [
+        1542,
+        1470,
+        1474
+      ],
+      "rain_first_center_y": -1.3111478090286255
+    },
+    {
+      "frame": 37,
+      "leaf_key_values": [
+        1.0,
+        -0.5226872563362122
+      ],
+      "rain_counts_bottom_middle_top": [
+        1544,
+        1592,
+        1421
+      ],
+      "rain_first_center_y": 3.100147247314453
+    },
+    {
+      "frame": 73,
+      "leaf_key_values": [
+        1.2246468525851679e-16,
+        0.5226872563362122
+      ],
+      "rain_counts_bottom_middle_top": [
+        1454,
+        1496,
+        1558
+      ],
+      "rain_first_center_y": -4.488558769226074
+    },
+    {
+      "frame": 109,
+      "leaf_key_values": [
+        -1.0,
+        -0.5226872563362122
+      ],
+      "rain_counts_bottom_middle_top": [
+        1529,
+        1517,
+        1440
+      ],
+      "rain_first_center_y": -0.07726335898041725
+    },
+    {
+      "frame": 144,
+      "leaf_key_values": [
+        -0.04361938685178757,
+        0.4463958442211151
+      ],
+      "rain_counts_bottom_middle_top": [
+        1416,
+        1519,
+        1531
+      ],
+      "rain_first_center_y": 4.544829368591309
+    }
+  ],
+  "packed_images": 2
+}
