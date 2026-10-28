@@ -37,8 +37,12 @@ def main():
  draw.rounded_rectangle((0,0,439,67),radius=16,fill=(8,13,16,145))
  draw.arc((19,17,47,49),180,360,fill=(245,245,240,230),width=2);draw.line([(19,33),(17,48),(49,48),(47,33)],fill=(245,245,240,230),width=2)
  draw.arc((28,46,38,56),0,180,fill=(245,245,240,230),width=2)
- font=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf',18)
- draw.text((63,24),'Subscribe for more rain ambience',font=font,fill=(245,245,240,230));badge.save(OUT/'subscribe_badge.png')
+ if not (OUT/'subscribe_badge.png').exists():
+  font=None
+  for font_path in ['/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf','/System/Library/Fonts/Supplemental/Arial.ttf']:
+   if Path(font_path).exists():font=ImageFont.truetype(font_path,18);break
+  if font is None:font=ImageFont.load_default(size=18)
+  draw.text((63,24),'Subscribe for more rain ambience',font=font,fill=(245,245,240,230));badge.save(OUT/'subscribe_badge.png')
  visual=ROOT/'renders/production_test/graded_loop.mp4';units=[]
  for name,seconds,filters in [('calm',12,'null'),('intro',60,'fade=t=in:st=1:d=5'),('closing',24,'fade=t=out:st=4:d=20'),('black',60,'lutyuv=y=16:u=128:v=128')]:
   status('encoding_long_video_unit',unit=name,duration_seconds=seconds);target=WORK/(name+'.mp4')

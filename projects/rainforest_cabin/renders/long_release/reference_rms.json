@@ -1,0 +1,12 @@
+{
+  "sample_rate": 48000,
+  "slice_seconds": [
+    10,
+    110
+  ],
+  "source": "approved production-test solo FLAC files",
+  "target_rms": {
+    "rain": 0.03506184741854668,
+    "stream": 0.009579932317137718
+  }
+}

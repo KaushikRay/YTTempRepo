@@ -22,8 +22,15 @@ def audio_track(name,seconds,dark_after=None,correction_db=0):
  target=WORK/(name+'_audio.m4a');report_file=OUT/(name+'_audio.json')
  if target.exists() and report_file.exists():return target,json.loads(report_file.read_text())
  sources=json.loads((OUT/'source_cache.json').read_text())['sources'];maps={s['name']:np.memmap(ROOT/s['file'],dtype=np.float32,mode='r',shape=(s['samples'],2)) for s in sources}
- refs={n:decode(ROOT/f'renders/production_test/{n}_solo.flac',sr=SR)[10*SR:110*SR] for n in ['rain','stream']}
- target_rms={n:float(np.sqrt(np.mean(x*x))) for n,x in refs.items()};del refs
+ # Small Mac packages retain the exact approved reference measurements instead
+ # of requiring two large FLAC stems solely to measure their RMS again.
+ reference_file=OUT/'reference_rms.json'
+ if reference_file.exists():
+  reference=json.loads(reference_file.read_text());assert reference['sample_rate']==SR
+  target_rms=reference['target_rms'];assert all(0<float(target_rms[n])<1 for n in ['rain','stream'])
+ else:
+  refs={n:decode(ROOT/f'renders/production_test/{n}_solo.flac',sr=SR)[10*SR:110*SR] for n in ['rain','stream']}
+  target_rms={n:float(np.sqrt(np.mean(x*x))) for n,x in refs.items()};del refs
  seed={'endurance':6137,'rainforest_3h':6191,'rainforest_8h':6229}[name];rng=random.Random(seed);events,variants=thunder_events(seconds,seed+100,dark_after)
  command=['ffmpeg','-y','-v','error','-f','f32le','-ar',str(SR),'-ac','2','-i','-','-c:a','aac','-b:a','256k','-threads','2','-movflags','+faststart',str(target)]
  process=subprocess.Popen(command,stdin=subprocess.PIPE);tails={};grains=[];peak=0.;limited=0;total_samples=0;started=time.monotonic();correction=10**(correction_db/20)

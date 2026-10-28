@@ -2,6 +2,16 @@
 
 [Two-minute endurance review excerpt](review_excerpt.mp4)
 
+## Alternative: build locally on a Mac
+
+[Download the Mac rebuild kit](../../downloads/Rainforest_Mac_Rebuild.zip)
+and follow [the Mac instructions](../../MAC_REBUILD.md). The kit contains the
+approved pre-rendered video units and rebuilds the long soundtrack and timelines
+locally, without GitHub release APIs or Blender. It is a local rebuild rather
+than a byte-identical transfer of the cloud masters. Mac execution has not been
+tested here; a standalone Linux package smoke test is recorded in
+[the validation report](../../downloads/mac_kit_validation.json).
+
 The excerpt shows: 0:00–0:20 the actual opening; 0:20–1:00 source endurance
 01:05–01:45 with a distant rumble; 1:00–2:00 source endurance 11:15–12:15,
 including the fade to black and continuing sound. The excerpt contains deliberate

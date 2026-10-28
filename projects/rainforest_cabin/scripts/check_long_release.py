@@ -6,6 +6,12 @@ from PIL import Image
 from prepare_long_release import ROOT,OUT,WORK,status
 from mix_rainforest_audio import loudness
 
+def file_sha256(path):
+ digest=hashlib.sha256()
+ with path.open('rb') as source:
+  while block:=source.read(8*1024*1024):digest.update(block)
+ return digest.hexdigest()
+
 def frame(path,second,dest):
  subprocess.run(['ffmpeg','-y','-v','error','-ss',str(second),'-i',str(path),'-frames:v','1',str(dest)],check=True)
  return np.asarray(Image.open(dest).convert('RGB'))
@@ -42,7 +48,7 @@ def main():
   report={'name':name,'file':path.name,'duration_seconds':duration,'scene_seconds':scene,'dark_screen_seconds':duration-scene,'video_frames':duration*24,'resolution':[1920,1080],'fps':24,
    'integrated_lufs':float(measured['input_i']),'true_peak_dbfs':float(measured['input_tp']),'loudness_range_lu':float(measured['input_lra']),
    'audio_fully_decoded_and_measured':True,'video_transition_and_end_samples_decoded':True,'qa_frames':pictures,'bytes':path.stat().st_size,
-   'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),'visual_lightning':False,'full_video_not_exhaustively_decoded':True}
+   'sha256':file_sha256(path),'visual_lightning':False,'full_video_not_exhaustively_decoded':True}
   (OUT/(name+'_qa.json')).write_text(json.dumps(report,indent=2));result.append(report)
  reports=[json.loads(p.read_text()) for p in sorted(OUT.glob('*_qa.json'))]
  (OUT/'qa.json').write_text(json.dumps({'masters':reports,'source_and_content_limit':'Technical source screening and sampled video QA, not exhaustive human audition of 11 hours.'},indent=2))

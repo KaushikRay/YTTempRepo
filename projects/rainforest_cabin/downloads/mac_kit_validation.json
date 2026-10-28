@@ -1,0 +1,25 @@
+{
+  "archive_integrity": true,
+  "package_checksums": true,
+  "bundled_units_hashes_verified": true,
+  "full_source_cache_preparation": true,
+  "standalone_120_second_build": true,
+  "video_frames": 2880,
+  "duration_seconds": 120,
+  "audio_measurement": {
+    "input_i": "-24.78",
+    "input_tp": "-6.50",
+    "input_lra": "5.60",
+    "input_thresh": "-35.20",
+    "output_i": "-23.75",
+    "output_tp": "-5.63",
+    "output_lra": "4.70",
+    "output_thresh": "-33.94",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.25"
+  },
+  "start_join_end_decode": true,
+  "hardlink_export_and_repeat": true,
+  "mac_execution_tested": false,
+  "limitation": "Linux smoke test; Homebrew, Finder launch and Mac hardware are not tested here."
+}

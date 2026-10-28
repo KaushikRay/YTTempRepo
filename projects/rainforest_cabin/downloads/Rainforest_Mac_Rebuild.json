@@ -1,0 +1,7 @@
+{
+  "file": "Rainforest_Mac_Rebuild.zip",
+  "bytes": 76635142,
+  "sha256": "52958afeb24dde0db60c4dbf8891159b3eb1dec572666dceee4bbc6864ceb264",
+  "mac_execution_tested": false,
+  "cloud_package_and_smoke_checks": "See mac_kit_validation.json"
+}
