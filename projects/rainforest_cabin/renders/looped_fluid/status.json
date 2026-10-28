@@ -1,21 +1,10 @@
 {
   "phase": "complete",
   "worker_running": false,
-  "updated_utc": "2026-10-28T07:55:51Z",
-  "variant": "12_second_looped_3D_fluid",
+  "updated_utc": "2026-10-28T11:12:58Z",
+  "pid": 36229,
+  "variant": "integrated_3D_fluid",
   "output": "renders/looped_fluid/preview.mp4",
-  "repeat_test": "renders/looped_fluid/repeat_test.mp4",
   "completed_frames": 288,
-  "total_frames": 288,
-  "fps": 24,
-  "resolution": [
-    1920,
-    1080
-  ],
-  "duration_seconds": 12,
-  "audio": false,
-  "delivery_checks_passed": true,
-  "source_playback_checks_passed": true,
-  "loop_uses_approximate_3D_surface_transition": true,
-  "periodic_physics_solution": false
+  "total_frames": 288
 }

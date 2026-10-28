@@ -5,11 +5,15 @@ import bpy,hashlib,json,struct,subprocess,time,traceback,shutil
 from pathlib import Path
 from integrated_fluid_scene import ROOT,OUT,setup,load_frame,status
 TOTAL=288;FRAMES=OUT/'frames';FRAMES.mkdir(parents=True,exist_ok=True)
+RIVER_ONLY=os.environ.get('RIVER_ONLY')=='1'
+BASE=ROOT/'renders/production_test/approved_frames'
+CROPS=ROOT/'renders/production_test/water_frames'
+if RIVER_ONLY:CROPS.mkdir(parents=True,exist_ok=True)
 
-def intact(path):
+def intact(path,size=(1920,1080)):
     if not path.exists():return False
     d=path.read_bytes()
-    return len(d)>32 and d[:8]==b'\x89PNG\r\n\x1a\n' and struct.unpack('>II',d[16:24])==(1920,1080) and d[-12:-4]==b'\0\0\0\0IEND'
+    return len(d)>32 and d[:8]==b'\x89PNG\r\n\x1a\n' and struct.unpack('>II',d[16:24])==size and d[-12:-4]==b'\0\0\0\0IEND'
 
 def periodic_rain():
     changes=[]
@@ -23,6 +27,9 @@ def periodic_rain():
 
 def setup_loop():
     s=setup();s.frame_end=TOTAL;rain=periodic_rain()
+    simulation=json.loads((ROOT/'research/looped_fluid/simulation.json').read_text())
+    s['water_playback_rate']=simulation.get('water_playback_rate',1)
+    s['water_simulation_sampling_fps']=simulation.get('simulation_sampling_fps',24)
     # Static photographic emitters converge quickly; retain the .01 threshold
     # and 32-sample cap for the actual liquid, while allowing early termination.
     s.cycles.use_adaptive_sampling=True;s.cycles.adaptive_min_samples=8
@@ -37,21 +44,30 @@ def setup_loop():
 
 def main():
     status('preparing_12_second_native_loop');s=setup_loop()
-    key=hashlib.sha256(b''.join(p.read_bytes() for p in [Path(__file__),ROOT/'scripts/integrated_fluid_scene.py',ROOT/'research/looped_fluid/simulation.json',ROOT/'research/looped_fluid/loop.json'])).hexdigest()
+    if RIVER_ONLY:assert all(intact(BASE/f'{f:04d}.png') for f in range(1,TOTAL+1)),'Approved native frame cache required'
+    key=hashlib.sha256(str(RIVER_ONLY).encode()+b''.join(p.read_bytes() for p in [Path(__file__),ROOT/'scripts/integrated_fluid_scene.py',ROOT/'research/looped_fluid/simulation.json',ROOT/'research/looped_fluid/loop.json'])).hexdigest()
     stamp=OUT/'render_signature.json'
     if stamp.exists() and json.loads(stamp.read_text())['sha256']!=key:
-        for p in FRAMES.glob('*.png'):p.unlink()
-    stamp.write_text(json.dumps({'sha256':key,'frames':TOTAL,'samples':s.cycles.samples,'full_native_frame':True},indent=2))
-    initial=sum(intact(FRAMES/f'{f:04d}.png') for f in range(1,TOTAL+1));start=time.monotonic();done=0
+        for folder in [FRAMES,CROPS] if RIVER_ONLY else [FRAMES]:
+            for p in folder.glob('*.png'):p.unlink()
+    stamp.write_text(json.dumps({'sha256':key,'frames':TOTAL,'samples':s.cycles.samples,'full_native_frame':not RIVER_ONLY,'river_border_only':RIVER_ONLY},indent=2))
+    folder=CROPS if RIVER_ONLY else FRAMES;size=(1040,400) if RIVER_ONLY else (1920,1080)
+    if RIVER_ONLY:
+        s.render.use_border=True;s.render.use_crop_to_border=True;s.render.border_min_x=(720+.001)/1920;s.render.border_max_x=(1760+.001)/1920;s.render.border_min_y=0;s.render.border_max_y=(400+.001)/1080
+    initial=sum(intact(folder/f'{f:04d}.png',size) for f in range(1,TOTAL+1));start=time.monotonic();done=0
     for frame in range(1,TOTAL+1):
-        path=FRAMES/f'{frame:04d}.png'
-        if intact(path):continue
+        path=folder/f'{frame:04d}.png'
+        if intact(path,size):continue
         s.frame_set(frame);counts=load_frame(frame)
         status('rendering_12_second_native_loop',current_frame=frame,completed_frames=initial+done,total_frames=TOTAL,
             resolution=[1920,1080],samples=s.cycles.samples,geometry_counts=counts,
             estimated_seconds_remaining=None if done==0 else round((time.monotonic()-start)/done*(TOTAL-initial-done)))
-        s.render.filepath=str(path);bpy.ops.render.render(write_still=True);assert intact(path);done+=1
+        s.render.filepath=str(path);bpy.ops.render.render(write_still=True);assert intact(path,size);done+=1
         if os.environ.get('BENCHMARK_ONLY'):status('benchmark_complete',render_seconds=time.monotonic()-start);return
+    if RIVER_ONLY:
+        status('compositing_native_river_border',completed_frames=TOTAL,total_frames=TOTAL)
+        subprocess.run(['ffmpeg','-y','-v','error','-framerate','24','-i',str(BASE/'%04d.png'),'-framerate','24','-i',str(CROPS/'%04d.png'),
+            '-filter_complex','[0:v][1:v]overlay=720:680:format=rgb,format=rgb24','-frames:v',str(TOTAL),'-start_number','1',str(FRAMES/'%04d.png')],check=True)
     status('encoding_12_second_loop',completed_frames=TOTAL,total_frames=TOTAL)
     common=['-c:v','libx264','-preset','slow','-crf','16','-g','48','-keyint_min','48','-sc_threshold','0','-x264-params','open-gop=0','-r','24','-video_track_timescale','12288','-pix_fmt','yuv420p','-profile:v','high','-level','4.1','-movflags','+faststart','-an']
     movie=OUT/'preview.mp4'
@@ -66,7 +82,9 @@ def main():
         'loop_method':'periodic rain and palms; first second of liquid loop-conditioned by 3D scalar-field blending',
         'periodic_physics_solution':False,'hybrid_generated_background':True,'water_motion_from_images_or_footage':False,
         'upstream_uses_spatial_instance_of_same_bake':True,'elapsed_this_run_seconds':time.monotonic()-start,
-        'resumed_frames':initial,'preview_sha256':hashlib.sha256(movie.read_bytes()).hexdigest()}
+        'resumed_frames':initial,'river_border_only':RIVER_ONLY,'outside_pixels_reused_at_original_speed':RIVER_ONLY,
+        'water_playback_rate':json.loads((ROOT/'research/looped_fluid/simulation.json').read_text()).get('water_playback_rate',1),
+        'preview_sha256':hashlib.sha256(movie.read_bytes()).hexdigest()}
     (OUT/'render_report.json').write_text(json.dumps(report,indent=2))
     status('complete',output='renders/looped_fluid/preview.mp4',completed_frames=TOTAL,total_frames=TOTAL)
 

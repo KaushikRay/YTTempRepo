@@ -57,7 +57,9 @@ def main():
         np.savez_compressed(CACHE/f'foam_points_{frame:04d}.npz',positions=points.astype(np.float32))
         records.append({'frame':frame,'tail_frame':FRAMES+frame,'head_weight':weight,'vertices':len(vertices),'foam_points':len(points),'sha256':hashlib.sha256(target.read_bytes()).hexdigest()})
     # The input NPZs survive; only rendered meshes 1..24 are loop conditioned.
+    simulation=json.loads((ROOT/'research/looped_fluid/simulation.json').read_text())
     report={'frames':FRAMES,'fps':24,'duration_seconds':12,'overlap_frames':OVERLAP,
+        'water_playback_rate':simulation.get('water_playback_rate',1),'simulation_sampling_fps':simulation.get('simulation_sampling_fps',24),
         'method':'3D density/froth scalar-field smoothstep blend, remeshed before rendering',
         'rendered_image_crossfade':False,'frame_interpolation':False,
         'periodic_fluid_dynamics_solution':False,'approximate_loop_conditioning':True,

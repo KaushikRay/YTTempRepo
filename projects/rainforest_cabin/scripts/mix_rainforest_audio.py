@@ -10,13 +10,16 @@ from scipy.signal import butter,sosfiltfilt
 from scipy.ndimage import median_filter,gaussian_filter1d
 from prepare_ambience_audio import decode
 
-ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'renders/audiovisual';WORK=OUT/'work';WORK.mkdir(parents=True,exist_ok=True)
-SR=48000;DURATION=60;COUNT=SR*DURATION
+ROOT=Path(__file__).resolve().parents[1];DURATION=int(os.environ.get('AUDIO_DURATION_SECONDS','60'))
+assert DURATION in (60,120)
+OUT=ROOT/('renders/production_test' if DURATION==120 else 'renders/audiovisual');WORK=OUT/'work';WORK.mkdir(parents=True,exist_ok=True)
+SR=48000;COUNT=SR*DURATION
 
 def status(phase,**extra):
     d={'phase':phase,'worker_running':phase not in ['complete','failed'],'pid':os.getpid(),
         'updated_utc':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'variant':'rainforest_audio_preview',**extra}
-    for p in [ROOT/'status.json',OUT/'status.json']:p.write_text(json.dumps(d,indent=2))
+    paths=[OUT/'status.json'] if os.environ.get('KEEP_RENDER_STATUS')=='1' else [ROOT/'status.json',OUT/'status.json']
+    for p in paths:p.write_text(json.dumps(d,indent=2))
     print(json.dumps(d),flush=True)
 
 def write_audio(path,x,codec='flac'):
@@ -52,16 +55,18 @@ def main():
     status('mixing_continuous_rain_and_stream')
     screening=json.loads((ROOT/'research/audio/signal_screening.json').read_text())
     sources=json.loads((ROOT/'assets/audio/sources.json').read_text());stems={};settings=[]
-    for name,target,width,pan,hp,lp in [('rain',-26,.95,0,110,6500),('stream',-31,.55,.23,150,5800)]:
-        info=next(x for x in screening['sources'] if x['source']==name);start=info['suggested_continuous_minute_start']
-        x=decode(ROOT/f'assets/audio/{name}_source.flac',start,DURATION,sr=SR)[:COUNT]
+    for name,target,width,pan,hp,lp in [('rain',-26,.95,0,110,6500),('stream',-37,.55,.23,150,5800)]:
+        source_name='long_stream' if name=='stream' and DURATION==120 else name
+        info=next(x for x in screening['sources'] if x['source']==source_name)
+        start=min(info['suggested_continuous_minute_start'],max(0,int(info['duration_seconds']-DURATION)-1))
+        x=decode(ROOT/f'assets/audio/{source_name}_source.flac',start,DURATION,sr=SR)[:COUNT]
         assert len(x)==COUNT
         x=sosfiltfilt(butter(3,[hp,lp],btype='bandpass',fs=SR,output='sos'),x,axis=0).astype(np.float32)
         band=sosfiltfilt(butter(2,[650,2400],btype='bandpass',fs=SR,output='sos'),x,axis=0).astype(np.float32)
         tamed_band,band_min=tame(band,1.25);x=x-band+tamed_band;x,wide_min=tame(x,1.6)
         x=spatial(x,width,pan);x,level=target_stem(x,target,name);stems[name]=x
-        source=next(s for s in sources if s['name']==name)
-        settings.append({'source':name,'prepared_start_seconds':start,'original_start_seconds':source['prepared_source_start_seconds']+start,
+        source=next(s for s in sources if s['name']==source_name)
+        settings.append({'source':name,'source_asset':source_name,'prepared_start_seconds':start,'original_start_seconds':source['prepared_source_start_seconds']+start,
             'duration_seconds':DURATION,'highpass_hz':hp,'lowpass_hz':lp,'stereo_width':width,'pan':pan,
             'minimum_band_gain':band_min,'minimum_broadband_gain':wide_min,**level})
     mix=stems['rain']+stems['stream']
@@ -84,19 +89,30 @@ def main():
         'final_integrated_lufs':float(final_measure['input_i']),'final_true_peak_dbfs':float(final_measure['input_tp']),
         'loudness_range_lu':float(final_measure['input_lra']),'final_gain_db':gain_db,'limiter_used':limited,
         'fade_in_seconds':.75,'fade_out_seconds':1.5,'stems':settings,
-        'continuous_source_excerpts_not_12_second_audio_loop':True,'music':False,'added_thunder':False,
+        'continuous_source_excerpts_not_12_second_audio_loop':True,'rain_above_stream_lufs':11,'stream_reduction_relative_to_rain_db':6,
+        'music':False,'added_thunder':False,
         'added_wildlife':False,'artificial_rain_noise':False,'original_source_geography_matches_reference':False,
         'listening_review':'Pending user audition; numerical/spectral checks do not certify absence of unwanted content',
         'soundtrack_sha256':hashlib.sha256(final.read_bytes()).hexdigest()}
     (OUT/'mix_report.json').write_text(json.dumps(report,indent=2))
+    if os.environ.get('AUDIO_ONLY')=='1':
+        status('audio_ready_for_visual_mux',worker_running=False,duration_seconds=DURATION);return
+    mux_existing()
+
+def mux_existing():
+    final=OUT/'soundtrack.flac'
+    report=json.loads((OUT/'mix_report.json').read_text())
     status('muxing_audiovisual_review',audio_integrated_lufs=report['final_integrated_lufs'])
     visual=ROOT/'renders/looped_fluid/preview.mp4'
-    subprocess.run(['ffmpeg','-y','-v','error','-stream_loop','4','-i',str(visual),'-i',str(final),'-map','0:v:0','-map','1:a:0',
-        '-t','60','-c:v','copy','-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart',str(OUT/'preview.mp4')],check=True)
+    video=['-c:v','copy'] if DURATION==60 else ['-c:v','libx264','-preset','medium','-crf','18','-maxrate','6400k','-bufsize','12800k',
+        '-g','48','-keyint_min','48','-sc_threshold','0','-pix_fmt','yuv420p']
+    subprocess.run(['ffmpeg','-y','-v','error','-stream_loop',str(DURATION//12-1),'-i',str(visual),'-i',str(final),'-map','0:v:0','-map','1:a:0',
+        '-t',str(DURATION),*video,'-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart',str(OUT/'preview.mp4')],check=True)
     # A lighter twelve-second link uses the same mix and original video stream.
-    subprocess.run(['ffmpeg','-y','-v','error','-i',str(visual),'-i',str(final),'-map','0:v:0','-map','1:a:0',
-        '-t','12','-c:v','copy','-af','afade=t=out:st=11:d=1','-c:a','aac','-b:a','256k','-ar','48000',
-        '-movflags','+faststart',str(OUT/'quick_preview.mp4')],check=True)
-    status('audio_mix_complete_awaiting_delivery_checks',worker_running=False,output='renders/audiovisual/preview.mp4')
+    if DURATION==60:
+        subprocess.run(['ffmpeg','-y','-v','error','-i',str(visual),'-i',str(final),'-map','0:v:0','-map','1:a:0',
+            '-t','12','-c:v','copy','-af','afade=t=out:st=11:d=1','-c:a','aac','-b:a','256k','-ar','48000',
+            '-movflags','+faststart',str(OUT/'quick_preview.mp4')],check=True)
+    status('audio_mix_complete_awaiting_delivery_checks',worker_running=False,output=str((OUT/'preview.mp4').relative_to(ROOT)))
 
 if __name__=='__main__':main()

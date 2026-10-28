@@ -1,12 +1,12 @@
 {
   "phase": "complete",
   "worker_running": false,
-  "pid": 33244,
-  "updated_utc": "2026-10-28T09:49:18Z",
+  "pid": 38838,
+  "updated_utc": "2026-10-28T11:14:44Z",
   "variant": "rainforest_audio_preview",
   "output": "renders/audiovisual/preview.mp4",
   "duration_seconds": 60,
   "delivery_checks_passed": true,
-  "audio_integrated_lufs": -24.07,
-  "audio_true_peak_dbfs": -2.98
+  "audio_integrated_lufs": -24.06,
+  "audio_true_peak_dbfs": -6.96
 }

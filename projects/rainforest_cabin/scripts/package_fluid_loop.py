@@ -19,7 +19,9 @@ def main():
         with np.load(CACHE/f'particles_{frame:04d}.npz') as f:
             samples[f'positions_{frame:04d}']=f['positions'];samples[f'velocity_{frame:04d}']=f['velocity']
     np.savez_compressed(ASSETS/'solver_samples.npz',**samples)
+    simulation=json.loads((ROOT/'research/looped_fluid/simulation.json').read_text())
     (ASSETS/'cache_manifest.json').write_text(json.dumps({'frames':288,'fps':24,'duration_seconds':12,
+        'water_playback_rate':simulation.get('water_playback_rate',1),'simulation_sampling_fps':simulation.get('simulation_sampling_fps',24),
         'water_motion_from_images_or_footage':False,'archives':records,
         'first_24_meshes_loop_conditioned':True,'particles_are_unmodified_solver_samples':True},indent=2))
     print('Packaged 288 liquid and foam states in 12 verified-size archives.')

@@ -1,0 +1,124 @@
+{
+  "duration_seconds": 120,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frames": 2880,
+  "fps": 24,
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "decoded_cleanly": true,
+  "integrated_lufs": -24.06,
+  "true_peak_dbfs": -2.84,
+  "rain_solo_integrated_lufs": -24.34,
+  "stream_solo_integrated_lufs": -35.31,
+  "rain_above_stream_lufs": 10.970000000000002,
+  "stream_relative_reduction_db": 6,
+  "water_speed": {
+    "previous_mean_physical_speed_m_s": 2.236626909537749,
+    "new_mean_physical_speed_m_s": 2.2355974181131884,
+    "water_only_playback_rate": 0.8,
+    "apparent_mean_speed_ratio": 0.7996317699942997,
+    "rain_and_palm_timeline_fps": 24,
+    "delivered_fps": 24,
+    "water_sampling_fps": 30,
+    "image_interpolation_or_repeated_water_frames": false
+  },
+  "sampled_surroundings_pixel_preservation": [
+    {
+      "frame": 1,
+      "changed_pixels_outside_water_border": 0
+    },
+    {
+      "frame": 24,
+      "changed_pixels_outside_water_border": 0
+    },
+    {
+      "frame": 72,
+      "changed_pixels_outside_water_border": 0
+    },
+    {
+      "frame": 144,
+      "changed_pixels_outside_water_border": 0
+    },
+    {
+      "frame": 216,
+      "changed_pixels_outside_water_border": 0
+    },
+    {
+      "frame": 288,
+      "changed_pixels_outside_water_border": 0
+    }
+  ],
+  "audio_continuity_at_visual_joins": [
+    {
+      "second": 12,
+      "audio_sample_step": 0.010658025741577148,
+      "normal_p9999_step": 0.07393825054168701
+    },
+    {
+      "second": 24,
+      "audio_sample_step": 0.0064544677734375,
+      "normal_p9999_step": 0.07393825054168701
+    },
+    {
+      "second": 36,
+      "audio_sample_step": 0.0045583248138427734,
+      "normal_p9999_step": 0.07393825054168701
+    },
+    {
+      "second": 48,
+      "audio_sample_step": 0.018281221389770508,
+      "normal_p9999_step": 0.07393825054168701
+    },
+    {
+      "second": 60,
+      "audio_sample_step": 0.017660975456237793,
+      "normal_p9999_step": 0.07393825054168701
+    },
+    {
+      "second": 72,
+      "audio_sample_step": 0.01678144931793213,
+      "normal_p9999_step": 0.07393825054168701
+    },
+    {
+      "second": 84,
+      "audio_sample_step": 0.009958863258361816,
+      "normal_p9999_step": 0.07393825054168701
+    },
+    {
+      "second": 96,
+      "audio_sample_step": 0.00966954231262207,
+      "normal_p9999_step": 0.07393825054168701
+    },
+    {
+      "second": 108,
+      "audio_sample_step": 0.004732370376586914,
+      "normal_p9999_step": 0.07393825054168701
+    }
+  ],
+  "ssim_to_high_quality_loop": 0.993315,
+  "video_is_ten_repeats_of_12s_loop": true,
+  "audio_is_continuous_120s_excerpts": true,
+  "no_interpolated_or_repeated_water_frames_within_loop": true,
+  "bytes": 100440303,
+  "sha256": "8749ca3588623eb09e07359000f69731d6f08e07e40ce475faee8c95ff8b7a89",
+  "limits": [
+    "generated static cabin/forest backdrop",
+    "coarse glossy water and approximate banks",
+    "one-second artistic 3D loop transition",
+    "subjective naturalness and source-content listening review pending"
+  ],
+  "speed_comparison": {
+    "frames": 288,
+    "fps": 24,
+    "duration_seconds": 12,
+    "resolution": [
+      1040,
+      800
+    ],
+    "decoded_cleanly": true,
+    "sha256": "cf887ceee49d756171a0f8aaf348f18ef8ce1984945ac95bca46566ea5c415ec"
+  }
+}

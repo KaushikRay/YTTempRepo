@@ -35,8 +35,9 @@ def main():
         joins.append({'second':second,'sample_step':jump,'p9999_normal_step':normal,'half_second_rms_change_db':20*np.log10(after/before)})
     mono=x.mean(axis=1);mono_ratio=float(10*np.log10(np.mean(mono**2)/np.mean(x**2)));assert mono_ratio>-8
     sources=json.loads((ROOT/'assets/audio/sources.json').read_text());assets=[]
+    used={s.get('source_asset',s['source']) for s in json.loads((OUT/'mix_report.json').read_text())['stems']}
     for source in sources:
-        if not source['used_in_mix']:continue
+        if source['name'] not in used:continue
         path=ROOT/source['prepared_file'];assert hashlib.sha256(path.read_bytes()).hexdigest()==source['prepared_sha256']
         assert source['license'] in ['CC BY 3.0','CC0'];assets.append({'source':source['name'],'license':source['license'],'sha256_verified':True})
     qa={'clips':clips,'source_assets':assets,'soundtrack_samples_per_channel':len(x),'sample_rate':SR,

@@ -1,0 +1,12 @@
+{
+  "phase": "complete",
+  "worker_running": false,
+  "pid": 38969,
+  "updated_utc": "2026-10-28T11:15:23Z",
+  "variant": "rainforest_audio_preview",
+  "output": "renders/production_test/preview.mp4",
+  "duration_seconds": 120,
+  "delivery_checks_passed": true,
+  "rain_above_stream_lufs": 10.970000000000002,
+  "water_playback_rate": 0.8
+}

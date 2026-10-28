@@ -16,7 +16,10 @@
   "hybrid_generated_background": true,
   "water_motion_from_images_or_footage": false,
   "upstream_uses_spatial_instance_of_same_bake": true,
-  "elapsed_this_run_seconds": 3458.2779115649973,
+  "elapsed_this_run_seconds": 1369.8034441199998,
   "resumed_frames": 0,
-  "preview_sha256": "9319d3922ab08acf35784e22c02af7c784f4bac671e18f400e06205fc35fbc2f"
+  "river_border_only": true,
+  "outside_pixels_reused_at_original_speed": true,
+  "water_playback_rate": 0.8,
+  "preview_sha256": "7fe4fe68fc6d5459d33ac68d16fae9939a573d58fc59bc8445ae145e7c41bd23"
 }

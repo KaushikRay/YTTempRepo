@@ -16,43 +16,43 @@
   "timeline_samples": [
     {
       "frame": 1,
-      "liquid_vertices": 57381,
-      "foam_points": 310
+      "liquid_vertices": 63539,
+      "foam_points": 510
     },
     {
       "frame": 12,
-      "liquid_vertices": 54913,
-      "foam_points": 309
+      "liquid_vertices": 59407,
+      "foam_points": 481
     },
     {
       "frame": 24,
-      "liquid_vertices": 58004,
-      "foam_points": 370
+      "liquid_vertices": 62083,
+      "foam_points": 488
     },
     {
       "frame": 25,
-      "liquid_vertices": 58275,
-      "foam_points": 347
+      "liquid_vertices": 61517,
+      "foam_points": 461
     },
     {
       "frame": 144,
-      "liquid_vertices": 59018,
-      "foam_points": 348
+      "liquid_vertices": 62691,
+      "foam_points": 477
     },
     {
       "frame": 264,
-      "liquid_vertices": 57876,
-      "foam_points": 342
+      "liquid_vertices": 63596,
+      "foam_points": 470
     },
     {
       "frame": 288,
-      "liquid_vertices": 57568,
-      "foam_points": 298
+      "liquid_vertices": 62922,
+      "foam_points": 472
     },
     {
       "frame": 289,
-      "liquid_vertices": 57381,
-      "foam_points": 310
+      "liquid_vertices": 63539,
+      "foam_points": 510
     }
   ],
   "water_image_textures": 0,

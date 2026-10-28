@@ -1,6 +1,7 @@
 {
-  "sha256": "b6b0dbfb62166ece544baed1a01ff468630f1b7b49002f0813aa03077eca6069",
+  "sha256": "837a59bbef16fb45e52e2e24098283e7cd3deca15f3db8dc698511a1aa225519",
   "frames": 288,
   "samples": 32,
-  "full_native_frame": true
+  "full_native_frame": false,
+  "river_border_only": true
 }

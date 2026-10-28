@@ -1,0 +1,3868 @@
+{
+  "solver": "Original 3D position-based fluid, Taichi CPU",
+  "reference": "Macklin and Mueller, Position Based Fluids (2013)",
+  "gravity_m_s2": 9.81,
+  "particles": 82154,
+  "particle_spacing_m": 0.03,
+  "smoothing_radius_m": 0.06333333333333334,
+  "pressure_iterations": 6,
+  "substeps_per_frame": 8,
+  "dt_seconds": 0.005208333333333333,
+  "simulation_frames": 408,
+  "warmup_frames": 96,
+  "output_frames": 312,
+  "fps": 24,
+  "channel_bounds_m": [
+    2.4000000953674316,
+    7.800000190734863,
+    2.4000000953674316
+  ],
+  "solid_ellipsoids": [
+    [
+      1.9897762537002563,
+      3.0,
+      1.2222929000854492,
+      0.4300000071525574,
+      0.36000001430511475,
+      0.3199999928474426
+    ],
+    [
+      0.5297760963439941,
+      2.9000000953674316,
+      1.2723253965377808,
+      0.46000000834465027,
+      0.3499999940395355,
+      0.3199999928474426
+    ],
+    [
+      0.6137712001800537,
+      4.900000095367432,
+      1.020445704460144,
+      0.3499999940395355,
+      0.3499999940395355,
+      0.2800000011920929
+    ],
+    [
+      0.48604241013526917,
+      6.599999904632568,
+      0.698620617389679,
+      0.5,
+      0.44999998807907104,
+      0.36000001430511475
+    ],
+    [
+      2.9403419494628906,
+      6.5,
+      0.5534715056419373,
+      0.6800000071525574,
+      0.550000011920929,
+      0.4000000059604645
+    ]
+  ],
+  "geometry_from_simulated_particles": true,
+  "image_or_stock_footage_motion": false,
+  "foam_is_heuristic_surface_field": true,
+  "mesh_voxel_spacing_m": 0.02,
+  "limitations": [
+    "coarse resolution",
+    "approximate incompressibility",
+    "empirical vorticity confinement and foam",
+    "no air-phase solver"
+  ],
+  "elapsed_seconds": 254.24356711800647,
+  "timeline": [
+    {
+      "simulation_frame": 1,
+      "active_particles": 82154,
+      "mean_speed_m_s": 1.4048900604248047,
+      "max_speed_m_s": 2.3487141132354736,
+      "foam_particles": 0
+    },
+    {
+      "simulation_frame": 2,
+      "active_particles": 82017,
+      "mean_speed_m_s": 1.504365086555481,
+      "max_speed_m_s": 2.6300275325775146,
+      "foam_particles": 0
+    },
+    {
+      "simulation_frame": 3,
+      "active_particles": 81332,
+      "mean_speed_m_s": 1.6235778331756592,
+      "max_speed_m_s": 3.1813151836395264,
+      "foam_particles": 24
+    },
+    {
+      "simulation_frame": 4,
+      "active_particles": 80621,
+      "mean_speed_m_s": 1.6971169710159302,
+      "max_speed_m_s": 3.415102005004883,
+      "foam_particles": 2111
+    },
+    {
+      "simulation_frame": 5,
+      "active_particles": 79633,
+      "mean_speed_m_s": 1.7277305126190186,
+      "max_speed_m_s": 4.426524639129639,
+      "foam_particles": 2333
+    },
+    {
+      "simulation_frame": 6,
+      "active_particles": 78522,
+      "mean_speed_m_s": 1.7557810544967651,
+      "max_speed_m_s": 5.038626670837402,
+      "foam_particles": 2348
+    },
+    {
+      "simulation_frame": 7,
+      "active_particles": 77477,
+      "mean_speed_m_s": 1.7845128774642944,
+      "max_speed_m_s": 4.887801170349121,
+      "foam_particles": 2356
+    },
+    {
+      "simulation_frame": 8,
+      "active_particles": 76511,
+      "mean_speed_m_s": 1.8110157251358032,
+      "max_speed_m_s": 4.628564834594727,
+      "foam_particles": 2400
+    },
+    {
+      "simulation_frame": 9,
+      "active_particles": 75563,
+      "mean_speed_m_s": 1.8361642360687256,
+      "max_speed_m_s": 4.432960510253906,
+      "foam_particles": 2425
+    },
+    {
+      "simulation_frame": 10,
+      "active_particles": 74764,
+      "mean_speed_m_s": 1.8611520528793335,
+      "max_speed_m_s": 4.283736705780029,
+      "foam_particles": 2477
+    },
+    {
+      "simulation_frame": 11,
+      "active_particles": 73999,
+      "mean_speed_m_s": 1.8873285055160522,
+      "max_speed_m_s": 4.169378280639648,
+      "foam_particles": 2552
+    },
+    {
+      "simulation_frame": 12,
+      "active_particles": 73221,
+      "mean_speed_m_s": 1.9149174690246582,
+      "max_speed_m_s": 4.084527015686035,
+      "foam_particles": 2631
+    },
+    {
+      "simulation_frame": 13,
+      "active_particles": 72266,
+      "mean_speed_m_s": 1.943835973739624,
+      "max_speed_m_s": 4.043522357940674,
+      "foam_particles": 2736
+    },
+    {
+      "simulation_frame": 14,
+      "active_particles": 71243,
+      "mean_speed_m_s": 1.9726295471191406,
+      "max_speed_m_s": 4.043212413787842,
+      "foam_particles": 2862
+    },
+    {
+      "simulation_frame": 15,
+      "active_particles": 70176,
+      "mean_speed_m_s": 2.001532793045044,
+      "max_speed_m_s": 4.083409309387207,
+      "foam_particles": 2995
+    },
+    {
+      "simulation_frame": 16,
+      "active_particles": 69124,
+      "mean_speed_m_s": 2.032109498977661,
+      "max_speed_m_s": 4.162826061248779,
+      "foam_particles": 3132
+    },
+    {
+      "simulation_frame": 17,
+      "active_particles": 67873,
+      "mean_speed_m_s": 2.06152081489563,
+      "max_speed_m_s": 4.27937650680542,
+      "foam_particles": 3307
+    },
+    {
+      "simulation_frame": 18,
+      "active_particles": 66569,
+      "mean_speed_m_s": 2.087280035018921,
+      "max_speed_m_s": 4.430424213409424,
+      "foam_particles": 3485
+    },
+    {
+      "simulation_frame": 19,
+      "active_particles": 65313,
+      "mean_speed_m_s": 2.1099226474761963,
+      "max_speed_m_s": 4.6121368408203125,
+      "foam_particles": 3527
+    },
+    {
+      "simulation_frame": 20,
+      "active_particles": 63993,
+      "mean_speed_m_s": 2.1314103603363037,
+      "max_speed_m_s": 4.8201470375061035,
+      "foam_particles": 2838
+    },
+    {
+      "simulation_frame": 21,
+      "active_particles": 62641,
+      "mean_speed_m_s": 2.1478943824768066,
+      "max_speed_m_s": 4.575372219085693,
+      "foam_particles": 2548
+    },
+    {
+      "simulation_frame": 22,
+      "active_particles": 61307,
+      "mean_speed_m_s": 2.161179304122925,
+      "max_speed_m_s": 4.827898025512695,
+      "foam_particles": 2669
+    },
+    {
+      "simulation_frame": 23,
+      "active_particles": 59941,
+      "mean_speed_m_s": 2.1698553562164307,
+      "max_speed_m_s": 4.767870903015137,
+      "foam_particles": 2997
+    },
+    {
+      "simulation_frame": 24,
+      "active_particles": 58571,
+      "mean_speed_m_s": 2.1771864891052246,
+      "max_speed_m_s": 4.877634525299072,
+      "foam_particles": 3359
+    },
+    {
+      "simulation_frame": 25,
+      "active_particles": 57200,
+      "mean_speed_m_s": 2.1861016750335693,
+      "max_speed_m_s": 5.071002960205078,
+      "foam_particles": 3730
+    },
+    {
+      "simulation_frame": 26,
+      "active_particles": 56064,
+      "mean_speed_m_s": 2.1951487064361572,
+      "max_speed_m_s": 5.220457077026367,
+      "foam_particles": 4089
+    },
+    {
+      "simulation_frame": 27,
+      "active_particles": 55013,
+      "mean_speed_m_s": 2.2017064094543457,
+      "max_speed_m_s": 5.011487007141113,
+      "foam_particles": 4485
+    },
+    {
+      "simulation_frame": 28,
+      "active_particles": 53980,
+      "mean_speed_m_s": 2.206491708755493,
+      "max_speed_m_s": 5.358198165893555,
+      "foam_particles": 4857
+    },
+    {
+      "simulation_frame": 29,
+      "active_particles": 52934,
+      "mean_speed_m_s": 2.209698438644409,
+      "max_speed_m_s": 5.003244400024414,
+      "foam_particles": 5262
+    },
+    {
+      "simulation_frame": 30,
+      "active_particles": 51868,
+      "mean_speed_m_s": 2.2068421840667725,
+      "max_speed_m_s": 4.701612949371338,
+      "foam_particles": 5611
+    },
+    {
+      "simulation_frame": 31,
+      "active_particles": 50734,
+      "mean_speed_m_s": 2.200615167617798,
+      "max_speed_m_s": 4.734154224395752,
+      "foam_particles": 6033
+    },
+    {
+      "simulation_frame": 32,
+      "active_particles": 49558,
+      "mean_speed_m_s": 2.19002628326416,
+      "max_speed_m_s": 4.6951398849487305,
+      "foam_particles": 6386
+    },
+    {
+      "simulation_frame": 33,
+      "active_particles": 48437,
+      "mean_speed_m_s": 2.1760599613189697,
+      "max_speed_m_s": 4.575702667236328,
+      "foam_particles": 6654
+    },
+    {
+      "simulation_frame": 34,
+      "active_particles": 47435,
+      "mean_speed_m_s": 2.1623759269714355,
+      "max_speed_m_s": 4.666413307189941,
+      "foam_particles": 6844
+    },
+    {
+      "simulation_frame": 35,
+      "active_particles": 46604,
+      "mean_speed_m_s": 2.1528353691101074,
+      "max_speed_m_s": 4.900027751922607,
+      "foam_particles": 6895
+    },
+    {
+      "simulation_frame": 36,
+      "active_particles": 45873,
+      "mean_speed_m_s": 2.1461730003356934,
+      "max_speed_m_s": 4.645646095275879,
+      "foam_particles": 6902
+    },
+    {
+      "simulation_frame": 37,
+      "active_particles": 45072,
+      "mean_speed_m_s": 2.1373445987701416,
+      "max_speed_m_s": 4.782510757446289,
+      "foam_particles": 6792
+    },
+    {
+      "simulation_frame": 38,
+      "active_particles": 44191,
+      "mean_speed_m_s": 2.124051332473755,
+      "max_speed_m_s": 4.965319633483887,
+      "foam_particles": 6658
+    },
+    {
+      "simulation_frame": 39,
+      "active_particles": 43414,
+      "mean_speed_m_s": 2.1093664169311523,
+      "max_speed_m_s": 4.954267501831055,
+      "foam_particles": 6559
+    },
+    {
+      "simulation_frame": 40,
+      "active_particles": 42729,
+      "mean_speed_m_s": 2.099846363067627,
+      "max_speed_m_s": 5.024095058441162,
+      "foam_particles": 6511
+    },
+    {
+      "simulation_frame": 41,
+      "active_particles": 42069,
+      "mean_speed_m_s": 2.0930590629577637,
+      "max_speed_m_s": 5.133000373840332,
+      "foam_particles": 6373
+    },
+    {
+      "simulation_frame": 42,
+      "active_particles": 41570,
+      "mean_speed_m_s": 2.087998867034912,
+      "max_speed_m_s": 5.167794227600098,
+      "foam_particles": 6232
+    },
+    {
+      "simulation_frame": 43,
+      "active_particles": 41077,
+      "mean_speed_m_s": 2.084334373474121,
+      "max_speed_m_s": 5.094593048095703,
+      "foam_particles": 6080
+    },
+    {
+      "simulation_frame": 44,
+      "active_particles": 40664,
+      "mean_speed_m_s": 2.0836877822875977,
+      "max_speed_m_s": 5.18597936630249,
+      "foam_particles": 5981
+    },
+    {
+      "simulation_frame": 45,
+      "active_particles": 40280,
+      "mean_speed_m_s": 2.084982395172119,
+      "max_speed_m_s": 5.0096869468688965,
+      "foam_particles": 5849
+    },
+    {
+      "simulation_frame": 46,
+      "active_particles": 39926,
+      "mean_speed_m_s": 2.0868735313415527,
+      "max_speed_m_s": 4.789858341217041,
+      "foam_particles": 5779
+    },
+    {
+      "simulation_frame": 47,
+      "active_particles": 39593,
+      "mean_speed_m_s": 2.088289499282837,
+      "max_speed_m_s": 4.798635005950928,
+      "foam_particles": 5729
+    },
+    {
+      "simulation_frame": 48,
+      "active_particles": 39310,
+      "mean_speed_m_s": 2.0902342796325684,
+      "max_speed_m_s": 4.771615505218506,
+      "foam_particles": 5721
+    },
+    {
+      "simulation_frame": 49,
+      "active_particles": 39030,
+      "mean_speed_m_s": 2.0942559242248535,
+      "max_speed_m_s": 4.7916951179504395,
+      "foam_particles": 5645
+    },
+    {
+      "simulation_frame": 50,
+      "active_particles": 38844,
+      "mean_speed_m_s": 2.099308729171753,
+      "max_speed_m_s": 4.841607093811035,
+      "foam_particles": 5571
+    },
+    {
+      "simulation_frame": 51,
+      "active_particles": 38619,
+      "mean_speed_m_s": 2.10187029838562,
+      "max_speed_m_s": 4.835710048675537,
+      "foam_particles": 5452
+    },
+    {
+      "simulation_frame": 52,
+      "active_particles": 38349,
+      "mean_speed_m_s": 2.1013898849487305,
+      "max_speed_m_s": 5.065223217010498,
+      "foam_particles": 5290
+    },
+    {
+      "simulation_frame": 53,
+      "active_particles": 38124,
+      "mean_speed_m_s": 2.1007707118988037,
+      "max_speed_m_s": 4.827486515045166,
+      "foam_particles": 5112
+    },
+    {
+      "simulation_frame": 54,
+      "active_particles": 37915,
+      "mean_speed_m_s": 2.102917194366455,
+      "max_speed_m_s": 5.040274620056152,
+      "foam_particles": 5005
+    },
+    {
+      "simulation_frame": 55,
+      "active_particles": 37653,
+      "mean_speed_m_s": 2.1019949913024902,
+      "max_speed_m_s": 4.978409290313721,
+      "foam_particles": 4879
+    },
+    {
+      "simulation_frame": 56,
+      "active_particles": 37408,
+      "mean_speed_m_s": 2.100780725479126,
+      "max_speed_m_s": 5.018498420715332,
+      "foam_particles": 4689
+    },
+    {
+      "simulation_frame": 57,
+      "active_particles": 37103,
+      "mean_speed_m_s": 2.098367214202881,
+      "max_speed_m_s": 5.0841803550720215,
+      "foam_particles": 4540
+    },
+    {
+      "simulation_frame": 58,
+      "active_particles": 36892,
+      "mean_speed_m_s": 2.0975148677825928,
+      "max_speed_m_s": 4.93580436706543,
+      "foam_particles": 4418
+    },
+    {
+      "simulation_frame": 59,
+      "active_particles": 36712,
+      "mean_speed_m_s": 2.094517707824707,
+      "max_speed_m_s": 4.971823215484619,
+      "foam_particles": 4423
+    },
+    {
+      "simulation_frame": 60,
+      "active_particles": 36589,
+      "mean_speed_m_s": 2.0956358909606934,
+      "max_speed_m_s": 4.86643123626709,
+      "foam_particles": 4470
+    },
+    {
+      "simulation_frame": 61,
+      "active_particles": 36507,
+      "mean_speed_m_s": 2.095151901245117,
+      "max_speed_m_s": 5.113665580749512,
+      "foam_particles": 4573
+    },
+    {
+      "simulation_frame": 62,
+      "active_particles": 36399,
+      "mean_speed_m_s": 2.0968003273010254,
+      "max_speed_m_s": 5.303558826446533,
+      "foam_particles": 4674
+    },
+    {
+      "simulation_frame": 63,
+      "active_particles": 36279,
+      "mean_speed_m_s": 2.0953967571258545,
+      "max_speed_m_s": 5.317024230957031,
+      "foam_particles": 4722
+    },
+    {
+      "simulation_frame": 64,
+      "active_particles": 36251,
+      "mean_speed_m_s": 2.098337411880493,
+      "max_speed_m_s": 5.320124626159668,
+      "foam_particles": 4783
+    },
+    {
+      "simulation_frame": 65,
+      "active_particles": 36248,
+      "mean_speed_m_s": 2.104761838912964,
+      "max_speed_m_s": 5.313131809234619,
+      "foam_particles": 4909
+    },
+    {
+      "simulation_frame": 66,
+      "active_particles": 36298,
+      "mean_speed_m_s": 2.109208822250366,
+      "max_speed_m_s": 5.49527645111084,
+      "foam_particles": 4992
+    },
+    {
+      "simulation_frame": 67,
+      "active_particles": 36324,
+      "mean_speed_m_s": 2.1155495643615723,
+      "max_speed_m_s": 5.430411338806152,
+      "foam_particles": 5077
+    },
+    {
+      "simulation_frame": 68,
+      "active_particles": 36339,
+      "mean_speed_m_s": 2.1210711002349854,
+      "max_speed_m_s": 5.391419410705566,
+      "foam_particles": 5136
+    },
+    {
+      "simulation_frame": 69,
+      "active_particles": 36310,
+      "mean_speed_m_s": 2.124784469604492,
+      "max_speed_m_s": 5.311321258544922,
+      "foam_particles": 5199
+    },
+    {
+      "simulation_frame": 70,
+      "active_particles": 36246,
+      "mean_speed_m_s": 2.124302387237549,
+      "max_speed_m_s": 5.3040337562561035,
+      "foam_particles": 5230
+    },
+    {
+      "simulation_frame": 71,
+      "active_particles": 36164,
+      "mean_speed_m_s": 2.1239166259765625,
+      "max_speed_m_s": 5.249850273132324,
+      "foam_particles": 5295
+    },
+    {
+      "simulation_frame": 72,
+      "active_particles": 36137,
+      "mean_speed_m_s": 2.1248624324798584,
+      "max_speed_m_s": 5.216736316680908,
+      "foam_particles": 5346
+    },
+    {
+      "simulation_frame": 73,
+      "active_particles": 36054,
+      "mean_speed_m_s": 2.123570442199707,
+      "max_speed_m_s": 5.274911403656006,
+      "foam_particles": 5409
+    },
+    {
+      "simulation_frame": 74,
+      "active_particles": 36039,
+      "mean_speed_m_s": 2.1254262924194336,
+      "max_speed_m_s": 5.177238464355469,
+      "foam_particles": 5423
+    },
+    {
+      "simulation_frame": 75,
+      "active_particles": 36028,
+      "mean_speed_m_s": 2.128835439682007,
+      "max_speed_m_s": 5.042795658111572,
+      "foam_particles": 5426
+    },
+    {
+      "simulation_frame": 76,
+      "active_particles": 36018,
+      "mean_speed_m_s": 2.1297760009765625,
+      "max_speed_m_s": 5.15395975112915,
+      "foam_particles": 5465
+    },
+    {
+      "simulation_frame": 77,
+      "active_particles": 36041,
+      "mean_speed_m_s": 2.1333494186401367,
+      "max_speed_m_s": 5.14825439453125,
+      "foam_particles": 5446
+    },
+    {
+      "simulation_frame": 78,
+      "active_particles": 36030,
+      "mean_speed_m_s": 2.136457920074463,
+      "max_speed_m_s": 5.149678707122803,
+      "foam_particles": 5403
+    },
+    {
+      "simulation_frame": 79,
+      "active_particles": 35987,
+      "mean_speed_m_s": 2.137328624725342,
+      "max_speed_m_s": 5.2547736167907715,
+      "foam_particles": 5391
+    },
+    {
+      "simulation_frame": 80,
+      "active_particles": 35983,
+      "mean_speed_m_s": 2.139321804046631,
+      "max_speed_m_s": 5.18964958190918,
+      "foam_particles": 5385
+    },
+    {
+      "simulation_frame": 81,
+      "active_particles": 35925,
+      "mean_speed_m_s": 2.1413216590881348,
+      "max_speed_m_s": 5.17573881149292,
+      "foam_particles": 5349
+    },
+    {
+      "simulation_frame": 82,
+      "active_particles": 35942,
+      "mean_speed_m_s": 2.1464884281158447,
+      "max_speed_m_s": 5.397860527038574,
+      "foam_particles": 5333
+    },
+    {
+      "simulation_frame": 83,
+      "active_particles": 35914,
+      "mean_speed_m_s": 2.1438381671905518,
+      "max_speed_m_s": 5.3597283363342285,
+      "foam_particles": 5335
+    },
+    {
+      "simulation_frame": 84,
+      "active_particles": 35916,
+      "mean_speed_m_s": 2.1452770233154297,
+      "max_speed_m_s": 5.376434803009033,
+      "foam_particles": 5301
+    },
+    {
+      "simulation_frame": 85,
+      "active_particles": 35949,
+      "mean_speed_m_s": 2.1449453830718994,
+      "max_speed_m_s": 5.355284214019775,
+      "foam_particles": 5272
+    },
+    {
+      "simulation_frame": 86,
+      "active_particles": 35930,
+      "mean_speed_m_s": 2.145399570465088,
+      "max_speed_m_s": 5.312564373016357,
+      "foam_particles": 5225
+    },
+    {
+      "simulation_frame": 87,
+      "active_particles": 35899,
+      "mean_speed_m_s": 2.143136501312256,
+      "max_speed_m_s": 5.148988723754883,
+      "foam_particles": 5201
+    },
+    {
+      "simulation_frame": 88,
+      "active_particles": 35940,
+      "mean_speed_m_s": 2.1444814205169678,
+      "max_speed_m_s": 5.376365661621094,
+      "foam_particles": 5211
+    },
+    {
+      "simulation_frame": 89,
+      "active_particles": 35929,
+      "mean_speed_m_s": 2.145538568496704,
+      "max_speed_m_s": 5.29826545715332,
+      "foam_particles": 5166
+    },
+    {
+      "simulation_frame": 90,
+      "active_particles": 35993,
+      "mean_speed_m_s": 2.150019884109497,
+      "max_speed_m_s": 5.352940082550049,
+      "foam_particles": 5186
+    },
+    {
+      "simulation_frame": 91,
+      "active_particles": 36075,
+      "mean_speed_m_s": 2.152298927307129,
+      "max_speed_m_s": 5.308565616607666,
+      "foam_particles": 5203
+    },
+    {
+      "simulation_frame": 92,
+      "active_particles": 36100,
+      "mean_speed_m_s": 2.153114080429077,
+      "max_speed_m_s": 5.1692891120910645,
+      "foam_particles": 5198
+    },
+    {
+      "simulation_frame": 93,
+      "active_particles": 36140,
+      "mean_speed_m_s": 2.1531929969787598,
+      "max_speed_m_s": 5.310970306396484,
+      "foam_particles": 5160
+    },
+    {
+      "simulation_frame": 94,
+      "active_particles": 36148,
+      "mean_speed_m_s": 2.152730703353882,
+      "max_speed_m_s": 5.200412273406982,
+      "foam_particles": 5144
+    },
+    {
+      "simulation_frame": 95,
+      "active_particles": 36124,
+      "mean_speed_m_s": 2.1524410247802734,
+      "max_speed_m_s": 5.213059425354004,
+      "foam_particles": 5134
+    },
+    {
+      "simulation_frame": 96,
+      "active_particles": 36137,
+      "mean_speed_m_s": 2.1547200679779053,
+      "max_speed_m_s": 5.239734172821045,
+      "foam_particles": 5119
+    },
+    {
+      "simulation_frame": 97,
+      "active_particles": 36067,
+      "mean_speed_m_s": 2.1548380851745605,
+      "max_speed_m_s": 5.296794891357422,
+      "foam_particles": 5052,
+      "output_frame": 1,
+      "mesh_vertices": 57719,
+      "mesh_triangles": 115490
+    },
+    {
+      "simulation_frame": 98,
+      "active_particles": 36095,
+      "mean_speed_m_s": 2.156820774078369,
+      "max_speed_m_s": 5.405093193054199,
+      "foam_particles": 5080,
+      "output_frame": 2,
+      "mesh_vertices": 57964,
+      "mesh_triangles": 116016
+    },
+    {
+      "simulation_frame": 99,
+      "active_particles": 36096,
+      "mean_speed_m_s": 2.15470027923584,
+      "max_speed_m_s": 5.319124221801758,
+      "foam_particles": 5057,
+      "output_frame": 3,
+      "mesh_vertices": 57513,
+      "mesh_triangles": 115054
+    },
+    {
+      "simulation_frame": 100,
+      "active_particles": 36117,
+      "mean_speed_m_s": 2.1543517112731934,
+      "max_speed_m_s": 5.361144065856934,
+      "foam_particles": 5041,
+      "output_frame": 4,
+      "mesh_vertices": 57628,
+      "mesh_triangles": 115276
+    },
+    {
+      "simulation_frame": 101,
+      "active_particles": 36126,
+      "mean_speed_m_s": 2.1553726196289062,
+      "max_speed_m_s": 5.399308681488037,
+      "foam_particles": 5074,
+      "output_frame": 5,
+      "mesh_vertices": 57174,
+      "mesh_triangles": 114308
+    },
+    {
+      "simulation_frame": 102,
+      "active_particles": 36126,
+      "mean_speed_m_s": 2.1575913429260254,
+      "max_speed_m_s": 5.464300632476807,
+      "foam_particles": 5096,
+      "output_frame": 6,
+      "mesh_vertices": 57345,
+      "mesh_triangles": 114698
+    },
+    {
+      "simulation_frame": 103,
+      "active_particles": 36074,
+      "mean_speed_m_s": 2.152651309967041,
+      "max_speed_m_s": 5.3930840492248535,
+      "foam_particles": 5108,
+      "output_frame": 7,
+      "mesh_vertices": 57381,
+      "mesh_triangles": 114778
+    },
+    {
+      "simulation_frame": 104,
+      "active_particles": 36068,
+      "mean_speed_m_s": 2.1547908782958984,
+      "max_speed_m_s": 5.480283260345459,
+      "foam_particles": 5130,
+      "output_frame": 8,
+      "mesh_vertices": 57523,
+      "mesh_triangles": 115062
+    },
+    {
+      "simulation_frame": 105,
+      "active_particles": 36043,
+      "mean_speed_m_s": 2.1565799713134766,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5187,
+      "output_frame": 9,
+      "mesh_vertices": 57915,
+      "mesh_triangles": 115882
+    },
+    {
+      "simulation_frame": 106,
+      "active_particles": 36063,
+      "mean_speed_m_s": 2.158308744430542,
+      "max_speed_m_s": 5.261702537536621,
+      "foam_particles": 5163,
+      "output_frame": 10,
+      "mesh_vertices": 57389,
+      "mesh_triangles": 114774
+    },
+    {
+      "simulation_frame": 107,
+      "active_particles": 36096,
+      "mean_speed_m_s": 2.1621153354644775,
+      "max_speed_m_s": 5.1543498039245605,
+      "foam_particles": 5191,
+      "output_frame": 11,
+      "mesh_vertices": 57581,
+      "mesh_triangles": 115190
+    },
+    {
+      "simulation_frame": 108,
+      "active_particles": 36139,
+      "mean_speed_m_s": 2.1642229557037354,
+      "max_speed_m_s": 5.440232753753662,
+      "foam_particles": 5167,
+      "output_frame": 12,
+      "mesh_vertices": 57229,
+      "mesh_triangles": 114430
+    },
+    {
+      "simulation_frame": 109,
+      "active_particles": 36157,
+      "mean_speed_m_s": 2.1632630825042725,
+      "max_speed_m_s": 5.38938570022583,
+      "foam_particles": 5179,
+      "output_frame": 13,
+      "mesh_vertices": 57404,
+      "mesh_triangles": 114820
+    },
+    {
+      "simulation_frame": 110,
+      "active_particles": 36178,
+      "mean_speed_m_s": 2.1639301776885986,
+      "max_speed_m_s": 5.373529434204102,
+      "foam_particles": 5188,
+      "output_frame": 14,
+      "mesh_vertices": 57046,
+      "mesh_triangles": 114112
+    },
+    {
+      "simulation_frame": 111,
+      "active_particles": 36160,
+      "mean_speed_m_s": 2.1637847423553467,
+      "max_speed_m_s": 5.377729415893555,
+      "foam_particles": 5205,
+      "output_frame": 15,
+      "mesh_vertices": 57382,
+      "mesh_triangles": 114828
+    },
+    {
+      "simulation_frame": 112,
+      "active_particles": 36164,
+      "mean_speed_m_s": 2.1645164489746094,
+      "max_speed_m_s": 5.418890476226807,
+      "foam_particles": 5227,
+      "output_frame": 16,
+      "mesh_vertices": 57262,
+      "mesh_triangles": 114592
+    },
+    {
+      "simulation_frame": 113,
+      "active_particles": 36165,
+      "mean_speed_m_s": 2.1689300537109375,
+      "max_speed_m_s": 5.490004539489746,
+      "foam_particles": 5264,
+      "output_frame": 17,
+      "mesh_vertices": 57802,
+      "mesh_triangles": 115632
+    },
+    {
+      "simulation_frame": 114,
+      "active_particles": 36181,
+      "mean_speed_m_s": 2.1704680919647217,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5276,
+      "output_frame": 18,
+      "mesh_vertices": 58059,
+      "mesh_triangles": 116174
+    },
+    {
+      "simulation_frame": 115,
+      "active_particles": 36192,
+      "mean_speed_m_s": 2.1693363189697266,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5291,
+      "output_frame": 19,
+      "mesh_vertices": 58004,
+      "mesh_triangles": 116024
+    },
+    {
+      "simulation_frame": 116,
+      "active_particles": 36210,
+      "mean_speed_m_s": 2.170358896255493,
+      "max_speed_m_s": 5.1509809494018555,
+      "foam_particles": 5289,
+      "output_frame": 20,
+      "mesh_vertices": 58084,
+      "mesh_triangles": 116232
+    },
+    {
+      "simulation_frame": 117,
+      "active_particles": 36225,
+      "mean_speed_m_s": 2.171886920928955,
+      "max_speed_m_s": 5.186076641082764,
+      "foam_particles": 5331,
+      "output_frame": 21,
+      "mesh_vertices": 58122,
+      "mesh_triangles": 116312
+    },
+    {
+      "simulation_frame": 118,
+      "active_particles": 36184,
+      "mean_speed_m_s": 2.1726300716400146,
+      "max_speed_m_s": 5.2195305824279785,
+      "foam_particles": 5372,
+      "output_frame": 22,
+      "mesh_vertices": 58168,
+      "mesh_triangles": 116352
+    },
+    {
+      "simulation_frame": 119,
+      "active_particles": 36128,
+      "mean_speed_m_s": 2.1719071865081787,
+      "max_speed_m_s": 5.230320453643799,
+      "foam_particles": 5393,
+      "output_frame": 23,
+      "mesh_vertices": 58201,
+      "mesh_triangles": 116418
+    },
+    {
+      "simulation_frame": 120,
+      "active_particles": 36156,
+      "mean_speed_m_s": 2.1731650829315186,
+      "max_speed_m_s": 5.427631378173828,
+      "foam_particles": 5376,
+      "output_frame": 24,
+      "mesh_vertices": 58004,
+      "mesh_triangles": 116016
+    },
+    {
+      "simulation_frame": 121,
+      "active_particles": 36155,
+      "mean_speed_m_s": 2.174558162689209,
+      "max_speed_m_s": 5.3690409660339355,
+      "foam_particles": 5415,
+      "output_frame": 25,
+      "mesh_vertices": 58275,
+      "mesh_triangles": 116586
+    },
+    {
+      "simulation_frame": 122,
+      "active_particles": 36162,
+      "mean_speed_m_s": 2.174973964691162,
+      "max_speed_m_s": 5.499999523162842,
+      "foam_particles": 5403,
+      "output_frame": 26,
+      "mesh_vertices": 58107,
+      "mesh_triangles": 116258
+    },
+    {
+      "simulation_frame": 123,
+      "active_particles": 36207,
+      "mean_speed_m_s": 2.176107168197632,
+      "max_speed_m_s": 5.423191070556641,
+      "foam_particles": 5463,
+      "output_frame": 27,
+      "mesh_vertices": 58180,
+      "mesh_triangles": 116380
+    },
+    {
+      "simulation_frame": 124,
+      "active_particles": 36228,
+      "mean_speed_m_s": 2.1800942420959473,
+      "max_speed_m_s": 5.497742652893066,
+      "foam_particles": 5425,
+      "output_frame": 28,
+      "mesh_vertices": 58113,
+      "mesh_triangles": 116246
+    },
+    {
+      "simulation_frame": 125,
+      "active_particles": 36265,
+      "mean_speed_m_s": 2.179501533508301,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5399,
+      "output_frame": 29,
+      "mesh_vertices": 58261,
+      "mesh_triangles": 116582
+    },
+    {
+      "simulation_frame": 126,
+      "active_particles": 36255,
+      "mean_speed_m_s": 2.1797590255737305,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5388,
+      "output_frame": 30,
+      "mesh_vertices": 58059,
+      "mesh_triangles": 116114
+    },
+    {
+      "simulation_frame": 127,
+      "active_particles": 36231,
+      "mean_speed_m_s": 2.1766576766967773,
+      "max_speed_m_s": 5.248978137969971,
+      "foam_particles": 5423,
+      "output_frame": 31,
+      "mesh_vertices": 58145,
+      "mesh_triangles": 116306
+    },
+    {
+      "simulation_frame": 128,
+      "active_particles": 36226,
+      "mean_speed_m_s": 2.1780598163604736,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5461,
+      "output_frame": 32,
+      "mesh_vertices": 58554,
+      "mesh_triangles": 117104
+    },
+    {
+      "simulation_frame": 129,
+      "active_particles": 36202,
+      "mean_speed_m_s": 2.1800012588500977,
+      "max_speed_m_s": 5.347605228424072,
+      "foam_particles": 5465,
+      "output_frame": 33,
+      "mesh_vertices": 58450,
+      "mesh_triangles": 116972
+    },
+    {
+      "simulation_frame": 130,
+      "active_particles": 36223,
+      "mean_speed_m_s": 2.18251633644104,
+      "max_speed_m_s": 5.472992897033691,
+      "foam_particles": 5464,
+      "output_frame": 34,
+      "mesh_vertices": 58270,
+      "mesh_triangles": 116608
+    },
+    {
+      "simulation_frame": 131,
+      "active_particles": 36243,
+      "mean_speed_m_s": 2.182753562927246,
+      "max_speed_m_s": 5.263392925262451,
+      "foam_particles": 5495,
+      "output_frame": 35,
+      "mesh_vertices": 58557,
+      "mesh_triangles": 117174
+    },
+    {
+      "simulation_frame": 132,
+      "active_particles": 36251,
+      "mean_speed_m_s": 2.18481183052063,
+      "max_speed_m_s": 5.2364983558654785,
+      "foam_particles": 5522,
+      "output_frame": 36,
+      "mesh_vertices": 58495,
+      "mesh_triangles": 117066
+    },
+    {
+      "simulation_frame": 133,
+      "active_particles": 36282,
+      "mean_speed_m_s": 2.183638334274292,
+      "max_speed_m_s": 5.458276748657227,
+      "foam_particles": 5532,
+      "output_frame": 37,
+      "mesh_vertices": 58304,
+      "mesh_triangles": 116612
+    },
+    {
+      "simulation_frame": 134,
+      "active_particles": 36259,
+      "mean_speed_m_s": 2.1825366020202637,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5527,
+      "output_frame": 38,
+      "mesh_vertices": 58338,
+      "mesh_triangles": 116704
+    },
+    {
+      "simulation_frame": 135,
+      "active_particles": 36235,
+      "mean_speed_m_s": 2.1816461086273193,
+      "max_speed_m_s": 5.365628242492676,
+      "foam_particles": 5528,
+      "output_frame": 39,
+      "mesh_vertices": 58190,
+      "mesh_triangles": 116380
+    },
+    {
+      "simulation_frame": 136,
+      "active_particles": 36222,
+      "mean_speed_m_s": 2.1830334663391113,
+      "max_speed_m_s": 5.355806827545166,
+      "foam_particles": 5510,
+      "output_frame": 40,
+      "mesh_vertices": 58329,
+      "mesh_triangles": 116678
+    },
+    {
+      "simulation_frame": 137,
+      "active_particles": 36171,
+      "mean_speed_m_s": 2.1860456466674805,
+      "max_speed_m_s": 5.242565155029297,
+      "foam_particles": 5496,
+      "output_frame": 41,
+      "mesh_vertices": 58091,
+      "mesh_triangles": 116198
+    },
+    {
+      "simulation_frame": 138,
+      "active_particles": 36210,
+      "mean_speed_m_s": 2.1875431537628174,
+      "max_speed_m_s": 5.313386917114258,
+      "foam_particles": 5481,
+      "output_frame": 42,
+      "mesh_vertices": 58072,
+      "mesh_triangles": 116148
+    },
+    {
+      "simulation_frame": 139,
+      "active_particles": 36231,
+      "mean_speed_m_s": 2.1865012645721436,
+      "max_speed_m_s": 5.302166938781738,
+      "foam_particles": 5461,
+      "output_frame": 43,
+      "mesh_vertices": 57929,
+      "mesh_triangles": 115862
+    },
+    {
+      "simulation_frame": 140,
+      "active_particles": 36264,
+      "mean_speed_m_s": 2.183964729309082,
+      "max_speed_m_s": 5.342268466949463,
+      "foam_particles": 5474,
+      "output_frame": 44,
+      "mesh_vertices": 58435,
+      "mesh_triangles": 116930
+    },
+    {
+      "simulation_frame": 141,
+      "active_particles": 36292,
+      "mean_speed_m_s": 2.1870596408843994,
+      "max_speed_m_s": 5.364617347717285,
+      "foam_particles": 5465,
+      "output_frame": 45,
+      "mesh_vertices": 58706,
+      "mesh_triangles": 117456
+    },
+    {
+      "simulation_frame": 142,
+      "active_particles": 36288,
+      "mean_speed_m_s": 2.1854302883148193,
+      "max_speed_m_s": 5.315953254699707,
+      "foam_particles": 5447,
+      "output_frame": 46,
+      "mesh_vertices": 58472,
+      "mesh_triangles": 116960
+    },
+    {
+      "simulation_frame": 143,
+      "active_particles": 36262,
+      "mean_speed_m_s": 2.1862378120422363,
+      "max_speed_m_s": 5.300568103790283,
+      "foam_particles": 5457,
+      "output_frame": 47,
+      "mesh_vertices": 58839,
+      "mesh_triangles": 117706
+    },
+    {
+      "simulation_frame": 144,
+      "active_particles": 36239,
+      "mean_speed_m_s": 2.1874728202819824,
+      "max_speed_m_s": 5.26152229309082,
+      "foam_particles": 5434,
+      "output_frame": 48,
+      "mesh_vertices": 58797,
+      "mesh_triangles": 117658
+    },
+    {
+      "simulation_frame": 145,
+      "active_particles": 36208,
+      "mean_speed_m_s": 2.1873533725738525,
+      "max_speed_m_s": 5.295384883880615,
+      "foam_particles": 5422,
+      "output_frame": 49,
+      "mesh_vertices": 58723,
+      "mesh_triangles": 117478
+    },
+    {
+      "simulation_frame": 146,
+      "active_particles": 36198,
+      "mean_speed_m_s": 2.1868231296539307,
+      "max_speed_m_s": 5.3906121253967285,
+      "foam_particles": 5437,
+      "output_frame": 50,
+      "mesh_vertices": 59174,
+      "mesh_triangles": 118408
+    },
+    {
+      "simulation_frame": 147,
+      "active_particles": 36205,
+      "mean_speed_m_s": 2.187385320663452,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5476,
+      "output_frame": 51,
+      "mesh_vertices": 59158,
+      "mesh_triangles": 118416
+    },
+    {
+      "simulation_frame": 148,
+      "active_particles": 36196,
+      "mean_speed_m_s": 2.187535285949707,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5497,
+      "output_frame": 52,
+      "mesh_vertices": 58792,
+      "mesh_triangles": 117636
+    },
+    {
+      "simulation_frame": 149,
+      "active_particles": 36179,
+      "mean_speed_m_s": 2.1872122287750244,
+      "max_speed_m_s": 5.283565521240234,
+      "foam_particles": 5495,
+      "output_frame": 53,
+      "mesh_vertices": 58619,
+      "mesh_triangles": 117306
+    },
+    {
+      "simulation_frame": 150,
+      "active_particles": 36159,
+      "mean_speed_m_s": 2.189361572265625,
+      "max_speed_m_s": 5.130702018737793,
+      "foam_particles": 5481,
+      "output_frame": 54,
+      "mesh_vertices": 58698,
+      "mesh_triangles": 117448
+    },
+    {
+      "simulation_frame": 151,
+      "active_particles": 36116,
+      "mean_speed_m_s": 2.1892848014831543,
+      "max_speed_m_s": 5.173902988433838,
+      "foam_particles": 5447,
+      "output_frame": 55,
+      "mesh_vertices": 58301,
+      "mesh_triangles": 116678
+    },
+    {
+      "simulation_frame": 152,
+      "active_particles": 36122,
+      "mean_speed_m_s": 2.1929705142974854,
+      "max_speed_m_s": 5.234170913696289,
+      "foam_particles": 5458,
+      "output_frame": 56,
+      "mesh_vertices": 58690,
+      "mesh_triangles": 117432
+    },
+    {
+      "simulation_frame": 153,
+      "active_particles": 36075,
+      "mean_speed_m_s": 2.1939566135406494,
+      "max_speed_m_s": 5.186402320861816,
+      "foam_particles": 5484,
+      "output_frame": 57,
+      "mesh_vertices": 58689,
+      "mesh_triangles": 117422
+    },
+    {
+      "simulation_frame": 154,
+      "active_particles": 36088,
+      "mean_speed_m_s": 2.195828437805176,
+      "max_speed_m_s": 5.479351043701172,
+      "foam_particles": 5506,
+      "output_frame": 58,
+      "mesh_vertices": 58929,
+      "mesh_triangles": 117958
+    },
+    {
+      "simulation_frame": 155,
+      "active_particles": 36089,
+      "mean_speed_m_s": 2.19482421875,
+      "max_speed_m_s": 5.367012977600098,
+      "foam_particles": 5493,
+      "output_frame": 59,
+      "mesh_vertices": 58950,
+      "mesh_triangles": 117960
+    },
+    {
+      "simulation_frame": 156,
+      "active_particles": 36085,
+      "mean_speed_m_s": 2.195984363555908,
+      "max_speed_m_s": 5.317748069763184,
+      "foam_particles": 5515,
+      "output_frame": 60,
+      "mesh_vertices": 59054,
+      "mesh_triangles": 118160
+    },
+    {
+      "simulation_frame": 157,
+      "active_particles": 36093,
+      "mean_speed_m_s": 2.195324659347534,
+      "max_speed_m_s": 5.338961601257324,
+      "foam_particles": 5515,
+      "output_frame": 61,
+      "mesh_vertices": 58912,
+      "mesh_triangles": 117856
+    },
+    {
+      "simulation_frame": 158,
+      "active_particles": 36044,
+      "mean_speed_m_s": 2.193577766418457,
+      "max_speed_m_s": 5.171440601348877,
+      "foam_particles": 5476,
+      "output_frame": 62,
+      "mesh_vertices": 58907,
+      "mesh_triangles": 117870
+    },
+    {
+      "simulation_frame": 159,
+      "active_particles": 35996,
+      "mean_speed_m_s": 2.19293212890625,
+      "max_speed_m_s": 5.172284126281738,
+      "foam_particles": 5490,
+      "output_frame": 63,
+      "mesh_vertices": 59233,
+      "mesh_triangles": 118554
+    },
+    {
+      "simulation_frame": 160,
+      "active_particles": 35977,
+      "mean_speed_m_s": 2.19465708732605,
+      "max_speed_m_s": 5.240237236022949,
+      "foam_particles": 5527,
+      "output_frame": 64,
+      "mesh_vertices": 59335,
+      "mesh_triangles": 118738
+    },
+    {
+      "simulation_frame": 161,
+      "active_particles": 35931,
+      "mean_speed_m_s": 2.1949071884155273,
+      "max_speed_m_s": 5.3387064933776855,
+      "foam_particles": 5572,
+      "output_frame": 65,
+      "mesh_vertices": 59484,
+      "mesh_triangles": 119012
+    },
+    {
+      "simulation_frame": 162,
+      "active_particles": 35928,
+      "mean_speed_m_s": 2.1954286098480225,
+      "max_speed_m_s": 5.462182998657227,
+      "foam_particles": 5643,
+      "output_frame": 66,
+      "mesh_vertices": 59565,
+      "mesh_triangles": 119246
+    },
+    {
+      "simulation_frame": 163,
+      "active_particles": 35963,
+      "mean_speed_m_s": 2.195472478866577,
+      "max_speed_m_s": 5.287335395812988,
+      "foam_particles": 5681,
+      "output_frame": 67,
+      "mesh_vertices": 58935,
+      "mesh_triangles": 117882
+    },
+    {
+      "simulation_frame": 164,
+      "active_particles": 35996,
+      "mean_speed_m_s": 2.1971845626831055,
+      "max_speed_m_s": 5.4161224365234375,
+      "foam_particles": 5664,
+      "output_frame": 68,
+      "mesh_vertices": 58651,
+      "mesh_triangles": 117370
+    },
+    {
+      "simulation_frame": 165,
+      "active_particles": 35998,
+      "mean_speed_m_s": 2.19816517829895,
+      "max_speed_m_s": 5.439766883850098,
+      "foam_particles": 5627,
+      "output_frame": 69,
+      "mesh_vertices": 58888,
+      "mesh_triangles": 117860
+    },
+    {
+      "simulation_frame": 166,
+      "active_particles": 36038,
+      "mean_speed_m_s": 2.201699733734131,
+      "max_speed_m_s": 5.39157772064209,
+      "foam_particles": 5654,
+      "output_frame": 70,
+      "mesh_vertices": 58905,
+      "mesh_triangles": 117866
+    },
+    {
+      "simulation_frame": 167,
+      "active_particles": 36049,
+      "mean_speed_m_s": 2.1997997760772705,
+      "max_speed_m_s": 5.383352756500244,
+      "foam_particles": 5660,
+      "output_frame": 71,
+      "mesh_vertices": 58949,
+      "mesh_triangles": 117954
+    },
+    {
+      "simulation_frame": 168,
+      "active_particles": 36060,
+      "mean_speed_m_s": 2.2021372318267822,
+      "max_speed_m_s": 5.39610481262207,
+      "foam_particles": 5674,
+      "output_frame": 72,
+      "mesh_vertices": 59099,
+      "mesh_triangles": 118258
+    },
+    {
+      "simulation_frame": 169,
+      "active_particles": 36036,
+      "mean_speed_m_s": 2.203284740447998,
+      "max_speed_m_s": 5.430633544921875,
+      "foam_particles": 5704,
+      "output_frame": 73,
+      "mesh_vertices": 59469,
+      "mesh_triangles": 119022
+    },
+    {
+      "simulation_frame": 170,
+      "active_particles": 36058,
+      "mean_speed_m_s": 2.2028281688690186,
+      "max_speed_m_s": 5.283858776092529,
+      "foam_particles": 5659,
+      "output_frame": 74,
+      "mesh_vertices": 59334,
+      "mesh_triangles": 118744
+    },
+    {
+      "simulation_frame": 171,
+      "active_particles": 36086,
+      "mean_speed_m_s": 2.2057723999023438,
+      "max_speed_m_s": 5.17850923538208,
+      "foam_particles": 5712,
+      "output_frame": 75,
+      "mesh_vertices": 58774,
+      "mesh_triangles": 117596
+    },
+    {
+      "simulation_frame": 172,
+      "active_particles": 36088,
+      "mean_speed_m_s": 2.2078025341033936,
+      "max_speed_m_s": 5.090564727783203,
+      "foam_particles": 5768,
+      "output_frame": 76,
+      "mesh_vertices": 59276,
+      "mesh_triangles": 118568
+    },
+    {
+      "simulation_frame": 173,
+      "active_particles": 36119,
+      "mean_speed_m_s": 2.2068936824798584,
+      "max_speed_m_s": 5.213869094848633,
+      "foam_particles": 5816,
+      "output_frame": 77,
+      "mesh_vertices": 59564,
+      "mesh_triangles": 119176
+    },
+    {
+      "simulation_frame": 174,
+      "active_particles": 36109,
+      "mean_speed_m_s": 2.2059810161590576,
+      "max_speed_m_s": 5.26469612121582,
+      "foam_particles": 5832,
+      "output_frame": 78,
+      "mesh_vertices": 59464,
+      "mesh_triangles": 118960
+    },
+    {
+      "simulation_frame": 175,
+      "active_particles": 36058,
+      "mean_speed_m_s": 2.2033612728118896,
+      "max_speed_m_s": 5.23542594909668,
+      "foam_particles": 5861,
+      "output_frame": 79,
+      "mesh_vertices": 59436,
+      "mesh_triangles": 118972
+    },
+    {
+      "simulation_frame": 176,
+      "active_particles": 36070,
+      "mean_speed_m_s": 2.2037649154663086,
+      "max_speed_m_s": 5.479599952697754,
+      "foam_particles": 5871,
+      "output_frame": 80,
+      "mesh_vertices": 59430,
+      "mesh_triangles": 118932
+    },
+    {
+      "simulation_frame": 177,
+      "active_particles": 36033,
+      "mean_speed_m_s": 2.205390214920044,
+      "max_speed_m_s": 5.473857402801514,
+      "foam_particles": 5876,
+      "output_frame": 81,
+      "mesh_vertices": 59401,
+      "mesh_triangles": 118818
+    },
+    {
+      "simulation_frame": 178,
+      "active_particles": 36057,
+      "mean_speed_m_s": 2.205326795578003,
+      "max_speed_m_s": 5.433937072753906,
+      "foam_particles": 5879,
+      "output_frame": 82,
+      "mesh_vertices": 59382,
+      "mesh_triangles": 118828
+    },
+    {
+      "simulation_frame": 179,
+      "active_particles": 36048,
+      "mean_speed_m_s": 2.206458330154419,
+      "max_speed_m_s": 5.457503795623779,
+      "foam_particles": 5860,
+      "output_frame": 83,
+      "mesh_vertices": 58929,
+      "mesh_triangles": 117918
+    },
+    {
+      "simulation_frame": 180,
+      "active_particles": 36103,
+      "mean_speed_m_s": 2.2093818187713623,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5799,
+      "output_frame": 84,
+      "mesh_vertices": 59219,
+      "mesh_triangles": 118474
+    },
+    {
+      "simulation_frame": 181,
+      "active_particles": 36106,
+      "mean_speed_m_s": 2.209017515182495,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5770,
+      "output_frame": 85,
+      "mesh_vertices": 59337,
+      "mesh_triangles": 118730
+    },
+    {
+      "simulation_frame": 182,
+      "active_particles": 36100,
+      "mean_speed_m_s": 2.2076399326324463,
+      "max_speed_m_s": 5.419464588165283,
+      "foam_particles": 5764,
+      "output_frame": 86,
+      "mesh_vertices": 59118,
+      "mesh_triangles": 118344
+    },
+    {
+      "simulation_frame": 183,
+      "active_particles": 36101,
+      "mean_speed_m_s": 2.207519292831421,
+      "max_speed_m_s": 5.262113571166992,
+      "foam_particles": 5772,
+      "output_frame": 87,
+      "mesh_vertices": 59135,
+      "mesh_triangles": 118358
+    },
+    {
+      "simulation_frame": 184,
+      "active_particles": 36080,
+      "mean_speed_m_s": 2.2085533142089844,
+      "max_speed_m_s": 5.354723930358887,
+      "foam_particles": 5753,
+      "output_frame": 88,
+      "mesh_vertices": 59427,
+      "mesh_triangles": 118898
+    },
+    {
+      "simulation_frame": 185,
+      "active_particles": 36057,
+      "mean_speed_m_s": 2.212202310562134,
+      "max_speed_m_s": 5.4583258628845215,
+      "foam_particles": 5735,
+      "output_frame": 89,
+      "mesh_vertices": 59481,
+      "mesh_triangles": 119022
+    },
+    {
+      "simulation_frame": 186,
+      "active_particles": 36047,
+      "mean_speed_m_s": 2.213540554046631,
+      "max_speed_m_s": 5.418537139892578,
+      "foam_particles": 5720,
+      "output_frame": 90,
+      "mesh_vertices": 59650,
+      "mesh_triangles": 119364
+    },
+    {
+      "simulation_frame": 187,
+      "active_particles": 36046,
+      "mean_speed_m_s": 2.211758613586426,
+      "max_speed_m_s": 5.318892478942871,
+      "foam_particles": 5716,
+      "output_frame": 91,
+      "mesh_vertices": 59428,
+      "mesh_triangles": 118932
+    },
+    {
+      "simulation_frame": 188,
+      "active_particles": 36062,
+      "mean_speed_m_s": 2.2118828296661377,
+      "max_speed_m_s": 5.36733865737915,
+      "foam_particles": 5712,
+      "output_frame": 92,
+      "mesh_vertices": 59367,
+      "mesh_triangles": 118806
+    },
+    {
+      "simulation_frame": 189,
+      "active_particles": 36072,
+      "mean_speed_m_s": 2.211825132369995,
+      "max_speed_m_s": 5.468283653259277,
+      "foam_particles": 5715,
+      "output_frame": 93,
+      "mesh_vertices": 59395,
+      "mesh_triangles": 118858
+    },
+    {
+      "simulation_frame": 190,
+      "active_particles": 36054,
+      "mean_speed_m_s": 2.212122678756714,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5708,
+      "output_frame": 94,
+      "mesh_vertices": 59351,
+      "mesh_triangles": 118754
+    },
+    {
+      "simulation_frame": 191,
+      "active_particles": 35997,
+      "mean_speed_m_s": 2.2098388671875,
+      "max_speed_m_s": 5.3379034996032715,
+      "foam_particles": 5707,
+      "output_frame": 95,
+      "mesh_vertices": 59385,
+      "mesh_triangles": 118818
+    },
+    {
+      "simulation_frame": 192,
+      "active_particles": 35975,
+      "mean_speed_m_s": 2.2112367153167725,
+      "max_speed_m_s": 5.445507049560547,
+      "foam_particles": 5694,
+      "output_frame": 96,
+      "mesh_vertices": 59224,
+      "mesh_triangles": 118500
+    },
+    {
+      "simulation_frame": 193,
+      "active_particles": 35917,
+      "mean_speed_m_s": 2.2129855155944824,
+      "max_speed_m_s": 5.33945369720459,
+      "foam_particles": 5666,
+      "output_frame": 97,
+      "mesh_vertices": 59086,
+      "mesh_triangles": 118236
+    },
+    {
+      "simulation_frame": 194,
+      "active_particles": 35909,
+      "mean_speed_m_s": 2.2120862007141113,
+      "max_speed_m_s": 5.1333513259887695,
+      "foam_particles": 5655,
+      "output_frame": 98,
+      "mesh_vertices": 58556,
+      "mesh_triangles": 117232
+    },
+    {
+      "simulation_frame": 195,
+      "active_particles": 35925,
+      "mean_speed_m_s": 2.2146403789520264,
+      "max_speed_m_s": 5.314431190490723,
+      "foam_particles": 5627,
+      "output_frame": 99,
+      "mesh_vertices": 58555,
+      "mesh_triangles": 117194
+    },
+    {
+      "simulation_frame": 196,
+      "active_particles": 35947,
+      "mean_speed_m_s": 2.2142622470855713,
+      "max_speed_m_s": 5.3312296867370605,
+      "foam_particles": 5570,
+      "output_frame": 100,
+      "mesh_vertices": 58356,
+      "mesh_triangles": 116788
+    },
+    {
+      "simulation_frame": 197,
+      "active_particles": 35954,
+      "mean_speed_m_s": 2.2149155139923096,
+      "max_speed_m_s": 5.312201499938965,
+      "foam_particles": 5560,
+      "output_frame": 101,
+      "mesh_vertices": 58639,
+      "mesh_triangles": 117354
+    },
+    {
+      "simulation_frame": 198,
+      "active_particles": 35907,
+      "mean_speed_m_s": 2.2154266834259033,
+      "max_speed_m_s": 5.349005222320557,
+      "foam_particles": 5543,
+      "output_frame": 102,
+      "mesh_vertices": 58938,
+      "mesh_triangles": 117956
+    },
+    {
+      "simulation_frame": 199,
+      "active_particles": 35920,
+      "mean_speed_m_s": 2.2146639823913574,
+      "max_speed_m_s": 5.381929874420166,
+      "foam_particles": 5566,
+      "output_frame": 103,
+      "mesh_vertices": 58824,
+      "mesh_triangles": 117716
+    },
+    {
+      "simulation_frame": 200,
+      "active_particles": 35916,
+      "mean_speed_m_s": 2.2160444259643555,
+      "max_speed_m_s": 5.387980937957764,
+      "foam_particles": 5546,
+      "output_frame": 104,
+      "mesh_vertices": 58598,
+      "mesh_triangles": 117240
+    },
+    {
+      "simulation_frame": 201,
+      "active_particles": 35864,
+      "mean_speed_m_s": 2.218039035797119,
+      "max_speed_m_s": 5.360754489898682,
+      "foam_particles": 5609,
+      "output_frame": 105,
+      "mesh_vertices": 58915,
+      "mesh_triangles": 117890
+    },
+    {
+      "simulation_frame": 202,
+      "active_particles": 35873,
+      "mean_speed_m_s": 2.217646837234497,
+      "max_speed_m_s": 5.300539016723633,
+      "foam_particles": 5643,
+      "output_frame": 106,
+      "mesh_vertices": 59173,
+      "mesh_triangles": 118426
+    },
+    {
+      "simulation_frame": 203,
+      "active_particles": 35903,
+      "mean_speed_m_s": 2.2200896739959717,
+      "max_speed_m_s": 5.089405059814453,
+      "foam_particles": 5703,
+      "output_frame": 107,
+      "mesh_vertices": 58939,
+      "mesh_triangles": 117934
+    },
+    {
+      "simulation_frame": 204,
+      "active_particles": 35899,
+      "mean_speed_m_s": 2.223254680633545,
+      "max_speed_m_s": 5.081689357757568,
+      "foam_particles": 5736,
+      "output_frame": 108,
+      "mesh_vertices": 59173,
+      "mesh_triangles": 118454
+    },
+    {
+      "simulation_frame": 205,
+      "active_particles": 35897,
+      "mean_speed_m_s": 2.222851037979126,
+      "max_speed_m_s": 5.160208702087402,
+      "foam_particles": 5777,
+      "output_frame": 109,
+      "mesh_vertices": 59115,
+      "mesh_triangles": 118298
+    },
+    {
+      "simulation_frame": 206,
+      "active_particles": 35940,
+      "mean_speed_m_s": 2.223397970199585,
+      "max_speed_m_s": 5.1869378089904785,
+      "foam_particles": 5765,
+      "output_frame": 110,
+      "mesh_vertices": 59455,
+      "mesh_triangles": 118910
+    },
+    {
+      "simulation_frame": 207,
+      "active_particles": 35860,
+      "mean_speed_m_s": 2.219635486602783,
+      "max_speed_m_s": 5.291862487792969,
+      "foam_particles": 5730,
+      "output_frame": 111,
+      "mesh_vertices": 59061,
+      "mesh_triangles": 118130
+    },
+    {
+      "simulation_frame": 208,
+      "active_particles": 35856,
+      "mean_speed_m_s": 2.220973253250122,
+      "max_speed_m_s": 5.365164756774902,
+      "foam_particles": 5763,
+      "output_frame": 112,
+      "mesh_vertices": 59044,
+      "mesh_triangles": 118108
+    },
+    {
+      "simulation_frame": 209,
+      "active_particles": 35810,
+      "mean_speed_m_s": 2.2245991230010986,
+      "max_speed_m_s": 5.291093349456787,
+      "foam_particles": 5745,
+      "output_frame": 113,
+      "mesh_vertices": 58913,
+      "mesh_triangles": 117846
+    },
+    {
+      "simulation_frame": 210,
+      "active_particles": 35855,
+      "mean_speed_m_s": 2.2278389930725098,
+      "max_speed_m_s": 5.48148775100708,
+      "foam_particles": 5738,
+      "output_frame": 114,
+      "mesh_vertices": 59060,
+      "mesh_triangles": 118168
+    },
+    {
+      "simulation_frame": 211,
+      "active_particles": 35864,
+      "mean_speed_m_s": 2.2273449897766113,
+      "max_speed_m_s": 5.435441493988037,
+      "foam_particles": 5764,
+      "output_frame": 115,
+      "mesh_vertices": 58449,
+      "mesh_triangles": 116922
+    },
+    {
+      "simulation_frame": 212,
+      "active_particles": 35858,
+      "mean_speed_m_s": 2.226459503173828,
+      "max_speed_m_s": 5.371730327606201,
+      "foam_particles": 5729,
+      "output_frame": 116,
+      "mesh_vertices": 58612,
+      "mesh_triangles": 117156
+    },
+    {
+      "simulation_frame": 213,
+      "active_particles": 35882,
+      "mean_speed_m_s": 2.2266600131988525,
+      "max_speed_m_s": 5.35330867767334,
+      "foam_particles": 5712,
+      "output_frame": 117,
+      "mesh_vertices": 59002,
+      "mesh_triangles": 118064
+    },
+    {
+      "simulation_frame": 214,
+      "active_particles": 35869,
+      "mean_speed_m_s": 2.227766990661621,
+      "max_speed_m_s": 5.428292751312256,
+      "foam_particles": 5732,
+      "output_frame": 118,
+      "mesh_vertices": 59598,
+      "mesh_triangles": 119316
+    },
+    {
+      "simulation_frame": 215,
+      "active_particles": 35827,
+      "mean_speed_m_s": 2.2252585887908936,
+      "max_speed_m_s": 5.496874809265137,
+      "foam_particles": 5756,
+      "output_frame": 119,
+      "mesh_vertices": 59628,
+      "mesh_triangles": 119364
+    },
+    {
+      "simulation_frame": 216,
+      "active_particles": 35803,
+      "mean_speed_m_s": 2.2248682975769043,
+      "max_speed_m_s": 5.428020000457764,
+      "foam_particles": 5767,
+      "output_frame": 120,
+      "mesh_vertices": 59512,
+      "mesh_triangles": 119128
+    },
+    {
+      "simulation_frame": 217,
+      "active_particles": 35793,
+      "mean_speed_m_s": 2.2286977767944336,
+      "max_speed_m_s": 5.449373722076416,
+      "foam_particles": 5856,
+      "output_frame": 121,
+      "mesh_vertices": 59088,
+      "mesh_triangles": 118216
+    },
+    {
+      "simulation_frame": 218,
+      "active_particles": 35827,
+      "mean_speed_m_s": 2.23140811920166,
+      "max_speed_m_s": 5.476919651031494,
+      "foam_particles": 5867,
+      "output_frame": 122,
+      "mesh_vertices": 58795,
+      "mesh_triangles": 117586
+    },
+    {
+      "simulation_frame": 219,
+      "active_particles": 35856,
+      "mean_speed_m_s": 2.2314839363098145,
+      "max_speed_m_s": 5.200746059417725,
+      "foam_particles": 5863,
+      "output_frame": 123,
+      "mesh_vertices": 59129,
+      "mesh_triangles": 118298
+    },
+    {
+      "simulation_frame": 220,
+      "active_particles": 35874,
+      "mean_speed_m_s": 2.2315337657928467,
+      "max_speed_m_s": 5.230078220367432,
+      "foam_particles": 5854,
+      "output_frame": 124,
+      "mesh_vertices": 58780,
+      "mesh_triangles": 117612
+    },
+    {
+      "simulation_frame": 221,
+      "active_particles": 35904,
+      "mean_speed_m_s": 2.2322912216186523,
+      "max_speed_m_s": 5.257894039154053,
+      "foam_particles": 5849,
+      "output_frame": 125,
+      "mesh_vertices": 59156,
+      "mesh_triangles": 118384
+    },
+    {
+      "simulation_frame": 222,
+      "active_particles": 35865,
+      "mean_speed_m_s": 2.23335599899292,
+      "max_speed_m_s": 5.171581268310547,
+      "foam_particles": 5820,
+      "output_frame": 126,
+      "mesh_vertices": 59323,
+      "mesh_triangles": 118722
+    },
+    {
+      "simulation_frame": 223,
+      "active_particles": 35817,
+      "mean_speed_m_s": 2.2323946952819824,
+      "max_speed_m_s": 5.439361572265625,
+      "foam_particles": 5786,
+      "output_frame": 127,
+      "mesh_vertices": 59133,
+      "mesh_triangles": 118310
+    },
+    {
+      "simulation_frame": 224,
+      "active_particles": 35812,
+      "mean_speed_m_s": 2.23441219329834,
+      "max_speed_m_s": 5.338618755340576,
+      "foam_particles": 5749,
+      "output_frame": 128,
+      "mesh_vertices": 58891,
+      "mesh_triangles": 117794
+    },
+    {
+      "simulation_frame": 225,
+      "active_particles": 35788,
+      "mean_speed_m_s": 2.233900308609009,
+      "max_speed_m_s": 5.293949604034424,
+      "foam_particles": 5746,
+      "output_frame": 129,
+      "mesh_vertices": 59049,
+      "mesh_triangles": 118134
+    },
+    {
+      "simulation_frame": 226,
+      "active_particles": 35809,
+      "mean_speed_m_s": 2.234295129776001,
+      "max_speed_m_s": 5.222188472747803,
+      "foam_particles": 5723,
+      "output_frame": 130,
+      "mesh_vertices": 59117,
+      "mesh_triangles": 118326
+    },
+    {
+      "simulation_frame": 227,
+      "active_particles": 35802,
+      "mean_speed_m_s": 2.2324256896972656,
+      "max_speed_m_s": 5.181334972381592,
+      "foam_particles": 5729,
+      "output_frame": 131,
+      "mesh_vertices": 58789,
+      "mesh_triangles": 117590
+    },
+    {
+      "simulation_frame": 228,
+      "active_particles": 35799,
+      "mean_speed_m_s": 2.2348275184631348,
+      "max_speed_m_s": 5.2469072341918945,
+      "foam_particles": 5723,
+      "output_frame": 132,
+      "mesh_vertices": 59139,
+      "mesh_triangles": 118390
+    },
+    {
+      "simulation_frame": 229,
+      "active_particles": 35806,
+      "mean_speed_m_s": 2.234790325164795,
+      "max_speed_m_s": 5.3283162117004395,
+      "foam_particles": 5714,
+      "output_frame": 133,
+      "mesh_vertices": 59334,
+      "mesh_triangles": 118712
+    },
+    {
+      "simulation_frame": 230,
+      "active_particles": 35729,
+      "mean_speed_m_s": 2.2331714630126953,
+      "max_speed_m_s": 5.438998699188232,
+      "foam_particles": 5736,
+      "output_frame": 134,
+      "mesh_vertices": 59563,
+      "mesh_triangles": 119206
+    },
+    {
+      "simulation_frame": 231,
+      "active_particles": 35703,
+      "mean_speed_m_s": 2.2311666011810303,
+      "max_speed_m_s": 5.216228485107422,
+      "foam_particles": 5744,
+      "output_frame": 135,
+      "mesh_vertices": 59545,
+      "mesh_triangles": 119154
+    },
+    {
+      "simulation_frame": 232,
+      "active_particles": 35680,
+      "mean_speed_m_s": 2.2326138019561768,
+      "max_speed_m_s": 5.2373127937316895,
+      "foam_particles": 5793,
+      "output_frame": 136,
+      "mesh_vertices": 59554,
+      "mesh_triangles": 119188
+    },
+    {
+      "simulation_frame": 233,
+      "active_particles": 35645,
+      "mean_speed_m_s": 2.2321982383728027,
+      "max_speed_m_s": 5.1720123291015625,
+      "foam_particles": 5774,
+      "output_frame": 137,
+      "mesh_vertices": 59134,
+      "mesh_triangles": 118276
+    },
+    {
+      "simulation_frame": 234,
+      "active_particles": 35707,
+      "mean_speed_m_s": 2.234112024307251,
+      "max_speed_m_s": 5.247745990753174,
+      "foam_particles": 5777,
+      "output_frame": 138,
+      "mesh_vertices": 59165,
+      "mesh_triangles": 118378
+    },
+    {
+      "simulation_frame": 235,
+      "active_particles": 35687,
+      "mean_speed_m_s": 2.232649564743042,
+      "max_speed_m_s": 5.376633644104004,
+      "foam_particles": 5759,
+      "output_frame": 139,
+      "mesh_vertices": 58537,
+      "mesh_triangles": 117118
+    },
+    {
+      "simulation_frame": 236,
+      "active_particles": 35692,
+      "mean_speed_m_s": 2.2339584827423096,
+      "max_speed_m_s": 5.3036041259765625,
+      "foam_particles": 5735,
+      "output_frame": 140,
+      "mesh_vertices": 58406,
+      "mesh_triangles": 116848
+    },
+    {
+      "simulation_frame": 237,
+      "active_particles": 35746,
+      "mean_speed_m_s": 2.2366750240325928,
+      "max_speed_m_s": 5.404290676116943,
+      "foam_particles": 5730,
+      "output_frame": 141,
+      "mesh_vertices": 58892,
+      "mesh_triangles": 117836
+    },
+    {
+      "simulation_frame": 238,
+      "active_particles": 35713,
+      "mean_speed_m_s": 2.238433599472046,
+      "max_speed_m_s": 5.330907821655273,
+      "foam_particles": 5708,
+      "output_frame": 142,
+      "mesh_vertices": 58871,
+      "mesh_triangles": 117798
+    },
+    {
+      "simulation_frame": 239,
+      "active_particles": 35666,
+      "mean_speed_m_s": 2.2354836463928223,
+      "max_speed_m_s": 5.348775863647461,
+      "foam_particles": 5682,
+      "output_frame": 143,
+      "mesh_vertices": 58650,
+      "mesh_triangles": 117320
+    },
+    {
+      "simulation_frame": 240,
+      "active_particles": 35629,
+      "mean_speed_m_s": 2.2357025146484375,
+      "max_speed_m_s": 5.409082412719727,
+      "foam_particles": 5688,
+      "output_frame": 144,
+      "mesh_vertices": 59018,
+      "mesh_triangles": 118152
+    },
+    {
+      "simulation_frame": 241,
+      "active_particles": 35588,
+      "mean_speed_m_s": 2.236260175704956,
+      "max_speed_m_s": 5.495941638946533,
+      "foam_particles": 5706,
+      "output_frame": 145,
+      "mesh_vertices": 58876,
+      "mesh_triangles": 117792
+    },
+    {
+      "simulation_frame": 242,
+      "active_particles": 35605,
+      "mean_speed_m_s": 2.2365541458129883,
+      "max_speed_m_s": 5.466221332550049,
+      "foam_particles": 5725,
+      "output_frame": 146,
+      "mesh_vertices": 58721,
+      "mesh_triangles": 117486
+    },
+    {
+      "simulation_frame": 243,
+      "active_particles": 35627,
+      "mean_speed_m_s": 2.2397093772888184,
+      "max_speed_m_s": 5.163339614868164,
+      "foam_particles": 5746,
+      "output_frame": 147,
+      "mesh_vertices": 58619,
+      "mesh_triangles": 117302
+    },
+    {
+      "simulation_frame": 244,
+      "active_particles": 35624,
+      "mean_speed_m_s": 2.239746332168579,
+      "max_speed_m_s": 5.1801934242248535,
+      "foam_particles": 5750,
+      "output_frame": 148,
+      "mesh_vertices": 58596,
+      "mesh_triangles": 117236
+    },
+    {
+      "simulation_frame": 245,
+      "active_particles": 35611,
+      "mean_speed_m_s": 2.239692449569702,
+      "max_speed_m_s": 5.188728332519531,
+      "foam_particles": 5711,
+      "output_frame": 149,
+      "mesh_vertices": 58710,
+      "mesh_triangles": 117480
+    },
+    {
+      "simulation_frame": 246,
+      "active_particles": 35614,
+      "mean_speed_m_s": 2.2438690662384033,
+      "max_speed_m_s": 5.179433822631836,
+      "foam_particles": 5685,
+      "output_frame": 150,
+      "mesh_vertices": 59096,
+      "mesh_triangles": 118268
+    },
+    {
+      "simulation_frame": 247,
+      "active_particles": 35590,
+      "mean_speed_m_s": 2.240201473236084,
+      "max_speed_m_s": 5.275356769561768,
+      "foam_particles": 5725,
+      "output_frame": 151,
+      "mesh_vertices": 59325,
+      "mesh_triangles": 118706
+    },
+    {
+      "simulation_frame": 248,
+      "active_particles": 35601,
+      "mean_speed_m_s": 2.2402944564819336,
+      "max_speed_m_s": 5.418332576751709,
+      "foam_particles": 5750,
+      "output_frame": 152,
+      "mesh_vertices": 58898,
+      "mesh_triangles": 117864
+    },
+    {
+      "simulation_frame": 249,
+      "active_particles": 35564,
+      "mean_speed_m_s": 2.2384092807769775,
+      "max_speed_m_s": 5.325204372406006,
+      "foam_particles": 5730,
+      "output_frame": 153,
+      "mesh_vertices": 58596,
+      "mesh_triangles": 117244
+    },
+    {
+      "simulation_frame": 250,
+      "active_particles": 35573,
+      "mean_speed_m_s": 2.2408714294433594,
+      "max_speed_m_s": 5.377533912658691,
+      "foam_particles": 5688,
+      "output_frame": 154,
+      "mesh_vertices": 58554,
+      "mesh_triangles": 117144
+    },
+    {
+      "simulation_frame": 251,
+      "active_particles": 35576,
+      "mean_speed_m_s": 2.2415931224823,
+      "max_speed_m_s": 5.329500675201416,
+      "foam_particles": 5643,
+      "output_frame": 155,
+      "mesh_vertices": 58072,
+      "mesh_triangles": 116196
+    },
+    {
+      "simulation_frame": 252,
+      "active_particles": 35603,
+      "mean_speed_m_s": 2.244373321533203,
+      "max_speed_m_s": 5.3587493896484375,
+      "foam_particles": 5642,
+      "output_frame": 156,
+      "mesh_vertices": 58191,
+      "mesh_triangles": 116402
+    },
+    {
+      "simulation_frame": 253,
+      "active_particles": 35604,
+      "mean_speed_m_s": 2.2430813312530518,
+      "max_speed_m_s": 5.396085262298584,
+      "foam_particles": 5628,
+      "output_frame": 157,
+      "mesh_vertices": 58588,
+      "mesh_triangles": 117244
+    },
+    {
+      "simulation_frame": 254,
+      "active_particles": 35548,
+      "mean_speed_m_s": 2.240398406982422,
+      "max_speed_m_s": 5.4515838623046875,
+      "foam_particles": 5607,
+      "output_frame": 158,
+      "mesh_vertices": 58902,
+      "mesh_triangles": 117824
+    },
+    {
+      "simulation_frame": 255,
+      "active_particles": 35500,
+      "mean_speed_m_s": 2.239057779312134,
+      "max_speed_m_s": 5.4864583015441895,
+      "foam_particles": 5585,
+      "output_frame": 159,
+      "mesh_vertices": 58773,
+      "mesh_triangles": 117538
+    },
+    {
+      "simulation_frame": 256,
+      "active_particles": 35508,
+      "mean_speed_m_s": 2.2402195930480957,
+      "max_speed_m_s": 5.44327974319458,
+      "foam_particles": 5633,
+      "output_frame": 160,
+      "mesh_vertices": 58471,
+      "mesh_triangles": 116998
+    },
+    {
+      "simulation_frame": 257,
+      "active_particles": 35470,
+      "mean_speed_m_s": 2.2413206100463867,
+      "max_speed_m_s": 5.465500354766846,
+      "foam_particles": 5615,
+      "output_frame": 161,
+      "mesh_vertices": 58386,
+      "mesh_triangles": 116788
+    },
+    {
+      "simulation_frame": 258,
+      "active_particles": 35487,
+      "mean_speed_m_s": 2.2438290119171143,
+      "max_speed_m_s": 5.415250778198242,
+      "foam_particles": 5630,
+      "output_frame": 162,
+      "mesh_vertices": 58386,
+      "mesh_triangles": 116796
+    },
+    {
+      "simulation_frame": 259,
+      "active_particles": 35509,
+      "mean_speed_m_s": 2.243035078048706,
+      "max_speed_m_s": 5.364345073699951,
+      "foam_particles": 5669,
+      "output_frame": 163,
+      "mesh_vertices": 58410,
+      "mesh_triangles": 116860
+    },
+    {
+      "simulation_frame": 260,
+      "active_particles": 35521,
+      "mean_speed_m_s": 2.2424566745758057,
+      "max_speed_m_s": 5.392642974853516,
+      "foam_particles": 5691,
+      "output_frame": 164,
+      "mesh_vertices": 58412,
+      "mesh_triangles": 116820
+    },
+    {
+      "simulation_frame": 261,
+      "active_particles": 35548,
+      "mean_speed_m_s": 2.241665840148926,
+      "max_speed_m_s": 5.221011161804199,
+      "foam_particles": 5725,
+      "output_frame": 165,
+      "mesh_vertices": 58913,
+      "mesh_triangles": 117902
+    },
+    {
+      "simulation_frame": 262,
+      "active_particles": 35550,
+      "mean_speed_m_s": 2.2439002990722656,
+      "max_speed_m_s": 5.240980625152588,
+      "foam_particles": 5736,
+      "output_frame": 166,
+      "mesh_vertices": 58728,
+      "mesh_triangles": 117520
+    },
+    {
+      "simulation_frame": 263,
+      "active_particles": 35499,
+      "mean_speed_m_s": 2.241408586502075,
+      "max_speed_m_s": 5.496513366699219,
+      "foam_particles": 5698,
+      "output_frame": 167,
+      "mesh_vertices": 58730,
+      "mesh_triangles": 117484
+    },
+    {
+      "simulation_frame": 264,
+      "active_particles": 35500,
+      "mean_speed_m_s": 2.2427003383636475,
+      "max_speed_m_s": 5.462582588195801,
+      "foam_particles": 5683,
+      "output_frame": 168,
+      "mesh_vertices": 58625,
+      "mesh_triangles": 117266
+    },
+    {
+      "simulation_frame": 265,
+      "active_particles": 35481,
+      "mean_speed_m_s": 2.2462754249572754,
+      "max_speed_m_s": 5.477059841156006,
+      "foam_particles": 5719,
+      "output_frame": 169,
+      "mesh_vertices": 58634,
+      "mesh_triangles": 117268
+    },
+    {
+      "simulation_frame": 266,
+      "active_particles": 35521,
+      "mean_speed_m_s": 2.2475807666778564,
+      "max_speed_m_s": 5.467554569244385,
+      "foam_particles": 5704,
+      "output_frame": 170,
+      "mesh_vertices": 58339,
+      "mesh_triangles": 116670
+    },
+    {
+      "simulation_frame": 267,
+      "active_particles": 35532,
+      "mean_speed_m_s": 2.24741792678833,
+      "max_speed_m_s": 5.466334819793701,
+      "foam_particles": 5719,
+      "output_frame": 171,
+      "mesh_vertices": 58581,
+      "mesh_triangles": 117166
+    },
+    {
+      "simulation_frame": 268,
+      "active_particles": 35558,
+      "mean_speed_m_s": 2.24804425239563,
+      "max_speed_m_s": 5.485907554626465,
+      "foam_particles": 5706,
+      "output_frame": 172,
+      "mesh_vertices": 58333,
+      "mesh_triangles": 116778
+    },
+    {
+      "simulation_frame": 269,
+      "active_particles": 35560,
+      "mean_speed_m_s": 2.247330665588379,
+      "max_speed_m_s": 5.411660671234131,
+      "foam_particles": 5718,
+      "output_frame": 173,
+      "mesh_vertices": 58672,
+      "mesh_triangles": 117400
+    },
+    {
+      "simulation_frame": 270,
+      "active_particles": 35559,
+      "mean_speed_m_s": 2.2466177940368652,
+      "max_speed_m_s": 5.362422943115234,
+      "foam_particles": 5740,
+      "output_frame": 174,
+      "mesh_vertices": 59131,
+      "mesh_triangles": 118314
+    },
+    {
+      "simulation_frame": 271,
+      "active_particles": 35525,
+      "mean_speed_m_s": 2.2480220794677734,
+      "max_speed_m_s": 5.459131717681885,
+      "foam_particles": 5762,
+      "output_frame": 175,
+      "mesh_vertices": 59005,
+      "mesh_triangles": 118054
+    },
+    {
+      "simulation_frame": 272,
+      "active_particles": 35510,
+      "mean_speed_m_s": 2.2470502853393555,
+      "max_speed_m_s": 5.392134189605713,
+      "foam_particles": 5761,
+      "output_frame": 176,
+      "mesh_vertices": 58708,
+      "mesh_triangles": 117416
+    },
+    {
+      "simulation_frame": 273,
+      "active_particles": 35479,
+      "mean_speed_m_s": 2.247284412384033,
+      "max_speed_m_s": 5.479067802429199,
+      "foam_particles": 5759,
+      "output_frame": 177,
+      "mesh_vertices": 58714,
+      "mesh_triangles": 117472
+    },
+    {
+      "simulation_frame": 274,
+      "active_particles": 35484,
+      "mean_speed_m_s": 2.247262954711914,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5757,
+      "output_frame": 178,
+      "mesh_vertices": 58752,
+      "mesh_triangles": 117588
+    },
+    {
+      "simulation_frame": 275,
+      "active_particles": 35478,
+      "mean_speed_m_s": 2.249708652496338,
+      "max_speed_m_s": 5.386053085327148,
+      "foam_particles": 5720,
+      "output_frame": 179,
+      "mesh_vertices": 58245,
+      "mesh_triangles": 116526
+    },
+    {
+      "simulation_frame": 276,
+      "active_particles": 35500,
+      "mean_speed_m_s": 2.2525105476379395,
+      "max_speed_m_s": 5.401199817657471,
+      "foam_particles": 5670,
+      "output_frame": 180,
+      "mesh_vertices": 58365,
+      "mesh_triangles": 116786
+    },
+    {
+      "simulation_frame": 277,
+      "active_particles": 35482,
+      "mean_speed_m_s": 2.2499141693115234,
+      "max_speed_m_s": 5.3389387130737305,
+      "foam_particles": 5621,
+      "output_frame": 181,
+      "mesh_vertices": 58092,
+      "mesh_triangles": 116220
+    },
+    {
+      "simulation_frame": 278,
+      "active_particles": 35468,
+      "mean_speed_m_s": 2.2498245239257812,
+      "max_speed_m_s": 5.2993059158325195,
+      "foam_particles": 5596,
+      "output_frame": 182,
+      "mesh_vertices": 57830,
+      "mesh_triangles": 115708
+    },
+    {
+      "simulation_frame": 279,
+      "active_particles": 35420,
+      "mean_speed_m_s": 2.2462072372436523,
+      "max_speed_m_s": 5.42209005355835,
+      "foam_particles": 5549,
+      "output_frame": 183,
+      "mesh_vertices": 58108,
+      "mesh_triangles": 116248
+    },
+    {
+      "simulation_frame": 280,
+      "active_particles": 35382,
+      "mean_speed_m_s": 2.2449686527252197,
+      "max_speed_m_s": 5.38088846206665,
+      "foam_particles": 5538,
+      "output_frame": 184,
+      "mesh_vertices": 58391,
+      "mesh_triangles": 116862
+    },
+    {
+      "simulation_frame": 281,
+      "active_particles": 35346,
+      "mean_speed_m_s": 2.24751615524292,
+      "max_speed_m_s": 5.425245761871338,
+      "foam_particles": 5533,
+      "output_frame": 185,
+      "mesh_vertices": 58597,
+      "mesh_triangles": 117258
+    },
+    {
+      "simulation_frame": 282,
+      "active_particles": 35322,
+      "mean_speed_m_s": 2.2480876445770264,
+      "max_speed_m_s": 5.336907863616943,
+      "foam_particles": 5540,
+      "output_frame": 186,
+      "mesh_vertices": 58441,
+      "mesh_triangles": 116882
+    },
+    {
+      "simulation_frame": 283,
+      "active_particles": 35364,
+      "mean_speed_m_s": 2.24944806098938,
+      "max_speed_m_s": 5.427408695220947,
+      "foam_particles": 5553,
+      "output_frame": 187,
+      "mesh_vertices": 58313,
+      "mesh_triangles": 116734
+    },
+    {
+      "simulation_frame": 284,
+      "active_particles": 35347,
+      "mean_speed_m_s": 2.24896240234375,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5528,
+      "output_frame": 188,
+      "mesh_vertices": 58335,
+      "mesh_triangles": 116758
+    },
+    {
+      "simulation_frame": 285,
+      "active_particles": 35373,
+      "mean_speed_m_s": 2.247856378555298,
+      "max_speed_m_s": 5.220171928405762,
+      "foam_particles": 5551,
+      "output_frame": 189,
+      "mesh_vertices": 58164,
+      "mesh_triangles": 116380
+    },
+    {
+      "simulation_frame": 286,
+      "active_particles": 35331,
+      "mean_speed_m_s": 2.2485737800598145,
+      "max_speed_m_s": 5.303102016448975,
+      "foam_particles": 5590,
+      "output_frame": 190,
+      "mesh_vertices": 58786,
+      "mesh_triangles": 117624
+    },
+    {
+      "simulation_frame": 287,
+      "active_particles": 35295,
+      "mean_speed_m_s": 2.247732400894165,
+      "max_speed_m_s": 5.369398593902588,
+      "foam_particles": 5651,
+      "output_frame": 191,
+      "mesh_vertices": 58607,
+      "mesh_triangles": 117306
+    },
+    {
+      "simulation_frame": 288,
+      "active_particles": 35314,
+      "mean_speed_m_s": 2.249366283416748,
+      "max_speed_m_s": 5.195059299468994,
+      "foam_particles": 5677,
+      "output_frame": 192,
+      "mesh_vertices": 58389,
+      "mesh_triangles": 116810
+    },
+    {
+      "simulation_frame": 289,
+      "active_particles": 35308,
+      "mean_speed_m_s": 2.249423027038574,
+      "max_speed_m_s": 5.3018798828125,
+      "foam_particles": 5678,
+      "output_frame": 193,
+      "mesh_vertices": 58522,
+      "mesh_triangles": 117092
+    },
+    {
+      "simulation_frame": 290,
+      "active_particles": 35336,
+      "mean_speed_m_s": 2.2507407665252686,
+      "max_speed_m_s": 5.290387153625488,
+      "foam_particles": 5666,
+      "output_frame": 194,
+      "mesh_vertices": 57919,
+      "mesh_triangles": 115870
+    },
+    {
+      "simulation_frame": 291,
+      "active_particles": 35369,
+      "mean_speed_m_s": 2.2508082389831543,
+      "max_speed_m_s": 5.273499488830566,
+      "foam_particles": 5661,
+      "output_frame": 195,
+      "mesh_vertices": 57836,
+      "mesh_triangles": 115704
+    },
+    {
+      "simulation_frame": 292,
+      "active_particles": 35404,
+      "mean_speed_m_s": 2.2556405067443848,
+      "max_speed_m_s": 5.385041236877441,
+      "foam_particles": 5670,
+      "output_frame": 196,
+      "mesh_vertices": 57699,
+      "mesh_triangles": 115422
+    },
+    {
+      "simulation_frame": 293,
+      "active_particles": 35418,
+      "mean_speed_m_s": 2.258192539215088,
+      "max_speed_m_s": 5.409080505371094,
+      "foam_particles": 5718,
+      "output_frame": 197,
+      "mesh_vertices": 58221,
+      "mesh_triangles": 116486
+    },
+    {
+      "simulation_frame": 294,
+      "active_particles": 35405,
+      "mean_speed_m_s": 2.2568769454956055,
+      "max_speed_m_s": 5.157811164855957,
+      "foam_particles": 5730,
+      "output_frame": 198,
+      "mesh_vertices": 57800,
+      "mesh_triangles": 115640
+    },
+    {
+      "simulation_frame": 295,
+      "active_particles": 35345,
+      "mean_speed_m_s": 2.254373550415039,
+      "max_speed_m_s": 5.290287971496582,
+      "foam_particles": 5735,
+      "output_frame": 199,
+      "mesh_vertices": 57874,
+      "mesh_triangles": 115808
+    },
+    {
+      "simulation_frame": 296,
+      "active_particles": 35370,
+      "mean_speed_m_s": 2.257183790206909,
+      "max_speed_m_s": 5.1735405921936035,
+      "foam_particles": 5695,
+      "output_frame": 200,
+      "mesh_vertices": 57908,
+      "mesh_triangles": 115836
+    },
+    {
+      "simulation_frame": 297,
+      "active_particles": 35325,
+      "mean_speed_m_s": 2.257050037384033,
+      "max_speed_m_s": 5.221529960632324,
+      "foam_particles": 5674,
+      "output_frame": 201,
+      "mesh_vertices": 57751,
+      "mesh_triangles": 115530
+    },
+    {
+      "simulation_frame": 298,
+      "active_particles": 35336,
+      "mean_speed_m_s": 2.2600746154785156,
+      "max_speed_m_s": 5.201748371124268,
+      "foam_particles": 5679,
+      "output_frame": 202,
+      "mesh_vertices": 58257,
+      "mesh_triangles": 116566
+    },
+    {
+      "simulation_frame": 299,
+      "active_particles": 35339,
+      "mean_speed_m_s": 2.258204936981201,
+      "max_speed_m_s": 5.309798240661621,
+      "foam_particles": 5728,
+      "output_frame": 203,
+      "mesh_vertices": 58300,
+      "mesh_triangles": 116656
+    },
+    {
+      "simulation_frame": 300,
+      "active_particles": 35356,
+      "mean_speed_m_s": 2.2575674057006836,
+      "max_speed_m_s": 5.211668014526367,
+      "foam_particles": 5682,
+      "output_frame": 204,
+      "mesh_vertices": 57851,
+      "mesh_triangles": 115714
+    },
+    {
+      "simulation_frame": 301,
+      "active_particles": 35364,
+      "mean_speed_m_s": 2.2577061653137207,
+      "max_speed_m_s": 5.170246601104736,
+      "foam_particles": 5687,
+      "output_frame": 205,
+      "mesh_vertices": 58357,
+      "mesh_triangles": 116746
+    },
+    {
+      "simulation_frame": 302,
+      "active_particles": 35340,
+      "mean_speed_m_s": 2.260450839996338,
+      "max_speed_m_s": 5.213109016418457,
+      "foam_particles": 5661,
+      "output_frame": 206,
+      "mesh_vertices": 58218,
+      "mesh_triangles": 116524
+    },
+    {
+      "simulation_frame": 303,
+      "active_particles": 35283,
+      "mean_speed_m_s": 2.2579383850097656,
+      "max_speed_m_s": 5.308770179748535,
+      "foam_particles": 5638,
+      "output_frame": 207,
+      "mesh_vertices": 57963,
+      "mesh_triangles": 115974
+    },
+    {
+      "simulation_frame": 304,
+      "active_particles": 35303,
+      "mean_speed_m_s": 2.260047435760498,
+      "max_speed_m_s": 5.447746276855469,
+      "foam_particles": 5623,
+      "output_frame": 208,
+      "mesh_vertices": 58543,
+      "mesh_triangles": 117186
+    },
+    {
+      "simulation_frame": 305,
+      "active_particles": 35291,
+      "mean_speed_m_s": 2.2607064247131348,
+      "max_speed_m_s": 5.355434894561768,
+      "foam_particles": 5656,
+      "output_frame": 209,
+      "mesh_vertices": 58556,
+      "mesh_triangles": 117200
+    },
+    {
+      "simulation_frame": 306,
+      "active_particles": 35351,
+      "mean_speed_m_s": 2.2631373405456543,
+      "max_speed_m_s": 5.322248458862305,
+      "foam_particles": 5675,
+      "output_frame": 210,
+      "mesh_vertices": 58753,
+      "mesh_triangles": 117542
+    },
+    {
+      "simulation_frame": 307,
+      "active_particles": 35349,
+      "mean_speed_m_s": 2.259147882461548,
+      "max_speed_m_s": 5.356523513793945,
+      "foam_particles": 5644,
+      "output_frame": 211,
+      "mesh_vertices": 58336,
+      "mesh_triangles": 116720
+    },
+    {
+      "simulation_frame": 308,
+      "active_particles": 35395,
+      "mean_speed_m_s": 2.2596077919006348,
+      "max_speed_m_s": 5.352237701416016,
+      "foam_particles": 5652,
+      "output_frame": 212,
+      "mesh_vertices": 58268,
+      "mesh_triangles": 116604
+    },
+    {
+      "simulation_frame": 309,
+      "active_particles": 35415,
+      "mean_speed_m_s": 2.2620787620544434,
+      "max_speed_m_s": 5.4624457359313965,
+      "foam_particles": 5690,
+      "output_frame": 213,
+      "mesh_vertices": 58193,
+      "mesh_triangles": 116466
+    },
+    {
+      "simulation_frame": 310,
+      "active_particles": 35392,
+      "mean_speed_m_s": 2.260887384414673,
+      "max_speed_m_s": 5.324235439300537,
+      "foam_particles": 5715,
+      "output_frame": 214,
+      "mesh_vertices": 57894,
+      "mesh_triangles": 115800
+    },
+    {
+      "simulation_frame": 311,
+      "active_particles": 35378,
+      "mean_speed_m_s": 2.2593021392822266,
+      "max_speed_m_s": 5.425506591796875,
+      "foam_particles": 5689,
+      "output_frame": 215,
+      "mesh_vertices": 58124,
+      "mesh_triangles": 116260
+    },
+    {
+      "simulation_frame": 312,
+      "active_particles": 35363,
+      "mean_speed_m_s": 2.259395122528076,
+      "max_speed_m_s": 5.444426536560059,
+      "foam_particles": 5715,
+      "output_frame": 216,
+      "mesh_vertices": 57890,
+      "mesh_triangles": 115792
+    },
+    {
+      "simulation_frame": 313,
+      "active_particles": 35332,
+      "mean_speed_m_s": 2.2631847858428955,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5705,
+      "output_frame": 217,
+      "mesh_vertices": 58381,
+      "mesh_triangles": 116830
+    },
+    {
+      "simulation_frame": 314,
+      "active_particles": 35348,
+      "mean_speed_m_s": 2.2645421028137207,
+      "max_speed_m_s": 5.4514031410217285,
+      "foam_particles": 5694,
+      "output_frame": 218,
+      "mesh_vertices": 58454,
+      "mesh_triangles": 116912
+    },
+    {
+      "simulation_frame": 315,
+      "active_particles": 35350,
+      "mean_speed_m_s": 2.2644851207733154,
+      "max_speed_m_s": 5.467833995819092,
+      "foam_particles": 5695,
+      "output_frame": 219,
+      "mesh_vertices": 58620,
+      "mesh_triangles": 117328
+    },
+    {
+      "simulation_frame": 316,
+      "active_particles": 35376,
+      "mean_speed_m_s": 2.2651171684265137,
+      "max_speed_m_s": 5.49568510055542,
+      "foam_particles": 5647,
+      "output_frame": 220,
+      "mesh_vertices": 58551,
+      "mesh_triangles": 117182
+    },
+    {
+      "simulation_frame": 317,
+      "active_particles": 35397,
+      "mean_speed_m_s": 2.2660672664642334,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5652,
+      "output_frame": 221,
+      "mesh_vertices": 58573,
+      "mesh_triangles": 117226
+    },
+    {
+      "simulation_frame": 318,
+      "active_particles": 35397,
+      "mean_speed_m_s": 2.2672982215881348,
+      "max_speed_m_s": 5.339090824127197,
+      "foam_particles": 5644,
+      "output_frame": 222,
+      "mesh_vertices": 58549,
+      "mesh_triangles": 117146
+    },
+    {
+      "simulation_frame": 319,
+      "active_particles": 35379,
+      "mean_speed_m_s": 2.266206741333008,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5663,
+      "output_frame": 223,
+      "mesh_vertices": 58547,
+      "mesh_triangles": 117150
+    },
+    {
+      "simulation_frame": 320,
+      "active_particles": 35383,
+      "mean_speed_m_s": 2.265312671661377,
+      "max_speed_m_s": 5.115301609039307,
+      "foam_particles": 5638,
+      "output_frame": 224,
+      "mesh_vertices": 58405,
+      "mesh_triangles": 116874
+    },
+    {
+      "simulation_frame": 321,
+      "active_particles": 35365,
+      "mean_speed_m_s": 2.2663145065307617,
+      "max_speed_m_s": 5.1940460205078125,
+      "foam_particles": 5594,
+      "output_frame": 225,
+      "mesh_vertices": 58296,
+      "mesh_triangles": 116588
+    },
+    {
+      "simulation_frame": 322,
+      "active_particles": 35375,
+      "mean_speed_m_s": 2.26572585105896,
+      "max_speed_m_s": 5.419994354248047,
+      "foam_particles": 5576,
+      "output_frame": 226,
+      "mesh_vertices": 58347,
+      "mesh_triangles": 116758
+    },
+    {
+      "simulation_frame": 323,
+      "active_particles": 35372,
+      "mean_speed_m_s": 2.2650504112243652,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5586,
+      "output_frame": 227,
+      "mesh_vertices": 58437,
+      "mesh_triangles": 116954
+    },
+    {
+      "simulation_frame": 324,
+      "active_particles": 35379,
+      "mean_speed_m_s": 2.265026569366455,
+      "max_speed_m_s": 5.500000476837158,
+      "foam_particles": 5560,
+      "output_frame": 228,
+      "mesh_vertices": 58139,
+      "mesh_triangles": 116294
+    },
+    {
+      "simulation_frame": 325,
+      "active_particles": 35363,
+      "mean_speed_m_s": 2.2651424407958984,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5535,
+      "output_frame": 229,
+      "mesh_vertices": 57868,
+      "mesh_triangles": 115776
+    },
+    {
+      "simulation_frame": 326,
+      "active_particles": 35344,
+      "mean_speed_m_s": 2.2645444869995117,
+      "max_speed_m_s": 5.403726577758789,
+      "foam_particles": 5568,
+      "output_frame": 230,
+      "mesh_vertices": 58131,
+      "mesh_triangles": 116322
+    },
+    {
+      "simulation_frame": 327,
+      "active_particles": 35292,
+      "mean_speed_m_s": 2.2636797428131104,
+      "max_speed_m_s": 5.3793253898620605,
+      "foam_particles": 5524,
+      "output_frame": 231,
+      "mesh_vertices": 57993,
+      "mesh_triangles": 116034
+    },
+    {
+      "simulation_frame": 328,
+      "active_particles": 35262,
+      "mean_speed_m_s": 2.264971971511841,
+      "max_speed_m_s": 5.241462707519531,
+      "foam_particles": 5534,
+      "output_frame": 232,
+      "mesh_vertices": 57698,
+      "mesh_triangles": 115404
+    },
+    {
+      "simulation_frame": 329,
+      "active_particles": 35232,
+      "mean_speed_m_s": 2.2673563957214355,
+      "max_speed_m_s": 5.264335632324219,
+      "foam_particles": 5542,
+      "output_frame": 233,
+      "mesh_vertices": 57558,
+      "mesh_triangles": 115164
+    },
+    {
+      "simulation_frame": 330,
+      "active_particles": 35235,
+      "mean_speed_m_s": 2.2657432556152344,
+      "max_speed_m_s": 5.321310520172119,
+      "foam_particles": 5556,
+      "output_frame": 234,
+      "mesh_vertices": 57487,
+      "mesh_triangles": 114986
+    },
+    {
+      "simulation_frame": 331,
+      "active_particles": 35236,
+      "mean_speed_m_s": 2.2637104988098145,
+      "max_speed_m_s": 5.3801445960998535,
+      "foam_particles": 5551,
+      "output_frame": 235,
+      "mesh_vertices": 57664,
+      "mesh_triangles": 115368
+    },
+    {
+      "simulation_frame": 332,
+      "active_particles": 35283,
+      "mean_speed_m_s": 2.2696194648742676,
+      "max_speed_m_s": 5.326514720916748,
+      "foam_particles": 5574,
+      "output_frame": 236,
+      "mesh_vertices": 57871,
+      "mesh_triangles": 115790
+    },
+    {
+      "simulation_frame": 333,
+      "active_particles": 35310,
+      "mean_speed_m_s": 2.270565986633301,
+      "max_speed_m_s": 5.2704691886901855,
+      "foam_particles": 5572,
+      "output_frame": 237,
+      "mesh_vertices": 57794,
+      "mesh_triangles": 115616
+    },
+    {
+      "simulation_frame": 334,
+      "active_particles": 35281,
+      "mean_speed_m_s": 2.2710680961608887,
+      "max_speed_m_s": 5.318566799163818,
+      "foam_particles": 5588,
+      "output_frame": 238,
+      "mesh_vertices": 57983,
+      "mesh_triangles": 116002
+    },
+    {
+      "simulation_frame": 335,
+      "active_particles": 35228,
+      "mean_speed_m_s": 2.269397735595703,
+      "max_speed_m_s": 5.449483394622803,
+      "foam_particles": 5563,
+      "output_frame": 239,
+      "mesh_vertices": 57956,
+      "mesh_triangles": 115952
+    },
+    {
+      "simulation_frame": 336,
+      "active_particles": 35261,
+      "mean_speed_m_s": 2.2720141410827637,
+      "max_speed_m_s": 5.320345878601074,
+      "foam_particles": 5597,
+      "output_frame": 240,
+      "mesh_vertices": 58128,
+      "mesh_triangles": 116288
+    },
+    {
+      "simulation_frame": 337,
+      "active_particles": 35225,
+      "mean_speed_m_s": 2.2707555294036865,
+      "max_speed_m_s": 5.241939067840576,
+      "foam_particles": 5637,
+      "output_frame": 241,
+      "mesh_vertices": 57970,
+      "mesh_triangles": 116004
+    },
+    {
+      "simulation_frame": 338,
+      "active_particles": 35236,
+      "mean_speed_m_s": 2.271806478500366,
+      "max_speed_m_s": 5.238186359405518,
+      "foam_particles": 5630,
+      "output_frame": 242,
+      "mesh_vertices": 57723,
+      "mesh_triangles": 115466
+    },
+    {
+      "simulation_frame": 339,
+      "active_particles": 35250,
+      "mean_speed_m_s": 2.270850419998169,
+      "max_speed_m_s": 5.339907646179199,
+      "foam_particles": 5666,
+      "output_frame": 243,
+      "mesh_vertices": 57325,
+      "mesh_triangles": 114682
+    },
+    {
+      "simulation_frame": 340,
+      "active_particles": 35279,
+      "mean_speed_m_s": 2.273716449737549,
+      "max_speed_m_s": 5.3214287757873535,
+      "foam_particles": 5658,
+      "output_frame": 244,
+      "mesh_vertices": 57245,
+      "mesh_triangles": 114510
+    },
+    {
+      "simulation_frame": 341,
+      "active_particles": 35320,
+      "mean_speed_m_s": 2.2737977504730225,
+      "max_speed_m_s": 5.3199005126953125,
+      "foam_particles": 5706,
+      "output_frame": 245,
+      "mesh_vertices": 57419,
+      "mesh_triangles": 114826
+    },
+    {
+      "simulation_frame": 342,
+      "active_particles": 35290,
+      "mean_speed_m_s": 2.2724125385284424,
+      "max_speed_m_s": 5.216501712799072,
+      "foam_particles": 5672,
+      "output_frame": 246,
+      "mesh_vertices": 57506,
+      "mesh_triangles": 115044
+    },
+    {
+      "simulation_frame": 343,
+      "active_particles": 35284,
+      "mean_speed_m_s": 2.2708170413970947,
+      "max_speed_m_s": 5.4065752029418945,
+      "foam_particles": 5711,
+      "output_frame": 247,
+      "mesh_vertices": 57714,
+      "mesh_triangles": 115416
+    },
+    {
+      "simulation_frame": 344,
+      "active_particles": 35301,
+      "mean_speed_m_s": 2.2745633125305176,
+      "max_speed_m_s": 5.364926815032959,
+      "foam_particles": 5687,
+      "output_frame": 248,
+      "mesh_vertices": 58149,
+      "mesh_triangles": 116298
+    },
+    {
+      "simulation_frame": 345,
+      "active_particles": 35244,
+      "mean_speed_m_s": 2.275014638900757,
+      "max_speed_m_s": 5.347115516662598,
+      "foam_particles": 5709,
+      "output_frame": 249,
+      "mesh_vertices": 58000,
+      "mesh_triangles": 116016
+    },
+    {
+      "simulation_frame": 346,
+      "active_particles": 35280,
+      "mean_speed_m_s": 2.2762327194213867,
+      "max_speed_m_s": 5.353776931762695,
+      "foam_particles": 5709,
+      "output_frame": 250,
+      "mesh_vertices": 58030,
+      "mesh_triangles": 116140
+    },
+    {
+      "simulation_frame": 347,
+      "active_particles": 35302,
+      "mean_speed_m_s": 2.2764410972595215,
+      "max_speed_m_s": 5.2352190017700195,
+      "foam_particles": 5741,
+      "output_frame": 251,
+      "mesh_vertices": 58103,
+      "mesh_triangles": 116246
+    },
+    {
+      "simulation_frame": 348,
+      "active_particles": 35302,
+      "mean_speed_m_s": 2.275782823562622,
+      "max_speed_m_s": 5.284061908721924,
+      "foam_particles": 5754,
+      "output_frame": 252,
+      "mesh_vertices": 58263,
+      "mesh_triangles": 116582
+    },
+    {
+      "simulation_frame": 349,
+      "active_particles": 35329,
+      "mean_speed_m_s": 2.2761573791503906,
+      "max_speed_m_s": 5.356089115142822,
+      "foam_particles": 5731,
+      "output_frame": 253,
+      "mesh_vertices": 58307,
+      "mesh_triangles": 116678
+    },
+    {
+      "simulation_frame": 350,
+      "active_particles": 35336,
+      "mean_speed_m_s": 2.279224395751953,
+      "max_speed_m_s": 5.3486762046813965,
+      "foam_particles": 5751,
+      "output_frame": 254,
+      "mesh_vertices": 58420,
+      "mesh_triangles": 116872
+    },
+    {
+      "simulation_frame": 351,
+      "active_particles": 35272,
+      "mean_speed_m_s": 2.2758607864379883,
+      "max_speed_m_s": 5.3210296630859375,
+      "foam_particles": 5718,
+      "output_frame": 255,
+      "mesh_vertices": 58187,
+      "mesh_triangles": 116434
+    },
+    {
+      "simulation_frame": 352,
+      "active_particles": 35268,
+      "mean_speed_m_s": 2.276884078979492,
+      "max_speed_m_s": 5.409768581390381,
+      "foam_particles": 5698,
+      "output_frame": 256,
+      "mesh_vertices": 58286,
+      "mesh_triangles": 116644
+    },
+    {
+      "simulation_frame": 353,
+      "active_particles": 35221,
+      "mean_speed_m_s": 2.277458429336548,
+      "max_speed_m_s": 5.301993370056152,
+      "foam_particles": 5710,
+      "output_frame": 257,
+      "mesh_vertices": 57894,
+      "mesh_triangles": 115848
+    },
+    {
+      "simulation_frame": 354,
+      "active_particles": 35226,
+      "mean_speed_m_s": 2.2786102294921875,
+      "max_speed_m_s": 5.190356731414795,
+      "foam_particles": 5690,
+      "output_frame": 258,
+      "mesh_vertices": 57787,
+      "mesh_triangles": 115614
+    },
+    {
+      "simulation_frame": 355,
+      "active_particles": 35188,
+      "mean_speed_m_s": 2.2783596515655518,
+      "max_speed_m_s": 5.153936386108398,
+      "foam_particles": 5692,
+      "output_frame": 259,
+      "mesh_vertices": 57567,
+      "mesh_triangles": 115114
+    },
+    {
+      "simulation_frame": 356,
+      "active_particles": 35201,
+      "mean_speed_m_s": 2.2786333560943604,
+      "max_speed_m_s": 5.340895175933838,
+      "foam_particles": 5696,
+      "output_frame": 260,
+      "mesh_vertices": 57356,
+      "mesh_triangles": 114680
+    },
+    {
+      "simulation_frame": 357,
+      "active_particles": 35204,
+      "mean_speed_m_s": 2.276928663253784,
+      "max_speed_m_s": 5.41999626159668,
+      "foam_particles": 5699,
+      "output_frame": 261,
+      "mesh_vertices": 57886,
+      "mesh_triangles": 115836
+    },
+    {
+      "simulation_frame": 358,
+      "active_particles": 35171,
+      "mean_speed_m_s": 2.2768120765686035,
+      "max_speed_m_s": 5.2678399085998535,
+      "foam_particles": 5684,
+      "output_frame": 262,
+      "mesh_vertices": 57967,
+      "mesh_triangles": 115958
+    },
+    {
+      "simulation_frame": 359,
+      "active_particles": 35100,
+      "mean_speed_m_s": 2.2732784748077393,
+      "max_speed_m_s": 5.310959339141846,
+      "foam_particles": 5665,
+      "output_frame": 263,
+      "mesh_vertices": 57836,
+      "mesh_triangles": 115744
+    },
+    {
+      "simulation_frame": 360,
+      "active_particles": 35115,
+      "mean_speed_m_s": 2.274871349334717,
+      "max_speed_m_s": 5.274580955505371,
+      "foam_particles": 5652,
+      "output_frame": 264,
+      "mesh_vertices": 57876,
+      "mesh_triangles": 115760
+    },
+    {
+      "simulation_frame": 361,
+      "active_particles": 35068,
+      "mean_speed_m_s": 2.2738547325134277,
+      "max_speed_m_s": 5.1821208000183105,
+      "foam_particles": 5647,
+      "output_frame": 265,
+      "mesh_vertices": 57636,
+      "mesh_triangles": 115356
+    },
+    {
+      "simulation_frame": 362,
+      "active_particles": 35054,
+      "mean_speed_m_s": 2.2734174728393555,
+      "max_speed_m_s": 5.153658866882324,
+      "foam_particles": 5618,
+      "output_frame": 266,
+      "mesh_vertices": 57806,
+      "mesh_triangles": 115696
+    },
+    {
+      "simulation_frame": 363,
+      "active_particles": 35067,
+      "mean_speed_m_s": 2.2752814292907715,
+      "max_speed_m_s": 5.070805072784424,
+      "foam_particles": 5588,
+      "output_frame": 267,
+      "mesh_vertices": 57727,
+      "mesh_triangles": 115510
+    },
+    {
+      "simulation_frame": 364,
+      "active_particles": 35071,
+      "mean_speed_m_s": 2.276193141937256,
+      "max_speed_m_s": 5.236459732055664,
+      "foam_particles": 5585,
+      "output_frame": 268,
+      "mesh_vertices": 57783,
+      "mesh_triangles": 115638
+    },
+    {
+      "simulation_frame": 365,
+      "active_particles": 35070,
+      "mean_speed_m_s": 2.275466203689575,
+      "max_speed_m_s": 5.2342705726623535,
+      "foam_particles": 5581,
+      "output_frame": 269,
+      "mesh_vertices": 57614,
+      "mesh_triangles": 115260
+    },
+    {
+      "simulation_frame": 366,
+      "active_particles": 35028,
+      "mean_speed_m_s": 2.2764012813568115,
+      "max_speed_m_s": 5.244070529937744,
+      "foam_particles": 5572,
+      "output_frame": 270,
+      "mesh_vertices": 57799,
+      "mesh_triangles": 115674
+    },
+    {
+      "simulation_frame": 367,
+      "active_particles": 34982,
+      "mean_speed_m_s": 2.273483991622925,
+      "max_speed_m_s": 5.293162822723389,
+      "foam_particles": 5584,
+      "output_frame": 271,
+      "mesh_vertices": 57748,
+      "mesh_triangles": 115476
+    },
+    {
+      "simulation_frame": 368,
+      "active_particles": 34965,
+      "mean_speed_m_s": 2.274836540222168,
+      "max_speed_m_s": 5.261453151702881,
+      "foam_particles": 5589,
+      "output_frame": 272,
+      "mesh_vertices": 57508,
+      "mesh_triangles": 115008
+    },
+    {
+      "simulation_frame": 369,
+      "active_particles": 34940,
+      "mean_speed_m_s": 2.275930643081665,
+      "max_speed_m_s": 5.247293949127197,
+      "foam_particles": 5622,
+      "output_frame": 273,
+      "mesh_vertices": 57770,
+      "mesh_triangles": 115540
+    },
+    {
+      "simulation_frame": 370,
+      "active_particles": 34979,
+      "mean_speed_m_s": 2.2779715061187744,
+      "max_speed_m_s": 5.277476787567139,
+      "foam_particles": 5646,
+      "output_frame": 274,
+      "mesh_vertices": 58141,
+      "mesh_triangles": 116298
+    },
+    {
+      "simulation_frame": 371,
+      "active_particles": 34970,
+      "mean_speed_m_s": 2.2736127376556396,
+      "max_speed_m_s": 5.353769779205322,
+      "foam_particles": 5641,
+      "output_frame": 275,
+      "mesh_vertices": 58276,
+      "mesh_triangles": 116628
+    },
+    {
+      "simulation_frame": 372,
+      "active_particles": 35007,
+      "mean_speed_m_s": 2.2768490314483643,
+      "max_speed_m_s": 5.443984031677246,
+      "foam_particles": 5649,
+      "output_frame": 276,
+      "mesh_vertices": 57809,
+      "mesh_triangles": 115642
+    },
+    {
+      "simulation_frame": 373,
+      "active_particles": 35031,
+      "mean_speed_m_s": 2.2771480083465576,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5675,
+      "output_frame": 277,
+      "mesh_vertices": 58188,
+      "mesh_triangles": 116420
+    },
+    {
+      "simulation_frame": 374,
+      "active_particles": 34993,
+      "mean_speed_m_s": 2.2781729698181152,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5670,
+      "output_frame": 278,
+      "mesh_vertices": 58450,
+      "mesh_triangles": 116940
+    },
+    {
+      "simulation_frame": 375,
+      "active_particles": 34941,
+      "mean_speed_m_s": 2.277428388595581,
+      "max_speed_m_s": 5.4929399490356445,
+      "foam_particles": 5656,
+      "output_frame": 279,
+      "mesh_vertices": 57939,
+      "mesh_triangles": 115930
+    },
+    {
+      "simulation_frame": 376,
+      "active_particles": 34949,
+      "mean_speed_m_s": 2.279048204421997,
+      "max_speed_m_s": 5.47906494140625,
+      "foam_particles": 5662,
+      "output_frame": 280,
+      "mesh_vertices": 57808,
+      "mesh_triangles": 115608
+    },
+    {
+      "simulation_frame": 377,
+      "active_particles": 34928,
+      "mean_speed_m_s": 2.2796664237976074,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5662,
+      "output_frame": 281,
+      "mesh_vertices": 57914,
+      "mesh_triangles": 115864
+    },
+    {
+      "simulation_frame": 378,
+      "active_particles": 34955,
+      "mean_speed_m_s": 2.278979778289795,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5651,
+      "output_frame": 282,
+      "mesh_vertices": 57779,
+      "mesh_triangles": 115602
+    },
+    {
+      "simulation_frame": 379,
+      "active_particles": 34961,
+      "mean_speed_m_s": 2.277461290359497,
+      "max_speed_m_s": 5.499999523162842,
+      "foam_particles": 5637,
+      "output_frame": 283,
+      "mesh_vertices": 57706,
+      "mesh_triangles": 115428
+    },
+    {
+      "simulation_frame": 380,
+      "active_particles": 34983,
+      "mean_speed_m_s": 2.27898907661438,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5655,
+      "output_frame": 284,
+      "mesh_vertices": 57794,
+      "mesh_triangles": 115620
+    },
+    {
+      "simulation_frame": 381,
+      "active_particles": 34974,
+      "mean_speed_m_s": 2.279386281967163,
+      "max_speed_m_s": 5.174453258514404,
+      "foam_particles": 5628,
+      "output_frame": 285,
+      "mesh_vertices": 57824,
+      "mesh_triangles": 115704
+    },
+    {
+      "simulation_frame": 382,
+      "active_particles": 34957,
+      "mean_speed_m_s": 2.2797467708587646,
+      "max_speed_m_s": 5.121078968048096,
+      "foam_particles": 5620,
+      "output_frame": 286,
+      "mesh_vertices": 57693,
+      "mesh_triangles": 115430
+    },
+    {
+      "simulation_frame": 383,
+      "active_particles": 34909,
+      "mean_speed_m_s": 2.2752702236175537,
+      "max_speed_m_s": 5.185087203979492,
+      "foam_particles": 5609,
+      "output_frame": 287,
+      "mesh_vertices": 57620,
+      "mesh_triangles": 115304
+    },
+    {
+      "simulation_frame": 384,
+      "active_particles": 34884,
+      "mean_speed_m_s": 2.274953603744507,
+      "max_speed_m_s": 5.347100257873535,
+      "foam_particles": 5604,
+      "output_frame": 288,
+      "mesh_vertices": 57568,
+      "mesh_triangles": 115216
+    },
+    {
+      "simulation_frame": 385,
+      "active_particles": 34841,
+      "mean_speed_m_s": 2.2760605812072754,
+      "max_speed_m_s": 5.28029203414917,
+      "foam_particles": 5583,
+      "output_frame": 289,
+      "mesh_vertices": 57381,
+      "mesh_triangles": 114810
+    },
+    {
+      "simulation_frame": 386,
+      "active_particles": 34850,
+      "mean_speed_m_s": 2.2747104167938232,
+      "max_speed_m_s": 5.454168796539307,
+      "foam_particles": 5609,
+      "output_frame": 290,
+      "mesh_vertices": 57554,
+      "mesh_triangles": 115136
+    },
+    {
+      "simulation_frame": 387,
+      "active_particles": 34856,
+      "mean_speed_m_s": 2.274127960205078,
+      "max_speed_m_s": 5.341259956359863,
+      "foam_particles": 5585,
+      "output_frame": 291,
+      "mesh_vertices": 57524,
+      "mesh_triangles": 115084
+    },
+    {
+      "simulation_frame": 388,
+      "active_particles": 34865,
+      "mean_speed_m_s": 2.2752537727355957,
+      "max_speed_m_s": 5.2796454429626465,
+      "foam_particles": 5563,
+      "output_frame": 292,
+      "mesh_vertices": 57267,
+      "mesh_triangles": 114530
+    },
+    {
+      "simulation_frame": 389,
+      "active_particles": 34885,
+      "mean_speed_m_s": 2.2762928009033203,
+      "max_speed_m_s": 5.345672130584717,
+      "foam_particles": 5567,
+      "output_frame": 293,
+      "mesh_vertices": 57213,
+      "mesh_triangles": 114458
+    },
+    {
+      "simulation_frame": 390,
+      "active_particles": 34894,
+      "mean_speed_m_s": 2.2793619632720947,
+      "max_speed_m_s": 5.454034328460693,
+      "foam_particles": 5592,
+      "output_frame": 294,
+      "mesh_vertices": 57078,
+      "mesh_triangles": 114196
+    },
+    {
+      "simulation_frame": 391,
+      "active_particles": 34881,
+      "mean_speed_m_s": 2.2775065898895264,
+      "max_speed_m_s": 5.5,
+      "foam_particles": 5560,
+      "output_frame": 295,
+      "mesh_vertices": 57129,
+      "mesh_triangles": 114274
+    },
+    {
+      "simulation_frame": 392,
+      "active_particles": 34853,
+      "mean_speed_m_s": 2.2779226303100586,
+      "max_speed_m_s": 5.365177154541016,
+      "foam_particles": 5524,
+      "output_frame": 296,
+      "mesh_vertices": 57416,
+      "mesh_triangles": 114860
+    },
+    {
+      "simulation_frame": 393,
+      "active_particles": 34826,
+      "mean_speed_m_s": 2.277745246887207,
+      "max_speed_m_s": 5.294528484344482,
+      "foam_particles": 5510,
+      "output_frame": 297,
+      "mesh_vertices": 57263,
+      "mesh_triangles": 114614
+    },
+    {
+      "simulation_frame": 394,
+      "active_particles": 34882,
+      "mean_speed_m_s": 2.277438163757324,
+      "max_speed_m_s": 5.44669771194458,
+      "foam_particles": 5526,
+      "output_frame": 298,
+      "mesh_vertices": 57473,
+      "mesh_triangles": 115014
+    },
+    {
+      "simulation_frame": 395,
+      "active_particles": 34921,
+      "mean_speed_m_s": 2.277162551879883,
+      "max_speed_m_s": 5.342308044433594,
+      "foam_particles": 5507,
+      "output_frame": 299,
+      "mesh_vertices": 57829,
+      "mesh_triangles": 115698
+    },
+    {
+      "simulation_frame": 396,
+      "active_particles": 34932,
+      "mean_speed_m_s": 2.2762088775634766,
+      "max_speed_m_s": 5.405318737030029,
+      "foam_particles": 5492,
+      "output_frame": 300,
+      "mesh_vertices": 57483,
+      "mesh_triangles": 115010
+    },
+    {
+      "simulation_frame": 397,
+      "active_particles": 34976,
+      "mean_speed_m_s": 2.277921438217163,
+      "max_speed_m_s": 5.468707084655762,
+      "foam_particles": 5536,
+      "output_frame": 301,
+      "mesh_vertices": 57504,
+      "mesh_triangles": 115024
+    },
+    {
+      "simulation_frame": 398,
+      "active_particles": 34965,
+      "mean_speed_m_s": 2.281034469604492,
+      "max_speed_m_s": 5.370103359222412,
+      "foam_particles": 5537,
+      "output_frame": 302,
+      "mesh_vertices": 57502,
+      "mesh_triangles": 115056
+    },
+    {
+      "simulation_frame": 399,
+      "active_particles": 34946,
+      "mean_speed_m_s": 2.2807161808013916,
+      "max_speed_m_s": 5.338841915130615,
+      "foam_particles": 5524,
+      "output_frame": 303,
+      "mesh_vertices": 57729,
+      "mesh_triangles": 115538
+    },
+    {
+      "simulation_frame": 400,
+      "active_particles": 34966,
+      "mean_speed_m_s": 2.2823715209960938,
+      "max_speed_m_s": 5.327946186065674,
+      "foam_particles": 5569,
+      "output_frame": 304,
+      "mesh_vertices": 57661,
+      "mesh_triangles": 115406
+    },
+    {
+      "simulation_frame": 401,
+      "active_particles": 34920,
+      "mean_speed_m_s": 2.2802085876464844,
+      "max_speed_m_s": 5.334940433502197,
+      "foam_particles": 5557,
+      "output_frame": 305,
+      "mesh_vertices": 57988,
+      "mesh_triangles": 116040
+    },
+    {
+      "simulation_frame": 402,
+      "active_particles": 34947,
+      "mean_speed_m_s": 2.279526472091675,
+      "max_speed_m_s": 5.390170097351074,
+      "foam_particles": 5572,
+      "output_frame": 306,
+      "mesh_vertices": 57685,
+      "mesh_triangles": 115426
+    },
+    {
+      "simulation_frame": 403,
+      "active_particles": 34953,
+      "mean_speed_m_s": 2.277815341949463,
+      "max_speed_m_s": 5.473104476928711,
+      "foam_particles": 5590,
+      "output_frame": 307,
+      "mesh_vertices": 57545,
+      "mesh_triangles": 115142
+    },
+    {
+      "simulation_frame": 404,
+      "active_particles": 35007,
+      "mean_speed_m_s": 2.2813222408294678,
+      "max_speed_m_s": 5.3451972007751465,
+      "foam_particles": 5648,
+      "output_frame": 308,
+      "mesh_vertices": 57379,
+      "mesh_triangles": 114818
+    },
+    {
+      "simulation_frame": 405,
+      "active_particles": 35054,
+      "mean_speed_m_s": 2.2838549613952637,
+      "max_speed_m_s": 5.324772357940674,
+      "foam_particles": 5645,
+      "output_frame": 309,
+      "mesh_vertices": 57683,
+      "mesh_triangles": 115454
+    },
+    {
+      "simulation_frame": 406,
+      "active_particles": 35066,
+      "mean_speed_m_s": 2.285154104232788,
+      "max_speed_m_s": 5.36790657043457,
+      "foam_particles": 5624,
+      "output_frame": 310,
+      "mesh_vertices": 57426,
+      "mesh_triangles": 114864
+    },
+    {
+      "simulation_frame": 407,
+      "active_particles": 35027,
+      "mean_speed_m_s": 2.281787872314453,
+      "max_speed_m_s": 5.208754539489746,
+      "foam_particles": 5589,
+      "output_frame": 311,
+      "mesh_vertices": 57008,
+      "mesh_triangles": 114040
+    },
+    {
+      "simulation_frame": 408,
+      "active_particles": 35030,
+      "mean_speed_m_s": 2.282414436340332,
+      "max_speed_m_s": 5.441256523132324,
+      "foam_particles": 5587,
+      "output_frame": 312,
+      "mesh_vertices": 57283,
+      "mesh_triangles": 114574
+    }
+  ],
+  "channel_configuration": "assets/looped_fluid/channel.json"
+}

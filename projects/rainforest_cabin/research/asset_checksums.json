@@ -885,89 +885,14 @@
     "sha256": "e950b30c36fcea80e793116e9c83001c95c39725f4af4c3684fc29491d86d7ae"
   },
   {
-    "path": "assets/looped_fluid/CREDITS.txt",
-    "bytes": 732,
-    "sha256": "a2a10f43030b788c92ea6f65337e09751c70c1770583963d0230856f32a692d6"
-  },
-  {
-    "path": "assets/looped_fluid/cache_manifest.json",
-    "bytes": 111101,
-    "sha256": "4c6cee54196e929d7b16880e276387c7952230c64488467d21a29bdd17d7954e"
-  },
-  {
-    "path": "assets/looped_fluid/channel.json",
-    "bytes": 59577,
-    "sha256": "af27e215808e551c8bbe8579ea83693e595bff15796ccc3457297cd6c16b2a32"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_01.zip",
-    "bytes": 21931900,
-    "sha256": "ec31c341e974c734115435fff8f5229e5769078a18746bb1629f99e7a2c5070a"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_02.zip",
-    "bytes": 22501879,
-    "sha256": "32d6fef10dac27613dd569b63bbe440e73c73b418e10643f09ab4bb77c393e40"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_03.zip",
-    "bytes": 22698843,
-    "sha256": "6f28340dc2658c2a713ad0e205237c14b737257aed6bfedbffa0ee9539a3ff59"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_04.zip",
-    "bytes": 22842773,
-    "sha256": "2b6ff9ffabb9a1832cfa06178dc506999eff3fde01ee548f10b2623ca3f2886a"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_05.zip",
-    "bytes": 22671956,
-    "sha256": "fc388af1f10e4870c6c496c406ca8a1757cf54409dbe7d5a2f022b3b39c88df9"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_06.zip",
-    "bytes": 22763419,
-    "sha256": "33bcb66ede2ee1f9261cdf5d5741f508446da2f45880b24c6fd4eafc97d8c94f"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_07.zip",
-    "bytes": 22643586,
-    "sha256": "1f271bebf8ae60a3e25f231d972c21335676c604e6476cc03ab79b8393ab6312"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_08.zip",
-    "bytes": 22592046,
-    "sha256": "e62e7e0b64bb712fece245383b22ec634d0cd0ef8c8a505408e0240978013ac2"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_09.zip",
-    "bytes": 22443278,
-    "sha256": "9ecb27d8f9ce080d76827410aaf5ee4431edbaea30ae11270a4476eac76f58ae"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_10.zip",
-    "bytes": 22470621,
-    "sha256": "606ebce06b37227a7c14914a0dab37500e8b8af21ecd34886dbfdd810539632e"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_11.zip",
-    "bytes": 22399202,
-    "sha256": "d5e05abb6a64b928eb4405c2e41f39cde9082c114742bdc701de699ef851dcff"
-  },
-  {
-    "path": "assets/looped_fluid/fluid_cache_12.zip",
-    "bytes": 22372217,
-    "sha256": "898b8123a8ed47e4adc56acb55e9332c2c488010f364878cf2bee6541055df47"
-  },
-  {
-    "path": "assets/looped_fluid/solver_samples.npz",
-    "bytes": 4891179,
-    "sha256": "ee07b7575fc049fd05f1388948871871afe87209d98f6473b7df7979237a5cc2"
-  },
-  {
     "path": "assets/audio/CREDITS.txt",
-    "bytes": 1265,
-    "sha256": "49b0b24e63a3f90035369354274bc6a64ced0d4d7862fa06703e3c5b6497f3bf"
+    "bytes": 1869,
+    "sha256": "a0ba1c20ff8358b838bc40fc2477a66b3f192fbbf5748d878a4f9bfb1286947d"
+  },
+  {
+    "path": "assets/audio/long_stream_source.flac",
+    "bytes": 22606619,
+    "sha256": "287eb28c329a1cd8534ced48c04534172546663f3069ad497c076f9d59b32f66"
   },
   {
     "path": "assets/audio/rain_source.flac",
@@ -976,12 +901,92 @@
   },
   {
     "path": "assets/audio/sources.json",
-    "bytes": 3193,
-    "sha256": "007e20cf4383309bfaee45002fc949089acc8950a6fa7956b5739cd852478747"
+    "bytes": 4431,
+    "sha256": "165edb07a55a3b3f149ae368f9941df1eb3fcc4236d0c5cb23fddf5cb12d4322"
   },
   {
     "path": "assets/audio/stream_source.flac",
     "bytes": 10894315,
     "sha256": "0666205d914062e61530c33a8279ebdd0a16cd7e94d777b1ee1babeb15282571"
+  },
+  {
+    "path": "assets/looped_fluid/CREDITS.txt",
+    "bytes": 732,
+    "sha256": "a2a10f43030b788c92ea6f65337e09751c70c1770583963d0230856f32a692d6"
+  },
+  {
+    "path": "assets/looped_fluid/cache_manifest.json",
+    "bytes": 111320,
+    "sha256": "7d26eddfe5e483cb5e7a38e039b013d7ce5f48789b12e9b678356921f05809db"
+  },
+  {
+    "path": "assets/looped_fluid/channel.json",
+    "bytes": 59577,
+    "sha256": "af27e215808e551c8bbe8579ea83693e595bff15796ccc3457297cd6c16b2a32"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_01.zip",
+    "bytes": 23636062,
+    "sha256": "284ecbef4edf3f0a3f8529b3691fd0a65893e7f1733156e040894961346782ac"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_02.zip",
+    "bytes": 24007534,
+    "sha256": "b160e9a674f7e879a35fe810abff34a56740af76a300e5e4df3d429127ac494b"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_03.zip",
+    "bytes": 24190887,
+    "sha256": "08aad48d7d84fd2ef49547f793e0d0a81edc165d32a25afb6827376d4e553cce"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_04.zip",
+    "bytes": 23996947,
+    "sha256": "05c5ba0f6369f9ce017af15e061dc79e84f862308c6a511377ee06aecc123584"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_05.zip",
+    "bytes": 24193203,
+    "sha256": "dd88a1d18a75743252235887a13908d3b85adb29a0a3fa734a3cb86d62977fcd"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_06.zip",
+    "bytes": 24101653,
+    "sha256": "2a3af34e25bf31c525783279463712bef957c8e9d56a89055b8a2cfa68db7fb6"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_07.zip",
+    "bytes": 24133531,
+    "sha256": "5965958b0312fdac625f6e58667d1a00bd963bfb264f548708475cb0463480ef"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_08.zip",
+    "bytes": 24146965,
+    "sha256": "5b0188ca2abf706369958d244bde38912d60a6a99a7b53e63fd7fad16eb77a7b"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_09.zip",
+    "bytes": 24155224,
+    "sha256": "297e20e0ea52e33c40a41cbe24b1950065a7e6c425a567893befb83cf4452a31"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_10.zip",
+    "bytes": 24318947,
+    "sha256": "142a885ebc7ccc17ada6dc05f80a8736a0e6c871c4d4a9fcd1bc172ec9f52446"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_11.zip",
+    "bytes": 24349811,
+    "sha256": "30e264a725b077cae49150d3d46fc7abaa984181701e39caef1cb04d5b91d7d2"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_12.zip",
+    "bytes": 24292436,
+    "sha256": "4f8a6a0eeb6bcc222053a9c3f7c76ab1f6a8ce3bc10c406a3132135f8d6c6e39"
+  },
+  {
+    "path": "assets/looped_fluid/solver_samples.npz",
+    "bytes": 5801027,
+    "sha256": "2035483c31e55c387bed9e32295e21d1ef79f882a6b79f122f2844d0e99caa9a"
   }
 ]

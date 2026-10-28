@@ -52,5 +52,26 @@
     "original_bytes": 16121748,
     "used_in_mix": false,
     "rejection_reason": "Hot decoded peaks above full scale and thousands of samples near full scale; broad-rapids description also less suited to this small stream. Audibility of distortion not assessed."
+  },
+  {
+    "name": "long_stream",
+    "title": "File:Snowmelt flowing into lake at Okanagan Mountain Provincial Park.flac",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Snowmelt_flowing_into_lake_at_Okanagan_Mountain_Provincial_Park.flac",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/Snowmelt_flowing_into_lake_at_Okanagan_Mountain_Provincial_Park.flac/Snowmelt_flowing_into_lake_at_Okanagan_Mountain_Provincial_Park.flac.ogg",
+    "download_is_wikimedia_vorbis_derivative": true,
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "Extemporalist",
+    "original_duration_seconds": 1960.125,
+    "download_sha256": "244d66affb351c137de81d12ddf0f1ff0b073a947670b6b8441890fe21bb09c5",
+    "download_bytes": 20127796,
+    "original_file": "assets/audio/originals/long_stream.ogg",
+    "used_in_mix": true,
+    "use": "longer production test only",
+    "original_flac_download_failed": "HTTP 403",
+    "prepared_file": "assets/audio/long_stream_source.flac",
+    "prepared_source_start_seconds": 60,
+    "prepared_duration_seconds": 180,
+    "prepared_sha256": "287eb28c329a1cd8534ced48c04534172546663f3069ad497c076f9d59b32f66"
   }
 ]

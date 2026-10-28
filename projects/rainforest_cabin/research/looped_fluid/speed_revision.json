@@ -1,0 +1,10 @@
+{
+  "previous_mean_physical_speed_m_s": 2.236626909537749,
+  "new_mean_physical_speed_m_s": 2.2355974181131884,
+  "water_only_playback_rate": 0.8,
+  "apparent_mean_speed_ratio": 0.7996317699942997,
+  "rain_and_palm_timeline_fps": 24,
+  "delivered_fps": 24,
+  "water_sampling_fps": 30,
+  "image_interpolation_or_repeated_water_frames": false
+}

@@ -12,7 +12,7 @@
       "audio": false,
       "decoded_cleanly": true,
       "distinct_decoded_frames": 288,
-      "sha256": "9319d3922ab08acf35784e22c02af7c784f4bac671e18f400e06205fc35fbc2f"
+      "sha256": "7fe4fe68fc6d5459d33ac68d16fae9939a573d58fc59bc8445ae145e7c41bd23"
     },
     {
       "file": "river_detail.mp4",
@@ -26,7 +26,7 @@
       "audio": false,
       "decoded_cleanly": true,
       "distinct_decoded_frames": 288,
-      "sha256": "7dbce7def5ac9c6651a4e6308ae61c63b89086949657cc088ca0dee1aed74353"
+      "sha256": "928041b70afc295259efd2f9db7ebe014b41ddbac94b5da98e764ed30e65c8f6"
     },
     {
       "file": "repeat_test.mp4",
@@ -40,7 +40,7 @@
       "audio": false,
       "decoded_cleanly": true,
       "distinct_decoded_frames": 288,
-      "sha256": "cbbb532fc604159039c4893c2853e4961511fcf4d586e2f1d6575cdd3649f9d0"
+      "sha256": "c2078c6544609e7404db731952472398f35deab9377a8d570148a8ea7dd1c263"
     }
   ],
   "simulated_geometry_states": 288,
@@ -49,98 +49,98 @@
   "solver_contacts": [
     {
       "frame": 1,
-      "active_particles": 36067,
+      "active_particles": 41727,
       "bed_penetration_m": 0.0,
-      "minimum_rock_shell_radius": 0.9999996262731624,
-      "mean_downstream_velocity_m_s": 2.023432731628418
+      "minimum_rock_shell_radius": 0.9999994376290623,
+      "mean_downstream_velocity_m_s": 2.097398281097412
     },
     {
       "frame": 24,
-      "active_particles": 36156,
+      "active_particles": 42043,
       "bed_penetration_m": 0.0,
-      "minimum_rock_shell_radius": 0.9999996960219877,
-      "mean_downstream_velocity_m_s": 2.037952423095703
+      "minimum_rock_shell_radius": 0.9999995121434466,
+      "mean_downstream_velocity_m_s": 2.094696283340454
     },
     {
       "frame": 144,
-      "active_particles": 35629,
+      "active_particles": 42232,
       "bed_penetration_m": 0.0,
-      "minimum_rock_shell_radius": 0.9999997396431104,
-      "mean_downstream_velocity_m_s": 2.0974178314208984
+      "minimum_rock_shell_radius": 0.9999997748064753,
+      "mean_downstream_velocity_m_s": 2.091233491897583
     },
     {
       "frame": 264,
-      "active_particles": 35115,
+      "active_particles": 42729,
       "bed_penetration_m": 0.0,
-      "minimum_rock_shell_radius": 0.9999998089095631,
-      "mean_downstream_velocity_m_s": 2.136744737625122
+      "minimum_rock_shell_radius": 0.9999996798360686,
+      "mean_downstream_velocity_m_s": 2.0909528732299805
     },
     {
       "frame": 288,
-      "active_particles": 34884,
+      "active_particles": 42693,
       "bed_penetration_m": 0.0,
-      "minimum_rock_shell_radius": 0.9999998087431125,
-      "mean_downstream_velocity_m_s": 2.134815216064453
+      "minimum_rock_shell_radius": 0.9999997107338949,
+      "mean_downstream_velocity_m_s": 2.07641339302063
     },
     {
       "frame": 312,
-      "active_particles": 35030,
+      "active_particles": 42610,
       "bed_penetration_m": 0.0,
-      "minimum_rock_shell_radius": 0.9999997378261255,
-      "mean_downstream_velocity_m_s": 2.1440343856811523
+      "minimum_rock_shell_radius": 0.999999402376894,
+      "mean_downstream_velocity_m_s": 2.0777575969696045
     }
   ],
   "joins": [
     {
       "from": 287,
       "to": 288,
-      "symmetric_surface_distance_mean_m": 0.019179203333929782,
-      "pixel_mae_full": 1.2816596031188965,
-      "pixel_mae_river": 3.7415273189544678,
-      "river_pixel_delta_p99": 90.0
+      "symmetric_surface_distance_mean_m": 0.0190689238861354,
+      "pixel_mae_full": 1.3055568933486938,
+      "pixel_mae_river": 3.8606457710266113,
+      "river_pixel_delta_p99": 87.0
     },
     {
       "from": 288,
       "to": 1,
-      "symmetric_surface_distance_mean_m": 0.019243539241237128,
-      "pixel_mae_full": 1.2490636110305786,
-      "pixel_mae_river": 3.6047003269195557,
-      "river_pixel_delta_p99": 85.0
+      "symmetric_surface_distance_mean_m": 0.019162325605101418,
+      "pixel_mae_full": 1.2991888523101807,
+      "pixel_mae_river": 3.854555368423462,
+      "river_pixel_delta_p99": 87.0
     },
     {
       "from": 1,
       "to": 2,
-      "symmetric_surface_distance_mean_m": 0.019194050220236313,
-      "pixel_mae_full": 1.2319304943084717,
-      "pixel_mae_river": 3.530802011489868,
-      "river_pixel_delta_p99": 83.0
+      "symmetric_surface_distance_mean_m": 0.01921454491379425,
+      "pixel_mae_full": 1.2800053358078003,
+      "pixel_mae_river": 3.7704367637634277,
+      "river_pixel_delta_p99": 85.0
     },
     {
       "from": 23,
       "to": 24,
-      "symmetric_surface_distance_mean_m": 0.019119844084563502,
-      "pixel_mae_full": 1.0497750043869019,
-      "pixel_mae_river": 3.550816535949707,
-      "river_pixel_delta_p99": 85.0
+      "symmetric_surface_distance_mean_m": 0.01937009241858469,
+      "pixel_mae_full": 1.1102238893508911,
+      "pixel_mae_river": 3.8521313667297363,
+      "river_pixel_delta_p99": 90.0
     },
     {
       "from": 24,
       "to": 25,
-      "symmetric_surface_distance_mean_m": 0.01921659294598132,
-      "pixel_mae_full": 1.067469835281372,
-      "pixel_mae_river": 3.6167469024658203,
-      "river_pixel_delta_p99": 86.0
+      "symmetric_surface_distance_mean_m": 0.01919563388223669,
+      "pixel_mae_full": 1.1112658977508545,
+      "pixel_mae_river": 3.8350536823272705,
+      "river_pixel_delta_p99": 89.0
     },
     {
       "from": 25,
       "to": 26,
-      "symmetric_surface_distance_mean_m": 0.019036806177385762,
-      "pixel_mae_full": 1.0673178434371948,
-      "pixel_mae_river": 3.619574546813965,
-      "river_pixel_delta_p99": 87.0
+      "symmetric_surface_distance_mean_m": 0.019072646548335903,
+      "pixel_mae_full": 1.0978991985321045,
+      "pixel_mae_river": 3.772010326385498,
+      "river_pixel_delta_p99": 88.0
     }
   ],
-  "repeat_point_river_mae_ratio_to_largest_sampled_normal_step": 0.9634301769382384,
+  "repeat_point_river_mae_ratio_to_largest_sampled_normal_step": 0.9984224394144481,
   "loop_conditioning_in_3D_not_image_dissolve": true,
   "periodic_physics_solution": false,
   "reference_gaps": [

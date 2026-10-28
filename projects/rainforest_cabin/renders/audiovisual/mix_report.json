@@ -4,15 +4,16 @@
   "channels": 2,
   "target_integrated_lufs": -24,
   "final_integrated_lufs": -24.0,
-  "final_true_peak_dbfs": -2.96,
-  "loudness_range_lu": 1.3,
-  "final_gain_db": 0.9100000000000001,
+  "final_true_peak_dbfs": -6.96,
+  "loudness_range_lu": 0.8,
+  "final_gain_db": 1.7699999999999996,
   "limiter_used": false,
   "fade_in_seconds": 0.75,
   "fade_out_seconds": 1.5,
   "stems": [
     {
       "source": "rain",
+      "source_asset": "rain",
       "prepared_start_seconds": 53,
       "original_start_seconds": 173,
       "duration_seconds": 60,
@@ -28,6 +29,7 @@
     },
     {
       "source": "stream",
+      "source_asset": "stream",
       "prepared_start_seconds": 6,
       "original_start_seconds": 6,
       "duration_seconds": 60,
@@ -37,17 +39,19 @@
       "pan": 0.23,
       "minimum_band_gain": 0.7346517443656921,
       "minimum_broadband_gain": 0.8545674681663513,
-      "target_integrated_lufs": -31,
+      "target_integrated_lufs": -37,
       "input_integrated_lufs": -56.93,
-      "gain_db": 25.93
+      "gain_db": 19.93
     }
   ],
   "continuous_source_excerpts_not_12_second_audio_loop": true,
+  "rain_above_stream_lufs": 11,
+  "stream_reduction_relative_to_rain_db": 6,
   "music": false,
   "added_thunder": false,
   "added_wildlife": false,
   "artificial_rain_noise": false,
   "original_source_geography_matches_reference": false,
   "listening_review": "Pending user audition; numerical/spectral checks do not certify absence of unwanted content",
-  "soundtrack_sha256": "891451db2b9d8b9d98a0c4200c8c509fc4ac3979e20037ece1f29bde31530df1"
+  "soundtrack_sha256": "00ece930c5798d2cd4a982f951f2bb674285c911b3ae7e3f27b7c32620f0272d"
 }

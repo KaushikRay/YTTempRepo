@@ -1,0 +1,106 @@
+{
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3ASnowmelt+flowing+into+lake+at+Okanagan+Mountain+Provincial+Park.flac&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main",
+  "page": {
+    "pageid": 38317953,
+    "ns": 6,
+    "title": "File:Snowmelt flowing into lake at Okanagan Mountain Provincial Park.flac",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 96281158,
+        "width": 0,
+        "height": 0,
+        "duration": 1960.125,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Snowmelt_flowing_into_lake_at_Okanagan_Mountain_Provincial_Park.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snowmelt_flowing_into_lake_at_Okanagan_Mountain_Provincial_Park.flac",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38317953",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-02-10 17:29:01",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Snowmelt flowing into lake at Okanagan Mountain Provincial Park",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Okanagan|Okanagan Mountain Provincial Park|Soundscape|Ambience|Self-published work|FLAC files|Sounds of water in Canada|Sounds of rivers and streams|Audio files of Kelowna",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The sound of pure fresh water flowing.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-02-09",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Extemporalist\" title=\"User:Extemporalist\">Extemporalist</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The sound of pure fresh water flowing.}}\n|date=2015-02-09\n|source={{own}}\n|author=[[User:Extemporalist|Extemporalist]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n[[Category:Sounds of rivers and streams]]\n[[Category:Audio files of Kelowna]]\n[[Category:Ambience]]\n[[Category:Okanagan Mountain Provincial Park]]\n[[Category:Okanagan]]\n[[Category:Sounds of water in Canada]]\n[[Category:Soundscape]]\n[[Category:FLAC files]]"
+          }
+        }
+      }
+    ]
+  }
+}

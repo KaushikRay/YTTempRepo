@@ -3,23 +3,21 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## Audiovisual preview — current review
+## Rain-first audio and slower river — current review
 
-[One-minute 1080p preview with rain and stream](renders/audiovisual/preview.mp4)
-· [Twelve-second quick preview](renders/audiovisual/quick_preview.mp4)
-· [Lossless soundtrack](renders/audiovisual/soundtrack.flac)
-· [Audio credits](renders/audiovisual/AUDIO_CREDITS.txt)
-· [Method, QA and listening-review limits](research/audio/review.md)
+[Two-minute 1080p production test](renders/production_test/preview.mp4)
+· [Quick full-quality preview](renders/audiovisual/quick_preview.mp4)
+· [Previous/new river speed comparison](renders/production_test/speed_comparison.mp4)
+· [Method, QA and remaining limits](research/production_test/review.md)
+· [Audio credits](renders/production_test/AUDIO_CREDITS.txt)
 
-The approved visual loop repeats five times with unchanged encoded picture.
-Audio uses continuous rain and a quieter stream placed slightly right of centre;
-it does not restart at each visual repeat. The one-minute encoded mix measures
-−24.07 LUFS integrated / −2.98 dBFS true peak. Rain is CC BY 3.0, stream CC0;
-include the supplied attribution for public distribution. This is a listening
-preview, with existing visual limitations retained. No long YouTube release has
-been built, and listening approval remains pending.
+The stream is another 6 dB quieter relative to rain (eleven-LUFS separation),
+and only the river motion is slowed by 20%. Rain and palms retain their approved
+speed. The longer test repeats the new visual loop ten times with continuous
+two-minute rain and flowing-water excerpts. It is a production review, not a
+multi-hour release. Existing hybrid/glossy-water limits remain.
 
-## Previous twelve-second visual loop
+## Updated twelve-second visual loop
 
 [Watch the 1080p loop](renders/looped_fluid/preview.mp4)
 · [Two-repeat test — join at 00:12](renders/looped_fluid/repeat_test.mp4)

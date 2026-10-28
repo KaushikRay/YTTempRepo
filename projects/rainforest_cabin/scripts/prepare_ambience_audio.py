@@ -10,6 +10,7 @@ from scipy.ndimage import median_filter
 
 ROOT=Path(__file__).resolve().parents[1];ASSETS=ROOT/'assets/audio';RESEARCH=ROOT/'research/audio'
 SOURCES={'rain':('rain.oga',120,180),'stream':('stream.wav',0,68.88)}
+if (ASSETS/'originals/long_stream.ogg').exists():SOURCES['long_stream']=('long_stream.ogg',60,180)
 
 def decode(path,start=0,duration=None,sr=24000):
     args=['ffmpeg','-v','error','-ss',str(start),'-i',str(path)]
@@ -17,6 +18,7 @@ def decode(path,start=0,duration=None,sr=24000):
     return np.frombuffer(subprocess.check_output(args+['-ar',str(sr),'-ac','2','-f','f32le','-']),np.float32).reshape(-1,2).copy()
 
 def inspect(path):
+    path=Path(path).resolve()
     sr=24000;x=decode(path,sr=sr);assert np.isfinite(x).all();seconds=len(x)//sr
     windows=x[:seconds*sr].reshape(seconds,sr,2);rms=np.sqrt(np.mean(windows**2,axis=(1,2)))
     mono=windows.mean(axis=2);spectrum=np.abs(np.fft.rfft(mono*np.hanning(sr),axis=1))**2

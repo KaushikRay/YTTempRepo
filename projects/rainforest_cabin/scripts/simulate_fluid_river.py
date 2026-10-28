@@ -17,7 +17,9 @@ for p in [f'research/{VARIANT}',f'renders/{VARIANT}','logs/taichi_cache']:(ROOT/
 CONFIG=json.loads((ROOT/f'assets/{VARIANT}/channel.json').read_text()) if (ROOT/f'assets/{VARIANT}/channel.json').exists() else None
 CUSTOM=CONFIG is not None
 ti.init(arch=ti.cpu,cpu_max_num_threads=4,default_fp=ti.f32,random_seed=4821,offline_cache_file_path=str(ROOT/'logs/taichi_cache'))
-S=float(os.environ.get('PARTICLE_SPACING','.03'));H=S*(.095/.045);REST=1000.;MASS=REST*S**3;SUBSTEPS=8;DT=1/(24*SUBSTEPS);ITER=4;BOUNDS=np.array([2.4,5.8,2.4],np.float32)
+S=float(os.environ.get('PARTICLE_SPACING','.03'));H=S*(.095/.045);REST=1000.;MASS=REST*S**3;SUBSTEPS=8
+SIMULATION_FPS=float(os.environ.get('SIMULATION_FPS','24'));assert SIMULATION_FPS>0
+DT=1/(SIMULATION_FPS*SUBSTEPS);ITER=4;BOUNDS=np.array([2.4,5.8,2.4],np.float32)
 if CUSTOM:BOUNDS=np.array(CONFIG['bounds_m'],np.float32)
 GRID=tuple((np.ceil(BOUNDS/H).astype(int)+2).tolist());CAP=64;NEIGH=100
 ROCKS=np.array([[.67,1.55,.91,.26,.24,.24],[1.68,2.27,.91,.29,.29,.27],[.65,2.83,.56,.32,.31,.25],[1.79,3.61,.50,.27,.27,.23],[.55,4.40,.30,.25,.32,.23],[1.66,4.94,.31,.29,.35,.20]],np.float32)
@@ -212,6 +214,7 @@ def main():
   stats.append(row);status('simulating_3D_liquid',current_frame=frame,total_frames=frames,output_frames=max(0,frame-warmup),particles=N,estimated_seconds_remaining=round((time.monotonic()-start)/frame*(frames-frame)),**{k:row[k] for k in ['mean_speed_m_s','max_speed_m_s','foam_particles']})
  report={'solver':'Original 3D position-based fluid, Taichi CPU','reference':'Macklin and Mueller, Position Based Fluids (2013)','gravity_m_s2':9.81,'particles':N,'particle_spacing_m':S,'smoothing_radius_m':H,'pressure_iterations':ITER,'substeps_per_frame':SUBSTEPS,'dt_seconds':DT,'simulation_frames':frames,'warmup_frames':warmup,'output_frames':frames-warmup,'fps':24,'channel_bounds_m':BOUNDS.tolist(),'solid_ellipsoids':ROCKS.tolist(),'geometry_from_simulated_particles':True,'image_or_stock_footage_motion':False,'foam_is_heuristic_surface_field':True,'mesh_voxel_spacing_m':.020,'limitations':['coarse resolution','approximate incompressibility','empirical vorticity confinement and foam','no air-phase solver'],'elapsed_seconds':time.monotonic()-start,'timeline':stats}
  report['channel_configuration']=f'assets/{VARIANT}/channel.json' if CUSTOM else None
+ report.update(simulation_sampling_fps=SIMULATION_FPS,delivery_fps=24,water_playback_rate=24/SIMULATION_FPS,warmup_physical_seconds=warmup/SIMULATION_FPS)
  (ROOT/f'research/{VARIANT}/simulation.json').write_text(json.dumps(report,indent=2));status('complete',output_frames=frames-warmup,particles=N)
 if __name__=='__main__':
  try:main()
