@@ -42,3 +42,18 @@ python scripts/prepare_master_delivery.py
 
 Use the provided source credits for public distribution. No YouTube upload or
 public release has been performed by these build scripts.
+
+## Current download blocker
+
+Both masters are built and passed their audio scans and sampled-video checks.
+Full-file upload is pending: the current cloud allowlist blocks `api.github.com`
+and `uploads.github.com`. A draft was saved adding just those domains. General
+network permission alone did not remove the proxy block. Review/save the network
+change in environment settings and publish the environment; then retry the API.
+
+After access works, `python scripts/upload_long_masters.py` uploads checksum-
+verified 1.8 GB transport parts and joining helpers to a **draft** release. It does
+not publish the release or upload to YouTube. Every remote part must have the
+expected GitHub SHA256 digest before its temporary local copy is removed. The
+full master MP4s are retained. API authorization remains to be tested after the
+network change; successful ordinary Git access alone does not prove API access.
