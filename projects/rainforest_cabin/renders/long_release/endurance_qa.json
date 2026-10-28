@@ -1,0 +1,94 @@
+{
+  "name": "endurance",
+  "file": "endurance.mp4",
+  "duration_seconds": 900,
+  "scene_seconds": 720,
+  "dark_screen_seconds": 180,
+  "video_frames": 21600,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "integrated_lufs": -24.61,
+  "true_peak_dbfs": -2.73,
+  "loudness_range_lu": 2.1,
+  "audio_fully_decoded_and_measured": true,
+  "video_transition_and_end_samples_decoded": true,
+  "qa_frames": [
+    {
+      "second": 0.5,
+      "mean_rgb_code": 0.0,
+      "image": "renders/long_release/qa_frames/endurance_000000.50.jpg"
+    },
+    {
+      "second": 3,
+      "mean_rgb_code": 16.508470936213993,
+      "image": "renders/long_release/qa_frames/endurance_000003.00.jpg"
+    },
+    {
+      "second": 10,
+      "mean_rgb_code": 40.65764467592592,
+      "image": "renders/long_release/qa_frames/endurance_000010.00.jpg"
+    },
+    {
+      "second": 16,
+      "mean_rgb_code": 40.667219971707816,
+      "image": "renders/long_release/qa_frames/endurance_000016.00.jpg"
+    },
+    {
+      "second": 59.9,
+      "mean_rgb_code": 40.742737429269546,
+      "image": "renders/long_release/qa_frames/endurance_000059.90.jpg"
+    },
+    {
+      "second": 60.1,
+      "mean_rgb_code": 40.69050475823045,
+      "image": "renders/long_release/qa_frames/endurance_000060.10.jpg"
+    },
+    {
+      "second": 75,
+      "mean_rgb_code": 40.687616062242796,
+      "image": "renders/long_release/qa_frames/endurance_000075.00.jpg"
+    },
+    {
+      "second": 698,
+      "mean_rgb_code": 40.66000257201646,
+      "image": "renders/long_release/qa_frames/endurance_000698.00.jpg"
+    },
+    {
+      "second": 710,
+      "mean_rgb_code": 20.44227350180041,
+      "image": "renders/long_release/qa_frames/endurance_000710.00.jpg"
+    },
+    {
+      "second": 719.5,
+      "mean_rgb_code": 0.9358405671296296,
+      "image": "renders/long_release/qa_frames/endurance_000719.50.jpg"
+    },
+    {
+      "second": 720.5,
+      "mean_rgb_code": 0.0,
+      "image": "renders/long_release/qa_frames/endurance_000720.50.jpg"
+    },
+    {
+      "second": 780,
+      "mean_rgb_code": 0.0,
+      "image": "renders/long_release/qa_frames/endurance_000780.00.jpg"
+    },
+    {
+      "second": 899,
+      "mean_rgb_code": 0.0,
+      "image": "renders/long_release/qa_frames/endurance_000899.00.jpg"
+    },
+    {
+      "second": 899.5,
+      "mean_rgb_code": 0.0,
+      "image": "renders/long_release/qa_frames/endurance_000899.50.jpg"
+    }
+  ],
+  "bytes": 631636723,
+  "sha256": "53ffe408a77de66a181b3c498ae08c354a3661d6f777742b92212efc931a0449",
+  "visual_lightning": false,
+  "full_video_not_exhaustively_decoded": true
+}

@@ -1,0 +1,74 @@
+{
+  "name": "rainforest_3h",
+  "file": "rainforest_3h.mp4",
+  "duration_seconds": 10800,
+  "scene_seconds": 10800,
+  "dark_screen_seconds": 0,
+  "video_frames": 259200,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "integrated_lufs": -24.04,
+  "true_peak_dbfs": -2.71,
+  "loudness_range_lu": 2.3,
+  "audio_fully_decoded_and_measured": true,
+  "video_transition_and_end_samples_decoded": true,
+  "qa_frames": [
+    {
+      "second": 0.5,
+      "mean_rgb_code": 0.0,
+      "image": "renders/long_release/qa_frames/rainforest_3h_000000.50.jpg"
+    },
+    {
+      "second": 3,
+      "mean_rgb_code": 16.508470936213993,
+      "image": "renders/long_release/qa_frames/rainforest_3h_000003.00.jpg"
+    },
+    {
+      "second": 10,
+      "mean_rgb_code": 40.65764467592592,
+      "image": "renders/long_release/qa_frames/rainforest_3h_000010.00.jpg"
+    },
+    {
+      "second": 16,
+      "mean_rgb_code": 40.667219971707816,
+      "image": "renders/long_release/qa_frames/rainforest_3h_000016.00.jpg"
+    },
+    {
+      "second": 59.9,
+      "mean_rgb_code": 40.742737429269546,
+      "image": "renders/long_release/qa_frames/rainforest_3h_000059.90.jpg"
+    },
+    {
+      "second": 60.1,
+      "mean_rgb_code": 40.69050475823045,
+      "image": "renders/long_release/qa_frames/rainforest_3h_000060.10.jpg"
+    },
+    {
+      "second": 75,
+      "mean_rgb_code": 40.687616062242796,
+      "image": "renders/long_release/qa_frames/rainforest_3h_000075.00.jpg"
+    },
+    {
+      "second": 10778,
+      "mean_rgb_code": 40.66000257201646,
+      "image": "renders/long_release/qa_frames/rainforest_3h_010778.00.jpg"
+    },
+    {
+      "second": 10790,
+      "mean_rgb_code": 20.44227350180041,
+      "image": "renders/long_release/qa_frames/rainforest_3h_010790.00.jpg"
+    },
+    {
+      "second": 10799.5,
+      "mean_rgb_code": 0.9358405671296296,
+      "image": "renders/long_release/qa_frames/rainforest_3h_010799.50.jpg"
+    }
+  ],
+  "bytes": 9471986622,
+  "sha256": "5a16a78e8df27495c55a076d3b74fa9418005dfc6bd1fd0c70c89a8f0d323b06",
+  "visual_lightning": false,
+  "full_video_not_exhaustively_decoded": true
+}

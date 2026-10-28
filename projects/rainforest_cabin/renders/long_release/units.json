@@ -1,0 +1,43 @@
+{
+  "units": [
+    {
+      "name": "calm",
+      "path": "renders/long_release/work/calm.mp4",
+      "duration_seconds": 12,
+      "frames": 288,
+      "extradata_hash": "SHA256:5c6ada7c121f6f826b2f2f2d1978f1327f62cf806aedfe9794c4b37c896bbdbc",
+      "sha256": "32edd98533df0ecaaa29ddfd4c91b38220bba2a2e646dd36c518b2f7db4fc211"
+    },
+    {
+      "name": "intro",
+      "path": "renders/long_release/work/intro.mp4",
+      "duration_seconds": 60,
+      "frames": 1440,
+      "extradata_hash": "SHA256:5c6ada7c121f6f826b2f2f2d1978f1327f62cf806aedfe9794c4b37c896bbdbc",
+      "sha256": "a83bb3c50fc05061b978433417fa18bcccc89a10516cca3d260c2ea49fafc7b9"
+    },
+    {
+      "name": "closing",
+      "path": "renders/long_release/work/closing.mp4",
+      "duration_seconds": 24,
+      "frames": 576,
+      "extradata_hash": "SHA256:5c6ada7c121f6f826b2f2f2d1978f1327f62cf806aedfe9794c4b37c896bbdbc",
+      "sha256": "56be688961a9ee3b8ee4f4e1abf35d0b40ef2b31308fc71a90821804bca36656"
+    },
+    {
+      "name": "black",
+      "path": "renders/long_release/work/black.mp4",
+      "duration_seconds": 60,
+      "frames": 1440,
+      "extradata_hash": "SHA256:5c6ada7c121f6f826b2f2f2d1978f1327f62cf806aedfe9794c4b37c896bbdbc",
+      "sha256": "7f3ec4034e146c702d34c5110f4690591a3f233e4e7932ad7111721f7f17b7f8"
+    }
+  ],
+  "intro_black_seconds": 1,
+  "picture_fade_seconds": 5,
+  "subscribe_seconds": [
+    6,
+    14
+  ],
+  "closing_fade_seconds": 20
+}

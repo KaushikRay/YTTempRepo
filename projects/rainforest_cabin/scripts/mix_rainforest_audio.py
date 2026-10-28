@@ -27,7 +27,7 @@ def write_audio(path,x,codec='flac'):
         '-c:a',codec,'-sample_fmt','s32',str(path)],input=x.astype(np.float32).tobytes(),check=True)
 
 def loudness(path):
-    result=subprocess.run(['ffmpeg','-hide_banner','-i',str(path),'-af','loudnorm=I=-24:TP=-2:LRA=7:print_format=json','-f','null','-'],capture_output=True,text=True,check=True)
+    result=subprocess.run(['ffmpeg','-hide_banner','-i',str(path),'-vn','-sn','-dn','-af','loudnorm=I=-24:TP=-2:LRA=7:print_format=json','-f','null','-'],capture_output=True,text=True,check=True)
     return json.loads(re.findall(r'\{[^{}]+\}',result.stderr)[-1])
 
 def tame(x,ratio):

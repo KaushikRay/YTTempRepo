@@ -1,0 +1,76 @@
+{
+  "part_bytes": 1800000000,
+  "files": [
+    {
+      "file": "rainforest_3h.mp4",
+      "bytes": 9471986622,
+      "sha256": "5a16a78e8df27495c55a076d3b74fa9418005dfc6bd1fd0c70c89a8f0d323b06",
+      "parts": [
+        {
+          "file": "rainforest_3h.mp4.part001",
+          "bytes": 1800000000,
+          "sha256": "ea79a2909421eb17124c3e345d9c277306a9d43b45bbcf42767f2412a7cc212e",
+          "offset": 0
+        },
+        {
+          "file": "rainforest_3h.mp4.part002",
+          "bytes": 1800000000,
+          "sha256": "b5c13acc7836660cac495ee5b9403c9238383843a79368da9e6504f109fb2035",
+          "offset": 1800000000
+        },
+        {
+          "file": "rainforest_3h.mp4.part003",
+          "bytes": 1800000000,
+          "sha256": "f34a5f2e79a8fc736ee7d7d95f1a0854c05a67c009171b5d26e099d540fa0b95",
+          "offset": 3600000000
+        },
+        {
+          "file": "rainforest_3h.mp4.part004",
+          "bytes": 1800000000,
+          "sha256": "c82c1f8fdc28612f22e454071bf245c038d07fb505a252717ab90e18d826c98e",
+          "offset": 5400000000
+        },
+        {
+          "file": "rainforest_3h.mp4.part005",
+          "bytes": 1800000000,
+          "sha256": "6295483b870af5f971622df56b6fd06687ac8c294043fce3d6408541ebabd3e1",
+          "offset": 7200000000
+        },
+        {
+          "file": "rainforest_3h.mp4.part006",
+          "bytes": 471986622,
+          "sha256": "55aedf47c8acc26ffba8687caf22b95aaa7014db4f7db457fb81e436b0414439",
+          "offset": 9000000000
+        }
+      ],
+      "duration_seconds": 10800
+    },
+    {
+      "file": "rainforest_8h.mp4",
+      "bytes": 4026533169,
+      "sha256": "80803b5c78ea8f102ddb19988d412ed26228f43e94432c4734b46a60499436e0",
+      "parts": [
+        {
+          "file": "rainforest_8h.mp4.part001",
+          "bytes": 1800000000,
+          "sha256": "073c3200643148b13ee09110f2a60bc1463db5d6d61e26a5aaf525209c69f8bb",
+          "offset": 0
+        },
+        {
+          "file": "rainforest_8h.mp4.part002",
+          "bytes": 1800000000,
+          "sha256": "b509756d35434fe7fb0ecb2a07a5dd64d1f05b912baa1a3840ea076112e53202",
+          "offset": 1800000000
+        },
+        {
+          "file": "rainforest_8h.mp4.part003",
+          "bytes": 426533169,
+          "sha256": "382c8df1ce4a1948580b1a66a5bf0d8e045d4a870666decf52cd0e1a6edb87e8",
+          "offset": 3600000000
+        }
+      ],
+      "duration_seconds": 28800
+    }
+  ],
+  "parts_are_transport_only_not_reencoded_videos": true
+}

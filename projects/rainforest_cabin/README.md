@@ -3,7 +3,19 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## Darker scene and distant thunder — current review
+## Long masters — latest build
+
+[Endurance review excerpt](renders/long_release/review_excerpt.mp4)
+· [Master details and delivery status](renders/long_release/README.md)
+· [Technical QA](renders/long_release/QA_REVIEW.md)
+· [Long-version audio credits](renders/long_release/AUDIO_CREDITS.txt)
+
+The three-hour scene version and eight-hour version (one hour picture, then dark
+with continuing sound) are built separately. Their multi-gigabyte files stay out
+of ordinary Git history. The linked review excerpt shows the opening, a rumble
+and the tested fade to dark. Delivery manifests carry exact file checksums.
+
+## Approved darker scene and distant thunder
 
 [Quick preview](renders/audiovisual/quick_preview.mp4)
 · [Two-minute 1080p preview](renders/production_test/preview.mp4)

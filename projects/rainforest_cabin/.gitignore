@@ -23,3 +23,9 @@ renders/audiovisual/work/
 renders/production_test/approved_frames/
 renders/production_test/water_frames/
 renders/production_test/work/
+renders/long_release/work/
+renders/long_release/*.mp4
+renders/long_release/*.m4a
+renders/long_release/*.flac
+renders/long_release/*.part*
+!renders/long_release/review_excerpt.mp4

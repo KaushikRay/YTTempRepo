@@ -1,0 +1,35 @@
+{
+  "phase": "masters_complete_delivery_access_pending",
+  "worker_running": false,
+  "updated_utc": "2026-10-28T13:24:01Z",
+  "versions": [
+    {
+      "name": "rainforest_3h",
+      "duration_seconds": 10800,
+      "scene_seconds": 10800,
+      "dark_screen_seconds": 0,
+      "bytes": 9471986622,
+      "integrated_lufs": -24.04,
+      "true_peak_dbfs": -2.71,
+      "sha256": "5a16a78e8df27495c55a076d3b74fa9418005dfc6bd1fd0c70c89a8f0d323b06"
+    },
+    {
+      "name": "rainforest_8h",
+      "duration_seconds": 28800,
+      "scene_seconds": 3600,
+      "dark_screen_seconds": 25200,
+      "bytes": 4026533169,
+      "integrated_lufs": -24.1,
+      "true_peak_dbfs": -2.14,
+      "sha256": "80803b5c78ea8f102ddb19988d412ed26228f43e94432c4734b46a60499436e0"
+    }
+  ],
+  "full_audio_scans_passed": true,
+  "sampled_video_checks_passed": true,
+  "youtube_uploaded": false,
+  "large_file_delivery_pending": true,
+  "required_hosts": [
+    "api.github.com",
+    "uploads.github.com"
+  ]
+}

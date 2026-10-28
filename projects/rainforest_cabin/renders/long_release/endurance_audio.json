@@ -1,0 +1,233 @@
+{
+  "duration_seconds": 900,
+  "sample_rate": 48000,
+  "channels": 2,
+  "events": [
+    {
+      "start_seconds": 75.0,
+      "variant": 0,
+      "gain_db": -0.4134260361097737,
+      "duration_seconds": 18.416333333333334
+    },
+    {
+      "start_seconds": 282.809,
+      "variant": 3,
+      "gain_db": -1.1794688583828359,
+      "duration_seconds": 18.048020833333332
+    },
+    {
+      "start_seconds": 457.203,
+      "variant": 1,
+      "gain_db": -0.22570666181030186,
+      "duration_seconds": 19.705479166666667
+    },
+    {
+      "start_seconds": 623.847,
+      "variant": 3,
+      "gain_db": -0.8727747811795594,
+      "duration_seconds": 18.048020833333332
+    },
+    {
+      "start_seconds": 794.211,
+      "variant": 0,
+      "gain_db": -2.7223927218483004,
+      "duration_seconds": 18.416333333333334
+    }
+  ],
+  "grains": [
+    {
+      "output_seconds": 0,
+      "source": "rain",
+      "source_start_seconds": 183,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 0,
+      "source": "stream",
+      "source_start_seconds": 186,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 60,
+      "source": "rain",
+      "source_start_seconds": 3177,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 60,
+      "source": "stream",
+      "source_start_seconds": 1302,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 120,
+      "source": "rain",
+      "source_start_seconds": 186,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 120,
+      "source": "stream",
+      "source_start_seconds": 72,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 180,
+      "source": "rain",
+      "source_start_seconds": 3888,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 180,
+      "source": "stream",
+      "source_start_seconds": 1155,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 240,
+      "source": "rain",
+      "source_start_seconds": 2385,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 240,
+      "source": "stream",
+      "source_start_seconds": 120,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 300,
+      "source": "rain",
+      "source_start_seconds": 1593,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 300,
+      "source": "stream",
+      "source_start_seconds": 660,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 360,
+      "source": "rain",
+      "source_start_seconds": 1155,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 360,
+      "source": "stream",
+      "source_start_seconds": 909,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 420,
+      "source": "rain",
+      "source_start_seconds": 2895,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 420,
+      "source": "stream",
+      "source_start_seconds": 183,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 480,
+      "source": "rain",
+      "source_start_seconds": 267,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 480,
+      "source": "stream",
+      "source_start_seconds": 1668,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 540,
+      "source": "rain",
+      "source_start_seconds": 516,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 540,
+      "source": "stream",
+      "source_start_seconds": 774,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 600,
+      "source": "rain",
+      "source_start_seconds": 1080,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 600,
+      "source": "stream",
+      "source_start_seconds": 1368,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 660,
+      "source": "rain",
+      "source_start_seconds": 1206,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 660,
+      "source": "stream",
+      "source_start_seconds": 1887,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 720,
+      "source": "rain",
+      "source_start_seconds": 1449,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 720,
+      "source": "stream",
+      "source_start_seconds": 801,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 780,
+      "source": "rain",
+      "source_start_seconds": 87,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 780,
+      "source": "stream",
+      "source_start_seconds": 957,
+      "lr_swapped_before_pan": false
+    },
+    {
+      "output_seconds": 840,
+      "source": "rain",
+      "source_start_seconds": 1401,
+      "lr_swapped_before_pan": true
+    },
+    {
+      "output_seconds": 840,
+      "source": "stream",
+      "source_start_seconds": 771,
+      "lr_swapped_before_pan": false
+    }
+  ],
+  "equal_power_crossfade_seconds": 3,
+  "source_grain_seconds": 63,
+  "audio_fade_in_from_second": 1,
+  "audio_fade_in_seconds": 8,
+  "audio_fade_out_seconds": 20,
+  "rain_stream_reference": "approved production-test solo levels",
+  "source_screening": "technical signal/spectral screening, not exhaustive human audition",
+  "same_thunder_recording_with_four_processed_variations": true,
+  "visual_lightning": false,
+  "dark_screen_after_seconds": 720,
+  "sample_peak_dbfs": -2.988252580873145,
+  "soft_knee_affected_sample_fraction": 2.6273148148148148e-06,
+  "global_correction_db": 0,
+  "elapsed_seconds": 13.403550691000419
+}
