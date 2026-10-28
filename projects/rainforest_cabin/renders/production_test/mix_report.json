@@ -4,9 +4,9 @@
   "channels": 2,
   "target_integrated_lufs": -24,
   "final_integrated_lufs": -24.0,
-  "final_true_peak_dbfs": -2.83,
-  "loudness_range_lu": 2.7,
-  "final_gain_db": 1.7300000000000004,
+  "final_true_peak_dbfs": -3.23,
+  "loudness_range_lu": 3.0,
+  "final_gain_db": 1.3299999999999983,
   "limiter_used": false,
   "fade_in_seconds": 0.75,
   "fade_out_seconds": 1.5,
@@ -42,16 +42,56 @@
       "target_integrated_lufs": -37,
       "input_integrated_lufs": -59.94,
       "gain_db": 22.939999999999998
+    },
+    {
+      "source": "thunder",
+      "source_asset": "thunder",
+      "highpass_hz": 35,
+      "lowpass_hz": 650,
+      "attack_seconds": 1.5,
+      "tail_fade_seconds": 4,
+      "strongest_3_second_target_lufs_before_master_gain": -26.5,
+      "source_gain_db": -13.47,
+      "events": [
+        {
+          "start_seconds": 6,
+          "duration_seconds": 18.416333333333334,
+          "relative_gain_db": 0,
+          "playback_rate": 1
+        },
+        {
+          "start_seconds": 75,
+          "duration_seconds": 19.705479166666667,
+          "relative_gain_db": -1.5,
+          "playback_rate": 0.9345794392523364
+        }
+      ],
+      "visual_lightning": false
     }
   ],
   "continuous_source_excerpts_not_12_second_audio_loop": true,
   "rain_above_stream_lufs": 11,
   "stream_reduction_relative_to_rain_db": 6,
   "music": false,
-  "added_thunder": false,
+  "added_thunder": true,
+  "thunder_events": [
+    {
+      "start_seconds": 6,
+      "duration_seconds": 18.416333333333334,
+      "relative_gain_db": 0,
+      "playback_rate": 1
+    },
+    {
+      "start_seconds": 75,
+      "duration_seconds": 19.705479166666667,
+      "relative_gain_db": -1.5,
+      "playback_rate": 0.9345794392523364
+    }
+  ],
+  "visual_lightning": false,
   "added_wildlife": false,
   "artificial_rain_noise": false,
   "original_source_geography_matches_reference": false,
   "listening_review": "Pending user audition; numerical/spectral checks do not certify absence of unwanted content",
-  "soundtrack_sha256": "9ff35ad3efe96dcc2564ed88a382b812b57744035f09eeb14e645dff5897ba94"
+  "soundtrack_sha256": "9f3cddd8726617680d77041eb7ccfdc9c91f59b3a99b383e8dceab1494944516"
 }

@@ -19,3 +19,7 @@ relative cache ZIPs in `assets/looped_fluid`. Run the embedded playback script.
 The cabin/forest remain a generated static photographic-style backdrop. Coarse,
 glossy water, approximate photographed bank geometry and reused upstream water
 are continuing limits. The current longer audiovisual test and QA are linked above.
+
+The latest presentation adds a static darker finishing LUT and distant thunder,
+without changing this raw simulation or its camera/motion. See the current
+production-test review for the graded audiovisual outputs and rebuild steps.

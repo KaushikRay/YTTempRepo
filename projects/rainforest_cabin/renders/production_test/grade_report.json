@@ -1,0 +1,18 @@
+{
+  "exposure_ev_shadows_and_midtones": -0.55,
+  "highlight_max_linear_gain": 0.9,
+  "method": "sRGB-linear exposure with smooth peak-highlight protection; 33-cube tetrahedral LUT",
+  "spatial_edits": false,
+  "temporal_edits": false,
+  "lightning_added": false,
+  "motion_speed_changed": false,
+  "fps": 24,
+  "frames": 288,
+  "input_was_native_png_cache": true,
+  "lut": "assets/colour/storm_dusk.cube",
+  "lut_sha256": "2a6b8ac393eac10a9f1c23fe89779c029779b4f557a0ff2241b3c2529eed9d30",
+  "output": "renders/production_test/graded_loop.mp4",
+  "output_sha256": "5aa9c77a0cf46df87f58f68a37484c63046528af16918ec00bc8561a04a48eb4",
+  "comparison_order": "Previous on left; darker finish on right",
+  "blender_source_geometry_materials_unchanged": true
+}

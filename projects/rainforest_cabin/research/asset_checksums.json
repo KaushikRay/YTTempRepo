@@ -885,31 +885,6 @@
     "sha256": "e950b30c36fcea80e793116e9c83001c95c39725f4af4c3684fc29491d86d7ae"
   },
   {
-    "path": "assets/audio/CREDITS.txt",
-    "bytes": 1869,
-    "sha256": "a0ba1c20ff8358b838bc40fc2477a66b3f192fbbf5748d878a4f9bfb1286947d"
-  },
-  {
-    "path": "assets/audio/long_stream_source.flac",
-    "bytes": 22606619,
-    "sha256": "287eb28c329a1cd8534ced48c04534172546663f3069ad497c076f9d59b32f66"
-  },
-  {
-    "path": "assets/audio/rain_source.flac",
-    "bytes": 31086195,
-    "sha256": "e3ff494a694710a04d755ca74cd934b7b3b042b3077c01fb18d8b538b0fd2d7e"
-  },
-  {
-    "path": "assets/audio/sources.json",
-    "bytes": 4431,
-    "sha256": "165edb07a55a3b3f149ae368f9941df1eb3fcc4236d0c5cb23fddf5cb12d4322"
-  },
-  {
-    "path": "assets/audio/stream_source.flac",
-    "bytes": 10894315,
-    "sha256": "0666205d914062e61530c33a8279ebdd0a16cd7e94d777b1ee1babeb15282571"
-  },
-  {
     "path": "assets/looped_fluid/CREDITS.txt",
     "bytes": 732,
     "sha256": "a2a10f43030b788c92ea6f65337e09751c70c1770583963d0230856f32a692d6"
@@ -988,5 +963,40 @@
     "path": "assets/looped_fluid/solver_samples.npz",
     "bytes": 5801027,
     "sha256": "2035483c31e55c387bed9e32295e21d1ef79f882a6b79f122f2844d0e99caa9a"
+  },
+  {
+    "path": "assets/audio/CREDITS.txt",
+    "bytes": 2391,
+    "sha256": "3535fd0eaba6aaaa4972a45b01808eda2548c3ad55f1ef84eb237d631a6b7559"
+  },
+  {
+    "path": "assets/audio/long_stream_source.flac",
+    "bytes": 22606619,
+    "sha256": "287eb28c329a1cd8534ced48c04534172546663f3069ad497c076f9d59b32f66"
+  },
+  {
+    "path": "assets/audio/rain_source.flac",
+    "bytes": 31086195,
+    "sha256": "e3ff494a694710a04d755ca74cd934b7b3b042b3077c01fb18d8b538b0fd2d7e"
+  },
+  {
+    "path": "assets/audio/sources.json",
+    "bytes": 5010,
+    "sha256": "dc600f29dacd7945c8fff12694852e5217c2f5b671521b83218740b9d404fcb1"
+  },
+  {
+    "path": "assets/audio/stream_source.flac",
+    "bytes": 10894315,
+    "sha256": "0666205d914062e61530c33a8279ebdd0a16cd7e94d777b1ee1babeb15282571"
+  },
+  {
+    "path": "assets/audio/thunder_source.ogg",
+    "bytes": 143493,
+    "sha256": "c66da284f376957f337230533671c004e08364b87b73959f067986cbfa8504dd"
+  },
+  {
+    "path": "assets/colour/storm_dusk.cube",
+    "bytes": 1293849,
+    "sha256": "2a6b8ac393eac10a9f1c23fe89779c029779b4f557a0ff2241b3c2529eed9d30"
   }
 ]

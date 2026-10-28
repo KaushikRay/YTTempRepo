@@ -3,19 +3,19 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## Rain-first audio and slower river — current review
+## Darker scene and distant thunder — current review
 
-[Two-minute 1080p production test](renders/production_test/preview.mp4)
-· [Quick full-quality preview](renders/audiovisual/quick_preview.mp4)
-· [Previous/new river speed comparison](renders/production_test/speed_comparison.mp4)
+[Quick preview](renders/audiovisual/quick_preview.mp4)
+· [Two-minute 1080p preview](renders/production_test/preview.mp4)
+· [Previous/darker brightness comparison](renders/production_test/brightness_comparison.jpg)
 · [Method, QA and remaining limits](research/production_test/review.md)
 · [Audio credits](renders/production_test/AUDIO_CREDITS.txt)
 
-The stream is another 6 dB quieter relative to rain (eleven-LUFS separation),
-and only the river motion is slowed by 20%. Rain and palms retain their approved
-speed. The longer test repeats the new visual loop ten times with continuous
-two-minute rain and flowing-water excerpts. It is a production review, not a
-multi-hour release. Existing hybrid/glossy-water limits remain.
+The scene is modestly darker with protected warm highlights. Distant thunder
+begins at 00:06 and 01:15 in the longer preview; there are no visual flashes.
+Rain remains dominant and the stream quiet. The approved river pace, palms,
+rain motion, camera and geometry are preserved. Colour is a static finishing
+LUT applied after the raw Blender render. This remains a review preview.
 
 ## Updated twelve-second visual loop
 

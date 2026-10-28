@@ -11,7 +11,9 @@ def video_packets(path):
 
 def main():
     status('checking_audiovisual_delivery')
-    source=ROOT/'renders/looped_fluid/preview.mp4';original_packets=video_packets(source);assert len(original_packets)==288
+    graded=ROOT/'renders/production_test/graded_loop.mp4'
+    source=graded if graded.exists() else ROOT/'renders/looped_fluid/preview.mp4'
+    original_packets=video_packets(source);assert len(original_packets)==288
     clips=[]
     for name,seconds,repeats in [('preview',60,5),('quick_preview',12,1)]:
         path=OUT/(name+'.mp4');info=json.loads(subprocess.check_output(['ffprobe','-v','error','-count_frames','-show_streams','-show_format','-of','json',str(path)]))
@@ -24,7 +26,8 @@ def main():
         measure=loudness(path);assert -24.5<float(measure['input_i'])<-23.5 and float(measure['input_tp'])<=-2
         clips.append({'file':path.name,'duration_seconds':seconds,'frames':seconds*24,'resolution':[1920,1080],'fps':24,
             'audio_codec':'aac','audio_sample_rate':48000,'audio_channels':2,'integrated_lufs':float(measure['input_i']),
-            'true_peak_dbfs':float(measure['input_tp']),'decoded_cleanly':True,'video_packets_identical_to_approved_loop':True,
+            'true_peak_dbfs':float(measure['input_tp']),'decoded_cleanly':True,'video_packets_identical_to_visual_source':True,
+            'visual_source':str(source.relative_to(ROOT)),
             'sha256':hashlib.sha256(path.read_bytes()).hexdigest()})
     x=decode(OUT/'soundtrack.flac',sr=SR);assert len(x)==60*SR and np.isfinite(x).all() and np.abs(x).max()<1
     block=x.reshape(60,SR,2);rms=np.sqrt(np.mean(block**2,axis=(1,2)));assert rms[1:58].min()>10**(-45/20)

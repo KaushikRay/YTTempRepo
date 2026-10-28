@@ -1,0 +1,52 @@
+{
+  "midtone_linear_luminance_ratio": 0.672532141973428,
+  "midtone_exposure_change_ev": -0.5723248756083498,
+  "protected_warm_lantern_linear_luminance_ratio": 0.8296717529302232,
+  "warm_lantern_pixels_checked": 731,
+  "static_colour_grade_only": true,
+  "motion_geometry_and_camera_changes": false,
+  "lightning_or_flash_added": false,
+  "audio": [
+    {
+      "folder": "audiovisual",
+      "events": [
+        {
+          "start_seconds": 6,
+          "duration_seconds": 18.416333333333334,
+          "relative_gain_db": 0,
+          "playback_rate": 1
+        }
+      ],
+      "max_three_second_unweighted_energy_rise_db": 3.7369890668122623,
+      "encoded_integrated_lufs": -24.05,
+      "encoded_true_peak_dbfs": -7.48,
+      "thunder_only_inside_scheduled_events": true,
+      "bed_preserved_apart_from_common_level_adjustment": true
+    },
+    {
+      "folder": "production_test",
+      "events": [
+        {
+          "start_seconds": 6,
+          "duration_seconds": 18.416333333333334,
+          "relative_gain_db": 0,
+          "playback_rate": 1
+        },
+        {
+          "start_seconds": 75,
+          "duration_seconds": 19.705479166666667,
+          "relative_gain_db": -1.5,
+          "playback_rate": 0.9345794392523364
+        }
+      ],
+      "max_three_second_unweighted_energy_rise_db": 4.213122596117407,
+      "encoded_integrated_lufs": -24.06,
+      "encoded_true_peak_dbfs": -3.23,
+      "thunder_only_inside_scheduled_events": true,
+      "bed_preserved_apart_from_common_level_adjustment": true
+    }
+  ],
+  "thunder_license_and_hash_verified": true,
+  "thunder_creator": "Bidgee",
+  "remaining_review": "Subjective darkness and distant-thunder naturalness await user review."
+}

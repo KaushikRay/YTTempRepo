@@ -30,14 +30,17 @@ def main():
         pixels.append({'frame':frame,'changed_pixels_outside_water_border':0})
     speed=json.loads((ROOT/'research/looped_fluid/speed_revision.json').read_text());assert speed['water_only_playback_rate']==.8 and .7<speed['apparent_mean_speed_ratio']<.9
     # Measure the sharing encode against ten repeats of the high-quality loop.
-    result=subprocess.run(['ffmpeg','-hide_banner','-stream_loop','9','-i',str(ROOT/'renders/looped_fluid/preview.mp4'),'-i',str(path),
+    graded=ROOT/'renders/production_test/graded_loop.mp4';visual_source=graded if graded.exists() else ROOT/'renders/looped_fluid/preview.mp4'
+    result=subprocess.run(['ffmpeg','-hide_banner','-stream_loop','9','-i',str(visual_source),'-i',str(path),
         '-filter_complex','[0:v]setpts=PTS-STARTPTS[ref];[1:v]setpts=PTS-STARTPTS[test];[ref][test]ssim','-t','120','-an','-f','null','-'],capture_output=True,text=True,check=True)
     matches=re.findall(r'All:([0-9.]+)',result.stderr);assert matches,'No SSIM summary';ssim=float(matches[-1]);assert ssim>.95,ssim
     qa={'duration_seconds':120,'resolution':[1920,1080],'frames':2880,'fps':24,'audio_sample_rate':48000,'audio_channels':2,
         'decoded_cleanly':True,'integrated_lufs':float(level['input_i']),'true_peak_dbfs':float(level['input_tp']),
         'rain_solo_integrated_lufs':float(rain['input_i']),'stream_solo_integrated_lufs':float(stream['input_i']),
         'rain_above_stream_lufs':gap,'stream_relative_reduction_db':6,'water_speed':speed,
-        'sampled_surroundings_pixel_preservation':pixels,'audio_continuity_at_visual_joins':joins,'ssim_to_high_quality_loop':ssim,
+        'sampled_surroundings_pixel_preservation_before_grade':pixels,'visual_grade_applied':graded.exists(),
+        'visual_source':str(visual_source.relative_to(ROOT)),
+        'audio_continuity_at_visual_joins':joins,'ssim_to_high_quality_loop':ssim,
         'video_is_ten_repeats_of_12s_loop':True,'audio_is_continuous_120s_excerpts':True,'no_interpolated_or_repeated_water_frames_within_loop':True,
         'bytes':path.stat().st_size,'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),
         'limits':['generated static cabin/forest backdrop','coarse glossy water and approximate banks','one-second artistic 3D loop transition','subjective naturalness and source-content listening review pending']}

@@ -73,5 +73,18 @@
     "prepared_source_start_seconds": 60,
     "prepared_duration_seconds": 180,
     "prepared_sha256": "287eb28c329a1cd8534ced48c04534172546663f3069ad497c076f9d59b32f66"
+  },
+  {
+    "name": "thunder",
+    "title": "File:Thunder.ogg",
+    "artist": "Bidgee",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thunder.ogg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Thunder.ogg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "prepared_file": "assets/audio/thunder_source.ogg",
+    "prepared_sha256": "c66da284f376957f337230533671c004e08364b87b73959f067986cbfa8504dd",
+    "used_in_mix": true,
+    "use": "Distant filtered rumble events; no visual flashes"
   }
 ]

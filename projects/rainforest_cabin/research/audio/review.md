@@ -1,30 +1,22 @@
-# Revised rain-dominant sound review
+# Rain-led audio with subtle distant thunder
 
-[One-minute review](../../renders/audiovisual/preview.mp4)
-· [Quick review](../../renders/audiovisual/quick_preview.mp4)
-· [Two-minute production test](../../renders/production_test/preview.mp4)
-· [Current changes and measured QA](../production_test/review.md)
-· [Audio attribution](../../renders/production_test/AUDIO_CREDITS.txt)
+[Quick preview](../../renders/audiovisual/quick_preview.mp4)
+· [Two-minute preview](../../renders/production_test/preview.mp4)
+· [Current method and QA](../production_test/review.md)
+· [Attribution](../../renders/production_test/AUDIO_CREDITS.txt)
 
-Rain leads the stream by eleven LUFS in the mix, versus the previous five-LUFS
-target gap. The stream is another 6 dB quieter relative to rain. Overall level
-remains near −24 LUFS. Both reviews keep continuous rain audio across the visual
-repeats. The one-minute/quick review uses jackthemurray's close stream; the longer
-test uses Extemporalist's continuous CC0 flowing-water recording.
+Rain retains its lead over the quieter stream. Bidgee's recorded CC BY 3.0 thunder
+is filtered and faded into distant rumbles beginning at 00:06 and, in the longer
+preview, 01:15. There are no visual flashes. The final image has a modest static
+darker grade; all motion and framing are preserved.
 
-Rain is valvalion's CC BY 3.0 track. The close stream and long flowing-water source
-are CC0. The supplied attribution file records creators, URLs, licences, excerpts
-and processing. The Freesound original page was blocked, so the close-stream
-licence evidence is its Commons record and source link. The long source uses
-Wikimedia's Ogg derivative because its original FLAC download returned 403.
+Rain is valvalion's CC BY 3.0 track, close stream jackthemurray's CC0 recording,
+and the longer flowing-water bed Extemporalist's CC0 source. The thunder licence
+was rechecked; the provided credit file includes all required attributions and
+processing changes. Full source evidence and hashes are retained.
 
-The level/peak, timing and audio-continuity checks are technical verification.
-Source descriptions and spectrograms were inspected; no human listening pass is
-claimed. Review unwanted sounds, brightness, rain dominance and stream placement.
-No added thunder, music or wildlife track is used. These sources are acoustic
-stand-ins, not geographically authentic rainforest location recordings.
-
-The prepared FLACs, `assets/audio/sources.json` and screening manifest can rebuild
-the mixes with `mix_rainforest_audio.py` (default 60 s; set
-`AUDIO_DURATION_SECONDS=120` for the longer test). Native source downloads are
-ignored. Release intro, final duration and the long master remain a later stage.
+The prepared sources and scripts rebuild the mix. Technical level/peak, duration,
+continuity and source-integrity checks passed. Human listening review of thunder
+naturalness, rain dominance and any unwanted incidental source sounds is pending.
+No added music or wildlife track is used. See the linked current review for exact
+levels, finishing pipeline and continuing visual limitations.

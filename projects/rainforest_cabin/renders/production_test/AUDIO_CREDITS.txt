@@ -23,3 +23,10 @@ Source: https://commons.wikimedia.org/wiki/File:Snowmelt_flowing_into_lake_at_Ok
 Changes: Wikimedia's Ogg derivative, original seconds 103–223, resampled, filtered, dynamically controlled, narrowed/panned, level-adjusted and mixed. Used only in the two-minute production test; the shorter preview retains jackthemurray's stream.
 
 Visual source credits remain in the project's existing asset credits/provenance files.
+
+Distant thunder: "Thunder" by Bidgee, recorded in Darwin, Northern Territory, Australia.
+Licence: Creative Commons Attribution 3.0 (CC BY 3.0).
+https://creativecommons.org/licenses/by/3.0/
+Source: https://commons.wikimedia.org/wiki/File:Thunder.ogg
+Creator: https://commons.wikimedia.org/wiki/User:Bidgee
+Changes: filtered to 35–650 Hz, soft 1.5-second attack and four-second tail fade, stereo/gain adjustment; a later occurrence is slowed slightly and reduced 1.5 dB. Added as distant rumble with no visual lightning.

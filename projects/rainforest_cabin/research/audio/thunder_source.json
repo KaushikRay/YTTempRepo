@@ -1,0 +1,106 @@
+{
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AThunder.ogg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main",
+  "page": {
+    "pageid": 3770387,
+    "ns": 6,
+    "title": "File:Thunder.ogg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 143493,
+        "width": 0,
+        "height": 0,
+        "duration": 18.416326530612245,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Thunder.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Thunder.ogg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3770387",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2008-03-24 23:58:48",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Thunder",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Location not applicable|License migration redundant|Self-published work|Files by Bidgee|Audio files of Australia|Audio files of thunder|Sounds of water|Sounds of water in Australia",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Thunder recorded in Darwin, Northern Territory, Australia",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2007-02-10",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bidgee\" title=\"User:Bidgee\">Bidgee</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "== {{int:filedesc}} ==\n{{Information\n|Description=Thunder recorded in Darwin, Northern Territory, Australia\n|Source={{Own}}\n|Date=2007-02-10\n|Author= [[User:Bidgee|Bidgee]]\n|Permission=\n|other_versions=\n}}\n\n\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n\n[[Category:Sounds of water]]\n[[Category:Files by Bidgee]]\n[[Category:Location not applicable]]\n[[Category:Audio files of thunder]]\n[[Category:Audio files of Australia]]\n[[Category:Sounds of water in Australia]]"
+          }
+        }
+      }
+    ]
+  }
+}

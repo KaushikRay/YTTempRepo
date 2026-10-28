@@ -1,107 +1,97 @@
-# Rain-first ambience, slower river and two-minute production test
+# Darker storm finish with a little distant thunder
 
-[Two-minute 1080p test](../../renders/production_test/preview.mp4)
-· [Quick full-quality review](../../renders/audiovisual/quick_preview.mp4)
-· [Previous/new river speed comparison](../../renders/production_test/speed_comparison.mp4)
+[Two-minute preview](../../renders/production_test/preview.mp4)
+· [Quick twelve-second preview](../../renders/audiovisual/quick_preview.mp4)
+· [Brightness comparison](../../renders/production_test/brightness_comparison.jpg)
+· [Darker still](../../renders/production_test/darker_still.png)
 · [Soundtrack](../../renders/production_test/soundtrack.flac)
-· [Credits](../../renders/production_test/AUDIO_CREDITS.txt)
+· [Audio credits](../../renders/production_test/AUDIO_CREDITS.txt)
 
 ## Requested changes
 
-Rain now leads the stream by **10.97 LUFS**, versus the previous
-five-LUFS target separation. The stream is reduced another 6 dB relative to rain.
-Overall loudness stays near −24 LUFS rather than simply turning everything up.
-The one-minute/quick preview retains the previous close-stream source at the new
-quieter balance. The longer test uses a continuous CC0 flowing-water recording
-so neither sound needs to repeat at the twelve-second visual joins.
+The scene is modestly darker, with no camera, geometry or motion edits. A static
+33-cube LUT applies approximately −0.55 EV to shadows/midtones in linear light,
+with smooth highlight protection to retain the warm cabin glow. It preserves
+linear RGB proportions rather than adding a new colour cast. The comparison is
+previous brightness on the left, darker finish on the right.
 
-Only the river motion is slowed. Its fresh particle-fluid bake is sampled at
-30 fps and displayed at 24 fps, giving **80% water playback speed**. Rain, roof
-runoff and palms keep their original 24 fps timeline. All 288 water states are
-native, distinct 3D meshes; there are no repeated/interpolated video frames or
-stock-footage water effects. This is river-only slow motion, not a claim that the
-channel's physical discharge was reduced by 20%.
+The measured median midtone linear-luminance ratio is 0.6725
+(-0.572 EV). Warm lantern pixels retain
+0.8297 of their former linear luminance.
+No light flashes, lightning bolts or weather events have been added to the image.
+The rain/palm timeline and the previously approved 80% river playback remain.
 
-## Motion and source
+Thunder is Bidgee's CC BY 3.0 *Thunder* recording. It is high-passed at 35 Hz and
+low-passed at 650 Hz to remove the sharp crack, with a gentle 1.5-second attack
+and four-second fade at the tail. The first distant rumble starts at 00:06 and
+lasts about 18.4 seconds. A second begins at 01:15 in the longer preview, slightly
+slowed and 1.5 dB quieter. These are preview event timings, not a final multi-hour
+schedule. **No visual lightning accompanies either sound.**
 
-The solver retains gravity 9.81 m/s² and the existing bed/rock geometry. It uses
-120 warmup frames at 30 fps (four physical seconds), followed by 312 output
-states. The delivered loop uses 288 states. Its first second retains the existing
-artistic density/froth-field transition, remeshed before rendering, to join the
-continued tail into the head. It remains an approximate loop, not periodic fluid
-physics.
+Rain stays dominant and the stream remains about eleven LUFS below it. The one-
+minute/quick preview keeps the close-stream recording; the two-minute preview
+uses the existing continuous CC0 flowing-water bed. No music or wildlife track
+is added. Both longer soundtracks remain continuous across picture repeats.
+The quick excerpt has a separate level adjustment to avoid making its early
+thunder event disproportionately loud.
 
-Mean physical particle speed is 2.2356 m/s versus
-2.2366 m/s previously; after the .8 delivery
-clock ratio, the apparent mean-speed ratio is **0.7996**.
-The renderer resampled no earlier water images. It rendered the river border at
-native 1080p pixel density and the same 32-sample Cycles cap, then combined those
-pixels with the matching approved full-resolution frame. Six sampled frames
-have exactly zero changed pixels outside x=720–1760, y=680–1080. Rain and palm
-repeat/playback checks also passed from relocated cache archives.
+## Finishing pipeline and source
 
-Open `rainforest_looped_fluid.blend` with its twelve updated relative cache ZIPs;
-run its embedded playback script once. The source is updated in place. Earlier
-approved results remain available at their immutable Git commits.
+`assets/colour/storm_dusk.cube` is the reusable finishing LUT.
+`grade_storm_scene.py` creates `renders/production_test/graded_loop.mp4` from the
+native twelve-second PNG cache, or from the ungraded loop if the cache is absent.
+The LUT is constant in time and changes colour values only. This is a final grade;
+Blender geometry, materials, physical-light settings and simulation caches are
+unchanged. The raw Blender render remains available at its original brightness.
 
-## Longer audiovisual test
+The mixing/muxing script automatically uses the graded loop when it exists.
+The two-minute picture contains ten repeats of that loop, not two minutes of
+unique animation. Its sharing encode is 1080p/24 fps, CRF 18 with a 6.4 Mb/s cap.
+The full-quality quick preview copies the graded loop's video packets unchanged.
+The former river-speed comparison is a historical diagnostic at the pre-grade
+brightness and is not a comparison of this new colour finish.
 
-The two-minute test contains ten repetitions of the revised twelve-second
-visual loop, **not two minutes of unique simulation**. Audio uses uninterrupted
-120-second excerpts: rain original seconds 173–293 and flowing water original
-seconds 103–223. The latter is Extemporalist's CC0 *Snowmelt flowing into lake at
-Okanagan Mountain Provincial Park*, obtained through Wikimedia's standard Ogg
-version after the original FLAC URL returned 403. These are acoustic stand-ins,
-not recordings from the generated scene's location. Creator, licence, changes,
-download evidence and hashes are retained in the project.
+## Actual QA
 
-There is no added music, thunder or wildlife track. The preview fades audio in
-and out; it is not itself a seamless two-minute audio loop. No release intro or
-subscribe badge is added to this review test.
+All preview videos decode cleanly with correct durations and frame counts.
+The two-minute result measures **-24.06 LUFS integrated /
+-3.23 dBFS true peak**, with a rain/stream separation of
+10.97 LUFS. SSIM against ten repetitions of the graded
+high-quality loop is 0.994292.
+The short preview measures -24.03 LUFS /
+-8.64 dBFS true peak.
 
-The longer sharing encode is 1080p/24 fps, CRF 18 with a 6.4 Mb/s maximum video
-rate, to keep the file downloadable through this repository. SSIM against ten
-repeats of the high-quality source loop is **0.993315**.
-The quick preview retains the high-quality loop's video packets unchanged.
+The grade's midtone reduction and warm-highlight protection passed pixel checks.
+Thunder appears only inside its scheduled audio intervals. The mix remains the
+sum of the existing rain/stream bed and thunder, apart from the common final
+level adjustment; there was no peak limiter required. Sample peaks, audio joins,
+finite samples, source licences/hashes and portable water playback checks remain
+available in the QA files. Video is compared against the **graded** reference;
+the earlier unchanged-surroundings pixel checks refer to the underlying render
+before this intentionally global brightness change.
 
-## Completed QA
+Numerical and spectral checks are not a human listening pass. User review should
+judge whether the darkness and distant rumble feel cozy and suitably subtle.
+Existing visual limits remain: generated static cabin/forest, approximate banks,
+coarse/glossy water and a short artistic 3D loop transition. This is a review
+preview, not a final multi-hour YouTube release.
 
-- Exactly 2,880 video frames / 120 seconds, stereo 48 kHz audio; clean decode.
-- Encoded audio: **-24.06 LUFS**, **-2.84 dBFS true peak**.
-- Rain solo: -24.34 LUFS; stream solo: -35.31 LUFS.
-- Audio continuity checks passed at all nine visual repeat joins.
-- All 288 liquid/foam cache states passed integrity checks and portable playback.
-- River repeat-point pixel change is 0.9984× the largest sampled ordinary step.
-- The revised one-minute and quick previews also decode cleanly and keep the new loop's encoded picture unchanged.
+## Attribution and rebuild
 
-## Remaining limits and next gate
-
-The original hybrid limits remain: generated static cabin/forest, approximate
-bank proxies, coarse/glossy water and a short artistic 3D surface transition.
-Slowing the river does not reconstruct those elements or establish photographic
-realism. Source descriptions, spectrograms and numerical audio checks were
-reviewed; subjective naturalness and unwanted incidental sounds still require
-user audition. Review whether this slower pace and rain dominance feel right.
-After that, choose the final YouTube duration/version and prepare the long master.
-This two-minute file is a production test, not a multi-hour release.
-
-## Rebuild
+The credit file includes valvalion's CC BY rain, jackthemurray/Extemporalist's CC0
+water recordings and Bidgee's CC BY thunder, with sources, licences and changes.
+The thunder licence was rechecked on its Commons page. Recordings are acoustic
+stand-ins, not claims of geographically authentic sound from the generated scene.
 
 ```sh
-FLUID_VARIANT=looped_fluid SIMULATION_FPS=30 WARMUP=120 FLUID_FRAMES=432 python scripts/simulate_fluid_river.py
-python scripts/prepare_fluid_loop.py
-python scripts/prepare_loop_foam.py
-SAMPLES=32 python scripts/render_looped_fluid.py
-python scripts/package_fluid_loop.py
-python scripts/check_fluid_loop.py
-python scripts/check_looped_scene.py
+python scripts/grade_storm_scene.py
 python scripts/mix_rainforest_audio.py
 AUDIO_DURATION_SECONDS=120 python scripts/mix_rainforest_audio.py
 python scripts/check_rainforest_audio.py
 python scripts/check_production_test.py
+python scripts/check_darker_thunder.py
 ```
 
-With the preserved local approved PNG cache, `RIVER_ONLY=1` renders only the river
-border. A fresh clone can rebuild full frames without that option. Prepared audio
-FLACs and the screening/source manifests are sufficient for mixing. Native frame
-caches, original audio downloads and work files are ignored by Git.
+Regenerate the grade after any future Blender render revision. No Blender render
+is needed for this finishing step. The LUT, prepared audio sources, manifests and
+scripts are committed; native frame caches and work files remain ignored.

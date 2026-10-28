@@ -6,7 +6,7 @@ thunder is added. Source screening is technical; user audition remains required.
 import hashlib,json,math,os,re,subprocess,time
 from pathlib import Path
 import numpy as np
-from scipy.signal import butter,sosfiltfilt
+from scipy.signal import butter,sosfiltfilt,resample_poly
 from scipy.ndimage import median_filter,gaussian_filter1d
 from prepare_ambience_audio import decode
 
@@ -51,6 +51,28 @@ def target_stem(x,target,name):
     gain_db=target-float(m['input_i']);x=x*10**(gain_db/20)
     return x,{'target_integrated_lufs':target,'input_integrated_lufs':float(m['input_i']),'gain_db':gain_db}
 
+def distant_thunder():
+    x=decode(ROOT/'assets/audio/thunder_source.ogg',sr=SR)
+    x=sosfiltfilt(butter(4,[35,650],btype='bandpass',fs=SR,output='sos'),x,axis=0).astype(np.float32)
+    x=spatial(x,.8,-.1)
+    attack=int(1.5*SR);tail=int(4*SR)
+    x[:attack]*=np.sin(np.linspace(0,np.pi/2,attack))[:,None]**2
+    x[-tail:]*=np.cos(np.linspace(0,np.pi/2,tail))[:,None]**2
+    hop=4800;blocks=len(x)//hop;power=np.mean(x[:blocks*hop].reshape(blocks,hop,2)**2,axis=(1,2))
+    strongest=int(np.argmax(np.convolve(power,np.ones(30)/30,mode='valid')))*hop
+    x3=x[strongest:strongest+3*SR];path=WORK/'thunder_peak_3s.flac';write_audio(path,x3)
+    before=loudness(path);gain_db=-26.5-float(before['input_i']);x*=10**(gain_db/20)
+    stem=np.zeros((COUNT,2),np.float32);events=[]
+    for number,start in enumerate([6,75]):
+        if start>=DURATION:continue
+        event=x if number==0 else resample_poly(x,107,100,axis=0).astype(np.float32)*10**(-1.5/20)
+        first=int(start*SR);length=min(len(event),COUNT-first);stem[first:first+length]+=event[:length]
+        events.append({'start_seconds':start,'duration_seconds':length/SR,'relative_gain_db':0 if number==0 else -1.5,
+            'playback_rate':1 if number==0 else 100/107})
+    return stem,{'source':'thunder','source_asset':'thunder','highpass_hz':35,'lowpass_hz':650,
+        'attack_seconds':1.5,'tail_fade_seconds':4,'strongest_3_second_target_lufs_before_master_gain':-26.5,
+        'source_gain_db':gain_db,'events':events,'visual_lightning':False}
+
 def main():
     status('mixing_continuous_rain_and_stream')
     screening=json.loads((ROOT/'research/audio/signal_screening.json').read_text())
@@ -69,7 +91,8 @@ def main():
         settings.append({'source':name,'source_asset':source_name,'prepared_start_seconds':start,'original_start_seconds':source['prepared_source_start_seconds']+start,
             'duration_seconds':DURATION,'highpass_hz':hp,'lowpass_hz':lp,'stereo_width':width,'pan':pan,
             'minimum_band_gain':band_min,'minimum_broadband_gain':wide_min,**level})
-    mix=stems['rain']+stems['stream']
+    thunder,thunder_settings=distant_thunder();stems['thunder']=thunder;settings.append(thunder_settings)
+    mix=stems['rain']+stems['stream']+thunder
     fade_in=int(.75*SR);fade_out=int(1.5*SR)
     envelope=np.ones(COUNT,np.float32);envelope[:fade_in]=np.sin(np.linspace(0,np.pi/2,fade_in))**2
     envelope[-fade_out:]=np.cos(np.linspace(0,np.pi/2,fade_out))**2
@@ -90,7 +113,7 @@ def main():
         'loudness_range_lu':float(final_measure['input_lra']),'final_gain_db':gain_db,'limiter_used':limited,
         'fade_in_seconds':.75,'fade_out_seconds':1.5,'stems':settings,
         'continuous_source_excerpts_not_12_second_audio_loop':True,'rain_above_stream_lufs':11,'stream_reduction_relative_to_rain_db':6,
-        'music':False,'added_thunder':False,
+        'music':False,'added_thunder':True,'thunder_events':thunder_settings['events'],'visual_lightning':False,
         'added_wildlife':False,'artificial_rain_noise':False,'original_source_geography_matches_reference':False,
         'listening_review':'Pending user audition; numerical/spectral checks do not certify absence of unwanted content',
         'soundtrack_sha256':hashlib.sha256(final.read_bytes()).hexdigest()}
@@ -103,16 +126,24 @@ def mux_existing():
     final=OUT/'soundtrack.flac'
     report=json.loads((OUT/'mix_report.json').read_text())
     status('muxing_audiovisual_review',audio_integrated_lufs=report['final_integrated_lufs'])
-    visual=ROOT/'renders/looped_fluid/preview.mp4'
+    graded=ROOT/'renders/production_test/graded_loop.mp4'
+    visual=graded if graded.exists() else ROOT/'renders/looped_fluid/preview.mp4'
     video=['-c:v','copy'] if DURATION==60 else ['-c:v','libx264','-preset','medium','-crf','18','-maxrate','6400k','-bufsize','12800k',
         '-g','48','-keyint_min','48','-sc_threshold','0','-pix_fmt','yuv420p']
     subprocess.run(['ffmpeg','-y','-v','error','-stream_loop',str(DURATION//12-1),'-i',str(visual),'-i',str(final),'-map','0:v:0','-map','1:a:0',
         '-t',str(DURATION),*video,'-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart',str(OUT/'preview.mp4')],check=True)
     # A lighter twelve-second link uses the same mix and original video stream.
     if DURATION==60:
-        subprocess.run(['ffmpeg','-y','-v','error','-i',str(visual),'-i',str(final),'-map','0:v:0','-map','1:a:0',
-            '-t','12','-c:v','copy','-af','afade=t=out:st=11:d=1','-c:a','aac','-b:a','256k','-ar','48000',
-            '-movflags','+faststart',str(OUT/'quick_preview.mp4')],check=True)
+        write_quick_preview(final,visual)
     status('audio_mix_complete_awaiting_delivery_checks',worker_running=False,output=str((OUT/'preview.mp4').relative_to(ROOT)))
+
+def write_quick_preview(final,visual):
+    short=WORK/'quick_audio.flac'
+    subprocess.run(['ffmpeg','-y','-v','error','-i',str(final),'-t','12','-af','afade=t=out:st=11:d=1','-c:a','flac',str(short)],check=True)
+    measured=loudness(short);gain_db=-24-float(measured['input_i'])
+    subprocess.run(['ffmpeg','-y','-v','error','-i',str(visual),'-i',str(short),'-map','0:v:0','-map','1:a:0',
+        '-t','12','-c:v','copy','-af',f'volume={gain_db}dB','-c:a','aac','-b:a','256k','-ar','48000',
+        '-movflags','+faststart',str(OUT/'quick_preview.mp4')],check=True)
+    p=OUT/'mix_report.json';report=json.loads(p.read_text());report['quick_preview_level_adjustment_db']=gain_db;p.write_text(json.dumps(report,indent=2))
 
 if __name__=='__main__':main()

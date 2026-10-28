@@ -10,9 +10,9 @@
   "audio_channels": 2,
   "decoded_cleanly": true,
   "integrated_lufs": -24.06,
-  "true_peak_dbfs": -2.84,
-  "rain_solo_integrated_lufs": -24.34,
-  "stream_solo_integrated_lufs": -35.31,
+  "true_peak_dbfs": -3.23,
+  "rain_solo_integrated_lufs": -24.74,
+  "stream_solo_integrated_lufs": -35.71,
   "rain_above_stream_lufs": 10.970000000000002,
   "stream_relative_reduction_db": 6,
   "water_speed": {
@@ -25,7 +25,7 @@
     "water_sampling_fps": 30,
     "image_interpolation_or_repeated_water_frames": false
   },
-  "sampled_surroundings_pixel_preservation": [
+  "sampled_surroundings_pixel_preservation_before_grade": [
     {
       "frame": 1,
       "changed_pixels_outside_water_border": 0
@@ -51,74 +51,65 @@
       "changed_pixels_outside_water_border": 0
     }
   ],
+  "visual_grade_applied": true,
+  "visual_source": "renders/production_test/graded_loop.mp4",
   "audio_continuity_at_visual_joins": [
     {
       "second": 12,
-      "audio_sample_step": 0.010658025741577148,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.010004162788391113,
+      "normal_p9999_step": 0.0706566572189331
     },
     {
       "second": 24,
-      "audio_sample_step": 0.0064544677734375,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.006154060363769531,
+      "normal_p9999_step": 0.0706566572189331
     },
     {
       "second": 36,
-      "audio_sample_step": 0.0045583248138427734,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.004353165626525879,
+      "normal_p9999_step": 0.0706566572189331
     },
     {
       "second": 48,
-      "audio_sample_step": 0.018281221389770508,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.017458438873291016,
+      "normal_p9999_step": 0.0706566572189331
     },
     {
       "second": 60,
-      "audio_sample_step": 0.017660975456237793,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.016865968704223633,
+      "normal_p9999_step": 0.0706566572189331
     },
     {
       "second": 72,
-      "audio_sample_step": 0.01678144931793213,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.01602613925933838,
+      "normal_p9999_step": 0.0706566572189331
     },
     {
       "second": 84,
-      "audio_sample_step": 0.009958863258361816,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.010845661163330078,
+      "normal_p9999_step": 0.0706566572189331
     },
     {
       "second": 96,
-      "audio_sample_step": 0.00966954231262207,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.009234309196472168,
+      "normal_p9999_step": 0.0706566572189331
     },
     {
       "second": 108,
-      "audio_sample_step": 0.004732370376586914,
-      "normal_p9999_step": 0.07393825054168701
+      "audio_sample_step": 0.004519224166870117,
+      "normal_p9999_step": 0.0706566572189331
     }
   ],
-  "ssim_to_high_quality_loop": 0.993315,
+  "ssim_to_high_quality_loop": 0.994292,
   "video_is_ten_repeats_of_12s_loop": true,
   "audio_is_continuous_120s_excerpts": true,
   "no_interpolated_or_repeated_water_frames_within_loop": true,
-  "bytes": 100440303,
-  "sha256": "8749ca3588623eb09e07359000f69731d6f08e07e40ce475faee8c95ff8b7a89",
+  "bytes": 100405837,
+  "sha256": "c571aa14aaa53b3f394335f03d0922ff0dd55def76b8ac35ff72d9732cbe7bbc",
   "limits": [
     "generated static cabin/forest backdrop",
     "coarse glossy water and approximate banks",
     "one-second artistic 3D loop transition",
     "subjective naturalness and source-content listening review pending"
-  ],
-  "speed_comparison": {
-    "frames": 288,
-    "fps": 24,
-    "duration_seconds": 12,
-    "resolution": [
-      1040,
-      800
-    ],
-    "decoded_cleanly": true,
-    "sha256": "cf887ceee49d756171a0f8aaf348f18ef8ce1984945ac95bca46566ea5c415ec"
-  }
+  ]
 }
