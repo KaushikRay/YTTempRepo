@@ -963,5 +963,25 @@
     "path": "assets/looped_fluid/solver_samples.npz",
     "bytes": 4891179,
     "sha256": "ee07b7575fc049fd05f1388948871871afe87209d98f6473b7df7979237a5cc2"
+  },
+  {
+    "path": "assets/audio/CREDITS.txt",
+    "bytes": 1265,
+    "sha256": "49b0b24e63a3f90035369354274bc6a64ced0d4d7862fa06703e3c5b6497f3bf"
+  },
+  {
+    "path": "assets/audio/rain_source.flac",
+    "bytes": 31086195,
+    "sha256": "e3ff494a694710a04d755ca74cd934b7b3b042b3077c01fb18d8b538b0fd2d7e"
+  },
+  {
+    "path": "assets/audio/sources.json",
+    "bytes": 3193,
+    "sha256": "007e20cf4383309bfaee45002fc949089acc8950a6fa7956b5739cd852478747"
+  },
+  {
+    "path": "assets/audio/stream_source.flac",
+    "bytes": 10894315,
+    "sha256": "0666205d914062e61530c33a8279ebdd0a16cd7e94d777b1ee1babeb15282571"
   }
 ]

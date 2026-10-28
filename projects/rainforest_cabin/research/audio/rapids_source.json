@@ -1,0 +1,107 @@
+{
+  "retrieved_utc": "2026-10-28T09:42:23Z",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AJames+River+Rapids+1.ogg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main",
+  "page": {
+    "pageid": 195857891,
+    "ns": 6,
+    "title": "File:James River Rapids 1.ogg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 16121748,
+        "width": 0,
+        "height": 0,
+        "duration": 300,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/James_River_Rapids_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_River_Rapids_1.ogg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195857891",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-07-18 11:38:32",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "James River Rapids 1",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Self-published work|All media needing categories as of 2026|Media needing categories as of 18 July 2026",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Relaxing rapids on the James River in Richmond VA. By JD Savanyu",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-07-08",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jarrod_stanley&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jarrod stanley (page does not exist)\">Jarrod stanley</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Relaxing rapids on the James River in Richmond VA. By JD Savanyu}}\n|date=2026-07-08\n|source={{own}}\n|author=[[User:Jarrod stanley|Jarrod stanley]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n{{Uncategorized|year=2026|month=July|day=18}}"
+          }
+        }
+      }
+    ]
+  }
+}

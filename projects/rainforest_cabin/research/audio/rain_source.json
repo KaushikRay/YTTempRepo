@@ -1,0 +1,103 @@
+{
+  "retrieved_utc": "2026-10-28T09:42:23Z",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AFalling+Rain+SFX+1+2016-11-19.oga&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main",
+  "page": {
+    "pageid": 53334528,
+    "ns": 6,
+    "title": "File:Falling Rain SFX 1 2016-11-19.oga",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 64799693,
+        "width": 0,
+        "height": 0,
+        "duration": 4333.523990929705,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Falling_Rain_SFX_1_2016-11-19.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Falling_Rain_SFX_1_2016-11-19.oga",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53334528",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-11-20 04:36:10",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Falling Rain SFX 1 2016-11-19",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Sounds of rain",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Falling Rain SFX",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.youtube.com/watch?v=J9IBpqU7WvI\">[1]</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCNvSRgZB3gz-C72gZebdDdQ\">valvalion</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "=={{int:filedesc}}==\n{{Information\n|description=Falling Rain SFX\n|date=\n|source=[https://www.youtube.com/watch?v=J9IBpqU7WvI]\n|author=[https://www.youtube.com/channel/UCNvSRgZB3gz-C72gZebdDdQ valvalion]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{Cc-by-3.0}}\n\n[[Category:Sounds of rain]]"
+          }
+        }
+      }
+    ]
+  }
+}

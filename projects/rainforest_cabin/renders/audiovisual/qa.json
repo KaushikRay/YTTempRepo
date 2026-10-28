@@ -1,0 +1,151 @@
+{
+  "clips": [
+    {
+      "file": "preview.mp4",
+      "duration_seconds": 60,
+      "frames": 1440,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "fps": 24,
+      "audio_codec": "aac",
+      "audio_sample_rate": 48000,
+      "audio_channels": 2,
+      "integrated_lufs": -24.07,
+      "true_peak_dbfs": -2.98,
+      "decoded_cleanly": true,
+      "video_packets_identical_to_approved_loop": true,
+      "sha256": "f6b09f59cca3e043303b39baa03775174e90dd83a7ffc8075f488cea75ebbb5f"
+    },
+    {
+      "file": "quick_preview.mp4",
+      "duration_seconds": 12,
+      "frames": 288,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "fps": 24,
+      "audio_codec": "aac",
+      "audio_sample_rate": 48000,
+      "audio_channels": 2,
+      "integrated_lufs": -24.1,
+      "true_peak_dbfs": -8.02,
+      "decoded_cleanly": true,
+      "video_packets_identical_to_approved_loop": true,
+      "sha256": "bca7771091c5bf45a134fe5fc14a8a53039ad4a81c1a4b0a6dae67e8ca6e53d6"
+    }
+  ],
+  "source_assets": [
+    {
+      "source": "rain",
+      "license": "CC BY 3.0",
+      "sha256_verified": true
+    },
+    {
+      "source": "stream",
+      "license": "CC0",
+      "sha256_verified": true
+    }
+  ],
+  "soundtrack_samples_per_channel": 2880000,
+  "sample_rate": 48000,
+  "sample_peak_dbfs": -3.00467848777771,
+  "dc_offset": [
+    -5.7976318856844955e-08,
+    -5.96659859297688e-08
+  ],
+  "rms_per_second_dbfs": [
+    -30.592281341552734,
+    -27.894079208374023,
+    -27.889690399169922,
+    -27.895402908325195,
+    -28.180137634277344,
+    -27.95273780822754,
+    -28.081592559814453,
+    -27.790409088134766,
+    -27.654037475585938,
+    -27.56975555419922,
+    -27.77228546142578,
+    -28.135486602783203,
+    -28.285999298095703,
+    -28.686960220336914,
+    -28.108333587646484,
+    -27.532442092895508,
+    -27.85261344909668,
+    -27.8238582611084,
+    -28.08769416809082,
+    -27.890565872192383,
+    -27.715147018432617,
+    -27.887723922729492,
+    -27.56679344177246,
+    -27.95608901977539,
+    -27.508197784423828,
+    -27.586963653564453,
+    -27.615909576416016,
+    -27.76565933227539,
+    -28.211181640625,
+    -28.225669860839844,
+    -28.051416397094727,
+    -28.066255569458008,
+    -28.248899459838867,
+    -28.676965713500977,
+    -28.90778350830078,
+    -28.58399200439453,
+    -29.081422805786133,
+    -28.832666397094727,
+    -28.60703468322754,
+    -28.333621978759766,
+    -28.173038482666016,
+    -28.751840591430664,
+    -28.933177947998047,
+    -28.55220603942871,
+    -28.674516677856445,
+    -28.678272247314453,
+    -28.866180419921875,
+    -28.262855529785156,
+    -28.811702728271484,
+    -28.950824737548828,
+    -29.16318130493164,
+    -29.197765350341797,
+    -28.800979614257812,
+    -28.085153579711914,
+    -27.91353416442871,
+    -28.00574493408203,
+    -27.543472290039062,
+    -27.970903396606445,
+    -28.553852081298828,
+    -36.251991271972656
+  ],
+  "visual_loop_audio_continuity": [
+    {
+      "second": 12,
+      "sample_step": 0.009717583656311035,
+      "p9999_normal_step": 0.08154833316802979,
+      "half_second_rms_change_db": 0.4446333370805425
+    },
+    {
+      "second": 24,
+      "sample_step": 0.008678078651428223,
+      "p9999_normal_step": 0.08154833316802979,
+      "half_second_rms_change_db": -0.04609881609160809
+    },
+    {
+      "second": 36,
+      "sample_step": 0.0019085407257080078,
+      "p9999_normal_step": 0.08154833316802979,
+      "half_second_rms_change_db": -0.16147782729364038
+    },
+    {
+      "second": 48,
+      "sample_step": 0.016128897666931152,
+      "p9999_normal_step": 0.08154833316802979,
+      "half_second_rms_change_db": 0.12084138105949602
+    }
+  ],
+  "mono_fold_down_power_difference_db": -2.2736446857452393,
+  "no_technical_dropouts_detected": true,
+  "human_listening_review": "Pending user audition. Signal tests cannot certify naturalness or absence of unwanted semantic sounds.",
+  "visual_limitations_unchanged": "Static generated cabin/forest and approximate glossy 3D water loop remain."
+}

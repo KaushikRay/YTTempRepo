@@ -1,0 +1,107 @@
+{
+  "retrieved_utc": "2026-10-28T09:42:22Z",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3A433589+jackthemurray+stream-river-water-up-close.wav&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main",
+  "page": {
+    "pageid": 117971232,
+    "ns": 6,
+    "title": "File:433589 jackthemurray stream-river-water-up-close.wav",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 19841038,
+        "width": 0,
+        "height": 0,
+        "duration": 68.88933333333334,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/433589_jackthemurray_stream-river-water-up-close.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:433589_jackthemurray_stream-river-water-up-close.wav",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117971232",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-05-13 17:00:51",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "433589 jackthemurray stream-river-water-up-close",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Streams",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Soft stream flowing water",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-06-22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://freesound.org/people/jackthemurray/sounds/433589/\">https://freesound.org/people/jackthemurray/sounds/433589/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "jackthemurray",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Soft stream flowing water}}\n|date=2018-06-22\n|source=https://freesound.org/people/jackthemurray/sounds/433589/\n|author=jackthemurray\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{cc-zero}}\n\n[[Category:Streams]]"
+          }
+        }
+      }
+    ]
+  }
+}

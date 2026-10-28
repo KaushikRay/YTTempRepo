@@ -1,0 +1,2401 @@
+{
+  "retrieved_utc": "2026-10-28T09:40:13Z",
+  "searches": [
+    {
+      "query": "rain filetype:audio -thunder",
+      "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=rain+filetype%3Aaudio+-thunder&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatafilter=LicenseShortName%7CLicenseUrl%7CArtist%7CImageDescription%7CUsageTerms",
+      "data": {
+        "batchcomplete": "",
+        "continue": {
+          "gsroffset": 15,
+          "continue": "gsroffset||"
+        },
+        "query": {
+          "pages": {
+            "90058028": {
+              "pageid": 90058028,
+              "ns": 6,
+              "title": "File:Bourne woods rain 2020-05-10 0800.mp3",
+              "index": 13,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 2808096,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 85.00801743530135,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bourne_woods_rain_2020-05-10_0800.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bourne_woods_rain_2020-05-10_0800.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90058028",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Recorded to accompany Geograph image <a href=\"//commons.wikimedia.org/wiki/File:Looking_up_in_Bourne_Woods_(geograph_6468457).jpg\" title=\"File:Looking up in Bourne Woods (geograph 6468457).jpg\">File:Looking up in Bourne Woods (geograph 6468457).jpg</a> on a blowy, rainy morning.  More rain and leaf noise than birdsong.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Robert_EA_Harvey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Robert EA Harvey (page does not exist)\">Robert EA Harvey</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "106031542": {
+              "pageid": 106031542,
+              "ns": 6,
+              "title": "File:Calm rain.wav",
+              "index": 15,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 345638020,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 600.064,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Calm_rain.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Calm_rain.wav",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106031542",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "relaxing rain sounds",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zuvji&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zuvji (page does not exist)\">Zuvji</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "53334528": {
+              "pageid": 53334528,
+              "ns": 6,
+              "title": "File:Falling Rain SFX 1 2016-11-19.oga",
+              "index": 10,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 64799693,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 4333.523990929705,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Falling_Rain_SFX_1_2016-11-19.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Falling_Rain_SFX_1_2016-11-19.oga",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53334528",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Falling Rain SFX",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCNvSRgZB3gz-C72gZebdDdQ\">valvalion</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "33686629": {
+              "pageid": 33686629,
+              "ns": 6,
+              "title": "File:Heavy Rain in Summer.ogg",
+              "index": 5,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 273075,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 22.489750566893424,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Heavy_Rain_in_Summer.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Heavy_Rain_in_Summer.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33686629",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "a heavy summer rain",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fiver,_der_Hellseher\" title=\"User:Fiver, der Hellseher\">Fiver, der Hellseher</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "11004247": {
+              "pageid": 11004247,
+              "ns": 6,
+              "title": "File:Heavy rain in Glenshaw, PA.ogg",
+              "index": 8,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 1434884,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 336.8,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Heavy_rain_in_Glenshaw%2C_PA.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Heavy_rain_in_Glenshaw,_PA.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11004247",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Sound recording (5 minutes 36 seconds) of a moderate to heavy rainfall outside a house in Glenshaw, Pennsylvania\nRecording using the standard Voice Recorder app on a Droid Incredible, converted to Ogg Vorbis with Audacity",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://ragesoss.com\">Sage Ross</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "73486936": {
+              "pageid": 73486936,
+              "ns": 6,
+              "title": "File:October rain in Nepal.ogg",
+              "index": 6,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 2864516,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 60.929160997732424,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/October_rain_in_Nepal.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:October_rain_in_Nepal.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73486936",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "October rain in Nepal.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Nirmal_Dulal\" title=\"User:Nirmal Dulal\">Nirmal Dulal</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "24020009": {
+              "pageid": 24020009,
+              "ns": 6,
+              "title": "File:Rain (1).ogg",
+              "index": 4,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 585522,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 44.95673469387755,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rain_%281%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rain_(1).ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24020009",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "<br>\n<dl><dd><b>Title</b> Rain</dd>\n<dd><b>Artist</b> ezwa</dd>\n<dd><b>Original mp3 data</b> Length:0:45 minutes (706.57 KB) Format:MP3 Mono 44kHz 128Kbps (CBR)</dd>\n<dd><b>User tags</b> Rain, Rainshower, Rainwater, Water</dd>\n<dd><b>Type</b> Single Subject, Natural, Characteristic</dd>\n<dd><b>PDSounds record number</b> 682</dd>\n<dd><b>Comment</b> Raining cats and dogs.</dd></dl>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "ezwa",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "23999405": {
+              "pageid": 23999405,
+              "ns": 6,
+              "title": "File:Rain against the window.ogg",
+              "index": 7,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 1208332,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 81.65877551020408,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rain_against_the_window.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rain_against_the_window.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23999405",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "<br>\n<dl><dd><b>Title</b> Rain against the Window</dd>\n<dd><b>Artist</b> cori</dd>\n<dd><b>Original mp3 data</b> Length:1:21 minutes (1.25 MB) Format:MP3 Mono 44kHz 128Kbps (CBR)</dd>\n<dd><b>User tags</b> England, Rain, Weather, Wind, Window</dd>\n<dd><b>Type</b> Single Subject, Natural</dd>\n<dd><b>PDSounds record number</b> 600</dd>\n<dd><b>Comment</b> A typical English summer day ... the sound of rain lashing against the window pane and gusts of wind blowing at gale-force straight off the sea.  Recorded this morning by lying the mic on the window sill and uploaded without any audio changes other than a small amplification of the whole file.</dd></dl>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "cori",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "198353653": {
+              "pageid": 198353653,
+              "ns": 6,
+              "title": "File:Rain and wind in London 2026 08 28.wav",
+              "index": 1,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 6050714,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 34.3,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Rain_and_wind_in_London_2026_08_28.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rain_and_wind_in_London_2026_08_28.wav",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198353653",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Rain and wind in London, England.<br>Wikimedia (2026) makes it difficult to view files related to this file. To see its most relevant allied file groups, click on the categories at the bottom of this page, or this uploader's <a href=\"//commons.wikimedia.org/wiki/Category:Audio_files_by_Acabashi\" title=\"Category:Audio files by Acabashi\">Audio files</a>. This audio file is one of a series of date and/or subject allied consecutive files kept in progression or location by file name, number and/or time marking. <b>Device</b>: <a href=\"https://en.wikipedia.org/wiki/TASCAM#Audio_recorders\" class=\"extiw\" title=\"en:TASCAM\">TASCAM DR-05XP</a> field recorder. <b>Software</b> <a href=\"https://en.wikipedia.org/wiki/Mixcraft\" class=\"extiw\" title=\"en:Mixcraft\">Mixcraft 10</a>.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acabashi\" title=\"User:Acabashi\">Acabashi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "30700933": {
+              "pageid": 30700933,
+              "ns": 6,
+              "title": "File:Rain in Rome 25.ogg",
+              "index": 11,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 148608,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 23.95718820861678,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rain_in_Rome_25.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rain_in_Rome_25.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30700933",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Rain in Rome",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Nicholas_Gemini\" title=\"User:Nicholas Gemini\">Nicholas Gemini</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "31000991": {
+              "pageid": 31000991,
+              "ns": 6,
+              "title": "File:Rain in Rome 27.ogg",
+              "index": 12,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 267587,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 43.01496598639456,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rain_in_Rome_27.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rain_in_Rome_27.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31000991",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Rain in Rome",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Nicholas_Gemini\" title=\"User:Nicholas Gemini\">Nicholas Gemini</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "131219663": {
+              "pageid": 131219663,
+              "ns": 6,
+              "title": "File:Sound of light rainfall.ogg",
+              "index": 3,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 647064,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 60.25578231292517,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sound_of_light_rainfall.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sound_of_light_rainfall.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131219663",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "A brief <a href=\"//commons.wikimedia.org/wiki/Category:Sounds_of_rain\" title=\"Category:Sounds of rain\">audio recording of rain</a>.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mijesty\" title=\"User:Mijesty\">Mijesty</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "88819069": {
+              "pageid": 88819069,
+              "ns": 6,
+              "title": "File:Zero-project - 01 - The rain song.ogg",
+              "index": 9,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 4154109,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 200.00002267573697,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zero-project_-_01_-_The_rain_song.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zero-project_-_01_-_The_rain_song.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88819069",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://zero-project.gr/help/help.htm\">Zero Project</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "88819546": {
+              "pageid": 88819546,
+              "ns": 6,
+              "title": "File:Zero-project - 01 - The rain song 2.ogg",
+              "index": 14,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 6105520,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 296.00002267573694,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Zero-project_-_01_-_The_rain_song_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zero-project_-_01_-_The_rain_song_2.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88819546",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://zero-project.gr\">zero-project</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "132339511": {
+              "pageid": 132339511,
+              "ns": 6,
+              "title": "File:\u092c\u093e\u0930\u093f\u0936.ogg",
+              "index": 2,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 11570,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 1.2073922902494332,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B6.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B6.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132339511",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "An audio file for the Hindi word \"\u092c\u093e\u0930\u093f\u0936\", meaning rain.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:RandomPenguin24&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:RandomPenguin24 (page does not exist)\">RandomPenguin24</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "query": "stream water filetype:audio",
+      "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=stream+water+filetype%3Aaudio&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatafilter=LicenseShortName%7CLicenseUrl%7CArtist%7CImageDescription%7CUsageTerms",
+      "data": {
+        "batchcomplete": "",
+        "continue": {
+          "gsroffset": 15,
+          "continue": "gsroffset||"
+        },
+        "query": {
+          "pages": {
+            "117971417": {
+              "pageid": 117971417,
+              "ns": 6,
+              "title": "File:363120 fractalstudios water-trickle.wav",
+              "index": 2,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 5833216,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 32.88235827664399,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/363120_fractalstudios_water-trickle.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:363120_fractalstudios_water-trickle.wav",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117971417",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "A small burn trickling through a wooded area.\nRecorded on a Zoom H1.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "FractalStudios",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "117971232": {
+              "pageid": 117971232,
+              "ns": 6,
+              "title": "File:433589 jackthemurray stream-river-water-up-close.wav",
+              "index": 1,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 19841038,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 68.88933333333334,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/433589_jackthemurray_stream-river-water-up-close.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:433589_jackthemurray_stream-river-water-up-close.wav",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117971232",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Soft stream flowing water",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "jackthemurray",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "64733816": {
+              "pageid": 64733816,
+              "ns": 6,
+              "title": "File:Blip Stream (ISRC USUAN1500056).mp3",
+              "index": 10,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 9117935,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 284.86534375,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Blip_Stream_%28ISRC_USUAN1500056%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blip_Stream_(ISRC_USUAN1500056).mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64733816",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Blip Stream\n<br>You love this, and you know it! It is a little bit simple and a lot bit complicated. Inspired by the days of the video games and early computer music.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Kevin_MacLeod\" class=\"extiw\" title=\"w:en:Kevin MacLeod\"><span title=\"American composer and music producer (born 1972)\">Kevin MacLeod</span></a></bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "9771382": {
+              "pageid": 9771382,
+              "ns": 6,
+              "title": "File:Brook sound.ogg",
+              "index": 4,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 246709,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 16.16108843537415,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Brook_sound.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Brook_sound.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9771382",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Sound of water, recorded near a little brook, in a valley not far from G\u00f6reme (Turkey).",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:TwoWings\" title=\"User:TwoWings\">TwoWings</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "74307840": {
+              "pageid": 74307840,
+              "ns": 6,
+              "title": "File:China plans to create snow there and block streams to increase the amount of water in the air, which slows melting.ogg",
+              "index": 9,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 144029,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 11.934081632653061,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/China_plans_to_create_snow_there_and_block_streams_to_increase_the_amount_of_water_in_the_air%2C_which_slows_melting.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:China_plans_to_create_snow_there_and_block_streams_to_increase_the_amount_of_water_in_the_air,_which_slows_melting.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74307840",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "The script is\u00a0: \"Johnson said, \u201cDepending on how it melts, a lot of the freshwater will be leaving the region for the ocean, which will have severe impacts on water and food security.\"\"",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "VOA Learning English",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "150376538": {
+              "pageid": 150376538,
+              "ns": 6,
+              "title": "File:Down by the Old Mill Stream (1911 recording).mp3",
+              "index": 8,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 5368311,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 167.70612395746653,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Down_by_the_Old_Mill_Stream_%281911_recording%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Down_by_the_Old_Mill_Stream_(1911_recording).mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150376538",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Recorded in 1911 by the Brunswick Quartette.\n<p>Recording Catalog Number\nA1047\nRecording Matrix Number\n</p>\n19410 (Matrix ID)",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<p>Recording:\nBrunswick Quartette\nComposition:\n</p>\nTell Taylor",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "91410718": {
+              "pageid": 91410718,
+              "ns": 6,
+              "title": "File:Grgar, ob potoku Slatna.flac",
+              "index": 12,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 146811869,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 683.4666458333334,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Grgar%2C_ob_potoku_Slatna.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Grgar,_ob_potoku_Slatna.flac",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91410718",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Zvo\u010dni zapis \u017euborenja potoka in pti\u010djega petja pri vasi Grgar pod Sveto goro kjer je potok Slatna.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:BojanM79\" title=\"User:BojanM79\">Bojan Maru\u0161i\u010d</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "659369": {
+              "pageid": 659369,
+              "ns": 6,
+              "title": "File:Hemlock stream.ogg",
+              "index": 3,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 76356,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 19.466874999999998,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hemlock_stream.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hemlock_stream.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=659369",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Sound of a stream trickling by a hemlock, Terrace, BC, CA",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Dirtslayer",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "94126456": {
+              "pageid": 94126456,
+              "ns": 6,
+              "title": "File:Inleiding Blindman - Stream of consciousness (audio).mp3",
+              "index": 11,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 46322798,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 1930.0056666666667,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Inleiding_Blindman_-_Stream_of_consciousness_%28audio%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inleiding_Blindman_-_Stream_of_consciousness_(audio).mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94126456",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "BL!NDMAN commissioned four young thirty-somethings to compose music for the unique combination of string and saxophone quartets. Each of them brought his own compositional style and aesthetic to the project. As well as the unusual sound possibilities, they also took poetry as a starting point for their compositions. You can see how diverse the results are for yourself in deSingel\u2019s Blue Hall on Thursday 17 March.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:DeSingel\" class=\"extiw\" title=\"w:en:DeSingel\"><span title=\"arts center in Antwerp\">deSingel</span></a>\n</bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "152644607": {
+              "pageid": 152644607,
+              "ns": 6,
+              "title": "File:LL-Q1860 (eng)-Flame, not lame-stream snipe.wav",
+              "index": 14,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 132140,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 1.376,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/LL-Q1860_%28eng%29-Flame%2C_not_lame-stream_snipe.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Flame,_not_lame-stream_snipe.wav",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152644607",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "<span class=\"plainlinks\">Audio pronunciation file from the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://lingualibre.org\">Lingua Libre</a></b> <span typeof=\"mw:File\"><a href=\"https://lingualibre.org\" rel=\"nofollow\"><img alt=\"Lingua Libre\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lingualibre-logo-no-text.svg/40px-Lingualibre-logo-no-text.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lingualibre-logo-no-text.svg/60px-Lingualibre-logo-no-text.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"185\" data-file-height=\"185\"></a></span> project. </span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<ul><li>Speaker: <a href=\"//lingualibre.org/wiki/Q1191054\" class=\"extiw\" title=\"lingualibre:Q1191054\">Flame, not lame</a></li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/w/index.php?title=User:Flame,_not_lame&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Flame, not lame (page does not exist)\">Flame, not lame</a></li></ul>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "154085011": {
+              "pageid": 154085011,
+              "ns": 6,
+              "title": "File:LL-Q1860 (eng)-Flame, not lame-stream snipers.wav",
+              "index": 15,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 152108,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 1.584,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/LL-Q1860_%28eng%29-Flame%2C_not_lame-stream_snipers.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Flame,_not_lame-stream_snipers.wav",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154085011",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "<span class=\"plainlinks\">Audio pronunciation file from the <b><a rel=\"nofollow\" class=\"external text\" href=\"https://lingualibre.org\">Lingua Libre</a></b> <span typeof=\"mw:File\"><a href=\"https://lingualibre.org\" rel=\"nofollow\"><img alt=\"Lingua Libre\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lingualibre-logo-no-text.svg/40px-Lingualibre-logo-no-text.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lingualibre-logo-no-text.svg/60px-Lingualibre-logo-no-text.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"185\" data-file-height=\"185\"></a></span> project. </span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<ul><li>Speaker: <a href=\"//lingualibre.org/wiki/Q1191054\" class=\"extiw\" title=\"lingualibre:Q1191054\">Flame, not lame</a></li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/w/index.php?title=User:Flame,_not_lame&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Flame, not lame (page does not exist)\">Flame, not lame</a></li></ul>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "62602094": {
+              "pageid": 62602094,
+              "ns": 6,
+              "title": "File:MoszWV72 NO11 A FLat.ogg",
+              "index": 13,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 1446053,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 131.700589569161,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/MoszWV72_NO11_A_FLat.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:MoszWV72_NO11_A_FLat.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62602094",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Who could easily forget his or her beautiful young teenager time? \n<p>During that time, day-time seamed to be so long with many impressions of followers, prettily smiling faces  and golden sunshine, for welcoming a person's cleverer brain and energetic body to explore more legends in piano-training. While, night seamed to be so short with few seconds of snores, slowly heart beats, and colourful dreams, for associating a person's tired minds and weak strength to forgive less pains from unhappy issues. \nThen, after they all passed by... \none day, in the time tidying my manuscript-sheets for 'past days<i> practices, solo-performances, grading tests and family tastes,,,, I have re-picked up a brilliant \u00c9tude sleeping in my memory sea for long... </i>\nIt is No. 11 of MoszWV72 in Quinze \u00c9tudes de Virtuosit\u00e9, created by Moritz Moszkowski (Wikipedia introduction: (1)MoszWV72 in <a class=\"external free\" href=\"https://en.wikipedia.org/wiki/List_of_compositions_by_Moritz_Moszkowski\">https://en.wikipedia.org/wiki/List_of_compositions_by_Moritz_Moszkowski</a>; (2) Moritz Moszkowski: <a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Moritz_Moszkowski\">https://en.wikipedia.org/wiki/Moritz_Moszkowski</a>)\nSorry, Jason - my life; and sorry, my peers!  The dexterity of my fingers currently cannot be compared with that young boy Jason's in Age Mirror - 13th, and our musicality, confidence, handsome face, curiosity, and new hopes to everything... But still, a willing for the recovery of life-sounds, and the renewability of the next my period called me back to listen to that boy's solo-play, after his 100% dedication in many years' training from 4 years' old and a sense of achievement from its performance in one Grand Prix... Indeed, currently, at least the sea and springs in my hometown gave me the very tenderness of water for understanding what for the melodic streams' running across larger-range textures to a wide openness of our blue.\nOh, back, I can remember that story in Jason's young imagination across Western and Eastern Cultures: \nIn his little brain, It was almost about the analogy between  Mountain Steams (in nature science: <a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Mountain_stream\">https://en.wikipedia.org/wiki/Mountain_stream</a>; <a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Stream\">https://en.wikipedia.org/wiki/Stream</a>) and the right-hand part of its main melody (stream by stream with forces applied throughout those motifs and sometimes meandering, sometimes fast-moving, then being centralized together, storming heavily, and going to a much opened sea...). Abstracted in minds, how graceful a pure friendship has been dreamed out, again, if someone could understand those waves hidden behind Bo Ya's &lt;High Mountain and Flowing water&gt;, after he had to break strings of Qin (lute) and never played out any harmony after having lost his right one (Zhong Ziqi) who could be called ' To Know the tone' (Wikipedia introduction: <a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Bo_Ya\">https://en.wikipedia.org/wiki/Bo_Ya</a>)\nIn my heart, Bo Ya was merely waiting... waiting for a heart-to-heart learner's coming- as Zhong Ziqi's resurrections , by whom together, they could be for more impressionist brightness-beauties projected from Mountain Streams and landscapes -  pretty faces of youth passengers...\nOh, memories were somewhat drugs or alcohol , but somewhat light rivers, when you trapped yourselves in and drunk too much. But,  Moritz Moszkowski's '72' No.1 was still there - on the other bank of life river, waiting and watching my movements in this life and leaving an  A Flat Major Chord (the last second one) unclear (not on purpose) which was waiting for my modification...\n</p>\nHopefully, you can enjoy this unperfected edition, thanks!",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jason_M._C.,_Han\" title=\"User:Jason M. C., Han\">Jason M. C., Han</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "74262268": {
+              "pageid": 74262268,
+              "ns": 6,
+              "title": "File:Other devices measure water flow in streams fed by melted ice.ogg",
+              "index": 6,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 79522,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 6.574081632653061,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Other_devices_measure_water_flow_in_streams_fed_by_melted_ice.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Other_devices_measure_water_flow_in_streams_fed_by_melted_ice.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74262268",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "The script is\u00a0: \"Other devices measure water flow in streams fed by melted ice.\"",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "VOA Learning English",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "44162169": {
+              "pageid": 44162169,
+              "ns": 6,
+              "title": "File:Sound Effects - The sound of a small stream.ogg",
+              "index": 5,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 1975997,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 31.68,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sound_Effects_-_The_sound_of_a_small_stream.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sound_Effects_-_The_sound_of_a_small_stream.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44162169",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Das Ger\u00e4usch eines kleinen B\u00e4chleins",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Amada44\" title=\"User:Amada44\">Amada44</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "23994876": {
+              "pageid": 23994876,
+              "ns": 6,
+              "title": "File:Water flowing pouring trickling.ogg",
+              "index": 7,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 4765503,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 96.28734693877551,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Water_flowing_pouring_trickling.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Water_flowing_pouring_trickling.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23994876",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "<br>\n<dl><dd><b>Title</b> Water flowing, pouring, trickling</dd>\n<dd><b>Artist</b> stephan</dd>\n<dd><b>Original mp3 data</b> Length:1:24 minutes (2.58 MB) Format:MP3 Stereo 44kHz 256Kbps (CBR)</dd>\n<dd><b>User tags</b> Bath, Bucket, dripping, flowing, gushing, pouring, rippling, Rivulet, streaming, trickling, Water</dd>\n<dd><b>Type</b> Single Subject, Natural</dd>\n<dd><b>PDSounds record number</b> 221</dd>\n<dd><b>Comment</b> Water flowing and pouring from one small basin into a bucket.</dd></dl>\nDrop height is a half meter. The stream is finger thick at first and then diminishes to be a mere trickle.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "stephan",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "query": "forest rain filetype:audio",
+      "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=forest+rain+filetype%3Aaudio&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatafilter=LicenseShortName%7CLicenseUrl%7CArtist%7CImageDescription%7CUsageTerms",
+      "data": {
+        "batchcomplete": "",
+        "continue": {
+          "gsroffset": 15,
+          "continue": "gsroffset||"
+        },
+        "query": {
+          "pages": {
+            "68261059": {
+              "pageid": 68261059,
+              "ns": 6,
+              "title": "File:Eurillas virens - Little Greenbul XC162438.mp3",
+              "index": 14,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 297222,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 18.320375,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurillas_virens_-_Little_Greenbul_XC162438.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eurillas_virens_-_Little_Greenbul_XC162438.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68261059",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": ":The recording has not been modified in any way. The broad habitat is forest island within grassland savanna, with nearby closed moist equatorial rainforest. More specifically, the recording was taken from the forest edge near a riparian woodland (one of the small forest islands). The morning weather was overcast and moist after an overnight rain.  The bird was close to the ground on the forest edge.\n<dl><dd>bird-seen:no</dd>\n<dd>playback-used:no</dd>\n<dd><b>Common name:</b> Little Greenbul</dd>\n<dd><b>Type:</b> song</dd>\n<dd><b>Genus:</b> Eurillas</dd>\n<dd><b>Species:</b> virens</dd>\n<dd><b>Location:</b> Maniema</dd>\n<dd><b>Country:</b> Congo (Democratic Republic)</dd>\n<dd><b>Elevation:</b> 480 m</dd></dl>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Andrew Bernard",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "151854938": {
+              "pageid": 151854938,
+              "ns": 6,
+              "title": "File:Herd of Ortalis ruficauda Guacharacas in Henri Pittier national park Venezuela.ogg",
+              "index": 13,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 510153,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 40.02133333333333,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Herd_of_Ortalis_ruficauda_Guacharacas_in_Henri_Pittier_national_park_Venezuela.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herd_of_Ortalis_ruficauda_Guacharacas_in_Henri_Pittier_national_park_Venezuela.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151854938",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": ":It was recorded beside Palmarito creek, with medium to tall sized trees (at or above 10 m tall), grasses and shrubs. The area is a mosaic of forest and homes with areas of burnt or regenerating forest and Eucalyptus trees, in the slopes of a mountain within Henri Pittier national park. It was taken during the sunset, partly cloudy and was not raining.\n<dl><dd>bird-seen:yes</dd>\n<dd><b>Location:</b> Urb Palmarito, northern Maracay</dd>\n<dd><b>Country:</b> Venezuela</dd>\n<dd><b>Elevation:</b> 810 m</dd></dl>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bobjgalindo\" title=\"User:Bobjgalindo\">Bobjgalindo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "50086751": {
+              "pageid": 50086751,
+              "ns": 6,
+              "title": "File:Light Rain Distant Thunder July 5th 2016.wav",
+              "index": 10,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 42295240,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 110.13666666666667,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Light_Rain_Distant_Thunder_July_5th_2016.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Light_Rain_Distant_Thunder_July_5th_2016.wav",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50086751",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "A peaceful, and much-needed July rain in the Midwest, USA. Marantz PMD661 and two Sennheiser ME66s were set up in deep woods recording this around 5:00 in the afternoon. Some distant thunder, and a singing bird highlight this slice of summer life in the Illinois forest. Complete with individual drops hitting the windscreen on the microphones. Recorded on July 5th, 2016.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://freesound.org/people/kvgarlic/\">https://freesound.org/people/kvgarlic/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22239371": {
+              "pageid": 22239371,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s001.ogg",
+              "index": 1,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 20029,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 4.893605442176871,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s001.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s001.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22239371",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Territorial (control) song (211 KB wav file).",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22240231": {
+              "pageid": 22240231,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s002.ogg",
+              "index": 5,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 54303,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 10.00780045351474,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s002.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s002.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22240231",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "100 m propagated song (431 KB wav file).",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22240240": {
+              "pageid": 22240240,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s003.ogg",
+              "index": 7,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 9441,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 5.416054421768708,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s003.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s003.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22240240",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Synthetic continuous pure tone (233 KB wav file)",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22240244": {
+              "pageid": 22240244,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s004.ogg",
+              "index": 2,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 21337,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 5.797732426303855,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s004.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s004.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22240244",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "FM slope multiplied by 1.5 (499 KB wav file).",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22240247": {
+              "pageid": 22240247,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s005.ogg",
+              "index": 3,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 20570,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 5.832562358276644,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s005.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s005.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22240247",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "FM slope divided by 2 (502 KB wav file).",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22240251": {
+              "pageid": 22240251,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s006.ogg",
+              "index": 8,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 10848,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 2.335056689342404,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s006.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s006.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22240251",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Second half of the song (202 KB wav file).",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22240259": {
+              "pageid": 22240259,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s007.ogg",
+              "index": 6,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 138501,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 23.22721088435374,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s007.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s007.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22240259",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Neighbor's control followed by time-shifted neighbor's song (2 MB wav file)",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22240263": {
+              "pageid": 22240263,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s008.ogg",
+              "index": 4,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 137209,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 23.082086167800455,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s008.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s008.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22240263",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Neighbor's control followed by frequency-shifted neighbor's song (2 MB wav file)",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "22240268": {
+              "pageid": 22240268,
+              "ns": 6,
+              "title": "File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s009.ogg",
+              "index": 9,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 18951,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 5.948662131519274,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s009.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singing-in-the-Rain-Forest-How-a-Tropical-Bird-Song-Transfers-Information-pone.0001580.s009.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22240268",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Song without AM (511 KB wav file).",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Mathevon N, Aubin T, Vielliard J, da Silva M, Sebe F, Boscolo D",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "77542576": {
+              "pageid": 77542576,
+              "ns": 6,
+              "title": "File:Strepera graculina - Pied Currawong XC443115.mp3",
+              "index": 15,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 7924594,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 198.14620650523634,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Strepera_graculina_-_Pied_Currawong_XC443115.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Strepera_graculina_-_Pied_Currawong_XC443115.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77542576",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "\u00a0:<ul>\n<dl><dd><li>Alisterus scapularis 1:16 flies closer and calls and flies away.</li></dd>\n<dd></dd></dl></ul>\n<dd>Group of currawongs with a variety of calls. Was overcast and had some brief drops of rain, followed by more rain later.</dd>\n<dd>Not a lot of vocalizations due to the time of day.</dd>\n<dd>Silenced some noise.</dd>\n<dd>Normalized the whole thing, then sections outside of the loudest noises to boost background noise.</dd>\n<dd>Recorded on a deck at the back of the house, about 5-10 m above ground. This is typical dry sclerophyll forest on a ridge with eucalypts and casuarinas dominating the canopy. There are intermittent creeks (more like ponds along the creekline as of Nov 2018) at the valley bottoms east and west about 200 m away.</dd>\n<dd>bird-seen:yes</dd>\n<dd>playback-used:no</dd>\n<dd><b>Common name:</b> Pied Currawong</dd>\n<dd><b>Type:</b> flight call, male, song</dd>\n<dd><b>Genus:</b> Strepera</dd>\n<dd><b>Species:</b> graculina</dd>\n<dd><b>Location:</b> Faulconbridge, Blue Mountains City Council, New South Wales</dd>\n<dd><b>Country:</b> Australia</dd>\n<dd><b>Elevation:</b> 480 m</dd>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "James Ray",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "143628710": {
+              "pageid": 143628710,
+              "ns": 6,
+              "title": "File:Tribu.ogg",
+              "index": 11,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 274835,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 31.92,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tribu.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tribu.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143628710",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Amazoniako tribuak",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Giputeam",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "143628841": {
+              "pageid": 143628841,
+              "ns": 6,
+              "title": "File:Tribu audio.ogg",
+              "index": 12,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 392576,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 37.39734693877551,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tribu_audio.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tribu_audio.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143628841",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Amazoniako Tribuak",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Giputeam",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "query": "river rapids filetype:audio",
+      "request_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=river+rapids+filetype%3Aaudio&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatafilter=LicenseShortName%7CLicenseUrl%7CArtist%7CImageDescription%7CUsageTerms",
+      "data": {
+        "batchcomplete": "",
+        "continue": {
+          "gsroffset": 15,
+          "continue": "gsroffset||"
+        },
+        "query": {
+          "pages": {
+            "192198018": {
+              "pageid": 192198018,
+              "ns": 6,
+              "title": "File:Audio Recording of President Clinton's Remarks in Cedar Rapids, Iowa - DPLA - 89b1b5bcb7f67f900ad77855169f0080.mp3",
+              "index": 6,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 56926080,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 3557.816,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Audio_Recording_of_President_Clinton%27s_Remarks_in_Cedar_Rapids%2C_Iowa_-_DPLA_-_89b1b5bcb7f67f900ad77855169f0080.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Audio_Recording_of_President_Clinton%27s_Remarks_in_Cedar_Rapids,_Iowa_-_DPLA_-_89b1b5bcb7f67f900ad77855169f0080.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192198018",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Information Systems Agency. White House Communications Agency. 6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "195857891": {
+              "pageid": 195857891,
+              "ns": 6,
+              "title": "File:James River Rapids 1.ogg",
+              "index": 1,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 16121748,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 300,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/James_River_Rapids_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_River_Rapids_1.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195857891",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Relaxing rapids on the James River in Richmond VA. By JD Savanyu",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jarrod_stanley&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jarrod stanley (page does not exist)\">Jarrod stanley</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "195857893": {
+              "pageid": 195857893,
+              "ns": 6,
+              "title": "File:James River Rapids 2.ogg",
+              "index": 3,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 17025822,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 300,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/James_River_Rapids_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_River_Rapids_2.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195857893",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Relaxing rapids on the James River in Richmond VA. By JD Savanyu",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jarrod_stanley&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jarrod stanley (page does not exist)\">Jarrod stanley</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "195857886": {
+              "pageid": 195857886,
+              "ns": 6,
+              "title": "File:James River Rapids 3.ogg",
+              "index": 2,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 17040337,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 300,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/James_River_Rapids_3.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_River_Rapids_3.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195857886",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Relaxing rapids on the James River in Richmond VA. By JD Savanyu",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jarrod_stanley&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jarrod stanley (page does not exist)\">Jarrod stanley</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193659768": {
+              "pageid": 193659768,
+              "ns": 6,
+              "title": "File:Remarks by David Gergen during press briefing. Press Center. Grand Rapids, Michigan. - DPLA - 495660b14ae185e0e7bef1319b308a2c.mp3",
+              "index": 8,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 34670448,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 2166.839,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Remarks_by_David_Gergen_during_press_briefing._Press_Center._Grand_Rapids%2C_Michigan._-_DPLA_-_495660b14ae185e0e7bef1319b308a2c.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_David_Gergen_during_press_briefing._Press_Center._Grand_Rapids,_Michigan._-_DPLA_-_495660b14ae185e0e7bef1319b308a2c.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193659768",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193651932": {
+              "pageid": 193651932,
+              "ns": 6,
+              "title": "File:Remarks by President Ronald Reagan at dedication of Ford museum in Grand Rapids, Michigan - DPLA - 30743f653b8ddcd0576f3eb763809887.mp3",
+              "index": 9,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 93173219,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 5823.1981875,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Remarks_by_President_Ronald_Reagan_at_dedication_of_Ford_museum_in_Grand_Rapids%2C_Michigan_-_DPLA_-_30743f653b8ddcd0576f3eb763809887.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_President_Ronald_Reagan_at_dedication_of_Ford_museum_in_Grand_Rapids,_Michigan_-_DPLA_-_30743f653b8ddcd0576f3eb763809887.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193651932",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193697616": {
+              "pageid": 193697616,
+              "ns": 6,
+              "title": "File:Remarks by President Ronald Reagan at dedication of Ford museum in Grand Rapids, Michigan - DPLA - a570fe75da6d75b7b4b06ea04b3eaded.mp3",
+              "index": 7,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 16141252,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 1008.70025,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Remarks_by_President_Ronald_Reagan_at_dedication_of_Ford_museum_in_Grand_Rapids%2C_Michigan_-_DPLA_-_a570fe75da6d75b7b4b06ea04b3eaded.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_President_Ronald_Reagan_at_dedication_of_Ford_museum_in_Grand_Rapids,_Michigan_-_DPLA_-_a570fe75da6d75b7b4b06ea04b3eaded.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193697616",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193689669": {
+              "pageid": 193689669,
+              "ns": 6,
+              "title": "File:Remarks by President Ronald Reagan at photo op session with President Jose Lopez-Portillo of Mexico. Amway Grand Hotel, Grand Rapids, Michigan - DPLA - 8c02e0a707bf715251b3e87888f717e3.mp3",
+              "index": 15,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 4120746,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 257.418625,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Remarks_by_President_Ronald_Reagan_at_photo_op_session_with_President_Jose_Lopez-Portillo_of_Mexico._Amway_Grand_Hotel%2C_Grand_Rapids%2C_Michigan_-_DPLA_-_8c02e0a707bf715251b3e87888f717e3.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_President_Ronald_Reagan_at_photo_op_session_with_President_Jose_Lopez-Portillo_of_Mexico._Amway_Grand_Hotel,_Grand_Rapids,_Michigan_-_DPLA_-_8c02e0a707bf715251b3e87888f717e3.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193689669",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193709182": {
+              "pageid": 193709182,
+              "ns": 6,
+              "title": "File:Remarks by President Ronald Reagan during GOP rally. Gerald Ford Museum in Grand Rapids, Michigan - DPLA - c333e41d85764af5e25845ea5e4b4d8e.mp3",
+              "index": 12,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 33031818,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 2064.360625,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Remarks_by_President_Ronald_Reagan_during_GOP_rally._Gerald_Ford_Museum_in_Grand_Rapids%2C_Michigan_-_DPLA_-_c333e41d85764af5e25845ea5e4b4d8e.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_President_Ronald_Reagan_during_GOP_rally._Gerald_Ford_Museum_in_Grand_Rapids,_Michigan_-_DPLA_-_c333e41d85764af5e25845ea5e4b4d8e.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193709182",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193728076": {
+              "pageid": 193728076,
+              "ns": 6,
+              "title": "File:Remarks by President Ronald Reagan during address to employees of the Westinghouse furniture systems in Grand Rapids, Michigan - DPLA - e4efd196313a70c1d73f0353db73c799.mp3",
+              "index": 13,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 65862528,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 2058.172,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Remarks_by_President_Ronald_Reagan_during_address_to_employees_of_the_Westinghouse_furniture_systems_in_Grand_Rapids%2C_Michigan_-_DPLA_-_e4efd196313a70c1d73f0353db73c799.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_President_Ronald_Reagan_during_address_to_employees_of_the_Westinghouse_furniture_systems_in_Grand_Rapids,_Michigan_-_DPLA_-_e4efd196313a70c1d73f0353db73c799.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193728076",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193694243": {
+              "pageid": 193694243,
+              "ns": 6,
+              "title": "File:Remarks by President Ronald Reagan during dinner in honor of Ford museum. Grand Rapids, Michigan - DPLA - 9966c98233a952e88ae854bef89cbc32.mp3",
+              "index": 11,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 47188932,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 2949.18025,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Remarks_by_President_Ronald_Reagan_during_dinner_in_honor_of_Ford_museum._Grand_Rapids%2C_Michigan_-_DPLA_-_9966c98233a952e88ae854bef89cbc32.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_President_Ronald_Reagan_during_dinner_in_honor_of_Ford_museum._Grand_Rapids,_Michigan_-_DPLA_-_9966c98233a952e88ae854bef89cbc32.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193694243",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193715438": {
+              "pageid": 193715438,
+              "ns": 6,
+              "title": "File:Remarks by President Ronald Reagan during tour of Westinghouse furniture system. Westinghouse Plant in Grand Rapids, Michigan - DPLA - cfbc7d7b3d23050f74d7e7699e5e0416.mp3",
+              "index": 14,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 440427,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 27.4626875,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Remarks_by_President_Ronald_Reagan_during_tour_of_Westinghouse_furniture_system._Westinghouse_Plant_in_Grand_Rapids%2C_Michigan_-_DPLA_-_cfbc7d7b3d23050f74d7e7699e5e0416.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_President_Ronald_Reagan_during_tour_of_Westinghouse_furniture_system._Westinghouse_Plant_in_Grand_Rapids,_Michigan_-_DPLA_-_cfbc7d7b3d23050f74d7e7699e5e0416.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193715438",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193745237": {
+              "pageid": 193745237,
+              "ns": 6,
+              "title": "File:Remarks by President Ronald Reagan on arrival at Cedar Rapids airport in Cedar Rapids, Iowa - DPLA - ff66787b28a7f9363e0d8fcf67744b33.mp3",
+              "index": 5,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 25587359,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 1599.1459375,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Remarks_by_President_Ronald_Reagan_on_arrival_at_Cedar_Rapids_airport_in_Cedar_Rapids%2C_Iowa_-_DPLA_-_ff66787b28a7f9363e0d8fcf67744b33.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_President_Ronald_Reagan_on_arrival_at_Cedar_Rapids_airport_in_Cedar_Rapids,_Iowa_-_DPLA_-_ff66787b28a7f9363e0d8fcf67744b33.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193745237",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "193678290": {
+              "pageid": 193678290,
+              "ns": 6,
+              "title": "File:Remarks by Secretary Alexander Haig during background briefing. Amway Grand Hotel. Grand Rapids, Michigan. - DPLA - 742dffe769017991127a186e82228f84.mp3",
+              "index": 10,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 8669208,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 541.7615,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Remarks_by_Secretary_Alexander_Haig_during_background_briefing._Amway_Grand_Hotel._Grand_Rapids%2C_Michigan._-_DPLA_-_742dffe769017991127a186e82228f84.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_by_Secretary_Alexander_Haig_during_background_briefing._Amway_Grand_Hotel._Grand_Rapids,_Michigan._-_DPLA_-_742dffe769017991127a186e82228f84.mp3",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193678290",
+                  "extmetadata": {
+                    "Artist": {
+                      "value": "Department of Defense. Defense Communications Agency. White House Communications Agency. 1962-6/25/1991",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            },
+            "197912441": {
+              "pageid": 197912441,
+              "ns": 6,
+              "title": "File:Sanna river rapids.ogg",
+              "index": 4,
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 15026892,
+                  "width": 0,
+                  "height": 0,
+                  "duration": 299.98303854875286,
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sanna_river_rapids.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sanna_river_rapids.ogg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=197912441",
+                  "extmetadata": {
+                    "ImageDescription": {
+                      "value": "Relaxing Austrian river rapids. Good for studying. By J.D. Savanyu",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jarrod_stanley&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jarrod stanley (page does not exist)\">Jarrod stanley</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

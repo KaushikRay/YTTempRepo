@@ -3,7 +3,23 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## Twelve-second loop — current review
+## Audiovisual preview — current review
+
+[One-minute 1080p preview with rain and stream](renders/audiovisual/preview.mp4)
+· [Twelve-second quick preview](renders/audiovisual/quick_preview.mp4)
+· [Lossless soundtrack](renders/audiovisual/soundtrack.flac)
+· [Audio credits](renders/audiovisual/AUDIO_CREDITS.txt)
+· [Method, QA and listening-review limits](research/audio/review.md)
+
+The approved visual loop repeats five times with unchanged encoded picture.
+Audio uses continuous rain and a quieter stream placed slightly right of centre;
+it does not restart at each visual repeat. The one-minute encoded mix measures
+−24.07 LUFS integrated / −2.98 dBFS true peak. Rain is CC BY 3.0, stream CC0;
+include the supplied attribution for public distribution. This is a listening
+preview, with existing visual limitations retained. No long YouTube release has
+been built, and listening approval remains pending.
+
+## Previous twelve-second visual loop
 
 [Watch the 1080p loop](renders/looped_fluid/preview.mp4)
 · [Two-repeat test — join at 00:12](renders/looped_fluid/repeat_test.mp4)

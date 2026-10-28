@@ -1,0 +1,19 @@
+AUDIO ATTRIBUTION FOR THE RAINFOREST CABIN PREVIEW
+
+Rain: "Falling Rain SFX 1 2016-11-19" by valvalion.
+Licence: Creative Commons Attribution 3.0 (CC BY 3.0).
+https://creativecommons.org/licenses/by/3.0/
+Source: https://commons.wikimedia.org/wiki/File:Falling_Rain_SFX_1_2016-11-19.oga
+Original source linked by Wikimedia: https://www.youtube.com/watch?v=J9IBpqU7WvI
+Creator: https://www.youtube.com/channel/UCNvSRgZB3gz-C72gZebdDdQ
+Changes: excerpt from original seconds 173–233, resampled, filtered, lightly dynamically controlled, stereo-adjusted, level-adjusted, faded and mixed with stream audio.
+
+Stream: "stream river water up close" (Freesound 433589) by jackthemurray.
+Licence: CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+Original source: https://freesound.org/people/jackthemurray/sounds/433589/
+Wikimedia copy and licence record: https://commons.wikimedia.org/wiki/File:433589_jackthemurray_stream-river-water-up-close.wav
+Changes: original seconds 6–66, filtered, lightly dynamically controlled, narrowed/panned toward the river, level-adjusted, faded and mixed.
+
+The unused James River Rapids candidate is not part of this soundtrack.
+Visual source credits remain in the project's existing asset credits/provenance files.
