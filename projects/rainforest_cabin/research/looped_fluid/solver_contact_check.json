@@ -1,0 +1,44 @@
+[
+  {
+    "frame": 1,
+    "active_particles": 36067,
+    "bed_penetration_m": 0.0,
+    "minimum_rock_shell_radius": 0.9999996262731624,
+    "mean_downstream_velocity_m_s": 2.023432731628418
+  },
+  {
+    "frame": 24,
+    "active_particles": 36156,
+    "bed_penetration_m": 0.0,
+    "minimum_rock_shell_radius": 0.9999996960219877,
+    "mean_downstream_velocity_m_s": 2.037952423095703
+  },
+  {
+    "frame": 144,
+    "active_particles": 35629,
+    "bed_penetration_m": 0.0,
+    "minimum_rock_shell_radius": 0.9999997396431104,
+    "mean_downstream_velocity_m_s": 2.0974178314208984
+  },
+  {
+    "frame": 264,
+    "active_particles": 35115,
+    "bed_penetration_m": 0.0,
+    "minimum_rock_shell_radius": 0.9999998089095631,
+    "mean_downstream_velocity_m_s": 2.136744737625122
+  },
+  {
+    "frame": 288,
+    "active_particles": 34884,
+    "bed_penetration_m": 0.0,
+    "minimum_rock_shell_radius": 0.9999998087431125,
+    "mean_downstream_velocity_m_s": 2.134815216064453
+  },
+  {
+    "frame": 312,
+    "active_particles": 35030,
+    "bed_penetration_m": 0.0,
+    "minimum_rock_shell_radius": 0.9999997378261255,
+    "mean_downstream_velocity_m_s": 2.1440343856811523
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "frame_pair": [
+    1,
+    289
+  ],
+  "maximum_local_position_errors_m": {
+    "Fine rain behind cabin": 2.86102294921875e-06,
+    "Near rain in front of cabin": 5.7220458984375e-06,
+    "Roof runoff falling beads": 3.2782554626464844e-07,
+    "Flexible foreground palms \u2014 anchored top and right": 0.0
+  },
+  "passed": true
+}

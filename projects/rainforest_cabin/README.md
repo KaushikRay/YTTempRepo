@@ -3,7 +3,26 @@
 Independent Blender project based on the tropical rain cabin reference supplied
 in chat. The canceled tavern project is not modified.
 
-## Integrated 3D river — current preview
+## Twelve-second loop — current review
+
+[Watch the 1080p loop](renders/looped_fluid/preview.mp4)
+· [Two-repeat test — join at 00:12](renders/looped_fluid/repeat_test.mp4)
+· [River close-up](renders/looped_fluid/river_detail.mp4)
+· [Still](renders/looped_fluid/still.png)
+· [Method, source and limitations](research/looped_fluid/review.md)
+
+The approved view now has twelve seconds of native 24 fps simulated river motion,
+periodic rain/runoff and unchanged palm sway. The first second uses a remeshed 3D
+scalar-field transition to join the water states; there is no video dissolve or
+reversed playback. This is an approximate artistic loop, not periodic fluid
+physics. The two-repeat clip exposes the join for review. The scene remains a
+hybrid with a generated static cabin/forest backdrop, approximate bank proxies,
+coarse water and empirical foam. It is silent, not a finished YouTube release.
+
+Source: `rainforest_looped_fluid.blend` and twelve relative cache archives under
+`assets/looped_fluid`. Run the embedded playback script once after opening.
+
+## Previous integrated 3D river — four-second preview
 
 [Watch the updated cabin scene](renders/integrated_fluid/preview.mp4)
 · [River close-up](renders/integrated_fluid/river_detail.mp4)

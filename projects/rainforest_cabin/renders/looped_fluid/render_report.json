@@ -1,0 +1,22 @@
+{
+  "frames": 288,
+  "fps": 24,
+  "duration_seconds": 12,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "cycles_samples": 32,
+  "native_frames": true,
+  "frame_interpolation": false,
+  "rendered_image_dissolve": false,
+  "audio": false,
+  "loop_method": "periodic rain and palms; first second of liquid loop-conditioned by 3D scalar-field blending",
+  "periodic_physics_solution": false,
+  "hybrid_generated_background": true,
+  "water_motion_from_images_or_footage": false,
+  "upstream_uses_spatial_instance_of_same_bake": true,
+  "elapsed_this_run_seconds": 3458.2779115649973,
+  "resumed_frames": 0,
+  "preview_sha256": "9319d3922ab08acf35784e22c02af7c784f4bac671e18f400e06205fc35fbc2f"
+}

@@ -15,3 +15,6 @@ assets/integrated_fluid/meshes/
 renders/integrated_fluid/frames/
 renders/integrated_fluid/crop_frames/
 renders/integrated_fluid/diagnostic.png
+assets/looped_fluid/meshes/
+renders/looped_fluid/frames/
+renders/looped_fluid/diagnostic.png

@@ -1,0 +1,50 @@
+[
+  {
+    "from": 287,
+    "to": 288,
+    "mean_surface_distance_m": 0.007296727167879325,
+    "p99_surface_distance_m": 0.03896473675314387
+  },
+  {
+    "from": 288,
+    "to": 1,
+    "mean_surface_distance_m": 0.007436372405426464,
+    "p99_surface_distance_m": 0.0403411495186105
+  },
+  {
+    "from": 1,
+    "to": 2,
+    "mean_surface_distance_m": 0.007529414853956154,
+    "p99_surface_distance_m": 0.04224358783534853
+  },
+  {
+    "from": 11,
+    "to": 12,
+    "mean_surface_distance_m": 0.005719742503301084,
+    "p99_surface_distance_m": 0.03170588129393076
+  },
+  {
+    "from": 12,
+    "to": 13,
+    "mean_surface_distance_m": 0.0056188795805016505,
+    "p99_surface_distance_m": 0.033148673430105934
+  },
+  {
+    "from": 23,
+    "to": 24,
+    "mean_surface_distance_m": 0.007133892836725331,
+    "p99_surface_distance_m": 0.039427200523965464
+  },
+  {
+    "from": 24,
+    "to": 25,
+    "mean_surface_distance_m": 0.007168787265467472,
+    "p99_surface_distance_m": 0.03845446809473417
+  },
+  {
+    "from": 25,
+    "to": 26,
+    "mean_surface_distance_m": 0.007115192271246289,
+    "p99_surface_distance_m": 0.03965103113218588
+  }
+]

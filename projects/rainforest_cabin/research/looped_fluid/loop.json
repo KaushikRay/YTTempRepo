@@ -1,0 +1,212 @@
+{
+  "frames": 288,
+  "fps": 24,
+  "duration_seconds": 12,
+  "overlap_frames": 24,
+  "method": "3D density/froth scalar-field smoothstep blend, remeshed before rendering",
+  "rendered_image_crossfade": false,
+  "frame_interpolation": false,
+  "periodic_fluid_dynamics_solution": false,
+  "approximate_loop_conditioning": true,
+  "physics_bake_frames": 312,
+  "unchanged_mesh_frames": [
+    25,
+    288
+  ],
+  "rain_period_seconds": 12,
+  "palm_period_seconds": 6,
+  "transition": [
+    {
+      "frame": 1,
+      "tail_frame": 289,
+      "head_weight": 0.0,
+      "vertices": 57381,
+      "foam_points": 310,
+      "sha256": "75658ab061b7eebf2ca07ddf98f859ca73df07c38b0453f3412bce70c2b6ae7a"
+    },
+    {
+      "frame": 2,
+      "tail_frame": 290,
+      "head_weight": 0.005506698446617901,
+      "vertices": 57500,
+      "foam_points": 343,
+      "sha256": "36b1ce384171857eaf6bc7291a705edb628d3ec93d763b7aef95b2942cfb3c3d"
+    },
+    {
+      "frame": 3,
+      "tail_frame": 291,
+      "head_weight": 0.021369277554039615,
+      "vertices": 57326,
+      "foam_points": 345,
+      "sha256": "f447098404510a79dc0971205a77345cb735350d3e7ed886f11f504670caed4f"
+    },
+    {
+      "frame": 4,
+      "tail_frame": 292,
+      "head_weight": 0.04660146297361716,
+      "vertices": 56828,
+      "foam_points": 306,
+      "sha256": "004fd153fe347e51b357db84a1c5a113d5542a406c2160f74a72834d62a69bf8"
+    },
+    {
+      "frame": 5,
+      "tail_frame": 293,
+      "head_weight": 0.08021698035670255,
+      "vertices": 56502,
+      "foam_points": 319,
+      "sha256": "ef36a721b008f7cbde21f88e5bf9a5f80a35a5afde258db39e966978e4485704"
+    },
+    {
+      "frame": 6,
+      "tail_frame": 294,
+      "head_weight": 0.12122955535464781,
+      "vertices": 56070,
+      "foam_points": 315,
+      "sha256": "cd12dad00c42606c092d5b390a385c84f3ccb9c1d8b06305d653a41b8513314c"
+    },
+    {
+      "frame": 7,
+      "tail_frame": 295,
+      "head_weight": 0.16865291361880494,
+      "vertices": 55796,
+      "foam_points": 313,
+      "sha256": "d7b4a8a6960f857f76a6750d814e55ce81d6ca892790cd0e56c286b3aa91a081"
+    },
+    {
+      "frame": 8,
+      "tail_frame": 296,
+      "head_weight": 0.22150078080052604,
+      "vertices": 55736,
+      "foam_points": 346,
+      "sha256": "e70471d382bb74c0fe1b5347a6e9cc66eaa17d30eddce9608e66be838d442155"
+    },
+    {
+      "frame": 9,
+      "tail_frame": 297,
+      "head_weight": 0.27878688255116296,
+      "vertices": 55208,
+      "foam_points": 338,
+      "sha256": "fd6e108c7256c794af6f38a537f62508c8a445a2615a1d345c933eddc2e77902"
+    },
+    {
+      "frame": 10,
+      "tail_frame": 298,
+      "head_weight": 0.33952494452206794,
+      "vertices": 55107,
+      "foam_points": 351,
+      "sha256": "fc373ee26f511a01a08ec33b84aefa3dfa7a599136e39e0e978f7de43bf14cff"
+    },
+    {
+      "frame": 11,
+      "tail_frame": 299,
+      "head_weight": 0.4027286923645928,
+      "vertices": 55093,
+      "foam_points": 342,
+      "sha256": "a6a0b935e7cd1b8b9fe0c6d8a9397d73b8eb23198579d66b00dba0968579cf99"
+    },
+    {
+      "frame": 12,
+      "tail_frame": 300,
+      "head_weight": 0.46741185173008964,
+      "vertices": 54913,
+      "foam_points": 309,
+      "sha256": "dc2bd0511a5836756baebf83ec6605e2c912aff14677236fc1120f96dd5c6004"
+    },
+    {
+      "frame": 13,
+      "tail_frame": 301,
+      "head_weight": 0.5325881482699104,
+      "vertices": 55097,
+      "foam_points": 305,
+      "sha256": "fe2208e71f5c5ff5ca702689a2c461427945068b6af58c9e8f722b3cff2d8148"
+    },
+    {
+      "frame": 14,
+      "tail_frame": 302,
+      "head_weight": 0.5972713076354071,
+      "vertices": 55453,
+      "foam_points": 309,
+      "sha256": "6f6c8173877f21ce71b608929732c3415191069ae861faa06a94212b5207a29d"
+    },
+    {
+      "frame": 15,
+      "tail_frame": 303,
+      "head_weight": 0.6604750554779322,
+      "vertices": 55630,
+      "foam_points": 292,
+      "sha256": "68a7275d8f5eeae0d05e116f5f7bf3bc7313c122db26fa49aa4601285c2d0bf5"
+    },
+    {
+      "frame": 16,
+      "tail_frame": 304,
+      "head_weight": 0.721213117448837,
+      "vertices": 55819,
+      "foam_points": 307,
+      "sha256": "09c685b39257196642c5254b07f9efe30a1d70278a11b4ed56a93287eaca4e3a"
+    },
+    {
+      "frame": 17,
+      "tail_frame": 305,
+      "head_weight": 0.778499219199474,
+      "vertices": 56423,
+      "foam_points": 305,
+      "sha256": "58f74fadb241e885cff0af004d9dc1bdcc9ff93dcb0cc3c9b5cc1630efa6222c"
+    },
+    {
+      "frame": 18,
+      "tail_frame": 306,
+      "head_weight": 0.8313470863811949,
+      "vertices": 56717,
+      "foam_points": 337,
+      "sha256": "5235d98ec5b886123b4caca4c86fc7c58db8e838af37038911d5f31d6624b15a"
+    },
+    {
+      "frame": 19,
+      "tail_frame": 307,
+      "head_weight": 0.8787704446453523,
+      "vertices": 56999,
+      "foam_points": 316,
+      "sha256": "25cc59e9658b4bbb01de4db800c7bcc54dcf19b164dbe5aae450281662fee76a"
+    },
+    {
+      "frame": 20,
+      "tail_frame": 308,
+      "head_weight": 0.9197830196432973,
+      "vertices": 57416,
+      "foam_points": 338,
+      "sha256": "f78cda160a3ff5d626ea9b35eb015dc82536d7cdab64d81aa35a39faa7c4cfa1"
+    },
+    {
+      "frame": 21,
+      "tail_frame": 309,
+      "head_weight": 0.9533985370263829,
+      "vertices": 57693,
+      "foam_points": 352,
+      "sha256": "670d28963da74096d0a84d349e9b3e1fe1be6bd0e037e7f2cac4cf21c832677b"
+    },
+    {
+      "frame": 22,
+      "tail_frame": 310,
+      "head_weight": 0.9786307224459603,
+      "vertices": 57989,
+      "foam_points": 370,
+      "sha256": "9648d707cc879032d76d1074ab5be90db0e2649337a012b6ff6e96ab2d301d39"
+    },
+    {
+      "frame": 23,
+      "tail_frame": 311,
+      "head_weight": 0.9944933015533821,
+      "vertices": 58157,
+      "foam_points": 354,
+      "sha256": "43a04abf059644b06868ada61a52aaf5a821dbbcab7ebb8ac128d9aa96722ce0"
+    },
+    {
+      "frame": 24,
+      "tail_frame": 312,
+      "head_weight": 1.0,
+      "vertices": 58004,
+      "foam_points": 370,
+      "sha256": "3664c95ee5087039a959ae0d1a35f4bc57cb05a70ab64f6c75c330c2035c2b20"
+    }
+  ]
+}

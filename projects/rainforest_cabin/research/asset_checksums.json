@@ -883,5 +883,85 @@
     "path": "assets/weathered_plank_siding/nor_gl.jpg",
     "bytes": 2507695,
     "sha256": "e950b30c36fcea80e793116e9c83001c95c39725f4af4c3684fc29491d86d7ae"
+  },
+  {
+    "path": "assets/looped_fluid/CREDITS.txt",
+    "bytes": 732,
+    "sha256": "a2a10f43030b788c92ea6f65337e09751c70c1770583963d0230856f32a692d6"
+  },
+  {
+    "path": "assets/looped_fluid/cache_manifest.json",
+    "bytes": 111101,
+    "sha256": "4c6cee54196e929d7b16880e276387c7952230c64488467d21a29bdd17d7954e"
+  },
+  {
+    "path": "assets/looped_fluid/channel.json",
+    "bytes": 59577,
+    "sha256": "af27e215808e551c8bbe8579ea83693e595bff15796ccc3457297cd6c16b2a32"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_01.zip",
+    "bytes": 21931900,
+    "sha256": "ec31c341e974c734115435fff8f5229e5769078a18746bb1629f99e7a2c5070a"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_02.zip",
+    "bytes": 22501879,
+    "sha256": "32d6fef10dac27613dd569b63bbe440e73c73b418e10643f09ab4bb77c393e40"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_03.zip",
+    "bytes": 22698843,
+    "sha256": "6f28340dc2658c2a713ad0e205237c14b737257aed6bfedbffa0ee9539a3ff59"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_04.zip",
+    "bytes": 22842773,
+    "sha256": "2b6ff9ffabb9a1832cfa06178dc506999eff3fde01ee548f10b2623ca3f2886a"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_05.zip",
+    "bytes": 22671956,
+    "sha256": "fc388af1f10e4870c6c496c406ca8a1757cf54409dbe7d5a2f022b3b39c88df9"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_06.zip",
+    "bytes": 22763419,
+    "sha256": "33bcb66ede2ee1f9261cdf5d5741f508446da2f45880b24c6fd4eafc97d8c94f"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_07.zip",
+    "bytes": 22643586,
+    "sha256": "1f271bebf8ae60a3e25f231d972c21335676c604e6476cc03ab79b8393ab6312"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_08.zip",
+    "bytes": 22592046,
+    "sha256": "e62e7e0b64bb712fece245383b22ec634d0cd0ef8c8a505408e0240978013ac2"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_09.zip",
+    "bytes": 22443278,
+    "sha256": "9ecb27d8f9ce080d76827410aaf5ee4431edbaea30ae11270a4476eac76f58ae"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_10.zip",
+    "bytes": 22470621,
+    "sha256": "606ebce06b37227a7c14914a0dab37500e8b8af21ecd34886dbfdd810539632e"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_11.zip",
+    "bytes": 22399202,
+    "sha256": "d5e05abb6a64b928eb4405c2e41f39cde9082c114742bdc701de699ef851dcff"
+  },
+  {
+    "path": "assets/looped_fluid/fluid_cache_12.zip",
+    "bytes": 22372217,
+    "sha256": "898b8123a8ed47e4adc56acb55e9332c2c488010f364878cf2bee6541055df47"
+  },
+  {
+    "path": "assets/looped_fluid/solver_samples.npz",
+    "bytes": 4891179,
+    "sha256": "ee07b7575fc049fd05f1388948871871afe87209d98f6473b7df7979237a5cc2"
   }
 ]

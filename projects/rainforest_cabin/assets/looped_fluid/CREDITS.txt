@@ -1,0 +1,7 @@
+Water: original Taichi CPU position-based fluid implementation following Macklin and Mueller, Position Based Fluids (2013). No third-party water footage or simulation cache used.
+Loop: original 3D scalar-field transition, not an exact periodic hydrodynamic solution.
+Cabin/forest/palms: existing approved generated photographic-style layers; not camera photographs. See assets/hybrid_motion provenance.
+Static creek bed: existing generated water-free bed image; see assets/integrated_fluid/provenance.json.
+Environment: existing Poly Haven CC0 rainforest_trail HDRI; see original asset credits.
+Rain/runoff: original optical streak geometry, frequency conditioned for twelve-second periodicity.
+No audio used in this visual review.

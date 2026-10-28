@@ -1,0 +1,153 @@
+{
+  "clips": [
+    {
+      "file": "preview.mp4",
+      "frames": 288,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "duration_seconds": 12.0,
+      "fps": 24,
+      "audio": false,
+      "decoded_cleanly": true,
+      "distinct_decoded_frames": 288,
+      "sha256": "9319d3922ab08acf35784e22c02af7c784f4bac671e18f400e06205fc35fbc2f"
+    },
+    {
+      "file": "river_detail.mp4",
+      "frames": 288,
+      "resolution": [
+        1040,
+        400
+      ],
+      "duration_seconds": 12.0,
+      "fps": 24,
+      "audio": false,
+      "decoded_cleanly": true,
+      "distinct_decoded_frames": 288,
+      "sha256": "7dbce7def5ac9c6651a4e6308ae61c63b89086949657cc088ca0dee1aed74353"
+    },
+    {
+      "file": "repeat_test.mp4",
+      "frames": 576,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "duration_seconds": 24.0,
+      "fps": 24,
+      "audio": false,
+      "decoded_cleanly": true,
+      "distinct_decoded_frames": 288,
+      "sha256": "cbbb532fc604159039c4893c2853e4961511fcf4d586e2f1d6575cdd3649f9d0"
+    }
+  ],
+  "simulated_geometry_states": 288,
+  "all_geometry_states_distinct": true,
+  "cache_sha256_verified": true,
+  "solver_contacts": [
+    {
+      "frame": 1,
+      "active_particles": 36067,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999996262731624,
+      "mean_downstream_velocity_m_s": 2.023432731628418
+    },
+    {
+      "frame": 24,
+      "active_particles": 36156,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999996960219877,
+      "mean_downstream_velocity_m_s": 2.037952423095703
+    },
+    {
+      "frame": 144,
+      "active_particles": 35629,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999997396431104,
+      "mean_downstream_velocity_m_s": 2.0974178314208984
+    },
+    {
+      "frame": 264,
+      "active_particles": 35115,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999998089095631,
+      "mean_downstream_velocity_m_s": 2.136744737625122
+    },
+    {
+      "frame": 288,
+      "active_particles": 34884,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999998087431125,
+      "mean_downstream_velocity_m_s": 2.134815216064453
+    },
+    {
+      "frame": 312,
+      "active_particles": 35030,
+      "bed_penetration_m": 0.0,
+      "minimum_rock_shell_radius": 0.9999997378261255,
+      "mean_downstream_velocity_m_s": 2.1440343856811523
+    }
+  ],
+  "joins": [
+    {
+      "from": 287,
+      "to": 288,
+      "symmetric_surface_distance_mean_m": 0.019179203333929782,
+      "pixel_mae_full": 1.2816596031188965,
+      "pixel_mae_river": 3.7415273189544678,
+      "river_pixel_delta_p99": 90.0
+    },
+    {
+      "from": 288,
+      "to": 1,
+      "symmetric_surface_distance_mean_m": 0.019243539241237128,
+      "pixel_mae_full": 1.2490636110305786,
+      "pixel_mae_river": 3.6047003269195557,
+      "river_pixel_delta_p99": 85.0
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "symmetric_surface_distance_mean_m": 0.019194050220236313,
+      "pixel_mae_full": 1.2319304943084717,
+      "pixel_mae_river": 3.530802011489868,
+      "river_pixel_delta_p99": 83.0
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "symmetric_surface_distance_mean_m": 0.019119844084563502,
+      "pixel_mae_full": 1.0497750043869019,
+      "pixel_mae_river": 3.550816535949707,
+      "river_pixel_delta_p99": 85.0
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "symmetric_surface_distance_mean_m": 0.01921659294598132,
+      "pixel_mae_full": 1.067469835281372,
+      "pixel_mae_river": 3.6167469024658203,
+      "river_pixel_delta_p99": 86.0
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "symmetric_surface_distance_mean_m": 0.019036806177385762,
+      "pixel_mae_full": 1.0673178434371948,
+      "pixel_mae_river": 3.619574546813965,
+      "river_pixel_delta_p99": 87.0
+    }
+  ],
+  "repeat_point_river_mae_ratio_to_largest_sampled_normal_step": 0.9634301769382384,
+  "loop_conditioning_in_3D_not_image_dissolve": true,
+  "periodic_physics_solution": false,
+  "reference_gaps": [
+    "static generated cabin and distant forest",
+    "approximate camera-projected bank contacts",
+    "coarse 3D water and empirical foam",
+    "one-second artistic surface transition needs visual review"
+  ],
+  "does_not_prove_photographic_realism_or_invisible_seam": true
+}

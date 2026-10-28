@@ -1,0 +1,20 @@
+[
+  {
+    "object": "Fine rain behind cabin",
+    "vertices": 24000,
+    "maximum_frequency_change_hz": 0.041656285524368286,
+    "integer_cycles_per_loop": true
+  },
+  {
+    "object": "Near rain in front of cabin",
+    "vertices": 3000,
+    "maximum_frequency_change_hz": 0.0416409969329834,
+    "integer_cycles_per_loop": true
+  },
+  {
+    "object": "Roof runoff falling beads",
+    "vertices": 168,
+    "maximum_frequency_change_hz": 0.04023945331573486,
+    "integer_cycles_per_loop": true
+  }
+]

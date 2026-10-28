@@ -11,8 +11,10 @@ import numpy as np
 from mathutils import Vector,Matrix
 from mathutils.geometry import tessellate_polygon
 from scipy.spatial import cKDTree
-ROOT=Path(__file__).resolve().parents[1];CFG=json.loads((ROOT/'assets/integrated_fluid/channel.json').read_text());CAM=CFG['camera']
-CACHE=ROOT/'assets/integrated_fluid/meshes';OUT=ROOT/'renders/integrated_fluid';OUT.mkdir(exist_ok=True)
+ROOT=Path(__file__).resolve().parents[1];VARIANT=os.environ.get('INTEGRATED_VARIANT','integrated_fluid')
+assert VARIANT in ('integrated_fluid','looped_fluid')
+CFG=json.loads((ROOT/f'assets/{VARIANT}/channel.json').read_text());CAM=CFG['camera']
+CACHE=ROOT/f'assets/{VARIANT}/meshes';OUT=ROOT/f'renders/{VARIANT}';OUT.mkdir(exist_ok=True)
 POS=np.array(CAM['camera_location']);FORWARD=np.array(CAM['camera_forward']);RIGHT=np.cross(FORWARD,[0,0,1]);RIGHT/=np.linalg.norm(RIGHT);UP=np.cross(RIGHT,FORWARD)
 
 def status(phase,**extra):
@@ -121,7 +123,7 @@ def upstream_instance():
 def read_cache(kind,frame):
  path=CACHE/f'{kind}_{frame:04d}.npz'
  if path.exists():return np.load(path)
- with zipfile.ZipFile(ROOT/f'assets/integrated_fluid/fluid_cache_{(frame-1)//24+1:02d}.zip') as archive:return np.load(io.BytesIO(archive.read(path.name)))
+ with zipfile.ZipFile(ROOT/f'assets/{VARIANT}/fluid_cache_{(frame-1)//24+1:02d}.zip') as archive:return np.load(io.BytesIO(archive.read(path.name)))
 def load_frame(frame):
  ob=bpy.data.objects['Simulated liquid'];f=read_cache('liquid',frame);data=bpy.data.meshes.new('Fitted simulated liquid %04d'%frame);data.from_pydata(f['vertices'],[],f['faces']);data.update();data.materials.append(bpy.data.materials['True liquid surface with simulation-derived foam'])
  for face in data.polygons:face.use_smooth=True
@@ -156,7 +158,9 @@ def setup():
  text=bpy.data.texts.new('ENABLE_INTEGRATED_FLUID_PLAYBACK.py');text.write("import bpy,sys\nfrom pathlib import Path\nroot=Path(bpy.data.filepath).parent\nsys.path.insert(0,str(root/'scripts'))\nfrom integrated_fluid_scene import load_frame\ndef integrated_fluid_update(scene): load_frame(max(1,min(scene.frame_end,scene.frame_current)))\nfor h in list(bpy.app.handlers.frame_change_pre):\n    if h.__name__=='integrated_fluid_update': bpy.app.handlers.frame_change_pre.remove(h)\nbpy.app.handlers.frame_change_pre.append(integrated_fluid_update)\nintegrated_fluid_update(bpy.context.scene)\n")
  for image in bpy.data.images:
   if image.source=='FILE' and not image.packed_file:image.filepath=bpy.path.relpath(image.filepath,start=str(ROOT))
- s.render.filepath='//renders/integrated_fluid/still.png';s.frame_set(1);bpy.ops.wm.save_as_mainfile(filepath=str(ROOT/'rainforest_integrated_fluid.blend'),compress=True);return s
+ s.render.filepath=f'//renders/{VARIANT}/still.png';s.frame_set(1)
+ if VARIANT=='integrated_fluid':bpy.ops.wm.save_as_mainfile(filepath=str(ROOT/'rainforest_integrated_fluid.blend'),compress=True)
+ return s
 def main():
  status('building_integrated_fluid_scene');s=setup();frame=int(os.environ.get('TEST_FRAME','24'));s.frame_set(frame);counts=load_frame(frame);s.render.filepath=str(OUT/'diagnostic.png')
  if os.environ.get('CROP'):

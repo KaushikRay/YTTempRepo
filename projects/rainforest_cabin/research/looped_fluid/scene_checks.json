@@ -1,0 +1,65 @@
+{
+  "relocated_playback_from_archives": true,
+  "raw_mesh_files_used": false,
+  "frames": 288,
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "samples": 32,
+  "rain_and_palm_repeat_position_error_local_m": {
+    "Fine rain behind cabin": 2.86102294921875e-06,
+    "Near rain in front of cabin": 5.7220458984375e-06,
+    "Roof runoff falling beads": 3.2782554626464844e-07,
+    "Flexible foreground palms \u2014 anchored top and right": 0.0
+  },
+  "timeline_samples": [
+    {
+      "frame": 1,
+      "liquid_vertices": 57381,
+      "foam_points": 310
+    },
+    {
+      "frame": 12,
+      "liquid_vertices": 54913,
+      "foam_points": 309
+    },
+    {
+      "frame": 24,
+      "liquid_vertices": 58004,
+      "foam_points": 370
+    },
+    {
+      "frame": 25,
+      "liquid_vertices": 58275,
+      "foam_points": 347
+    },
+    {
+      "frame": 144,
+      "liquid_vertices": 59018,
+      "foam_points": 348
+    },
+    {
+      "frame": 264,
+      "liquid_vertices": 57876,
+      "foam_points": 342
+    },
+    {
+      "frame": 288,
+      "liquid_vertices": 57568,
+      "foam_points": 298
+    },
+    {
+      "frame": 289,
+      "liquid_vertices": 57381,
+      "foam_points": 310
+    }
+  ],
+  "water_image_textures": 0,
+  "used_movies": 0,
+  "upstream_shares_simulation": true,
+  "resolved_external_images": [
+    "assets/realism/rainforest_trail/rainforest_trail.hdr"
+  ],
+  "water_transition_is_artistic_not_periodic_physics": true
+}
