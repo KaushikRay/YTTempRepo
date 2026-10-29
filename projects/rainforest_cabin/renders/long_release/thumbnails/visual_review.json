@@ -1,0 +1,12 @@
+{
+  "review_date": "2026-10-29",
+  "reviewed": ["six full-size image-tool results", "small_size_review.jpg at 320-pixel preview size", "source_comparison.jpg"],
+  "all_version_labels_correct": true,
+  "all_eight_hour_variants_state_dark_after_one_hour": true,
+  "headlines_and_duration_labels_readable_at_320_pixels": true,
+  "cabin_not_obscured_by_headline": true,
+  "no_visual_lightning_or_ad_free_claims": true,
+  "reference_comparison": "The approved porch/cabin/palm/creek composition and warm-cabin/cool-forest relationship remain recognizable. The covers lift brightness, saturation and cabin light relative to the darker video; close-up versions emphasize the cabin and crop the foreground shelter. Generative editing changes some fine foliage, water and architectural details, so these are cover illustrations rather than untouched frame exports.",
+  "audience_performance_measured": false,
+  "recommendation": {"3h": "A for strong topic identification", "8h": "B for emphasis on the cabin and an explicit dark-screen label"}
+}

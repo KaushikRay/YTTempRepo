@@ -61,11 +61,13 @@ rain sounds, rainforest rain, cabin rain, heavy rain sounds, gentle thunder, dis
 
 ### Thumbnail
 
-An actual scene frame with a clear warm cabin, wet palms and visible rain. Optional short text: RAINFOREST RAIN; small 3 HOURS badge.
+Three completed thumbnail cover edits are available, all 1280 × 720 JPGs under 2 MiB.
 
-These are thumbnail directions; no new thumbnail image files were created for this worksheet.
+[Option A](thumbnails/rainforest_3h_A.jpg) | [Option B](thumbnails/rainforest_3h_B.jpg) | [Option C](thumbnails/rainforest_3h_C.jpg)
 
-A/B ideas: Scene only, cabin as focal point; Closer cabin crop, small 3 HOURS badge; Wider porch composition with RAINFOREST RAIN text
+Suggested starting choice: **3h A**. [Compare all six](thumbnails/comparison.jpg) or [download the ZIP](../../downloads/Rainforest_YouTube_Thumbnails.zip).
+
+These are image-generation cover edits of the approved scene, not untouched video-frame exports. [Provenance and review](thumbnails/README.md). No thumbnail has been uploaded to YouTube.
 
 ### Pinned comment
 
@@ -137,11 +139,15 @@ rain sounds for sleep, dark screen rain, black screen rain, 8 hours rain, gentle
 
 ### Thumbnail
 
-An actual scene frame with the warm cabin visible. Optional text: RAIN FOR SLEEP; small 8 HOURS / DARK AFTER 1 H badge.
+Three completed thumbnail cover edits are available, all 1280 × 720 JPGs under 2 MiB.
 
-These are thumbnail directions; no new thumbnail image files were created for this worksheet.
+[Option A](thumbnails/rainforest_8h_A.jpg) | [Option B](thumbnails/rainforest_8h_B.jpg) | [Option C](thumbnails/rainforest_8h_C.jpg)
 
-A/B ideas: Scene only with accurate 8 HOURS / DARK AFTER 1 H badge; Closer warm cabin with RAIN FOR SLEEP text; Wider dark forest composition with the same accurate duration badge
+Suggested starting choice: **8h B**. [Compare all six](thumbnails/comparison.jpg) or [download the ZIP](../../downloads/Rainforest_YouTube_Thumbnails.zip).
+
+Every cover explicitly says **DARK AFTER 1 H**.
+
+These are image-generation cover edits of the approved scene, not untouched video-frame exports. [Provenance and review](thumbnails/README.md). No thumbnail has been uploaded to YouTube.
 
 ### Pinned comment
 

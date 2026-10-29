@@ -1,0 +1,52 @@
+{
+  "variants": [
+    {
+      "key": "3h_A",
+      "file": "rainforest_3h_A.jpg",
+      "generated_file": "/workspace/generated_images/exec-09bbc6d2-51ca-4753-9ab5-c50199aaf00a.png",
+      "version": "3h",
+      "variant": "A",
+      "source_reference": "renders/production_test/darker_still.png"
+    },
+    {
+      "key": "3h_B",
+      "file": "rainforest_3h_B.jpg",
+      "generated_file": "/workspace/generated_images/exec-e3f4335b-7860-496d-8ea9-ea15038eac3b.png",
+      "version": "3h",
+      "variant": "B",
+      "source_reference": "renders/production_test/darker_still.png"
+    },
+    {
+      "key": "3h_C",
+      "file": "rainforest_3h_C.jpg",
+      "generated_file": "/workspace/generated_images/exec-8ebf5a78-c22a-40fc-b57e-a07e38e6a76e.png",
+      "version": "3h",
+      "variant": "C",
+      "source_reference": "renders/production_test/darker_still.png"
+    },
+    {
+      "key": "8h_A",
+      "file": "rainforest_8h_A.jpg",
+      "generated_file": "/workspace/generated_images/exec-553a59ea-f460-4c78-a269-1d88ba17475c.png",
+      "version": "8h",
+      "variant": "A",
+      "source_reference": "renders/production_test/darker_still.png"
+    },
+    {
+      "key": "8h_B",
+      "file": "rainforest_8h_B.jpg",
+      "generated_file": "/workspace/generated_images/exec-2e8d74fe-a368-4f31-bc92-d1bff917df9b.png",
+      "version": "8h",
+      "variant": "B",
+      "source_reference": "renders/production_test/darker_still.png"
+    },
+    {
+      "key": "8h_C",
+      "file": "rainforest_8h_C.jpg",
+      "generated_file": "/workspace/generated_images/exec-ddac05ac-02c2-442a-8ac1-3cd264bd8c50.png",
+      "version": "8h",
+      "variant": "C",
+      "source_reference": "renders/production_test/darker_still.png"
+    }
+  ]
+}

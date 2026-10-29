@@ -18,3 +18,7 @@ masters and keep public changes scoped to the rainforest review branch.
 ## YouTube metadata — 2026-10-29
 
 Prepared complete 3 h and 8 h descriptions with actual full-master source credits, title options, bounded tags, manual dark-screen timestamps, truthful synthetic-scene disclosure, Studio settings and thumbnail directions. The older long-release credit file mixed short-preview sources with master processing; it now lists the three recordings used in the full masters. No upload, thumbnail generation or schedule was performed.
+
+## Six thumbnail covers — 2026-10-29
+
+Created three image-tool cover edits per duration from the approved darker scene. Wide headline variants and cabin close-ups provide distinct options. All 8 h covers state DARK AFTER 1 H; none claims ad-free playback or adds lightning. Exported 1280×720 JPGs under 2 MiB, retained generation originals, reviewed the six covers at 320 px and against the approved source. Covers are brighter/warmer and generative edits change fine detail; they are not untouched frame exports. Updated the Studio worksheet and prepared a single ZIP and comparison sheets. Editorial starting recommendations: 3h A and 8h B; no audience performance is measured. Videos and upload/schedule state remain unchanged.

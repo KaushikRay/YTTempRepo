@@ -35,14 +35,20 @@
     "Schedule": "Choose the first publish date; a one-week gap between versions is a reasonable starting plan. Use Europe/Berlin when entering local dates/times; adjust to audience analytics."
   },
   "thumbnail": {
-    "recommended": "An actual scene frame with the warm cabin visible. Optional text: RAIN FOR SLEEP; small 8 HOURS / DARK AFTER 1 H badge.",
-    "AB_ideas": [
-      "Scene only with accurate 8 HOURS / DARK AFTER 1 H badge",
-      "Closer warm cabin with RAIN FOR SLEEP text",
-      "Wider dark forest composition with the same accurate duration badge"
-    ]
+    "files": [
+      "renders/long_release/thumbnails/rainforest_8h_A.jpg",
+      "renders/long_release/thumbnails/rainforest_8h_B.jpg",
+      "renders/long_release/thumbnails/rainforest_8h_C.jpg"
+    ],
+    "recommended_initial_choice": "B",
+    "resolution": [
+      1280,
+      720
+    ],
+    "source": "AI-assisted cover edits of approved scene; not untouched video frames",
+    "comparison": "renders/long_release/thumbnails/comparison.jpg"
   },
-  "thumbnail_images_created_for_this_sheet": false,
+  "thumbnail_images_created_for_this_sheet": true,
   "uploaded": false,
   "scheduled": false
 }

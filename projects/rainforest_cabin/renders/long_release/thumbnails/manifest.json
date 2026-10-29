@@ -1,0 +1,127 @@
+{
+  "source_scene": "renders/production_test/darker_still.png",
+  "method": "Image-generation edits of approved scene; delivery-only resizing/JPEG encoding with ImageMagick.",
+  "literal_video_frame_exports": false,
+  "video_modified": false,
+  "ad_free_claim": false,
+  "variants": [
+    {
+      "key": "3h_A",
+      "file": "rainforest_3h_A.jpg",
+      "generated_file": "/workspace/generated_images/exec-09bbc6d2-51ca-4753-9ab5-c50199aaf00a.png",
+      "version": "3h",
+      "variant": "A",
+      "source_reference": "renders/production_test/darker_still.png",
+      "bytes": 637124,
+      "sha256": "8cb4318e30afd7a5ca98663c6be58c1a51247445ff5285e3311c4deb9d6fd5db",
+      "resolution": [
+        1280,
+        720
+      ],
+      "retained_generation": "renders/long_release/thumbnails/generation_originals/3h_A.png"
+    },
+    {
+      "key": "3h_B",
+      "file": "rainforest_3h_B.jpg",
+      "generated_file": "/workspace/generated_images/exec-e3f4335b-7860-496d-8ea9-ea15038eac3b.png",
+      "version": "3h",
+      "variant": "B",
+      "source_reference": "renders/production_test/darker_still.png",
+      "bytes": 688213,
+      "sha256": "860b71123e6eed52239d05511028dabea31a47b20c7a63bea28fbecced08df44",
+      "resolution": [
+        1280,
+        720
+      ],
+      "retained_generation": "renders/long_release/thumbnails/generation_originals/3h_B.png"
+    },
+    {
+      "key": "3h_C",
+      "file": "rainforest_3h_C.jpg",
+      "generated_file": "/workspace/generated_images/exec-8ebf5a78-c22a-40fc-b57e-a07e38e6a76e.png",
+      "version": "3h",
+      "variant": "C",
+      "source_reference": "renders/production_test/darker_still.png",
+      "bytes": 613759,
+      "sha256": "f5aadf6f5aa226970d14dd15cea2d94d5a9f0461d64341936a4347145763f1d6",
+      "resolution": [
+        1280,
+        720
+      ],
+      "retained_generation": "renders/long_release/thumbnails/generation_originals/3h_C.png"
+    },
+    {
+      "key": "8h_A",
+      "file": "rainforest_8h_A.jpg",
+      "generated_file": "/workspace/generated_images/exec-553a59ea-f460-4c78-a269-1d88ba17475c.png",
+      "version": "8h",
+      "variant": "A",
+      "source_reference": "renders/production_test/darker_still.png",
+      "bytes": 568617,
+      "sha256": "aab81ee24f98b5a827e8bcdb78aef05b3cfcd175c7a35e8a38c7b8d67ade10ee",
+      "resolution": [
+        1280,
+        720
+      ],
+      "retained_generation": "renders/long_release/thumbnails/generation_originals/8h_A.png"
+    },
+    {
+      "key": "8h_B",
+      "file": "rainforest_8h_B.jpg",
+      "generated_file": "/workspace/generated_images/exec-2e8d74fe-a368-4f31-bc92-d1bff917df9b.png",
+      "version": "8h",
+      "variant": "B",
+      "source_reference": "renders/production_test/darker_still.png",
+      "bytes": 610131,
+      "sha256": "878a907a185748222bec68491db0479f97ed6bae0eed9f3295ee7cc68d594b78",
+      "resolution": [
+        1280,
+        720
+      ],
+      "retained_generation": "renders/long_release/thumbnails/generation_originals/8h_B.png"
+    },
+    {
+      "key": "8h_C",
+      "file": "rainforest_8h_C.jpg",
+      "generated_file": "/workspace/generated_images/exec-ddac05ac-02c2-442a-8ac1-3cd264bd8c50.png",
+      "version": "8h",
+      "variant": "C",
+      "source_reference": "renders/production_test/darker_still.png",
+      "bytes": 580230,
+      "sha256": "2e2eb7c8774a6ecb552ba441d3e53cdaaa5c4c87ccf826286d5f3b9598a076f9",
+      "resolution": [
+        1280,
+        720
+      ],
+      "retained_generation": "renders/long_release/thumbnails/generation_originals/8h_C.png"
+    }
+  ],
+  "recommended_initial_choices": {
+    "3h": "3h_A",
+    "8h": "8h_B"
+  },
+  "qa": {
+    "all_six_1280x720": true,
+    "all_six_under_2_MiB": true,
+    "small_size_sheet": "small_size_review.jpg",
+    "manual_visual_review": {
+      "review_date": "2026-10-29",
+      "reviewed": [
+        "six full-size image-tool results",
+        "small_size_review.jpg at 320-pixel preview size",
+        "source_comparison.jpg"
+      ],
+      "all_version_labels_correct": true,
+      "all_eight_hour_variants_state_dark_after_one_hour": true,
+      "headlines_and_duration_labels_readable_at_320_pixels": true,
+      "cabin_not_obscured_by_headline": true,
+      "no_visual_lightning_or_ad_free_claims": true,
+      "reference_comparison": "The approved porch/cabin/palm/creek composition and warm-cabin/cool-forest relationship remain recognizable. The covers lift brightness, saturation and cabin light relative to the darker video; close-up versions emphasize the cabin and crop the foreground shelter. Generative editing changes some fine foliage, water and architectural details, so these are cover illustrations rather than untouched frame exports.",
+      "audience_performance_measured": false,
+      "recommendation": {
+        "3h": "A for strong topic identification",
+        "8h": "B for emphasis on the cabin and an explicit dark-screen label"
+      }
+    }
+  }
+}

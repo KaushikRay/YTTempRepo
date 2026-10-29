@@ -35,14 +35,20 @@
     "Schedule": "Choose the first publish date; a one-week gap between versions is a reasonable starting plan. Use Europe/Berlin when entering local dates/times; adjust to audience analytics."
   },
   "thumbnail": {
-    "recommended": "An actual scene frame with a clear warm cabin, wet palms and visible rain. Optional short text: RAINFOREST RAIN; small 3 HOURS badge.",
-    "AB_ideas": [
-      "Scene only, cabin as focal point",
-      "Closer cabin crop, small 3 HOURS badge",
-      "Wider porch composition with RAINFOREST RAIN text"
-    ]
+    "files": [
+      "renders/long_release/thumbnails/rainforest_3h_A.jpg",
+      "renders/long_release/thumbnails/rainforest_3h_B.jpg",
+      "renders/long_release/thumbnails/rainforest_3h_C.jpg"
+    ],
+    "recommended_initial_choice": "A",
+    "resolution": [
+      1280,
+      720
+    ],
+    "source": "AI-assisted cover edits of approved scene; not untouched video frames",
+    "comparison": "renders/long_release/thumbnails/comparison.jpg"
   },
-  "thumbnail_images_created_for_this_sheet": false,
+  "thumbnail_images_created_for_this_sheet": true,
   "uploaded": false,
   "scheduled": false
 }
