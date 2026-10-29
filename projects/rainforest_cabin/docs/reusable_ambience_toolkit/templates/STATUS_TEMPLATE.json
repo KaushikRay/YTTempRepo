@@ -1,0 +1,18 @@
+{
+  "project": "TBD",
+  "phase": "not_started",
+  "worker_running": false,
+  "execution_location": "TBD",
+  "job_id": null,
+  "pid": null,
+  "updated_utc": null,
+  "completed": 0,
+  "total": null,
+  "unit": null,
+  "estimated_seconds_remaining": null,
+  "estimate_basis": null,
+  "last_verified_output": null,
+  "log_path": null,
+  "blocker": null,
+  "next_action": "Fill brief and inspect references/tools"
+}

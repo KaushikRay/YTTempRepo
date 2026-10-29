@@ -1,0 +1,14 @@
+{
+  "package_version": "1.0",
+  "validation_date": "2026-10-29",
+  "main_document_bytes": 84649,
+  "main_document_words": 12221,
+  "production_sections": 20,
+  "portable_skill_modules": 9,
+  "json_templates_parsed": 4,
+  "internal_markdown_links_checked": 9,
+  "markdown_code_fences_balanced": true,
+  "project_specific_names_in_main_document": false,
+  "runtime_execution_tested": false,
+  "scope": "Documentation, templates and portable skill instructions; no universal production executable is claimed."
+}

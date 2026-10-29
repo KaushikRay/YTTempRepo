@@ -22,3 +22,14 @@ Prepared complete 3 h and 8 h descriptions with actual full-master source credit
 ## Six thumbnail covers — 2026-10-29
 
 Created three image-tool cover edits per duration from the approved darker scene. Wide headline variants and cabin close-ups provide distinct options. All 8 h covers state DARK AFTER 1 H; none claims ad-free playback or adds lightning. Exported 1280×720 JPGs under 2 MiB, retained generation originals, reviewed the six covers at 320 px and against the approved source. Covers are brighter/warmer and generative edits change fine detail; they are not untouched frame exports. Updated the Studio worksheet and prepared a single ZIP and comparison sheets. Editorial starting recommendations: 3h A and 8h B; no audience performance is measured. Videos and upload/schedule state remain unchanged.
+
+## Reusable production toolkit — 2026-10-29
+
+Created a self-contained generic ambience production playbook, nine portable custom
+skill modules and editable templates for use in a new chat. The guide covers the
+full reference/scene/motion/audio/master/thumbnail/Studio/delivery workflow and
+keeps creative versions, software and platform choices configurable. It contains
+no channel- or scene-specific source names. The instruction pack does not include
+universal executable render scripts or auto-install skills/tools. Documentation,
+JSON, internal links, front matter, package contents and checksums were validated.
+The next greenhouse scene has not been started by creating these instructions.

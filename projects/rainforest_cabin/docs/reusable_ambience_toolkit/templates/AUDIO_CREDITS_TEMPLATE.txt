@@ -1,0 +1,12 @@
+AUDIO / VISUAL ATTRIBUTION — FILL WITH ACTUAL USED SOURCES
+
+[ROLE]: "[TITLE]" by [AUTHOR].
+License: [LICENSE + VERSION] — [LICENSE URL]
+Source: [ACTUAL ASSET URL]
+Changes: [SPECIFIC EDITING / FILTERING / MIXING / LOOP / PITCH CHANGES].
+
+Repeat this block for every source used in this final version that requires
+attribution. Include optional CC0 credits where useful. Remove this instruction
+and all placeholders from the final public description. Do not list unused or
+preview-only sources. Generated/original visual provenance belongs in the project
+records and any appropriate public disclosure; never invent a camera location.

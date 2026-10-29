@@ -1,0 +1,31 @@
+{
+  "project": "TBD",
+  "files": [],
+  "file_fields": [
+    "version_id",
+    "file",
+    "bytes",
+    "sha256",
+    "duration_seconds",
+    "scene_seconds",
+    "width",
+    "height",
+    "fps",
+    "codec",
+    "audio_codec",
+    "sample_rate",
+    "channels",
+    "download_url",
+    "access_requirements",
+    "expiry",
+    "verification"
+  ],
+  "delivery_method": "TBD",
+  "exact_master_transfer": null,
+  "rebuild_kit": null,
+  "link_verification_completed": false,
+  "uploaded_to_youtube": false,
+  "publicly_published": false,
+  "scheduled_datetime": null,
+  "timezone": null
+}

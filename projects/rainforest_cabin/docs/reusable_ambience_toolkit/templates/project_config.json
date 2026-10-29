@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "project_name": "TBD",
+  "project_slug": "your_project",
+  "concept": "TBD",
+  "reference_files_or_urls": [],
+  "must_include": [],
+  "must_avoid": [],
+  "visual_method": "TBD",
+  "camera": {
+    "motion": "fixed",
+    "description": "TBD"
+  },
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps_numerator": 24,
+    "fps_denominator": 1,
+    "color": "SDR Rec.709"
+  },
+  "weather": {
+    "type": "TBD",
+    "intensity": "TBD"
+  },
+  "audio": {
+    "listener_position": "TBD",
+    "dominant_bed": "TBD",
+    "supporting_layers": [],
+    "events": [],
+    "suggested_target_integrated_lufs": -24,
+    "suggested_true_peak_ceiling_dbtp": -2
+  },
+  "versions": [],
+  "versions_note": "Add only selected versions; total and scene durations are seconds.",
+  "version_example": {
+    "id": "example_scene_then_dark",
+    "duration_seconds": 28800,
+    "scene_seconds": 3600
+  },
+  "opening": {
+    "black_seconds": 1,
+    "picture_fade_seconds": 5,
+    "audio_fade_seconds": 8,
+    "subscribe_badge": "confirm"
+  },
+  "ending": {
+    "picture_fade_seconds": 20,
+    "audio_fade_seconds": 20
+  },
+  "hardware": {
+    "os": "TBD",
+    "chip": "TBD",
+    "ram_gb": null,
+    "free_disk_gb": null,
+    "execution_location": "TBD"
+  },
+  "review_gates": [
+    "composition",
+    "still",
+    "motion",
+    "audio",
+    "endurance",
+    "final"
+  ],
+  "thumbnails_per_version": 3,
+  "delivery_destination": "TBD",
+  "publication": {
+    "upload_authorized": false,
+    "public_publish_authorized": false,
+    "schedule_authorized": false,
+    "datetime": null,
+    "timezone": "TBD"
+  }
+}

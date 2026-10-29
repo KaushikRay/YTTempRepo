@@ -1,0 +1,32 @@
+{
+  "expected_variants_per_version": 3,
+  "source_scene_or_frames": [],
+  "method": "TBD — actual frame or generated cover edit",
+  "literal_frame_exports": null,
+  "versions": [],
+  "variant_fields": [
+    "version_id",
+    "variant",
+    "file",
+    "headline",
+    "duration_label",
+    "dark_screen_label",
+    "width",
+    "height",
+    "bytes",
+    "sha256",
+    "source_frame",
+    "method",
+    "review_state"
+  ],
+  "qa": {
+    "dimensions_checked": false,
+    "size_checked": false,
+    "wording_checked": false,
+    "small_size_reviewed": false,
+    "reference_compared": false,
+    "links_verified": false
+  },
+  "comparison_sheet": null,
+  "zip_file": null
+}

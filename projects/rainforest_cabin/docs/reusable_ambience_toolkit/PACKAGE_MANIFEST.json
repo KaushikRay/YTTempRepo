@@ -1,0 +1,150 @@
+{
+  "version": "1.0",
+  "files": [
+    {
+      "path": "AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84649,
+      "sha256": "2cc4653ebb3f8ad694c1ae4aeacac048a2711f2097eef802f53c036c00d2b777"
+    },
+    {
+      "path": "NEW_CHAT_STARTER.md",
+      "bytes": 1339,
+      "sha256": "2637dd71ff296c2aaacf0fcc86cb85d802d866b5b02020e1b5c7420f248eadc7"
+    },
+    {
+      "path": "START_HERE.md",
+      "bytes": 2032,
+      "sha256": "1df770441c2611bffcebc10aaf8ba46999d3b3e336c2b2031ebeefb7c5ee4e9d"
+    },
+    {
+      "path": "VALIDATION_REPORT.json",
+      "bytes": 509,
+      "sha256": "b615ea7bbc6761ccc559ee80bedad3e97d35b93428d7f925d6feefc75cdb492a"
+    },
+    {
+      "path": "skills/ambience-audio-production/SKILL.md",
+      "bytes": 2256,
+      "sha256": "c4b38353f2fb53fbfbaf17060989493175cc3cce6ceab0a88a7f4e9c70185f8d"
+    },
+    {
+      "path": "skills/ambience-delivery-and-mac/SKILL.md",
+      "bytes": 2496,
+      "sha256": "06532c83916d58708ef82fa878be1d075417f3ad3aee7012c0e4f4bd05bb1414"
+    },
+    {
+      "path": "skills/ambience-long-master-builder/SKILL.md",
+      "bytes": 2150,
+      "sha256": "aaa79c1d4690a0d051e26a07634fe8c50ca75730d6fd9db1c01b8ac0dd9960f4"
+    },
+    {
+      "path": "skills/ambience-motion-and-weather/SKILL.md",
+      "bytes": 2234,
+      "sha256": "9478f6921253b805d1acaf3293cfd63ca4be2e6f48be7b11e59811f2cd7a1c25"
+    },
+    {
+      "path": "skills/ambience-project-director/SKILL.md",
+      "bytes": 2219,
+      "sha256": "3d6f59613c34fb187cb1726949c75b05764ca37ae6e94a451bbb48f4fd3bd906"
+    },
+    {
+      "path": "skills/ambience-reference-research/SKILL.md",
+      "bytes": 2112,
+      "sha256": "e513a4f83c5baf095f6faccf3086f6dfacb37fdb3913cc53ff0b5aa294985973"
+    },
+    {
+      "path": "skills/ambience-scene-production/SKILL.md",
+      "bytes": 2203,
+      "sha256": "f160f9d12838457bd12e44700cca0bcb0b73c4ee9407a01291dc6c75f2a982f2"
+    },
+    {
+      "path": "skills/ambience-thumbnail-production/SKILL.md",
+      "bytes": 2196,
+      "sha256": "56dd5163771dd1bc185563f58d2974b8615a0ebd95341c4fa7271692ca4ca7e4"
+    },
+    {
+      "path": "skills/ambience-youtube-packaging/SKILL.md",
+      "bytes": 2358,
+      "sha256": "b2f35f20582a84282d477986dfca4e3d5270e602a98bd63f83b9cfe96ba30864"
+    },
+    {
+      "path": "templates/ASSET_REGISTER.csv",
+      "bytes": 197,
+      "sha256": "0c30c205c3928f656250f1b123561a87cddbc5934d7e2e0113ed639ee12f8be0"
+    },
+    {
+      "path": "templates/AUDIO_CREDITS_TEMPLATE.txt",
+      "bytes": 636,
+      "sha256": "f2005986a78f09466f76c1adeaf7b4b05fd3c61640f2a77943fd6b488bd7f0f5"
+    },
+    {
+      "path": "templates/AUDIO_REGISTER.csv",
+      "bytes": 166,
+      "sha256": "45b1ed8c99ba4f197c0f51de336ee70dccc9eb2a3b27b4b7ae30b17ef8034a6f"
+    },
+    {
+      "path": "templates/DECISIONS_TEMPLATE.md",
+      "bytes": 433,
+      "sha256": "79447a06f3bc9d04595c53d482b8cd160f65a486105db7bda39abbe86a953e2b"
+    },
+    {
+      "path": "templates/DELIVERY_MANIFEST.json",
+      "bytes": 586,
+      "sha256": "549bac69ffb8c3b54e22161e5363e1993f0e29cdd255bc34692d6194fabae81d"
+    },
+    {
+      "path": "templates/EVENTS.csv",
+      "bytes": 116,
+      "sha256": "7448d04b54f02460d3d60339185822f3b0b275d59739e55a88f4f3647e471ce9"
+    },
+    {
+      "path": "templates/HANDOFF_TEMPLATE.md",
+      "bytes": 1077,
+      "sha256": "c6858b1b7798badd56e76f23c67636ca7eef52f2ac1d2be93575ae3bb00e5fbc"
+    },
+    {
+      "path": "templates/MAC_RUNBOOK_TEMPLATE.md",
+      "bytes": 1440,
+      "sha256": "83d2965d6f6918f7424fafa47e9b8d3672202fce4327cc09d0b2c27e8f5db6dc"
+    },
+    {
+      "path": "templates/PROJECT_BRIEF.md",
+      "bytes": 1605,
+      "sha256": "682203c6ee4c6712a3cc255bcc31382216e730d8ea966d962e31d7f01ab64c79"
+    },
+    {
+      "path": "templates/QA_CHECKLIST.md",
+      "bytes": 2657,
+      "sha256": "9cebe5c1f22e480b60e33f33789fc3975085c0fd4818c5c0cdb84f4d1faabf0c"
+    },
+    {
+      "path": "templates/STATUS_TEMPLATE.json",
+      "bytes": 410,
+      "sha256": "3a3c15d0ce279a319df520d88c587cade7aa77d87884473e4106f866d58e4611"
+    },
+    {
+      "path": "templates/THUMBNAIL_MANIFEST.json",
+      "bytes": 674,
+      "sha256": "311426852ec530b46714c9226cf3a9e01108782f1881b76dbdd1fd5f45ad4834"
+    },
+    {
+      "path": "templates/THUMBNAIL_PROMPTS.md",
+      "bytes": 2313,
+      "sha256": "db165dfa8346a526319fe30efffdde4661aa5f7d60c12b66044981d8aa9d61fe"
+    },
+    {
+      "path": "templates/VERSION_MATRIX.csv",
+      "bytes": 144,
+      "sha256": "39d31dd9ca8fd29b94c3c461ecddb9edaa65e2a798c055a48891146e40fc6981"
+    },
+    {
+      "path": "templates/YT_STUDIO_TEMPLATE.md",
+      "bytes": 2429,
+      "sha256": "b9a4e9afb2bdf493c77cb8f463f924409ad6ea8844df550296d8c981f79c3dfd"
+    },
+    {
+      "path": "templates/project_config.json",
+      "bytes": 1619,
+      "sha256": "349b5f1411df48bd6733030bed2eb214cb43fdc3b6dff0a6ff0c8c65cdf4fff5"
+    }
+  ]
+}
