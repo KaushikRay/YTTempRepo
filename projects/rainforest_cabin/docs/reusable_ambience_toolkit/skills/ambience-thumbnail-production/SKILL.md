@@ -37,4 +37,4 @@ choice as editorial judgment, not a measured winner. Do not claim Test & Compare
 was run or a CTR improvement was measured when no audience experiment exists.
 
 
-See [the master playbook](../../AMBIENCE_VIDEO_MASTER_PLAYBOOK.md) for the complete workflow. Current user instructions and governing tool/system rules take precedence over these defaults.
+See [the master playbook](references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md) for the complete workflow. Current user instructions and governing tool/system rules take precedence over these defaults.

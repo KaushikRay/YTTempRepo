@@ -40,4 +40,4 @@ resume handoff. File links must be accessible before requesting a review. Option
 skills are task instructions, not a requirement to launch separate agents.
 
 
-See [the master playbook](../../AMBIENCE_VIDEO_MASTER_PLAYBOOK.md) for the complete workflow. Current user instructions and governing tool/system rules take precedence over these defaults.
+See [the master playbook](references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md) for the complete workflow. Current user instructions and governing tool/system rules take precedence over these defaults.

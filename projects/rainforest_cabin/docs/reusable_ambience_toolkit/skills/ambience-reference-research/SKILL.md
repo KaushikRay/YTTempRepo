@@ -36,4 +36,4 @@ an honest realism gap list. State which assets require login/payment or have
 visible limits. Do not call a generated concept image a real-world photograph.
 
 
-See [the master playbook](../../AMBIENCE_VIDEO_MASTER_PLAYBOOK.md) for the complete workflow. Current user instructions and governing tool/system rules take precedence over these defaults.
+See [the master playbook](references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md) for the complete workflow. Current user instructions and governing tool/system rules take precedence over these defaults.

@@ -279,6 +279,8 @@ These are instruction files, not executable apps or independent agents. You may
 attach relevant modules in a chat. Install them only through the client's
 supported custom-skill workflow, if any; folder layouts vary between products.
 The main playbook remains usable when no installation is possible.
+Each portable skill folder also contains its own reference copy of this playbook,
+so copying the complete skill folder does not break a link to an external sibling.
 
 ### Tool map
 

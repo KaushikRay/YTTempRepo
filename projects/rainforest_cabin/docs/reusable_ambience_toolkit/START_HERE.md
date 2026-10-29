@@ -34,5 +34,9 @@ Existing skills named `ambience-long-video-release` and
 `cloud-environment-onboarding:setup` may be useful where actually available. They
 are not bundled pre-installed apps. The latter is only for environment setup.
 
+Each portable skill folder includes a local reference copy of the master playbook.
+If your client supports installing a custom skill folder, retain the whole folder,
+including its `references` subfolder, so its documentation links remain valid.
+
 Every new chat should inspect its actual tools/capabilities and explain any missing
 rendering, browsing, image generation, storage, local-execution or upload ability.

@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
-      "bytes": 84649,
-      "sha256": "2cc4653ebb3f8ad694c1ae4aeacac048a2711f2097eef802f53c036c00d2b777"
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "NEW_CHAT_STARTER.md",
@@ -13,58 +13,103 @@
     },
     {
       "path": "START_HERE.md",
-      "bytes": 2032,
-      "sha256": "1df770441c2611bffcebc10aaf8ba46999d3b3e336c2b2031ebeefb7c5ee4e9d"
+      "bytes": 2278,
+      "sha256": "92d68d8a474d4a1aaab7e1ba9c004634d76a9af154e8caacca90d0d7238b3deb"
     },
     {
       "path": "VALIDATION_REPORT.json",
-      "bytes": 509,
-      "sha256": "b615ea7bbc6761ccc559ee80bedad3e97d35b93428d7f925d6feefc75cdb492a"
+      "bytes": 567,
+      "sha256": "fb4281f9f0f95e50a8460400b6b31c479896197efaf4b705c20ed63777025d7e"
     },
     {
       "path": "skills/ambience-audio-production/SKILL.md",
-      "bytes": 2256,
-      "sha256": "c4b38353f2fb53fbfbaf17060989493175cc3cce6ceab0a88a7f4e9c70185f8d"
+      "bytes": 2261,
+      "sha256": "f72840e46a77ddd568009a3fa51a542aedca766db9e8231ddcbceb2924e96445"
+    },
+    {
+      "path": "skills/ambience-audio-production/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "skills/ambience-delivery-and-mac/SKILL.md",
-      "bytes": 2496,
-      "sha256": "06532c83916d58708ef82fa878be1d075417f3ad3aee7012c0e4f4bd05bb1414"
+      "bytes": 2501,
+      "sha256": "5a78899b634b80c27251660d21be426f384bb42c2e8c9f3e7589b60082750068"
+    },
+    {
+      "path": "skills/ambience-delivery-and-mac/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "skills/ambience-long-master-builder/SKILL.md",
-      "bytes": 2150,
-      "sha256": "aaa79c1d4690a0d051e26a07634fe8c50ca75730d6fd9db1c01b8ac0dd9960f4"
+      "bytes": 2155,
+      "sha256": "ad4af838942624172201408cef3646afd07c30f04715f4a0c10c213416ea2e11"
+    },
+    {
+      "path": "skills/ambience-long-master-builder/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "skills/ambience-motion-and-weather/SKILL.md",
-      "bytes": 2234,
-      "sha256": "9478f6921253b805d1acaf3293cfd63ca4be2e6f48be7b11e59811f2cd7a1c25"
+      "bytes": 2239,
+      "sha256": "8f899e48c9090e288ba330c562e20fab0de21734d7cd864b2387d702efda0b61"
+    },
+    {
+      "path": "skills/ambience-motion-and-weather/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "skills/ambience-project-director/SKILL.md",
-      "bytes": 2219,
-      "sha256": "3d6f59613c34fb187cb1726949c75b05764ca37ae6e94a451bbb48f4fd3bd906"
+      "bytes": 2224,
+      "sha256": "c603c24d05c3ae5ef7d6fdbd7d1e761127a326c6c3880a008e68361f534379bd"
+    },
+    {
+      "path": "skills/ambience-project-director/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "skills/ambience-reference-research/SKILL.md",
-      "bytes": 2112,
-      "sha256": "e513a4f83c5baf095f6faccf3086f6dfacb37fdb3913cc53ff0b5aa294985973"
+      "bytes": 2117,
+      "sha256": "0e4391f0be965dcc94ec562b01a2a92cfa54d06b0618a7cf9714df6d3fef6185"
+    },
+    {
+      "path": "skills/ambience-reference-research/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "skills/ambience-scene-production/SKILL.md",
-      "bytes": 2203,
-      "sha256": "f160f9d12838457bd12e44700cca0bcb0b73c4ee9407a01291dc6c75f2a982f2"
+      "bytes": 2208,
+      "sha256": "ff4e33fba912cb664ddc5da10a62ef235748245c1811736bb196d9179a025b24"
+    },
+    {
+      "path": "skills/ambience-scene-production/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "skills/ambience-thumbnail-production/SKILL.md",
-      "bytes": 2196,
-      "sha256": "56dd5163771dd1bc185563f58d2974b8615a0ebd95341c4fa7271692ca4ca7e4"
+      "bytes": 2201,
+      "sha256": "0276d1d2e5b03bcab8cba864740668de0358620d81a0c43efe8d7c3b4cf2c3cd"
+    },
+    {
+      "path": "skills/ambience-thumbnail-production/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "skills/ambience-youtube-packaging/SKILL.md",
-      "bytes": 2358,
-      "sha256": "b2f35f20582a84282d477986dfca4e3d5270e602a98bd63f83b9cfe96ba30864"
+      "bytes": 2363,
+      "sha256": "e80a30749eb5cdd661e14d9050cc2a98a91e8714c2d9d839f5fc0b3adbe0e921"
+    },
+    {
+      "path": "skills/ambience-youtube-packaging/references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md",
+      "bytes": 84814,
+      "sha256": "19a7496f1a23891ec282aaa99465c9d6581a6d4c4bb3754933c66086da13da86"
     },
     {
       "path": "templates/ASSET_REGISTER.csv",

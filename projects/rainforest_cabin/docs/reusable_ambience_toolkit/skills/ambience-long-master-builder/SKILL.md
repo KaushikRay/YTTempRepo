@@ -37,4 +37,4 @@ progress logs and resume notes. No upload/publication is implied by a completed
 build. Do not claim hours of unique animation for repeated visual units.
 
 
-See [the master playbook](../../AMBIENCE_VIDEO_MASTER_PLAYBOOK.md) for the complete workflow. Current user instructions and governing tool/system rules take precedence over these defaults.
+See [the master playbook](references/AMBIENCE_VIDEO_MASTER_PLAYBOOK.md) for the complete workflow. Current user instructions and governing tool/system rules take precedence over these defaults.
