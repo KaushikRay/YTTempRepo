@@ -1,35 +1,20 @@
-AUDIO ATTRIBUTION FOR THE RAINFOREST CABIN PREVIEW
+AUDIO CREDITS
 
 Rain: "Falling Rain SFX 1 2016-11-19" by valvalion.
-Licence: Creative Commons Attribution 3.0 (CC BY 3.0).
-https://creativecommons.org/licenses/by/3.0/
+License: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/
 Source: https://commons.wikimedia.org/wiki/File:Falling_Rain_SFX_1_2016-11-19.oga
-Original source linked by Wikimedia: https://www.youtube.com/watch?v=J9IBpqU7WvI
 Creator: https://www.youtube.com/channel/UCNvSRgZB3gz-C72gZebdDdQ
-Changes: excerpts from original seconds 173–233 (one-minute review) and 173–293 (two-minute test), resampled, filtered, lightly dynamically controlled, stereo-adjusted, level-adjusted, faded and mixed with stream audio.
+Changes: selected excerpts, filtering, dynamic and stereo adjustments, overlapping edits, level adjustment, fades and mixing.
 
-Stream: "stream river water up close" (Freesound 433589) by jackthemurray.
-Licence: CC0 1.0 Universal.
-https://creativecommons.org/publicdomain/zero/1.0/
-Original source: https://freesound.org/people/jackthemurray/sounds/433589/
-Wikimedia copy and licence record: https://commons.wikimedia.org/wiki/File:433589_jackthemurray_stream-river-water-up-close.wav
-Changes: original seconds 6–66, filtered, lightly dynamically controlled, narrowed/panned toward the river, level-adjusted, faded and mixed.
-
-The unused James River Rapids candidate is not part of this soundtrack.
-Longer-test stream: "Snowmelt flowing into lake at Okanagan Mountain Provincial Park" by Extemporalist.
-Licence: CC0 1.0 Universal.
-https://creativecommons.org/publicdomain/zero/1.0/
+Stream: "Snowmelt flowing into lake at Okanagan Mountain Provincial Park" by Extemporalist.
+License: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
 Source: https://commons.wikimedia.org/wiki/File:Snowmelt_flowing_into_lake_at_Okanagan_Mountain_Provincial_Park.flac
-Changes: Wikimedia's Ogg derivative, original seconds 103–223, resampled, filtered, dynamically controlled, narrowed/panned, level-adjusted and mixed. Used only in the two-minute production test; the shorter preview retains jackthemurray's stream.
+Changes: Wikimedia's Ogg derivative, selected excerpts, filtering, dynamic and stereo adjustments, overlapping edits, level adjustment and mixing.
 
-Visual source credits remain in the project's existing asset credits/provenance files.
-
-Distant thunder: "Thunder" by Bidgee, recorded in Darwin, Northern Territory, Australia.
-Licence: Creative Commons Attribution 3.0 (CC BY 3.0).
-https://creativecommons.org/licenses/by/3.0/
+Thunder: "Thunder" by Bidgee.
+License: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/
 Source: https://commons.wikimedia.org/wiki/File:Thunder.ogg
 Creator: https://commons.wikimedia.org/wiki/User:Bidgee
-Changes: filtered to 35–650 Hz, soft 1.5-second attack and four-second tail fade, stereo/gain adjustment; a later occurrence is slowed slightly and reduced 1.5 dB. Added as distant rumble with no visual lightning.
+Changes: filtering, softened attack and tail fades, stereo and level adjustments, timing/pitch variations and mixing.
 
-LONG-VERSION PROCESSING
-The 3 h and 8 h masters use randomized 63-second grains from valvalion's full rain track and Extemporalist's full flowing-water recording, with three-second equal-power overlaps, filtering, gain adjustment, occasional left/right swapping before spatial placement, and soft peak control. Bidgee's thunder is reused as four processed timing/pitch variations with sparse event scheduling. The scene fades to black after one hour in the eight-hour version while sound continues. No visual lightning is added.
+Visual environment lighting includes the "rainforest_trail" HDRI from Poly Haven (CC0): https://polyhaven.com/license

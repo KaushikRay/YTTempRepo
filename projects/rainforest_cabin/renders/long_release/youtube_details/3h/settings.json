@@ -1,0 +1,48 @@
+{
+  "version": "3h",
+  "title_options": [
+    "Cozy Rainforest Cabin in Heavy Rain | Gentle Thunder & Stream | 3 Hours",
+    "3 Hours of Rain at a Rainforest Cabin | Quiet Stream & Distant Thunder",
+    "Rainforest Cabin Rain Ambience | Cozy Porch, Flowing Water & Thunder | 3 Hours"
+  ],
+  "title_character_counts": [
+    71,
+    70,
+    78
+  ],
+  "description_character_count": 2295,
+  "tag_character_count": 245,
+  "settings": {
+    "Playlist": "Rain & Thunder Ambience (suggested; select or create your own)",
+    "Audience": "No, not made for kids",
+    "Age restriction": "No age restriction based on the content in these videos",
+    "Paid promotion": "No, unless you independently add a sponsorship or paid placement",
+    "Altered or synthetic content": "Yes \u2014 the realistic scene includes AI-generated imagery",
+    "Automatic chapters and key moments": "Off; use the supplied manual timestamps for the 8-hour version",
+    "Automatic places / concepts": "Off if offered; the cabin is a fictional scene",
+    "Video language": "No spoken dialogue; leave spoken-language field unset if available. Metadata is English.",
+    "Recording date and location": "Leave blank; no real-world filming location is claimed",
+    "License": "Standard YouTube License; retain the source attribution in each description",
+    "Allow embedding": "On",
+    "Shorts remixing": "Audio only if available; otherwise choose your preferred restriction",
+    "Category": "Entertainment",
+    "Comments": "On, with Basic moderation recommended",
+    "Monetization": "If eligible and monetized, turn automatic mid-rolls off and remove manual mid-roll slots for uninterrupted ambience. Do not claim No Ads; pre/post-roll ads may still occur.",
+    "Captions": "No dialogue captions needed",
+    "End screens and cards": "None recommended for these versions; use description links between versions",
+    "Copyright checks": "Review results before publishing. If a claim appears, inspect the claimant, segment and source license; keep attribution and license records. Do not assume every claim is invalid.",
+    "Visibility": "Private during upload, processing and final review; then publish or schedule manually",
+    "Schedule": "Choose the first publish date; a one-week gap between versions is a reasonable starting plan. Use Europe/Berlin when entering local dates/times; adjust to audience analytics."
+  },
+  "thumbnail": {
+    "recommended": "An actual scene frame with a clear warm cabin, wet palms and visible rain. Optional short text: RAINFOREST RAIN; small 3 HOURS badge.",
+    "AB_ideas": [
+      "Scene only, cabin as focal point",
+      "Closer cabin crop, small 3 HOURS badge",
+      "Wider porch composition with RAINFOREST RAIN text"
+    ]
+  },
+  "thumbnail_images_created_for_this_sheet": false,
+  "uploaded": false,
+  "scheduled": false
+}

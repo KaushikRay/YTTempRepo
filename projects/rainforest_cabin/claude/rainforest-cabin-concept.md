@@ -14,3 +14,7 @@ not connected to this chat; execution must be started by the user locally.
 Both versions and the approved scene/audio settings are already authorized.
 The kit provides a preview step before the full local build. Preserve the cloud
 masters and keep public changes scoped to the rainforest review branch.
+
+## YouTube metadata — 2026-10-29
+
+Prepared complete 3 h and 8 h descriptions with actual full-master source credits, title options, bounded tags, manual dark-screen timestamps, truthful synthetic-scene disclosure, Studio settings and thumbnail directions. The older long-release credit file mixed short-preview sources with master processing; it now lists the three recordings used in the full masters. No upload, thumbnail generation or schedule was performed.
